@@ -62,6 +62,12 @@ def yamlToCsvData(filename,outputDirectory):
 			
 			
 if __name__ == "__main__":
-	filename = sys.argv[1];
-	outputDirectory = sys.argv[2];
+
+	try:
+		filename = sys.argv[1];
+		outputDirectory = sys.argv[2];
+	except IndexError:
+		print("Usage: <python-command> <path-to-this-file> <absolute-path-to-yaml-file> <absolute-path-to-output-directory> ");
+		sys.exit(1);
+
 	yamlToCsvData(filename,outputDirectory);
