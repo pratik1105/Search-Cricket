@@ -7,7 +7,7 @@ Usage:\
 cd &lt;cloned-github-repo&gt;/Code/\
 python3 ./AllYamlToCsvData.py &lt;absolute-path-to-base-address-storing-all-yaml-files&gt; &lt;absolute-path-to-output-directory&gt;
 
-# Using the Yaml to Csv converted to convert a particular file
+# Using the Yaml to Csv converter to convert a particular file
 Usage:\
 cd &lt;cloned-github-repo&gt;/Code/\
 python3 ./yamlToCsvData.py &lt;absolute-path-to-yaml-file&gt; &lt;absolute-path-to-output-directory&gt;
