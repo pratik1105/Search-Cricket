@@ -1,0 +1,253 @@
+innings,ball,batsman,bowler,extras,non_striker,batsman_run,extras_run,total_run,wicket,fielders,wicket_kind,player_out
+1,0.1,AC Gilchrist,SL Malinga,NA,HH Gibbs,0,0,0,0,NA,NA,NA
+1,0.2,AC Gilchrist,SL Malinga,NA,HH Gibbs,0,0,0,0,NA,NA,NA
+1,0.3,AC Gilchrist,SL Malinga,NA,HH Gibbs,0,0,0,0,NA,NA,NA
+1,0.4,AC Gilchrist,SL Malinga,NA,HH Gibbs,0,0,0,0,NA,NA,NA
+1,0.5,AC Gilchrist,SL Malinga,NA,HH Gibbs,6,0,6,0,NA,NA,NA
+1,0.6,AC Gilchrist,SL Malinga,NA,HH Gibbs,0,0,0,0,NA,NA,NA
+1,1.1,HH Gibbs,Z Khan,NA,AC Gilchrist,0,0,0,0,NA,NA,NA
+1,1.2,HH Gibbs,Z Khan,NA,AC Gilchrist,4,0,4,0,NA,NA,NA
+1,1.3,HH Gibbs,Z Khan,NA,AC Gilchrist,0,0,0,0,NA,NA,NA
+1,1.4,HH Gibbs,Z Khan,NA,AC Gilchrist,1,0,1,0,NA,NA,NA
+1,1.5,AC Gilchrist,Z Khan,NA,HH Gibbs,0,0,0,0,NA,NA,NA
+1,1.6,AC Gilchrist,Z Khan,NA,HH Gibbs,4,0,4,0,NA,NA,NA
+1,2.1,HH Gibbs,SL Malinga,NA,AC Gilchrist,0,0,0,0,NA,NA,NA
+1,2.2,HH Gibbs,SL Malinga,NA,AC Gilchrist,0,0,0,0,NA,NA,NA
+1,2.3,HH Gibbs,SL Malinga,NA,AC Gilchrist,1,0,1,0,NA,NA,NA
+1,2.4,AC Gilchrist,SL Malinga,NA,HH Gibbs,4,0,4,0,NA,NA,NA
+1,2.5,AC Gilchrist,SL Malinga,NA,HH Gibbs,1,0,1,0,NA,NA,NA
+1,2.6,HH Gibbs,SL Malinga,1wides,AC Gilchrist,0,1,1,0,NA,NA,NA
+1,2.7,HH Gibbs,SL Malinga,NA,AC Gilchrist,0,0,0,0,NA,NA,NA
+1,3.1,AC Gilchrist,Z Khan,1wides,HH Gibbs,0,1,1,0,NA,NA,NA
+1,3.2,AC Gilchrist,Z Khan,1legbyes,HH Gibbs,0,1,1,0,NA,NA,NA
+1,3.3,HH Gibbs,Z Khan,NA,AC Gilchrist,4,0,4,0,NA,NA,NA
+1,3.4,HH Gibbs,Z Khan,NA,AC Gilchrist,1,0,1,0,NA,NA,NA
+1,3.5,AC Gilchrist,Z Khan,NA,HH Gibbs,0,0,0,0,NA,NA,NA
+1,3.6,AC Gilchrist,Z Khan,NA,HH Gibbs,6,0,6,0,NA,NA,NA
+1,3.7,AC Gilchrist,Z Khan,NA,HH Gibbs,1,0,1,0,NA,NA,NA
+1,4.1,AC Gilchrist,DJ Bravo,NA,HH Gibbs,1,0,1,0,NA,NA,NA
+1,4.2,HH Gibbs,DJ Bravo,NA,AC Gilchrist,0,0,0,0,NA,NA,NA
+1,4.3,HH Gibbs,DJ Bravo,NA,AC Gilchrist,0,0,0,0,NA,NA,NA
+1,4.4,HH Gibbs,DJ Bravo,NA,AC Gilchrist,2,0,2,0,NA,NA,NA
+1,4.5,HH Gibbs,DJ Bravo,NA,AC Gilchrist,4,0,4,0,NA,NA,NA
+1,4.6,HH Gibbs,DJ Bravo,1byes,AC Gilchrist,0,1,1,0,NA,NA,NA
+1,5.1,HH Gibbs,Harbhajan Singh,NA,AC Gilchrist,0,0,0,0,NA,NA,NA
+1,5.2,HH Gibbs,Harbhajan Singh,1wides,AC Gilchrist,0,1,1,0,NA,NA,NA
+1,5.3,HH Gibbs,Harbhajan Singh,NA,AC Gilchrist,1,0,1,0,NA,NA,NA
+1,5.4,AC Gilchrist,Harbhajan Singh,NA,HH Gibbs,4,0,4,0,NA,NA,NA
+1,5.5,AC Gilchrist,Harbhajan Singh,NA,HH Gibbs,1,0,1,0,NA,NA,NA
+1,5.6,HH Gibbs,Harbhajan Singh,NA,AC Gilchrist,4,0,4,0,NA,NA,NA
+1,5.7,HH Gibbs,Harbhajan Singh,NA,AC Gilchrist,0,0,0,0,NA,NA,NA
+1,6.1,AC Gilchrist,DJ Bravo,NA,HH Gibbs,6,0,6,0,NA,NA,NA
+1,6.2,AC Gilchrist,DJ Bravo,NA,HH Gibbs,1,0,1,0,NA,NA,NA
+1,6.3,HH Gibbs,DJ Bravo,NA,AC Gilchrist,0,0,0,0,NA,NA,NA
+1,6.4,HH Gibbs,DJ Bravo,NA,AC Gilchrist,1,0,1,0,NA,NA,NA
+1,6.5,AC Gilchrist,DJ Bravo,NA,HH Gibbs,0,0,0,1,PR Shah,caught,AC Gilchrist
+1,6.6,DR Smith,DJ Bravo,NA,HH Gibbs,4,0,4,0,NA,NA,NA
+1,7.1,HH Gibbs,ST Jayasuriya,NA,DR Smith,1,0,1,0,NA,NA,NA
+1,7.2,DR Smith,ST Jayasuriya,NA,HH Gibbs,0,0,0,0,NA,NA,NA
+1,7.3,DR Smith,ST Jayasuriya,NA,HH Gibbs,2,0,2,0,NA,NA,NA
+1,7.4,DR Smith,ST Jayasuriya,NA,HH Gibbs,1,0,1,0,NA,NA,NA
+1,7.5,HH Gibbs,ST Jayasuriya,NA,DR Smith,0,0,0,0,NA,NA,NA
+1,7.6,HH Gibbs,ST Jayasuriya,NA,DR Smith,1,0,1,0,NA,NA,NA
+1,8.1,HH Gibbs,Harbhajan Singh,NA,DR Smith,1,0,1,0,NA,NA,NA
+1,8.2,DR Smith,Harbhajan Singh,NA,HH Gibbs,0,0,0,0,NA,NA,NA
+1,8.3,DR Smith,Harbhajan Singh,NA,HH Gibbs,0,0,0,0,NA,NA,NA
+1,8.4,DR Smith,Harbhajan Singh,NA,HH Gibbs,1,0,1,0,NA,NA,NA
+1,8.5,HH Gibbs,Harbhajan Singh,NA,DR Smith,1,0,1,0,NA,NA,NA
+1,8.6,DR Smith,Harbhajan Singh,NA,HH Gibbs,1,0,1,0,NA,NA,NA
+1,9.1,DR Smith,ST Jayasuriya,NA,HH Gibbs,6,0,6,0,NA,NA,NA
+1,9.2,DR Smith,ST Jayasuriya,NA,HH Gibbs,0,0,0,0,NA,NA,NA
+1,9.3,DR Smith,ST Jayasuriya,NA,HH Gibbs,0,0,0,0,NA,NA,NA
+1,9.4,DR Smith,ST Jayasuriya,NA,HH Gibbs,1,0,1,0,NA,NA,NA
+1,9.5,HH Gibbs,ST Jayasuriya,NA,DR Smith,1,0,1,0,NA,NA,NA
+1,9.6,DR Smith,ST Jayasuriya,NA,HH Gibbs,4,0,4,0,NA,NA,NA
+1,10.1,HH Gibbs,Harbhajan Singh,NA,DR Smith,0,0,0,0,NA,NA,NA
+1,10.2,HH Gibbs,Harbhajan Singh,1legbyes,DR Smith,0,1,1,0,NA,NA,NA
+1,10.3,DR Smith,Harbhajan Singh,NA,HH Gibbs,1,0,1,0,NA,NA,NA
+1,10.4,HH Gibbs,Harbhajan Singh,NA,DR Smith,1,0,1,0,NA,NA,NA
+1,10.5,DR Smith,Harbhajan Singh,NA,HH Gibbs,2,0,2,0,NA,NA,NA
+1,10.6,DR Smith,Harbhajan Singh,NA,HH Gibbs,2,0,2,0,NA,NA,NA
+1,11.1,HH Gibbs,DS Kulkarni,NA,DR Smith,6,0,6,0,NA,NA,NA
+1,11.2,HH Gibbs,DS Kulkarni,NA,DR Smith,1,0,1,0,NA,NA,NA
+1,11.3,DR Smith,DS Kulkarni,NA,HH Gibbs,6,0,6,0,NA,NA,NA
+1,11.4,DR Smith,DS Kulkarni,NA,HH Gibbs,0,0,0,0,NA,NA,NA
+1,11.5,DR Smith,DS Kulkarni,NA,HH Gibbs,1,0,1,0,NA,NA,NA
+1,11.6,HH Gibbs,DS Kulkarni,NA,DR Smith,4,0,4,0,NA,NA,NA
+1,12.1,DR Smith,ST Jayasuriya,1wides,HH Gibbs,0,1,1,0,NA,NA,NA
+1,12.2,DR Smith,ST Jayasuriya,NA,HH Gibbs,2,0,2,0,NA,NA,NA
+1,12.3,DR Smith,ST Jayasuriya,NA,HH Gibbs,1,0,1,0,NA,NA,NA
+1,12.4,HH Gibbs,ST Jayasuriya,NA,DR Smith,6,0,6,0,NA,NA,NA
+1,12.5,HH Gibbs,ST Jayasuriya,NA,DR Smith,1,0,1,0,NA,NA,NA
+1,12.6,DR Smith,ST Jayasuriya,NA,HH Gibbs,0,0,0,1,NA,bowled,DR Smith
+1,12.7,RG Sharma,ST Jayasuriya,NA,HH Gibbs,1,0,1,0,NA,NA,NA
+1,13.1,RG Sharma,Z Khan,1legbyes,HH Gibbs,0,1,1,0,NA,NA,NA
+1,13.2,HH Gibbs,Z Khan,NA,RG Sharma,1,0,1,0,NA,NA,NA
+1,13.3,RG Sharma,Z Khan,NA,HH Gibbs,1,0,1,0,NA,NA,NA
+1,13.4,HH Gibbs,Z Khan,NA,RG Sharma,1,0,1,0,NA,NA,NA
+1,13.5,RG Sharma,Z Khan,NA,HH Gibbs,1,0,1,0,NA,NA,NA
+1,13.6,HH Gibbs,Z Khan,NA,RG Sharma,1,0,1,0,NA,NA,NA
+1,14.1,HH Gibbs,DJ Bravo,NA,RG Sharma,4,0,4,0,NA,NA,NA
+1,14.2,HH Gibbs,DJ Bravo,NA,RG Sharma,0,0,0,0,NA,NA,NA
+1,14.3,HH Gibbs,DJ Bravo,NA,RG Sharma,1,0,1,0,NA,NA,NA
+1,14.4,RG Sharma,DJ Bravo,NA,HH Gibbs,0,0,0,1,S Dhawan,caught,RG Sharma
+1,14.5,HH Gibbs,DJ Bravo,NA,VVS Laxman,1,0,1,0,NA,NA,NA
+1,14.6,VVS Laxman,DJ Bravo,NA,HH Gibbs,0,0,0,1,AM Nayar,caught,VVS Laxman
+1,15.1,Y Venugopal Rao,Z Khan,NA,HH Gibbs,1,0,1,0,NA,NA,NA
+1,15.2,HH Gibbs,Z Khan,NA,Y Venugopal Rao,1,0,1,0,NA,NA,NA
+1,15.3,Y Venugopal Rao,Z Khan,NA,HH Gibbs,1,0,1,0,NA,NA,NA
+1,15.4,HH Gibbs,Z Khan,NA,Y Venugopal Rao,1,0,1,1,DJ Bravo,run out,HH Gibbs
+1,15.5,Y Venugopal Rao,Z Khan,NA,DB Ravi Teja,0,0,0,0,NA,NA,NA
+1,15.6,Y Venugopal Rao,Z Khan,NA,DB Ravi Teja,1,0,1,0,NA,NA,NA
+1,16.1,Y Venugopal Rao,DJ Bravo,NA,DB Ravi Teja,1,0,1,0,NA,NA,NA
+1,16.2,DB Ravi Teja,DJ Bravo,NA,Y Venugopal Rao,1,0,1,0,NA,NA,NA
+1,16.3,Y Venugopal Rao,DJ Bravo,NA,DB Ravi Teja,0,0,0,0,NA,NA,NA
+1,16.4,Y Venugopal Rao,DJ Bravo,1wides,DB Ravi Teja,0,1,1,0,NA,NA,NA
+1,16.5,Y Venugopal Rao,DJ Bravo,NA,DB Ravi Teja,1,0,1,0,NA,NA,NA
+1,16.6,DB Ravi Teja,DJ Bravo,NA,Y Venugopal Rao,4,0,4,0,NA,NA,NA
+1,16.7,DB Ravi Teja,DJ Bravo,NA,Y Venugopal Rao,1,0,1,0,NA,NA,NA
+1,17.1,DB Ravi Teja,SL Malinga,NA,Y Venugopal Rao,1,0,1,0,NA,NA,NA
+1,17.2,Y Venugopal Rao,SL Malinga,NA,DB Ravi Teja,2,0,2,0,NA,NA,NA
+1,17.3,Y Venugopal Rao,SL Malinga,NA,DB Ravi Teja,2,0,2,0,NA,NA,NA
+1,17.4,Y Venugopal Rao,SL Malinga,NA,DB Ravi Teja,0,0,0,1,NA,bowled,Y Venugopal Rao
+1,17.5,RP Singh,SL Malinga,NA,DB Ravi Teja,1,0,1,0,NA,NA,NA
+1,17.6,DB Ravi Teja,SL Malinga,NA,RP Singh,0,0,0,0,NA,NA,NA
+1,18.1,RP Singh,Harbhajan Singh,NA,DB Ravi Teja,2,0,2,0,NA,NA,NA
+1,18.2,RP Singh,Harbhajan Singh,NA,DB Ravi Teja,1,0,1,0,NA,NA,NA
+1,18.3,DB Ravi Teja,Harbhajan Singh,NA,RP Singh,1,0,1,0,NA,NA,NA
+1,18.4,RP Singh,Harbhajan Singh,NA,DB Ravi Teja,0,0,0,1,ST Jayasuriya,caught,RP Singh
+1,18.5,DB Ravi Teja,Harbhajan Singh,NA,FH Edwards,1,0,1,0,NA,NA,NA
+1,18.6,FH Edwards,Harbhajan Singh,NA,DB Ravi Teja,1,0,1,0,NA,NA,NA
+1,19.1,FH Edwards,SL Malinga,NA,DB Ravi Teja,0,0,0,0,NA,NA,NA
+1,19.2,FH Edwards,SL Malinga,NA,DB Ravi Teja,0,0,0,1,NA,bowled,FH Edwards
+1,19.3,PP Ojha,SL Malinga,NA,DB Ravi Teja,0,0,0,0,NA,NA,NA
+1,19.4,PP Ojha,SL Malinga,1byes,DB Ravi Teja,0,1,1,0,NA,NA,NA
+1,19.5,DB Ravi Teja,SL Malinga,4legbyes,PP Ojha,0,4,4,0,NA,NA,NA
+1,19.6,DB Ravi Teja,SL Malinga,NA,PP Ojha,0,0,0,1,NA,lbw,DB Ravi Teja
+2,0.1,ST Jayasuriya,FH Edwards,NA,SR Tendulkar,0,0,0,0,NA,NA,NA
+2,0.2,ST Jayasuriya,FH Edwards,1wides,SR Tendulkar,0,1,1,0,NA,NA,NA
+2,0.3,ST Jayasuriya,FH Edwards,NA,SR Tendulkar,0,0,0,0,NA,NA,NA
+2,0.4,ST Jayasuriya,FH Edwards,NA,SR Tendulkar,0,0,0,0,NA,NA,NA
+2,0.5,ST Jayasuriya,FH Edwards,NA,SR Tendulkar,1,0,1,0,NA,NA,NA
+2,0.6,SR Tendulkar,FH Edwards,NA,ST Jayasuriya,1,0,1,0,NA,NA,NA
+2,0.7,ST Jayasuriya,FH Edwards,NA,SR Tendulkar,0,0,0,0,NA,NA,NA
+2,1.1,SR Tendulkar,RP Singh,NA,ST Jayasuriya,1,0,1,0,NA,NA,NA
+2,1.2,ST Jayasuriya,RP Singh,NA,SR Tendulkar,0,0,0,0,NA,NA,NA
+2,1.3,ST Jayasuriya,RP Singh,NA,SR Tendulkar,0,0,0,0,NA,NA,NA
+2,1.4,ST Jayasuriya,RP Singh,NA,SR Tendulkar,0,0,0,1,AC Gilchrist,caught,ST Jayasuriya
+2,1.5,SR Tendulkar,RP Singh,NA,JP Duminy,0,0,0,0,NA,NA,NA
+2,1.6,SR Tendulkar,RP Singh,NA,JP Duminy,0,0,0,0,NA,NA,NA
+2,2.1,JP Duminy,FH Edwards,1wides,SR Tendulkar,0,1,1,0,NA,NA,NA
+2,2.2,JP Duminy,FH Edwards,NA,SR Tendulkar,0,0,0,0,NA,NA,NA
+2,2.3,JP Duminy,FH Edwards,NA,SR Tendulkar,4,0,4,0,NA,NA,NA
+2,2.4,JP Duminy,FH Edwards,NA,SR Tendulkar,0,0,0,0,NA,NA,NA
+2,2.5,JP Duminy,FH Edwards,1wides,SR Tendulkar,0,1,1,0,NA,NA,NA
+2,2.6,JP Duminy,FH Edwards,NA,SR Tendulkar,0,0,0,0,NA,NA,NA
+2,2.7,JP Duminy,FH Edwards,NA,SR Tendulkar,1,0,1,0,NA,NA,NA
+2,2.8,SR Tendulkar,FH Edwards,NA,JP Duminy,1,0,1,0,NA,NA,NA
+2,3.1,SR Tendulkar,RP Singh,NA,JP Duminy,2,0,2,0,NA,NA,NA
+2,3.2,SR Tendulkar,RP Singh,NA,JP Duminy,1,0,1,0,NA,NA,NA
+2,3.3,JP Duminy,RP Singh,1legbyes,SR Tendulkar,0,1,1,0,NA,NA,NA
+2,3.4,SR Tendulkar,RP Singh,NA,JP Duminy,1,0,1,0,NA,NA,NA
+2,3.5,JP Duminy,RP Singh,NA,SR Tendulkar,0,0,0,0,NA,NA,NA
+2,3.6,JP Duminy,RP Singh,NA,SR Tendulkar,6,0,6,0,NA,NA,NA
+2,4.1,SR Tendulkar,Harmeet Singh,NA,JP Duminy,4,0,4,0,NA,NA,NA
+2,4.2,SR Tendulkar,Harmeet Singh,NA,JP Duminy,4,0,4,0,NA,NA,NA
+2,4.3,SR Tendulkar,Harmeet Singh,NA,JP Duminy,6,0,6,0,NA,NA,NA
+2,4.4,SR Tendulkar,Harmeet Singh,NA,JP Duminy,1,0,1,0,NA,NA,NA
+2,4.5,JP Duminy,Harmeet Singh,NA,SR Tendulkar,0,0,0,0,NA,NA,NA
+2,4.6,JP Duminy,Harmeet Singh,NA,SR Tendulkar,4,0,4,0,NA,NA,NA
+2,5.1,SR Tendulkar,RP Singh,NA,JP Duminy,0,0,0,0,NA,NA,NA
+2,5.2,SR Tendulkar,RP Singh,NA,JP Duminy,0,0,0,0,NA,NA,NA
+2,5.3,SR Tendulkar,RP Singh,1noballs,JP Duminy,1,1,2,0,NA,NA,NA
+2,5.4,JP Duminy,RP Singh,NA,SR Tendulkar,4,0,4,0,NA,NA,NA
+2,5.5,JP Duminy,RP Singh,1wides,SR Tendulkar,0,1,1,0,NA,NA,NA
+2,5.6,JP Duminy,RP Singh,NA,SR Tendulkar,0,0,0,0,NA,NA,NA
+2,5.7,JP Duminy,RP Singh,NA,SR Tendulkar,0,0,0,0,NA,NA,NA
+2,5.8,JP Duminy,RP Singh,1legbyes,SR Tendulkar,0,1,1,0,NA,NA,NA
+2,6.1,JP Duminy,DR Smith,NA,SR Tendulkar,1,0,1,0,NA,NA,NA
+2,6.2,SR Tendulkar,DR Smith,NA,JP Duminy,0,0,0,0,NA,NA,NA
+2,6.3,SR Tendulkar,DR Smith,NA,JP Duminy,4,0,4,0,NA,NA,NA
+2,6.4,SR Tendulkar,DR Smith,1legbyes,JP Duminy,0,1,1,0,NA,NA,NA
+2,6.5,JP Duminy,DR Smith,NA,SR Tendulkar,0,0,0,0,NA,NA,NA
+2,6.6,JP Duminy,DR Smith,NA,SR Tendulkar,1,0,1,0,NA,NA,NA
+2,7.1,JP Duminy,PP Ojha,NA,SR Tendulkar,1,0,1,0,NA,NA,NA
+2,7.2,SR Tendulkar,PP Ojha,1wides,JP Duminy,0,1,1,0,NA,NA,NA
+2,7.3,SR Tendulkar,PP Ojha,1legbyes,JP Duminy,0,1,1,0,NA,NA,NA
+2,7.4,JP Duminy,PP Ojha,NA,SR Tendulkar,0,0,0,0,NA,NA,NA
+2,7.5,JP Duminy,PP Ojha,NA,SR Tendulkar,0,0,0,0,NA,NA,NA
+2,7.6,JP Duminy,PP Ojha,NA,SR Tendulkar,1,0,1,0,NA,NA,NA
+2,7.7,SR Tendulkar,PP Ojha,NA,JP Duminy,6,0,6,0,NA,NA,NA
+2,8.1,JP Duminy,DR Smith,NA,SR Tendulkar,4,0,4,0,NA,NA,NA
+2,8.2,JP Duminy,DR Smith,NA,SR Tendulkar,0,0,0,0,NA,NA,NA
+2,8.3,JP Duminy,DR Smith,NA,SR Tendulkar,2,0,2,0,NA,NA,NA
+2,8.4,JP Duminy,DR Smith,NA,SR Tendulkar,1,0,1,0,NA,NA,NA
+2,8.5,SR Tendulkar,DR Smith,NA,JP Duminy,1,0,1,0,NA,NA,NA
+2,8.6,JP Duminy,DR Smith,NA,SR Tendulkar,1,0,1,0,NA,NA,NA
+2,9.1,JP Duminy,RG Sharma,NA,SR Tendulkar,0,0,0,0,NA,NA,NA
+2,9.2,JP Duminy,RG Sharma,NA,SR Tendulkar,0,0,0,0,NA,NA,NA
+2,9.3,JP Duminy,RG Sharma,NA,SR Tendulkar,6,0,6,0,NA,NA,NA
+2,9.4,JP Duminy,RG Sharma,NA,SR Tendulkar,1,0,1,0,NA,NA,NA
+2,9.5,SR Tendulkar,RG Sharma,NA,JP Duminy,0,0,0,0,NA,NA,NA
+2,9.6,SR Tendulkar,RG Sharma,NA,JP Duminy,1,0,1,0,NA,NA,NA
+2,10.1,SR Tendulkar,PP Ojha,NA,JP Duminy,0,0,0,0,NA,NA,NA
+2,10.2,SR Tendulkar,PP Ojha,NA,JP Duminy,1,0,1,0,NA,NA,NA
+2,10.3,JP Duminy,PP Ojha,NA,SR Tendulkar,1,0,1,0,NA,NA,NA
+2,10.4,SR Tendulkar,PP Ojha,NA,JP Duminy,0,0,0,0,NA,NA,NA
+2,10.5,SR Tendulkar,PP Ojha,NA,JP Duminy,0,0,0,1,HH Gibbs,caught,SR Tendulkar
+2,10.6,S Dhawan,PP Ojha,NA,JP Duminy,0,0,0,0,NA,NA,NA
+2,11.1,JP Duminy,Y Venugopal Rao,NA,S Dhawan,1,0,1,0,NA,NA,NA
+2,11.2,S Dhawan,Y Venugopal Rao,NA,JP Duminy,0,0,0,0,NA,NA,NA
+2,11.3,S Dhawan,Y Venugopal Rao,NA,JP Duminy,1,0,1,0,NA,NA,NA
+2,11.4,JP Duminy,Y Venugopal Rao,NA,S Dhawan,1,0,1,0,NA,NA,NA
+2,11.5,S Dhawan,Y Venugopal Rao,NA,JP Duminy,0,0,0,0,NA,NA,NA
+2,11.6,S Dhawan,Y Venugopal Rao,NA,JP Duminy,1,0,1,0,NA,NA,NA
+2,12.1,S Dhawan,PP Ojha,NA,JP Duminy,1,0,1,0,NA,NA,NA
+2,12.2,JP Duminy,PP Ojha,NA,S Dhawan,1,0,1,0,NA,NA,NA
+2,12.3,S Dhawan,PP Ojha,NA,JP Duminy,0,0,0,1,NA,bowled,S Dhawan
+2,12.4,DJ Bravo,PP Ojha,NA,JP Duminy,2,0,2,0,NA,NA,NA
+2,12.5,DJ Bravo,PP Ojha,NA,JP Duminy,1,0,1,0,NA,NA,NA
+2,12.6,JP Duminy,PP Ojha,NA,DJ Bravo,1,0,1,0,NA,NA,NA
+2,13.1,JP Duminy,Y Venugopal Rao,NA,DJ Bravo,1,0,1,0,NA,NA,NA
+2,13.2,DJ Bravo,Y Venugopal Rao,1legbyes,JP Duminy,0,1,1,0,NA,NA,NA
+2,13.3,JP Duminy,Y Venugopal Rao,NA,DJ Bravo,1,0,1,0,NA,NA,NA
+2,13.4,DJ Bravo,Y Venugopal Rao,NA,JP Duminy,2,0,2,0,NA,NA,NA
+2,13.5,DJ Bravo,Y Venugopal Rao,NA,JP Duminy,1,0,1,0,NA,NA,NA
+2,13.6,JP Duminy,Y Venugopal Rao,NA,DJ Bravo,1,0,1,0,NA,NA,NA
+2,14.1,JP Duminy,PP Ojha,NA,DJ Bravo,1,0,1,0,NA,NA,NA
+2,14.2,DJ Bravo,PP Ojha,1legbyes,JP Duminy,0,1,1,0,NA,NA,NA
+2,14.3,JP Duminy,PP Ojha,NA,DJ Bravo,0,0,0,1,DR Smith,caught,JP Duminy
+2,14.4,DJ Bravo,PP Ojha,NA,AM Nayar,1,0,1,0,NA,NA,NA
+2,14.5,AM Nayar,PP Ojha,NA,DJ Bravo,1,0,1,0,NA,NA,NA
+2,14.6,DJ Bravo,PP Ojha,NA,AM Nayar,1,0,1,0,NA,NA,NA
+2,15.1,DJ Bravo,Y Venugopal Rao,NA,AM Nayar,1,0,1,0,NA,NA,NA
+2,15.2,AM Nayar,Y Venugopal Rao,NA,DJ Bravo,6,0,6,0,NA,NA,NA
+2,15.3,AM Nayar,Y Venugopal Rao,NA,DJ Bravo,0,0,0,0,NA,NA,NA
+2,15.4,AM Nayar,Y Venugopal Rao,NA,DJ Bravo,2,0,2,0,NA,NA,NA
+2,15.5,AM Nayar,Y Venugopal Rao,NA,DJ Bravo,1,0,1,0,NA,NA,NA
+2,15.6,DJ Bravo,Y Venugopal Rao,NA,AM Nayar,1,0,1,0,NA,NA,NA
+2,16.1,DJ Bravo,FH Edwards,NA,AM Nayar,1,0,1,0,NA,NA,NA
+2,16.2,AM Nayar,FH Edwards,NA,DJ Bravo,0,0,0,1,AC Gilchrist,caught,AM Nayar
+2,16.3,Harbhajan Singh,FH Edwards,NA,DJ Bravo,4,0,4,0,NA,NA,NA
+2,16.4,Harbhajan Singh,FH Edwards,1wides,DJ Bravo,0,1,1,0,NA,NA,NA
+2,16.5,Harbhajan Singh,FH Edwards,NA,DJ Bravo,1,0,1,0,NA,NA,NA
+2,16.6,DJ Bravo,FH Edwards,NA,Harbhajan Singh,4,0,4,0,NA,NA,NA
+2,16.7,DJ Bravo,FH Edwards,NA,Harbhajan Singh,1,0,1,0,NA,NA,NA
+2,17.1,DJ Bravo,Y Venugopal Rao,NA,Harbhajan Singh,1,0,1,0,NA,NA,NA
+2,17.2,Harbhajan Singh,Y Venugopal Rao,NA,DJ Bravo,6,0,6,0,NA,NA,NA
+2,17.3,Harbhajan Singh,Y Venugopal Rao,NA,DJ Bravo,1,0,1,0,NA,NA,NA
+2,17.4,DJ Bravo,Y Venugopal Rao,NA,Harbhajan Singh,0,0,0,0,NA,NA,NA
+2,17.5,DJ Bravo,Y Venugopal Rao,NA,Harbhajan Singh,4,0,4,0,NA,NA,NA
+2,17.6,DJ Bravo,Y Venugopal Rao,NA,Harbhajan Singh,0,0,0,0,NA,NA,NA
+2,18.1,Harbhajan Singh,FH Edwards,NA,DJ Bravo,1,0,1,0,NA,NA,NA
+2,18.2,DJ Bravo,FH Edwards,NA,Harbhajan Singh,0,0,0,1,NA,lbw,DJ Bravo
+2,18.3,Z Khan,FH Edwards,NA,Harbhajan Singh,1,0,1,0,NA,NA,NA
+2,18.4,Harbhajan Singh,FH Edwards,NA,Z Khan,1,0,1,0,NA,NA,NA
+2,18.5,Z Khan,FH Edwards,NA,Harbhajan Singh,0,0,0,0,NA,NA,NA
+2,18.6,Z Khan,FH Edwards,NA,Harbhajan Singh,1,0,1,0,NA,NA,NA
+2,19.1,Z Khan,RP Singh,NA,Harbhajan Singh,1,0,1,0,NA,NA,NA
+2,19.2,Harbhajan Singh,RP Singh,NA,Z Khan,6,0,6,0,NA,NA,NA
+2,19.3,Harbhajan Singh,RP Singh,NA,Z Khan,0,0,0,1,DR Smith,caught,Harbhajan Singh
+2,19.4,Z Khan,RP Singh,NA,PR Shah,0,0,0,0,NA,NA,NA
+2,19.5,Z Khan,RP Singh,NA,PR Shah,1,0,1,0,NA,NA,NA
+2,19.6,PR Shah,RP Singh,NA,Z Khan,1,0,1,0,NA,NA,NA

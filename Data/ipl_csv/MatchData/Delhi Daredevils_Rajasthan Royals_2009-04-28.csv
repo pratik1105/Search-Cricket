@@ -1,0 +1,241 @@
+innings,ball,batsman,bowler,extras,non_striker,batsman_run,extras_run,total_run,wicket,fielders,wicket_kind,player_out
+1,0.1,G Gambhir,AD Mascarenhas,NA,V Sehwag,0,0,0,0,NA,NA,NA
+1,0.2,G Gambhir,AD Mascarenhas,NA,V Sehwag,1,0,1,0,NA,NA,NA
+1,0.3,V Sehwag,AD Mascarenhas,NA,G Gambhir,6,0,6,0,NA,NA,NA
+1,0.4,V Sehwag,AD Mascarenhas,NA,G Gambhir,0,0,0,0,NA,NA,NA
+1,0.5,V Sehwag,AD Mascarenhas,NA,G Gambhir,0,0,0,0,NA,NA,NA
+1,0.6,V Sehwag,AD Mascarenhas,NA,G Gambhir,0,0,0,0,NA,NA,NA
+1,1.1,G Gambhir,Kamran Khan,NA,V Sehwag,2,0,2,0,NA,NA,NA
+1,1.2,G Gambhir,Kamran Khan,NA,V Sehwag,1,0,1,0,NA,NA,NA
+1,1.3,V Sehwag,Kamran Khan,NA,G Gambhir,0,0,0,0,NA,NA,NA
+1,1.4,V Sehwag,Kamran Khan,NA,G Gambhir,0,0,0,0,NA,NA,NA
+1,1.5,V Sehwag,Kamran Khan,NA,G Gambhir,1,0,1,0,NA,NA,NA
+1,1.6,G Gambhir,Kamran Khan,NA,V Sehwag,4,0,4,0,NA,NA,NA
+1,2.1,V Sehwag,AD Mascarenhas,NA,G Gambhir,4,0,4,0,NA,NA,NA
+1,2.2,V Sehwag,AD Mascarenhas,NA,G Gambhir,1,0,1,0,NA,NA,NA
+1,2.3,G Gambhir,AD Mascarenhas,NA,V Sehwag,0,0,0,1,SK Warne,caught,G Gambhir
+1,2.4,AB de Villiers,AD Mascarenhas,NA,V Sehwag,1,0,1,0,NA,NA,NA
+1,2.5,V Sehwag,AD Mascarenhas,NA,AB de Villiers,4,0,4,0,NA,NA,NA
+1,2.6,V Sehwag,AD Mascarenhas,NA,AB de Villiers,0,0,0,1,Kamran Khan,caught,V Sehwag
+1,3.1,TM Dilshan,Kamran Khan,NA,AB de Villiers,1,0,1,0,NA,NA,NA
+1,3.2,AB de Villiers,Kamran Khan,NA,TM Dilshan,0,0,0,0,NA,NA,NA
+1,3.3,AB de Villiers,Kamran Khan,NA,TM Dilshan,0,0,0,0,NA,NA,NA
+1,3.4,AB de Villiers,Kamran Khan,NA,TM Dilshan,0,0,0,0,NA,NA,NA
+1,3.5,AB de Villiers,Kamran Khan,NA,TM Dilshan,0,0,0,0,NA,NA,NA
+1,3.6,AB de Villiers,Kamran Khan,1wides,TM Dilshan,0,1,1,0,NA,NA,NA
+1,3.7,AB de Villiers,Kamran Khan,NA,TM Dilshan,4,0,4,0,NA,NA,NA
+1,4.1,TM Dilshan,AD Mascarenhas,NA,AB de Villiers,0,0,0,0,NA,NA,NA
+1,4.2,TM Dilshan,AD Mascarenhas,NA,AB de Villiers,0,0,0,0,NA,NA,NA
+1,4.3,TM Dilshan,AD Mascarenhas,NA,AB de Villiers,0,0,0,0,NA,NA,NA
+1,4.4,TM Dilshan,AD Mascarenhas,NA,AB de Villiers,4,0,4,0,NA,NA,NA
+1,4.5,TM Dilshan,AD Mascarenhas,NA,AB de Villiers,1,0,1,0,NA,NA,NA
+1,4.6,AB de Villiers,AD Mascarenhas,NA,TM Dilshan,0,0,0,0,NA,NA,NA
+1,5.1,TM Dilshan,MM Patel,NA,AB de Villiers,0,0,0,0,NA,NA,NA
+1,5.2,TM Dilshan,MM Patel,NA,AB de Villiers,1,0,1,0,NA,NA,NA
+1,5.3,AB de Villiers,MM Patel,NA,TM Dilshan,1,0,1,0,NA,NA,NA
+1,5.4,TM Dilshan,MM Patel,NA,AB de Villiers,0,0,0,0,NA,NA,NA
+1,5.5,TM Dilshan,MM Patel,NA,AB de Villiers,0,0,0,1,SA Asnodkar,caught,TM Dilshan
+1,5.6,AB de Villiers,MM Patel,NA,KD Karthik,4,0,4,0,NA,NA,NA
+1,6.1,KD Karthik,AD Mascarenhas,NA,AB de Villiers,1,0,1,0,NA,NA,NA
+1,6.2,AB de Villiers,AD Mascarenhas,NA,KD Karthik,1,0,1,0,NA,NA,NA
+1,6.3,KD Karthik,AD Mascarenhas,NA,AB de Villiers,1,0,1,0,NA,NA,NA
+1,6.4,AB de Villiers,AD Mascarenhas,NA,KD Karthik,1,0,1,0,NA,NA,NA
+1,6.5,KD Karthik,AD Mascarenhas,NA,AB de Villiers,2,0,2,0,NA,NA,NA
+1,6.6,KD Karthik,AD Mascarenhas,NA,AB de Villiers,0,0,0,0,NA,NA,NA
+1,7.1,AB de Villiers,SK Warne,NA,KD Karthik,1,0,1,0,NA,NA,NA
+1,7.2,KD Karthik,SK Warne,NA,AB de Villiers,0,0,0,1,NA,caught and bowled,KD Karthik
+1,7.3,DL Vettori,SK Warne,NA,AB de Villiers,1,0,1,0,NA,NA,NA
+1,7.4,AB de Villiers,SK Warne,NA,DL Vettori,1,0,1,0,NA,NA,NA
+1,7.5,DL Vettori,SK Warne,NA,AB de Villiers,1,0,1,0,NA,NA,NA
+1,7.6,AB de Villiers,SK Warne,NA,DL Vettori,4,0,4,0,NA,NA,NA
+1,8.1,DL Vettori,MM Patel,NA,AB de Villiers,1,0,1,0,NA,NA,NA
+1,8.2,AB de Villiers,MM Patel,NA,DL Vettori,1,0,1,0,NA,NA,NA
+1,8.3,DL Vettori,MM Patel,NA,AB de Villiers,1,0,1,0,NA,NA,NA
+1,8.4,AB de Villiers,MM Patel,NA,DL Vettori,1,0,1,0,NA,NA,NA
+1,8.5,DL Vettori,MM Patel,NA,AB de Villiers,0,0,0,0,NA,NA,NA
+1,8.6,DL Vettori,MM Patel,1noballs,AB de Villiers,0,1,1,0,NA,NA,NA
+1,8.7,DL Vettori,MM Patel,NA,AB de Villiers,0,0,0,0,NA,NA,NA
+1,9.1,AB de Villiers,SK Warne,NA,DL Vettori,1,0,1,0,NA,NA,NA
+1,9.2,DL Vettori,SK Warne,NA,AB de Villiers,1,0,1,0,NA,NA,NA
+1,9.3,AB de Villiers,SK Warne,NA,DL Vettori,2,0,2,0,NA,NA,NA
+1,9.4,AB de Villiers,SK Warne,NA,DL Vettori,0,0,0,0,NA,NA,NA
+1,9.5,AB de Villiers,SK Warne,NA,DL Vettori,0,0,0,0,NA,NA,NA
+1,9.6,AB de Villiers,SK Warne,NA,DL Vettori,1,0,1,0,NA,NA,NA
+1,10.1,AB de Villiers,MM Patel,NA,DL Vettori,1,0,1,0,NA,NA,NA
+1,10.2,DL Vettori,MM Patel,NA,AB de Villiers,0,0,0,0,NA,NA,NA
+1,10.3,DL Vettori,MM Patel,NA,AB de Villiers,1,0,1,0,NA,NA,NA
+1,10.4,AB de Villiers,MM Patel,NA,DL Vettori,0,0,0,0,NA,NA,NA
+1,10.5,AB de Villiers,MM Patel,NA,DL Vettori,0,0,0,0,NA,NA,NA
+1,10.6,AB de Villiers,MM Patel,NA,DL Vettori,1,0,1,0,NA,NA,NA
+1,11.1,AB de Villiers,RA Jadeja,NA,DL Vettori,1,0,1,0,NA,NA,NA
+1,11.2,DL Vettori,RA Jadeja,NA,AB de Villiers,4,0,4,0,NA,NA,NA
+1,11.3,DL Vettori,RA Jadeja,NA,AB de Villiers,1,0,1,0,NA,NA,NA
+1,11.4,AB de Villiers,RA Jadeja,NA,DL Vettori,4,0,4,0,NA,NA,NA
+1,11.5,AB de Villiers,RA Jadeja,NA,DL Vettori,2,0,2,0,NA,NA,NA
+1,11.6,AB de Villiers,RA Jadeja,NA,DL Vettori,1,0,1,0,NA,NA,NA
+1,12.1,AB de Villiers,YK Pathan,NA,DL Vettori,6,0,6,0,NA,NA,NA
+1,12.2,AB de Villiers,YK Pathan,NA,DL Vettori,1,0,1,0,NA,NA,NA
+1,12.3,DL Vettori,YK Pathan,NA,AB de Villiers,2,0,2,0,NA,NA,NA
+1,12.4,DL Vettori,YK Pathan,NA,AB de Villiers,1,0,1,0,NA,NA,NA
+1,12.5,AB de Villiers,YK Pathan,NA,DL Vettori,1,0,1,0,NA,NA,NA
+1,12.6,DL Vettori,YK Pathan,1legbyes,AB de Villiers,0,1,1,0,NA,NA,NA
+1,13.1,DL Vettori,RA Jadeja,NA,AB de Villiers,1,0,1,0,NA,NA,NA
+1,13.2,AB de Villiers,RA Jadeja,NA,DL Vettori,1,0,1,0,NA,NA,NA
+1,13.3,DL Vettori,RA Jadeja,NA,AB de Villiers,1,0,1,0,NA,NA,NA
+1,13.4,AB de Villiers,RA Jadeja,NA,DL Vettori,0,0,0,0,NA,NA,NA
+1,13.5,AB de Villiers,RA Jadeja,NA,DL Vettori,0,0,0,0,NA,NA,NA
+1,13.6,AB de Villiers,RA Jadeja,NA,DL Vettori,1,0,1,0,NA,NA,NA
+1,14.1,AB de Villiers,YK Pathan,NA,DL Vettori,1,0,1,0,NA,NA,NA
+1,14.2,DL Vettori,YK Pathan,NA,AB de Villiers,0,0,0,0,NA,NA,NA
+1,14.3,DL Vettori,YK Pathan,NA,AB de Villiers,0,0,0,0,NA,NA,NA
+1,14.4,DL Vettori,YK Pathan,NA,AB de Villiers,0,0,0,0,NA,NA,NA
+1,14.5,DL Vettori,YK Pathan,NA,AB de Villiers,1,0,1,0,NA,NA,NA
+1,14.6,AB de Villiers,YK Pathan,NA,DL Vettori,1,0,1,0,NA,NA,NA
+1,15.1,AB de Villiers,SK Warne,NA,DL Vettori,4,0,4,0,NA,NA,NA
+1,15.2,AB de Villiers,SK Warne,NA,DL Vettori,0,0,0,1,NA,lbw,AB de Villiers
+1,15.3,M Manhas,SK Warne,NA,DL Vettori,0,0,0,0,NA,NA,NA
+1,15.4,M Manhas,SK Warne,NA,DL Vettori,2,0,2,0,NA,NA,NA
+1,15.5,M Manhas,SK Warne,NA,DL Vettori,0,0,0,0,NA,NA,NA
+1,15.6,M Manhas,SK Warne,NA,DL Vettori,1,0,1,0,NA,NA,NA
+1,16.1,M Manhas,Kamran Khan,NA,DL Vettori,1,0,1,0,NA,NA,NA
+1,16.2,DL Vettori,Kamran Khan,NA,M Manhas,1,0,1,0,NA,NA,NA
+1,16.3,M Manhas,Kamran Khan,NA,DL Vettori,1,0,1,0,NA,NA,NA
+1,16.4,DL Vettori,Kamran Khan,NA,M Manhas,4,0,4,0,NA,NA,NA
+1,16.5,DL Vettori,Kamran Khan,NA,M Manhas,4,0,4,0,NA,NA,NA
+1,16.6,DL Vettori,Kamran Khan,NA,M Manhas,2,0,2,0,NA,NA,NA
+1,17.1,M Manhas,SK Warne,NA,DL Vettori,6,0,6,0,NA,NA,NA
+1,17.2,M Manhas,SK Warne,NA,DL Vettori,4,0,4,0,NA,NA,NA
+1,17.3,M Manhas,SK Warne,NA,DL Vettori,1,0,1,0,NA,NA,NA
+1,17.4,DL Vettori,SK Warne,NA,M Manhas,1,0,1,0,NA,NA,NA
+1,17.5,M Manhas,SK Warne,NA,DL Vettori,0,0,0,0,NA,NA,NA
+1,17.6,M Manhas,SK Warne,NA,DL Vettori,0,0,0,0,NA,NA,NA
+1,18.1,DL Vettori,MM Patel,1legbyes,M Manhas,0,1,1,0,NA,NA,NA
+1,18.2,M Manhas,MM Patel,1legbyes,DL Vettori,0,1,1,0,NA,NA,NA
+1,18.3,DL Vettori,MM Patel,NA,M Manhas,0,0,0,1,NA,bowled,DL Vettori
+1,18.4,A Mishra,MM Patel,NA,M Manhas,0,0,0,0,NA,NA,NA
+1,18.5,A Mishra,MM Patel,NA,M Manhas,0,0,0,0,NA,NA,NA
+1,18.6,A Mishra,MM Patel,NA,M Manhas,0,0,0,0,NA,NA,NA
+1,19.1,M Manhas,Kamran Khan,NA,A Mishra,4,0,4,0,NA,NA,NA
+1,19.2,M Manhas,Kamran Khan,NA,A Mishra,0,0,0,0,NA,NA,NA
+1,19.3,M Manhas,Kamran Khan,NA,A Mishra,2,0,2,0,NA,NA,NA
+1,19.4,M Manhas,Kamran Khan,NA,A Mishra,1,0,1,0,NA,NA,NA
+1,19.5,A Mishra,Kamran Khan,NA,M Manhas,0,0,0,1,NA,bowled,A Mishra
+1,19.6,PJ Sangwan,Kamran Khan,NA,M Manhas,1,0,1,0,NA,NA,NA
+2,0.1,RJ Quiney,DP Nannes,NA,GC Smith,0,0,0,0,NA,NA,NA
+2,0.2,RJ Quiney,DP Nannes,1wides,GC Smith,0,1,1,0,NA,NA,NA
+2,0.3,RJ Quiney,DP Nannes,NA,GC Smith,0,0,0,0,NA,NA,NA
+2,0.4,RJ Quiney,DP Nannes,1wides,GC Smith,0,1,1,0,NA,NA,NA
+2,0.5,RJ Quiney,DP Nannes,NA,GC Smith,4,0,4,0,NA,NA,NA
+2,0.6,RJ Quiney,DP Nannes,NA,GC Smith,0,0,0,0,NA,NA,NA
+2,0.7,RJ Quiney,DP Nannes,NA,GC Smith,0,0,0,0,NA,NA,NA
+2,0.8,RJ Quiney,DP Nannes,NA,GC Smith,0,0,0,0,NA,NA,NA
+2,1.1,GC Smith,A Nehra,NA,RJ Quiney,0,0,0,0,NA,NA,NA
+2,1.2,GC Smith,A Nehra,NA,RJ Quiney,0,0,0,0,NA,NA,NA
+2,1.3,GC Smith,A Nehra,1wides,RJ Quiney,0,1,1,0,NA,NA,NA
+2,1.4,GC Smith,A Nehra,NA,RJ Quiney,0,0,0,0,NA,NA,NA
+2,1.5,GC Smith,A Nehra,NA,RJ Quiney,4,0,4,0,NA,NA,NA
+2,1.6,GC Smith,A Nehra,NA,RJ Quiney,0,0,0,0,NA,NA,NA
+2,1.7,GC Smith,A Nehra,NA,RJ Quiney,1,0,1,0,NA,NA,NA
+2,2.1,GC Smith,DP Nannes,NA,RJ Quiney,4,0,4,0,NA,NA,NA
+2,2.2,GC Smith,DP Nannes,NA,RJ Quiney,0,0,0,0,NA,NA,NA
+2,2.3,GC Smith,DP Nannes,NA,RJ Quiney,4,0,4,0,NA,NA,NA
+2,2.4,GC Smith,DP Nannes,NA,RJ Quiney,0,0,0,0,NA,NA,NA
+2,2.5,GC Smith,DP Nannes,NA,RJ Quiney,0,0,0,0,NA,NA,NA
+2,2.6,GC Smith,DP Nannes,NA,RJ Quiney,0,0,0,0,NA,NA,NA
+2,3.1,RJ Quiney,A Nehra,NA,GC Smith,0,0,0,0,NA,NA,NA
+2,3.2,RJ Quiney,A Nehra,NA,GC Smith,0,0,0,0,NA,NA,NA
+2,3.3,RJ Quiney,A Nehra,NA,GC Smith,0,0,0,1,NA,lbw,RJ Quiney
+2,3.4,SA Asnodkar,A Nehra,NA,GC Smith,0,0,0,0,NA,NA,NA
+2,3.5,SA Asnodkar,A Nehra,NA,GC Smith,0,0,0,0,NA,NA,NA
+2,3.6,SA Asnodkar,A Nehra,NA,GC Smith,1,0,1,0,NA,NA,NA
+2,4.1,SA Asnodkar,PJ Sangwan,NA,GC Smith,4,0,4,0,NA,NA,NA
+2,4.2,SA Asnodkar,PJ Sangwan,NA,GC Smith,0,0,0,0,NA,NA,NA
+2,4.3,SA Asnodkar,PJ Sangwan,NA,GC Smith,0,0,0,0,NA,NA,NA
+2,4.4,SA Asnodkar,PJ Sangwan,NA,GC Smith,6,0,6,0,NA,NA,NA
+2,4.5,SA Asnodkar,PJ Sangwan,NA,GC Smith,0,0,0,1,A Mishra,run out,SA Asnodkar
+2,4.6,GC Smith,PJ Sangwan,NA,PC Valthaty,0,0,0,0,NA,NA,NA
+2,5.1,PC Valthaty,A Nehra,NA,GC Smith,0,0,0,0,NA,NA,NA
+2,5.2,PC Valthaty,A Nehra,NA,GC Smith,0,0,0,0,NA,NA,NA
+2,5.3,PC Valthaty,A Nehra,NA,GC Smith,0,0,0,0,NA,NA,NA
+2,5.4,PC Valthaty,A Nehra,NA,GC Smith,1,0,1,0,NA,NA,NA
+2,5.5,GC Smith,A Nehra,NA,PC Valthaty,0,0,0,0,NA,NA,NA
+2,5.6,GC Smith,A Nehra,NA,PC Valthaty,1,0,1,0,NA,NA,NA
+2,6.1,GC Smith,A Mishra,NA,PC Valthaty,0,0,0,0,NA,NA,NA
+2,6.2,GC Smith,A Mishra,NA,PC Valthaty,0,0,0,0,NA,NA,NA
+2,6.3,GC Smith,A Mishra,NA,PC Valthaty,1,0,1,0,NA,NA,NA
+2,6.4,PC Valthaty,A Mishra,NA,GC Smith,0,0,0,1,DL Vettori,caught,PC Valthaty
+2,6.5,GC Smith,A Mishra,NA,RA Jadeja,1,0,1,0,NA,NA,NA
+2,6.6,RA Jadeja,A Mishra,NA,GC Smith,1,0,1,0,NA,NA,NA
+2,7.1,RA Jadeja,PJ Sangwan,NA,GC Smith,1,0,1,0,NA,NA,NA
+2,7.2,GC Smith,PJ Sangwan,1wides,RA Jadeja,0,1,1,0,NA,NA,NA
+2,7.3,GC Smith,PJ Sangwan,NA,RA Jadeja,1,0,1,0,NA,NA,NA
+2,7.4,RA Jadeja,PJ Sangwan,NA,GC Smith,4,0,4,0,NA,NA,NA
+2,7.5,RA Jadeja,PJ Sangwan,1wides,GC Smith,0,1,1,0,NA,NA,NA
+2,7.6,RA Jadeja,PJ Sangwan,NA,GC Smith,1,0,1,0,NA,NA,NA
+2,7.7,GC Smith,PJ Sangwan,NA,RA Jadeja,1,0,1,0,NA,NA,NA
+2,7.8,RA Jadeja,PJ Sangwan,NA,GC Smith,1,0,1,0,NA,NA,NA
+2,8.1,RA Jadeja,A Mishra,NA,GC Smith,2,0,2,0,NA,NA,NA
+2,8.2,RA Jadeja,A Mishra,NA,GC Smith,1,0,1,0,NA,NA,NA
+2,8.3,GC Smith,A Mishra,NA,RA Jadeja,0,0,0,0,NA,NA,NA
+2,8.4,GC Smith,A Mishra,NA,RA Jadeja,1,0,1,0,NA,NA,NA
+2,8.5,RA Jadeja,A Mishra,NA,GC Smith,1,0,1,0,NA,NA,NA
+2,8.6,GC Smith,A Mishra,NA,RA Jadeja,4,0,4,0,NA,NA,NA
+2,9.1,RA Jadeja,TM Dilshan,NA,GC Smith,1,0,1,0,NA,NA,NA
+2,9.2,GC Smith,TM Dilshan,NA,RA Jadeja,0,0,0,0,NA,NA,NA
+2,9.3,GC Smith,TM Dilshan,NA,RA Jadeja,1,0,1,0,NA,NA,NA
+2,9.4,RA Jadeja,TM Dilshan,NA,GC Smith,1,0,1,0,NA,NA,NA
+2,9.5,GC Smith,TM Dilshan,NA,RA Jadeja,1,0,1,0,NA,NA,NA
+2,9.6,RA Jadeja,TM Dilshan,NA,GC Smith,0,0,0,0,NA,NA,NA
+2,10.1,GC Smith,A Mishra,NA,RA Jadeja,1,0,1,0,NA,NA,NA
+2,10.2,RA Jadeja,A Mishra,NA,GC Smith,2,0,2,0,NA,NA,NA
+2,10.3,RA Jadeja,A Mishra,NA,GC Smith,0,0,0,1,PJ Sangwan,caught,RA Jadeja
+2,10.4,GC Smith,A Mishra,NA,SK Warne,1,0,1,0,NA,NA,NA
+2,10.5,SK Warne,A Mishra,NA,GC Smith,0,0,0,0,NA,NA,NA
+2,10.6,SK Warne,A Mishra,NA,GC Smith,0,0,0,1,KD Karthik,stumped,SK Warne
+2,10.7,YK Pathan,A Mishra,NA,GC Smith,0,0,0,0,NA,NA,NA
+2,11.1,GC Smith,PJ Sangwan,NA,YK Pathan,1,0,1,0,NA,NA,NA
+2,11.2,YK Pathan,PJ Sangwan,NA,GC Smith,0,0,0,0,NA,NA,NA
+2,11.3,YK Pathan,PJ Sangwan,NA,GC Smith,1,0,1,0,NA,NA,NA
+2,11.4,GC Smith,PJ Sangwan,NA,YK Pathan,0,0,0,0,NA,NA,NA
+2,11.5,GC Smith,PJ Sangwan,NA,YK Pathan,1,0,1,0,NA,NA,NA
+2,11.6,YK Pathan,PJ Sangwan,NA,GC Smith,0,0,0,0,NA,NA,NA
+2,12.1,GC Smith,DL Vettori,NA,YK Pathan,1,0,1,0,NA,NA,NA
+2,12.2,YK Pathan,DL Vettori,NA,GC Smith,2,0,2,0,NA,NA,NA
+2,12.3,YK Pathan,DL Vettori,NA,GC Smith,6,0,6,0,NA,NA,NA
+2,12.4,YK Pathan,DL Vettori,NA,GC Smith,6,0,6,0,NA,NA,NA
+2,12.5,YK Pathan,DL Vettori,NA,GC Smith,0,0,0,0,NA,NA,NA
+2,12.6,YK Pathan,DL Vettori,NA,GC Smith,4,0,4,0,NA,NA,NA
+2,13.1,GC Smith,PJ Sangwan,NA,YK Pathan,1,0,1,0,NA,NA,NA
+2,13.2,YK Pathan,PJ Sangwan,NA,GC Smith,0,0,0,0,NA,NA,NA
+2,13.3,YK Pathan,PJ Sangwan,2legbyes,GC Smith,0,2,2,0,NA,NA,NA
+2,13.4,YK Pathan,PJ Sangwan,NA,GC Smith,1,0,1,0,NA,NA,NA
+2,13.5,GC Smith,PJ Sangwan,NA,YK Pathan,1,0,1,0,NA,NA,NA
+2,13.6,YK Pathan,PJ Sangwan,NA,GC Smith,1,0,1,0,NA,NA,NA
+2,14.1,YK Pathan,DP Nannes,NA,GC Smith,0,0,0,0,NA,NA,NA
+2,14.2,YK Pathan,DP Nannes,NA,GC Smith,0,0,0,0,NA,NA,NA
+2,14.3,YK Pathan,DP Nannes,1legbyes,GC Smith,0,1,1,0,NA,NA,NA
+2,14.4,GC Smith,DP Nannes,NA,YK Pathan,1,0,1,0,NA,NA,NA
+2,14.5,YK Pathan,DP Nannes,NA,GC Smith,1,0,1,0,NA,NA,NA
+2,14.6,GC Smith,DP Nannes,NA,YK Pathan,1,0,1,0,NA,NA,NA
+2,15.1,GC Smith,DL Vettori,NA,YK Pathan,1,0,1,0,NA,NA,NA
+2,15.2,YK Pathan,DL Vettori,NA,GC Smith,2,0,2,0,NA,NA,NA
+2,15.3,YK Pathan,DL Vettori,NA,GC Smith,6,0,6,0,NA,NA,NA
+2,15.4,YK Pathan,DL Vettori,NA,GC Smith,1,0,1,0,NA,NA,NA
+2,15.5,GC Smith,DL Vettori,NA,YK Pathan,2,0,2,0,NA,NA,NA
+2,15.6,GC Smith,DL Vettori,NA,YK Pathan,1,0,1,0,NA,NA,NA
+2,16.1,GC Smith,A Mishra,NA,YK Pathan,4,0,4,0,NA,NA,NA
+2,16.2,GC Smith,A Mishra,1noballs,YK Pathan,0,1,1,0,NA,NA,NA
+2,16.3,GC Smith,A Mishra,NA,YK Pathan,1,0,1,0,NA,NA,NA
+2,16.4,YK Pathan,A Mishra,NA,GC Smith,4,0,4,0,NA,NA,NA
+2,16.5,YK Pathan,A Mishra,NA,GC Smith,6,0,6,0,NA,NA,NA
+2,16.6,YK Pathan,A Mishra,NA,GC Smith,2,0,2,0,NA,NA,NA
+2,16.7,YK Pathan,A Mishra,NA,GC Smith,0,0,0,0,NA,NA,NA
+2,17.1,GC Smith,A Nehra,NA,YK Pathan,0,0,0,0,NA,NA,NA
+2,17.2,GC Smith,A Nehra,NA,YK Pathan,0,0,0,0,NA,NA,NA
+2,17.3,GC Smith,A Nehra,NA,YK Pathan,1,0,1,0,NA,NA,NA
+2,17.4,YK Pathan,A Nehra,NA,GC Smith,6,0,6,0,NA,NA,NA
+2,17.5,YK Pathan,A Nehra,NA,GC Smith,6,0,6,0,NA,NA,NA
+2,17.6,YK Pathan,A Nehra,NA,GC Smith,1,0,1,0,NA,NA,NA
+2,18.1,YK Pathan,DP Nannes,NA,GC Smith,0,0,0,0,NA,NA,NA
+2,18.2,YK Pathan,DP Nannes,NA,GC Smith,2,0,2,0,NA,NA,NA
+2,18.3,YK Pathan,DP Nannes,NA,GC Smith,4,0,4,0,NA,NA,NA

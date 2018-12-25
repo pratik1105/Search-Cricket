@@ -1,0 +1,241 @@
+innings,ball,batsman,bowler,extras,non_striker,batsman_run,extras_run,total_run,wicket,fielders,wicket_kind,player_out
+1,0.1,CH Gayle,GJ Maxwell,NA,PA Patel,4,0,4,0,NA,NA,NA
+1,0.2,CH Gayle,GJ Maxwell,NA,PA Patel,0,0,0,0,NA,NA,NA
+1,0.3,CH Gayle,GJ Maxwell,NA,PA Patel,4,0,4,0,NA,NA,NA
+1,0.4,CH Gayle,GJ Maxwell,NA,PA Patel,0,0,0,0,NA,NA,NA
+1,0.5,CH Gayle,GJ Maxwell,NA,PA Patel,6,0,6,0,NA,NA,NA
+1,0.6,CH Gayle,GJ Maxwell,NA,PA Patel,6,0,6,0,NA,NA,NA
+1,1.1,PA Patel,Sandeep Sharma,NA,CH Gayle,1,0,1,0,NA,NA,NA
+1,1.2,CH Gayle,Sandeep Sharma,NA,PA Patel,0,0,0,1,NA,bowled,CH Gayle
+1,1.3,V Kohli,Sandeep Sharma,NA,PA Patel,4,0,4,0,NA,NA,NA
+1,1.4,V Kohli,Sandeep Sharma,NA,PA Patel,0,0,0,1,NA,lbw,V Kohli
+1,1.5,YV Takawale,Sandeep Sharma,NA,PA Patel,0,0,0,0,NA,NA,NA
+1,1.6,YV Takawale,Sandeep Sharma,NA,PA Patel,0,0,0,0,NA,NA,NA
+1,2.1,PA Patel,MG Johnson,NA,YV Takawale,1,0,1,0,NA,NA,NA
+1,2.2,YV Takawale,MG Johnson,NA,PA Patel,0,0,0,0,NA,NA,NA
+1,2.3,YV Takawale,MG Johnson,NA,PA Patel,0,0,0,0,NA,NA,NA
+1,2.4,YV Takawale,MG Johnson,NA,PA Patel,0,0,0,0,NA,NA,NA
+1,2.5,YV Takawale,MG Johnson,NA,PA Patel,0,0,0,0,NA,NA,NA
+1,2.6,YV Takawale,MG Johnson,NA,PA Patel,0,0,0,1,WP Saha,caught,YV Takawale
+1,3.1,PA Patel,Sandeep Sharma,NA,AB de Villiers,0,0,0,0,NA,NA,NA
+1,3.2,PA Patel,Sandeep Sharma,NA,AB de Villiers,0,0,0,0,NA,NA,NA
+1,3.3,PA Patel,Sandeep Sharma,NA,AB de Villiers,0,0,0,0,NA,NA,NA
+1,3.4,PA Patel,Sandeep Sharma,NA,AB de Villiers,0,0,0,0,NA,NA,NA
+1,3.5,PA Patel,Sandeep Sharma,NA,AB de Villiers,0,0,0,1,WP Saha,caught,PA Patel
+1,3.6,Yuvraj Singh,Sandeep Sharma,NA,AB de Villiers,0,0,0,0,NA,NA,NA
+1,4.1,AB de Villiers,MG Johnson,NA,Yuvraj Singh,0,0,0,0,NA,NA,NA
+1,4.2,AB de Villiers,MG Johnson,NA,Yuvraj Singh,4,0,4,0,NA,NA,NA
+1,4.3,AB de Villiers,MG Johnson,NA,Yuvraj Singh,1,0,1,0,NA,NA,NA
+1,4.4,Yuvraj Singh,MG Johnson,NA,AB de Villiers,2,0,2,0,NA,NA,NA
+1,4.5,Yuvraj Singh,MG Johnson,NA,AB de Villiers,1,0,1,0,NA,NA,NA
+1,4.6,AB de Villiers,MG Johnson,NA,Yuvraj Singh,0,0,0,0,NA,NA,NA
+1,5.1,Yuvraj Singh,Sandeep Sharma,NA,AB de Villiers,4,0,4,0,NA,NA,NA
+1,5.2,Yuvraj Singh,Sandeep Sharma,NA,AB de Villiers,1,0,1,0,NA,NA,NA
+1,5.3,AB de Villiers,Sandeep Sharma,NA,Yuvraj Singh,4,0,4,0,NA,NA,NA
+1,5.4,AB de Villiers,Sandeep Sharma,NA,Yuvraj Singh,1,0,1,0,NA,NA,NA
+1,5.5,Yuvraj Singh,Sandeep Sharma,NA,AB de Villiers,0,0,0,0,NA,NA,NA
+1,5.6,Yuvraj Singh,Sandeep Sharma,NA,AB de Villiers,0,0,0,0,NA,NA,NA
+1,6.1,AB de Villiers,MG Johnson,NA,Yuvraj Singh,2,0,2,0,NA,NA,NA
+1,6.2,AB de Villiers,MG Johnson,NA,Yuvraj Singh,1,0,1,0,NA,NA,NA
+1,6.3,Yuvraj Singh,MG Johnson,NA,AB de Villiers,0,0,0,0,NA,NA,NA
+1,6.4,Yuvraj Singh,MG Johnson,NA,AB de Villiers,1,0,1,0,NA,NA,NA
+1,6.5,AB de Villiers,MG Johnson,NA,Yuvraj Singh,1,0,1,0,NA,NA,NA
+1,6.6,Yuvraj Singh,MG Johnson,NA,AB de Villiers,1,0,1,0,NA,NA,NA
+1,7.1,Yuvraj Singh,L Balaji,NA,AB de Villiers,0,0,0,0,NA,NA,NA
+1,7.2,Yuvraj Singh,L Balaji,NA,AB de Villiers,4,0,4,0,NA,NA,NA
+1,7.3,Yuvraj Singh,L Balaji,NA,AB de Villiers,1,0,1,0,NA,NA,NA
+1,7.4,AB de Villiers,L Balaji,NA,Yuvraj Singh,0,0,0,0,NA,NA,NA
+1,7.5,AB de Villiers,L Balaji,NA,Yuvraj Singh,1,0,1,0,NA,NA,NA
+1,7.6,Yuvraj Singh,L Balaji,NA,AB de Villiers,0,0,0,0,NA,NA,NA
+1,8.1,AB de Villiers,AR Patel,NA,Yuvraj Singh,1,0,1,0,NA,NA,NA
+1,8.2,Yuvraj Singh,AR Patel,NA,AB de Villiers,6,0,6,0,NA,NA,NA
+1,8.3,Yuvraj Singh,AR Patel,NA,AB de Villiers,1,0,1,0,NA,NA,NA
+1,8.4,AB de Villiers,AR Patel,NA,Yuvraj Singh,0,0,0,0,NA,NA,NA
+1,8.5,AB de Villiers,AR Patel,NA,Yuvraj Singh,1,0,1,0,NA,NA,NA
+1,8.6,Yuvraj Singh,AR Patel,NA,AB de Villiers,1,0,1,0,NA,NA,NA
+1,9.1,Yuvraj Singh,R Dhawan,NA,AB de Villiers,1,0,1,0,NA,NA,NA
+1,9.2,AB de Villiers,R Dhawan,NA,Yuvraj Singh,0,0,0,1,GJ Maxwell,caught,AB de Villiers
+1,9.3,JA Morkel,R Dhawan,NA,Yuvraj Singh,1,0,1,0,NA,NA,NA
+1,9.4,Yuvraj Singh,R Dhawan,NA,JA Morkel,0,0,0,0,NA,NA,NA
+1,9.5,Yuvraj Singh,R Dhawan,NA,JA Morkel,1,0,1,0,NA,NA,NA
+1,9.6,JA Morkel,R Dhawan,NA,Yuvraj Singh,0,0,0,0,NA,NA,NA
+1,10.1,Yuvraj Singh,GJ Maxwell,NA,JA Morkel,1,0,1,0,NA,NA,NA
+1,10.2,JA Morkel,GJ Maxwell,NA,Yuvraj Singh,2,0,2,0,NA,NA,NA
+1,10.3,JA Morkel,GJ Maxwell,NA,Yuvraj Singh,1,0,1,0,NA,NA,NA
+1,10.4,Yuvraj Singh,GJ Maxwell,NA,JA Morkel,1,0,1,0,NA,NA,NA
+1,10.5,JA Morkel,GJ Maxwell,NA,Yuvraj Singh,0,0,0,0,NA,NA,NA
+1,10.6,JA Morkel,GJ Maxwell,NA,Yuvraj Singh,2,0,2,0,NA,NA,NA
+1,11.1,Yuvraj Singh,R Dhawan,NA,JA Morkel,0,0,0,0,NA,NA,NA
+1,11.2,Yuvraj Singh,R Dhawan,NA,JA Morkel,0,0,0,0,NA,NA,NA
+1,11.3,Yuvraj Singh,R Dhawan,NA,JA Morkel,1,0,1,0,NA,NA,NA
+1,11.4,JA Morkel,R Dhawan,NA,Yuvraj Singh,1,0,1,0,NA,NA,NA
+1,11.5,Yuvraj Singh,R Dhawan,NA,JA Morkel,1,0,1,0,NA,NA,NA
+1,11.6,JA Morkel,R Dhawan,NA,Yuvraj Singh,1,0,1,0,NA,NA,NA
+1,12.1,JA Morkel,GJ Maxwell,NA,Yuvraj Singh,0,0,0,0,NA,NA,NA
+1,12.2,JA Morkel,GJ Maxwell,1legbyes,Yuvraj Singh,0,1,1,0,NA,NA,NA
+1,12.3,Yuvraj Singh,GJ Maxwell,NA,JA Morkel,1,0,1,0,NA,NA,NA
+1,12.4,JA Morkel,GJ Maxwell,NA,Yuvraj Singh,6,0,6,0,NA,NA,NA
+1,12.5,JA Morkel,GJ Maxwell,NA,Yuvraj Singh,1,0,1,0,NA,NA,NA
+1,12.6,Yuvraj Singh,GJ Maxwell,NA,JA Morkel,4,0,4,0,NA,NA,NA
+1,13.1,JA Morkel,L Balaji,NA,Yuvraj Singh,0,0,0,0,NA,NA,NA
+1,13.2,JA Morkel,L Balaji,NA,Yuvraj Singh,0,0,0,1,NA,bowled,JA Morkel
+1,13.3,MA Starc,L Balaji,NA,Yuvraj Singh,1,0,1,0,NA,NA,NA
+1,13.4,Yuvraj Singh,L Balaji,NA,MA Starc,1,0,1,0,NA,NA,NA
+1,13.5,MA Starc,L Balaji,NA,Yuvraj Singh,0,0,0,0,NA,NA,NA
+1,13.6,MA Starc,L Balaji,NA,Yuvraj Singh,2,0,2,0,NA,NA,NA
+1,14.1,Yuvraj Singh,R Dhawan,NA,MA Starc,0,0,0,0,NA,NA,NA
+1,14.2,Yuvraj Singh,R Dhawan,NA,MA Starc,0,0,0,0,NA,NA,NA
+1,14.3,Yuvraj Singh,R Dhawan,NA,MA Starc,0,0,0,1,DA Miller,caught,Yuvraj Singh
+1,14.4,MA Starc,R Dhawan,NA,VR Aaron,0,0,0,0,NA,NA,NA
+1,14.5,MA Starc,R Dhawan,NA,VR Aaron,1,0,1,0,NA,NA,NA
+1,14.6,VR Aaron,R Dhawan,NA,MA Starc,0,0,0,0,NA,NA,NA
+1,15.1,MA Starc,L Balaji,NA,VR Aaron,0,0,0,0,NA,NA,NA
+1,15.2,MA Starc,L Balaji,NA,VR Aaron,1,0,1,0,NA,NA,NA
+1,15.3,VR Aaron,L Balaji,NA,MA Starc,0,0,0,0,NA,NA,NA
+1,15.4,VR Aaron,L Balaji,NA,MA Starc,0,0,0,0,NA,NA,NA
+1,15.5,VR Aaron,L Balaji,NA,MA Starc,0,0,0,0,NA,NA,NA
+1,15.6,VR Aaron,L Balaji,NA,MA Starc,1,0,1,0,NA,NA,NA
+1,16.1,VR Aaron,AR Patel,NA,MA Starc,0,0,0,0,NA,NA,NA
+1,16.2,VR Aaron,AR Patel,NA,MA Starc,1,0,1,0,NA,NA,NA
+1,16.3,MA Starc,AR Patel,4legbyes,VR Aaron,0,4,4,0,NA,NA,NA
+1,16.4,MA Starc,AR Patel,NA,VR Aaron,0,0,0,0,NA,NA,NA
+1,16.5,MA Starc,AR Patel,NA,VR Aaron,0,0,0,0,NA,NA,NA
+1,16.6,MA Starc,AR Patel,NA,VR Aaron,0,0,0,0,NA,NA,NA
+1,17.1,VR Aaron,L Balaji,NA,MA Starc,1,0,1,0,NA,NA,NA
+1,17.2,MA Starc,L Balaji,NA,VR Aaron,1,0,1,0,NA,NA,NA
+1,17.3,VR Aaron,L Balaji,NA,MA Starc,1,0,1,0,NA,NA,NA
+1,17.4,MA Starc,L Balaji,NA,VR Aaron,1,0,1,0,NA,NA,NA
+1,17.5,VR Aaron,L Balaji,NA,MA Starc,0,0,0,0,NA,NA,NA
+1,17.6,VR Aaron,L Balaji,NA,MA Starc,1,0,1,0,NA,NA,NA
+1,18.1,VR Aaron,R Dhawan,NA,MA Starc,1,0,1,0,NA,NA,NA
+1,18.2,MA Starc,R Dhawan,NA,VR Aaron,0,0,0,0,NA,NA,NA
+1,18.3,MA Starc,R Dhawan,4legbyes,VR Aaron,0,4,4,0,NA,NA,NA
+1,18.4,MA Starc,R Dhawan,NA,VR Aaron,1,0,1,0,NA,NA,NA
+1,18.5,VR Aaron,R Dhawan,NA,MA Starc,2,0,2,0,NA,NA,NA
+1,18.6,VR Aaron,R Dhawan,NA,MA Starc,2,0,2,0,NA,NA,NA
+1,19.1,MA Starc,MG Johnson,NA,VR Aaron,0,0,0,1,NA,bowled,MA Starc
+1,19.2,AB Dinda,MG Johnson,NA,VR Aaron,0,0,0,0,NA,NA,NA
+1,19.3,AB Dinda,MG Johnson,NA,VR Aaron,1,0,1,0,NA,NA,NA
+1,19.4,VR Aaron,MG Johnson,1noballs,AB Dinda,1,1,2,0,NA,NA,NA
+1,19.5,AB Dinda,MG Johnson,NA,VR Aaron,0,0,0,0,NA,NA,NA
+1,19.6,AB Dinda,MG Johnson,NA,VR Aaron,0,0,0,0,NA,NA,NA
+1,19.7,AB Dinda,MG Johnson,NA,VR Aaron,1,0,1,0,NA,NA,NA
+2,0.1,CA Pujara,MA Starc,NA,V Sehwag,0,0,0,0,NA,NA,NA
+2,0.2,CA Pujara,MA Starc,NA,V Sehwag,0,0,0,0,NA,NA,NA
+2,0.3,CA Pujara,MA Starc,NA,V Sehwag,0,0,0,0,NA,NA,NA
+2,0.4,CA Pujara,MA Starc,NA,V Sehwag,0,0,0,0,NA,NA,NA
+2,0.5,CA Pujara,MA Starc,NA,V Sehwag,0,0,0,0,NA,NA,NA
+2,0.6,CA Pujara,MA Starc,NA,V Sehwag,2,0,2,0,NA,NA,NA
+2,1.1,V Sehwag,JA Morkel,NA,CA Pujara,1,0,1,0,NA,NA,NA
+2,1.2,CA Pujara,JA Morkel,NA,V Sehwag,1,0,1,0,NA,NA,NA
+2,1.3,V Sehwag,JA Morkel,NA,CA Pujara,1,0,1,0,NA,NA,NA
+2,1.4,CA Pujara,JA Morkel,1wides,V Sehwag,0,1,1,0,NA,NA,NA
+2,1.5,CA Pujara,JA Morkel,NA,V Sehwag,4,0,4,0,NA,NA,NA
+2,1.6,CA Pujara,JA Morkel,NA,V Sehwag,0,0,0,0,NA,NA,NA
+2,1.7,CA Pujara,JA Morkel,1wides,V Sehwag,0,1,1,0,NA,NA,NA
+2,1.8,CA Pujara,JA Morkel,NA,V Sehwag,1,0,1,0,NA,NA,NA
+2,2.1,CA Pujara,MA Starc,NA,V Sehwag,0,0,0,0,NA,NA,NA
+2,2.2,CA Pujara,MA Starc,NA,V Sehwag,1,0,1,0,NA,NA,NA
+2,2.3,V Sehwag,MA Starc,NA,CA Pujara,0,0,0,0,NA,NA,NA
+2,2.4,V Sehwag,MA Starc,NA,CA Pujara,1,0,1,0,NA,NA,NA
+2,2.5,CA Pujara,MA Starc,NA,V Sehwag,0,0,0,0,NA,NA,NA
+2,2.6,CA Pujara,MA Starc,NA,V Sehwag,0,0,0,0,NA,NA,NA
+2,3.1,V Sehwag,VR Aaron,NA,CA Pujara,2,0,2,0,NA,NA,NA
+2,3.2,V Sehwag,VR Aaron,NA,CA Pujara,4,0,4,0,NA,NA,NA
+2,3.3,V Sehwag,VR Aaron,NA,CA Pujara,1,0,1,0,NA,NA,NA
+2,3.4,CA Pujara,VR Aaron,NA,V Sehwag,0,0,0,0,NA,NA,NA
+2,3.5,CA Pujara,VR Aaron,NA,V Sehwag,0,0,0,0,NA,NA,NA
+2,3.6,CA Pujara,VR Aaron,NA,V Sehwag,1,0,1,0,NA,NA,NA
+2,4.1,CA Pujara,AB Dinda,NA,V Sehwag,0,0,0,1,PA Patel,caught,CA Pujara
+2,4.2,WP Saha,AB Dinda,NA,V Sehwag,0,0,0,0,NA,NA,NA
+2,4.3,WP Saha,AB Dinda,NA,V Sehwag,1,0,1,0,NA,NA,NA
+2,4.4,V Sehwag,AB Dinda,NA,WP Saha,4,0,4,0,NA,NA,NA
+2,4.5,V Sehwag,AB Dinda,NA,WP Saha,4,0,4,0,NA,NA,NA
+2,4.6,V Sehwag,AB Dinda,NA,WP Saha,0,0,0,0,NA,NA,NA
+2,5.1,WP Saha,VR Aaron,NA,V Sehwag,0,0,0,0,NA,NA,NA
+2,5.2,WP Saha,VR Aaron,NA,V Sehwag,0,0,0,0,NA,NA,NA
+2,5.3,WP Saha,VR Aaron,NA,V Sehwag,1,0,1,0,NA,NA,NA
+2,5.4,V Sehwag,VR Aaron,NA,WP Saha,1,0,1,0,NA,NA,NA
+2,5.5,WP Saha,VR Aaron,NA,V Sehwag,0,0,0,1,MA Starc,caught,WP Saha
+2,5.6,V Sehwag,VR Aaron,NA,GJ Maxwell,0,0,0,0,NA,NA,NA
+2,6.1,GJ Maxwell,YS Chahal,NA,V Sehwag,2,0,2,0,NA,NA,NA
+2,6.2,GJ Maxwell,YS Chahal,NA,V Sehwag,1,0,1,0,NA,NA,NA
+2,6.3,V Sehwag,YS Chahal,NA,GJ Maxwell,1,0,1,0,NA,NA,NA
+2,6.4,GJ Maxwell,YS Chahal,NA,V Sehwag,0,0,0,0,NA,NA,NA
+2,6.5,GJ Maxwell,YS Chahal,NA,V Sehwag,2,0,2,0,NA,NA,NA
+2,6.6,GJ Maxwell,YS Chahal,NA,V Sehwag,1,0,1,0,NA,NA,NA
+2,7.1,GJ Maxwell,VR Aaron,NA,V Sehwag,0,0,0,1,MA Starc,caught,GJ Maxwell
+2,7.2,V Sehwag,VR Aaron,NA,DA Miller,4,0,4,0,NA,NA,NA
+2,7.3,V Sehwag,VR Aaron,NA,DA Miller,1,0,1,0,NA,NA,NA
+2,7.4,DA Miller,VR Aaron,NA,V Sehwag,0,0,0,0,NA,NA,NA
+2,7.5,DA Miller,VR Aaron,NA,V Sehwag,1,0,1,0,NA,NA,NA
+2,7.6,V Sehwag,VR Aaron,1wides,DA Miller,0,1,1,0,NA,NA,NA
+2,7.7,V Sehwag,VR Aaron,4legbyes,DA Miller,0,4,4,0,NA,NA,NA
+2,8.1,DA Miller,YS Chahal,NA,V Sehwag,0,0,0,0,NA,NA,NA
+2,8.2,DA Miller,YS Chahal,NA,V Sehwag,1,0,1,0,NA,NA,NA
+2,8.3,V Sehwag,YS Chahal,NA,DA Miller,2,0,2,0,NA,NA,NA
+2,8.4,V Sehwag,YS Chahal,NA,DA Miller,0,0,0,0,NA,NA,NA
+2,8.5,V Sehwag,YS Chahal,NA,DA Miller,1,0,1,0,NA,NA,NA
+2,8.6,DA Miller,YS Chahal,NA,V Sehwag,1,0,1,0,NA,NA,NA
+2,9.1,DA Miller,MA Starc,1wides,V Sehwag,0,1,1,0,NA,NA,NA
+2,9.2,DA Miller,MA Starc,3wides,V Sehwag,0,3,3,0,NA,NA,NA
+2,9.3,DA Miller,MA Starc,NA,V Sehwag,0,0,0,0,NA,NA,NA
+2,9.4,DA Miller,MA Starc,NA,V Sehwag,2,0,2,0,NA,NA,NA
+2,9.5,DA Miller,MA Starc,NA,V Sehwag,0,0,0,0,NA,NA,NA
+2,9.6,DA Miller,MA Starc,NA,V Sehwag,1,0,1,0,NA,NA,NA
+2,9.7,V Sehwag,MA Starc,NA,DA Miller,0,0,0,0,NA,NA,NA
+2,9.8,V Sehwag,MA Starc,NA,DA Miller,0,0,0,0,NA,NA,NA
+2,10.1,DA Miller,YS Chahal,NA,V Sehwag,1,0,1,0,NA,NA,NA
+2,10.2,V Sehwag,YS Chahal,NA,DA Miller,0,0,0,0,NA,NA,NA
+2,10.3,V Sehwag,YS Chahal,NA,DA Miller,1,0,1,0,NA,NA,NA
+2,10.4,DA Miller,YS Chahal,NA,V Sehwag,4,0,4,0,NA,NA,NA
+2,10.5,DA Miller,YS Chahal,NA,V Sehwag,0,0,0,0,NA,NA,NA
+2,10.6,DA Miller,YS Chahal,NA,V Sehwag,1,0,1,0,NA,NA,NA
+2,11.1,DA Miller,JA Morkel,NA,V Sehwag,0,0,0,0,NA,NA,NA
+2,11.2,DA Miller,JA Morkel,NA,V Sehwag,2,0,2,0,NA,NA,NA
+2,11.3,DA Miller,JA Morkel,NA,V Sehwag,4,0,4,0,NA,NA,NA
+2,11.4,DA Miller,JA Morkel,NA,V Sehwag,4,0,4,0,NA,NA,NA
+2,11.5,DA Miller,JA Morkel,NA,V Sehwag,4,0,4,0,NA,NA,NA
+2,11.6,DA Miller,JA Morkel,NA,V Sehwag,0,0,0,0,NA,NA,NA
+2,12.1,V Sehwag,YS Chahal,NA,DA Miller,1,0,1,0,NA,NA,NA
+2,12.2,DA Miller,YS Chahal,NA,V Sehwag,0,0,0,1,PA Patel,caught,DA Miller
+2,12.3,GJ Bailey,YS Chahal,NA,V Sehwag,0,0,0,0,NA,NA,NA
+2,12.4,GJ Bailey,YS Chahal,NA,V Sehwag,1,0,1,0,NA,NA,NA
+2,12.5,V Sehwag,YS Chahal,NA,GJ Bailey,2,0,2,0,NA,NA,NA
+2,12.6,V Sehwag,YS Chahal,NA,GJ Bailey,0,0,0,1,PA Patel,caught,V Sehwag
+2,13.1,GJ Bailey,AB Dinda,NA,R Dhawan,1,0,1,0,NA,NA,NA
+2,13.2,R Dhawan,AB Dinda,NA,GJ Bailey,0,0,0,0,NA,NA,NA
+2,13.3,R Dhawan,AB Dinda,NA,GJ Bailey,0,0,0,0,NA,NA,NA
+2,13.4,R Dhawan,AB Dinda,NA,GJ Bailey,0,0,0,0,NA,NA,NA
+2,13.5,R Dhawan,AB Dinda,NA,GJ Bailey,4,0,4,0,NA,NA,NA
+2,13.6,R Dhawan,AB Dinda,NA,GJ Bailey,0,0,0,0,NA,NA,NA
+2,14.1,GJ Bailey,Yuvraj Singh,NA,R Dhawan,1,0,1,0,NA,NA,NA
+2,14.2,R Dhawan,Yuvraj Singh,NA,GJ Bailey,4,0,4,0,NA,NA,NA
+2,14.3,R Dhawan,Yuvraj Singh,NA,GJ Bailey,0,0,0,0,NA,NA,NA
+2,14.4,R Dhawan,Yuvraj Singh,NA,GJ Bailey,2,0,2,0,NA,NA,NA
+2,14.5,R Dhawan,Yuvraj Singh,NA,GJ Bailey,0,0,0,0,NA,NA,NA
+2,14.6,R Dhawan,Yuvraj Singh,NA,GJ Bailey,1,0,1,0,NA,NA,NA
+2,15.1,R Dhawan,MA Starc,NA,GJ Bailey,0,0,0,0,NA,NA,NA
+2,15.2,R Dhawan,MA Starc,NA,GJ Bailey,1,0,1,0,NA,NA,NA
+2,15.3,GJ Bailey,MA Starc,NA,R Dhawan,0,0,0,0,NA,NA,NA
+2,15.4,GJ Bailey,MA Starc,NA,R Dhawan,1,0,1,0,NA,NA,NA
+2,15.5,R Dhawan,MA Starc,NA,GJ Bailey,0,0,0,0,NA,NA,NA
+2,15.6,R Dhawan,MA Starc,NA,GJ Bailey,2,0,2,0,NA,NA,NA
+2,16.1,GJ Bailey,Yuvraj Singh,NA,R Dhawan,1,0,1,0,NA,NA,NA
+2,16.2,R Dhawan,Yuvraj Singh,NA,GJ Bailey,1,0,1,0,NA,NA,NA
+2,16.3,GJ Bailey,Yuvraj Singh,NA,R Dhawan,0,0,0,0,NA,NA,NA
+2,16.4,GJ Bailey,Yuvraj Singh,NA,R Dhawan,1,0,1,0,NA,NA,NA
+2,16.5,R Dhawan,Yuvraj Singh,NA,GJ Bailey,1,0,1,0,NA,NA,NA
+2,16.6,GJ Bailey,Yuvraj Singh,NA,R Dhawan,1,0,1,0,NA,NA,NA
+2,17.1,GJ Bailey,AB Dinda,NA,R Dhawan,1,0,1,0,NA,NA,NA
+2,17.2,R Dhawan,AB Dinda,NA,GJ Bailey,1,0,1,0,NA,NA,NA
+2,17.3,GJ Bailey,AB Dinda,NA,R Dhawan,1,0,1,0,NA,NA,NA
+2,17.4,R Dhawan,AB Dinda,NA,GJ Bailey,1,0,1,0,NA,NA,NA
+2,17.5,GJ Bailey,AB Dinda,NA,R Dhawan,1,0,1,0,NA,NA,NA
+2,17.6,R Dhawan,AB Dinda,NA,GJ Bailey,0,0,0,0,NA,NA,NA
+2,18.1,GJ Bailey,VR Aaron,NA,R Dhawan,4,0,4,0,NA,NA,NA
+2,18.2,GJ Bailey,VR Aaron,NA,R Dhawan,1,0,1,0,NA,NA,NA
+2,18.3,R Dhawan,VR Aaron,NA,GJ Bailey,0,0,0,0,NA,NA,NA
+2,18.4,R Dhawan,VR Aaron,NA,GJ Bailey,1,0,1,0,NA,NA,NA
+2,18.5,GJ Bailey,VR Aaron,1noballs,R Dhawan,1,1,2,0,NA,NA,NA
+2,18.6,R Dhawan,VR Aaron,NA,GJ Bailey,4,0,4,0,NA,NA,NA

@@ -1,0 +1,230 @@
+innings,ball,batsman,bowler,extras,non_striker,batsman_run,extras_run,total_run,wicket,fielders,wicket_kind,player_out
+1,0.1,WP Saha,P Negi,NA,M Vohra,0,0,0,0,NA,NA,NA
+1,0.2,WP Saha,P Negi,NA,M Vohra,0,0,0,0,NA,NA,NA
+1,0.3,WP Saha,P Negi,NA,M Vohra,0,0,0,0,NA,NA,NA
+1,0.4,WP Saha,P Negi,NA,M Vohra,4,0,4,0,NA,NA,NA
+1,0.5,WP Saha,P Negi,NA,M Vohra,1,0,1,0,NA,NA,NA
+1,0.6,M Vohra,P Negi,NA,WP Saha,0,0,0,0,NA,NA,NA
+1,1.1,WP Saha,IC Pandey,NA,M Vohra,0,0,0,0,NA,NA,NA
+1,1.2,WP Saha,IC Pandey,NA,M Vohra,0,0,0,0,NA,NA,NA
+1,1.3,WP Saha,IC Pandey,NA,M Vohra,1,0,1,0,NA,NA,NA
+1,1.4,M Vohra,IC Pandey,NA,WP Saha,1,0,1,0,NA,NA,NA
+1,1.5,WP Saha,IC Pandey,NA,M Vohra,6,0,6,0,NA,NA,NA
+1,1.6,WP Saha,IC Pandey,NA,M Vohra,1,0,1,0,NA,NA,NA
+1,2.1,WP Saha,P Negi,NA,M Vohra,2,0,2,0,NA,NA,NA
+1,2.2,WP Saha,P Negi,NA,M Vohra,0,0,0,1,BB McCullum,caught,WP Saha
+1,2.3,M Vohra,P Negi,NA,GJ Bailey,1,0,1,0,NA,NA,NA
+1,2.4,GJ Bailey,P Negi,NA,M Vohra,2,0,2,0,NA,NA,NA
+1,2.5,GJ Bailey,P Negi,NA,M Vohra,4,0,4,0,NA,NA,NA
+1,2.6,GJ Bailey,P Negi,NA,M Vohra,1,0,1,0,NA,NA,NA
+1,3.1,GJ Bailey,IC Pandey,NA,M Vohra,4,0,4,0,NA,NA,NA
+1,3.2,GJ Bailey,IC Pandey,NA,M Vohra,0,0,0,0,NA,NA,NA
+1,3.3,GJ Bailey,IC Pandey,NA,M Vohra,1,0,1,0,NA,NA,NA
+1,3.4,M Vohra,IC Pandey,NA,GJ Bailey,0,0,0,0,NA,NA,NA
+1,3.5,M Vohra,IC Pandey,NA,GJ Bailey,0,0,0,0,NA,NA,NA
+1,3.6,M Vohra,IC Pandey,NA,GJ Bailey,2,0,2,0,NA,NA,NA
+1,4.1,GJ Bailey,A Nehra,NA,M Vohra,0,0,0,1,MS Dhoni,caught,GJ Bailey
+1,4.2,GJ Maxwell,A Nehra,NA,M Vohra,0,0,0,0,NA,NA,NA
+1,4.3,GJ Maxwell,A Nehra,NA,M Vohra,0,0,0,0,NA,NA,NA
+1,4.4,GJ Maxwell,A Nehra,NA,M Vohra,0,0,0,0,NA,NA,NA
+1,4.5,GJ Maxwell,A Nehra,NA,M Vohra,4,0,4,0,NA,NA,NA
+1,4.6,GJ Maxwell,A Nehra,NA,M Vohra,0,0,0,0,NA,NA,NA
+1,5.1,M Vohra,IC Pandey,NA,GJ Maxwell,0,0,0,1,A Nehra,caught,M Vohra
+1,5.2,Gurkeerat Singh,IC Pandey,NA,GJ Maxwell,0,0,0,0,NA,NA,NA
+1,5.3,Gurkeerat Singh,IC Pandey,NA,GJ Maxwell,1,0,1,0,NA,NA,NA
+1,5.4,GJ Maxwell,IC Pandey,NA,Gurkeerat Singh,1,0,1,0,NA,NA,NA
+1,5.5,Gurkeerat Singh,IC Pandey,NA,GJ Maxwell,0,0,0,0,NA,NA,NA
+1,5.6,Gurkeerat Singh,IC Pandey,NA,GJ Maxwell,4,0,4,0,NA,NA,NA
+1,6.1,GJ Maxwell,R Ashwin,NA,Gurkeerat Singh,0,0,0,0,NA,NA,NA
+1,6.2,GJ Maxwell,R Ashwin,NA,Gurkeerat Singh,0,0,0,0,NA,NA,NA
+1,6.3,GJ Maxwell,R Ashwin,NA,Gurkeerat Singh,0,0,0,0,NA,NA,NA
+1,6.4,GJ Maxwell,R Ashwin,NA,Gurkeerat Singh,1,0,1,0,NA,NA,NA
+1,6.5,Gurkeerat Singh,R Ashwin,NA,GJ Maxwell,0,0,0,0,NA,NA,NA
+1,6.6,Gurkeerat Singh,R Ashwin,NA,GJ Maxwell,1,0,1,0,NA,NA,NA
+1,7.1,Gurkeerat Singh,A Nehra,NA,GJ Maxwell,0,0,0,0,NA,NA,NA
+1,7.2,Gurkeerat Singh,A Nehra,NA,GJ Maxwell,4,0,4,0,NA,NA,NA
+1,7.3,Gurkeerat Singh,A Nehra,NA,GJ Maxwell,0,0,0,0,NA,NA,NA
+1,7.4,Gurkeerat Singh,A Nehra,NA,GJ Maxwell,0,0,0,0,NA,NA,NA
+1,7.5,Gurkeerat Singh,A Nehra,NA,GJ Maxwell,1,0,1,0,NA,NA,NA
+1,7.6,GJ Maxwell,A Nehra,NA,Gurkeerat Singh,0,0,0,0,NA,NA,NA
+1,8.1,Gurkeerat Singh,R Ashwin,NA,GJ Maxwell,0,0,0,0,NA,NA,NA
+1,8.2,Gurkeerat Singh,R Ashwin,1wides,GJ Maxwell,0,1,1,0,NA,NA,NA
+1,8.3,Gurkeerat Singh,R Ashwin,NA,GJ Maxwell,4,0,4,0,NA,NA,NA
+1,8.4,Gurkeerat Singh,R Ashwin,NA,GJ Maxwell,0,0,0,1,MS Dhoni,stumped,Gurkeerat Singh
+1,8.5,DA Miller,R Ashwin,NA,GJ Maxwell,0,0,0,0,NA,NA,NA
+1,8.6,DA Miller,R Ashwin,NA,GJ Maxwell,0,0,0,0,NA,NA,NA
+1,8.7,DA Miller,R Ashwin,NA,GJ Maxwell,1,0,1,0,NA,NA,NA
+1,9.1,DA Miller,RA Jadeja,NA,GJ Maxwell,0,0,0,0,NA,NA,NA
+1,9.2,DA Miller,RA Jadeja,NA,GJ Maxwell,1,0,1,0,NA,NA,NA
+1,9.3,GJ Maxwell,RA Jadeja,NA,DA Miller,0,0,0,0,NA,NA,NA
+1,9.4,GJ Maxwell,RA Jadeja,NA,DA Miller,0,0,0,0,NA,NA,NA
+1,9.5,GJ Maxwell,RA Jadeja,NA,DA Miller,0,0,0,1,NA,bowled,GJ Maxwell
+1,9.6,AR Patel,RA Jadeja,NA,DA Miller,1,0,1,0,NA,NA,NA
+1,10.1,AR Patel,R Ashwin,NA,DA Miller,0,0,0,0,NA,NA,NA
+1,10.2,AR Patel,R Ashwin,NA,DA Miller,1,0,1,0,NA,NA,NA
+1,10.3,DA Miller,R Ashwin,NA,AR Patel,1,0,1,0,NA,NA,NA
+1,10.4,AR Patel,R Ashwin,NA,DA Miller,0,0,0,0,NA,NA,NA
+1,10.5,AR Patel,R Ashwin,NA,DA Miller,0,0,0,0,NA,NA,NA
+1,10.6,AR Patel,R Ashwin,NA,DA Miller,1,0,1,0,NA,NA,NA
+1,11.1,AR Patel,RA Jadeja,NA,DA Miller,1,0,1,0,NA,NA,NA
+1,11.2,DA Miller,RA Jadeja,NA,AR Patel,1,0,1,0,NA,NA,NA
+1,11.3,AR Patel,RA Jadeja,NA,DA Miller,0,0,0,0,NA,NA,NA
+1,11.4,AR Patel,RA Jadeja,NA,DA Miller,1,0,1,0,NA,NA,NA
+1,11.5,DA Miller,RA Jadeja,NA,AR Patel,4,0,4,0,NA,NA,NA
+1,11.6,DA Miller,RA Jadeja,NA,AR Patel,2,0,2,0,NA,NA,NA
+1,12.1,AR Patel,R Ashwin,NA,DA Miller,1,0,1,0,NA,NA,NA
+1,12.2,DA Miller,R Ashwin,NA,AR Patel,0,0,0,0,NA,NA,NA
+1,12.3,DA Miller,R Ashwin,NA,AR Patel,1,0,1,0,NA,NA,NA
+1,12.4,AR Patel,R Ashwin,NA,DA Miller,0,0,0,0,NA,NA,NA
+1,12.5,AR Patel,R Ashwin,NA,DA Miller,1,0,1,0,NA,NA,NA
+1,12.6,DA Miller,R Ashwin,NA,AR Patel,0,0,0,0,NA,NA,NA
+1,13.1,AR Patel,P Negi,NA,DA Miller,1,0,1,0,NA,NA,NA
+1,13.2,DA Miller,P Negi,4byes,AR Patel,0,4,4,0,NA,NA,NA
+1,13.3,DA Miller,P Negi,1legbyes,AR Patel,0,1,1,0,NA,NA,NA
+1,13.4,AR Patel,P Negi,NA,DA Miller,1,0,1,0,NA,NA,NA
+1,13.5,DA Miller,P Negi,NA,AR Patel,0,0,0,1,RA Jadeja,caught,DA Miller
+1,13.6,R Dhawan,P Negi,NA,AR Patel,0,0,0,0,NA,NA,NA
+1,14.1,AR Patel,SK Raina,1wides,R Dhawan,0,1,1,0,NA,NA,NA
+1,14.2,AR Patel,SK Raina,NA,R Dhawan,1,0,1,0,NA,NA,NA
+1,14.3,R Dhawan,SK Raina,NA,AR Patel,0,0,0,0,NA,NA,NA
+1,14.4,R Dhawan,SK Raina,NA,AR Patel,0,0,0,0,NA,NA,NA
+1,14.5,R Dhawan,SK Raina,NA,AR Patel,1,0,1,0,NA,NA,NA
+1,14.6,AR Patel,SK Raina,NA,R Dhawan,4,0,4,0,NA,NA,NA
+1,14.7,AR Patel,SK Raina,NA,R Dhawan,1,0,1,0,NA,NA,NA
+1,15.1,AR Patel,P Negi,1wides,R Dhawan,0,1,1,0,NA,NA,NA
+1,15.2,AR Patel,P Negi,NA,R Dhawan,1,0,1,0,NA,NA,NA
+1,15.3,R Dhawan,P Negi,NA,AR Patel,4,0,4,0,NA,NA,NA
+1,15.4,R Dhawan,P Negi,NA,AR Patel,0,0,0,0,NA,NA,NA
+1,15.5,R Dhawan,P Negi,NA,AR Patel,2,0,2,0,NA,NA,NA
+1,15.6,R Dhawan,P Negi,NA,AR Patel,0,0,0,0,NA,NA,NA
+1,15.7,R Dhawan,P Negi,NA,AR Patel,0,0,0,0,NA,NA,NA
+1,16.1,AR Patel,DJ Bravo,NA,R Dhawan,1,0,1,0,NA,NA,NA
+1,16.2,R Dhawan,DJ Bravo,NA,AR Patel,1,0,1,0,NA,NA,NA
+1,16.3,AR Patel,DJ Bravo,NA,R Dhawan,1,0,1,0,NA,NA,NA
+1,16.4,R Dhawan,DJ Bravo,NA,AR Patel,1,0,1,0,NA,NA,NA
+1,16.5,AR Patel,DJ Bravo,NA,R Dhawan,1,0,1,0,NA,NA,NA
+1,16.6,R Dhawan,DJ Bravo,NA,AR Patel,1,0,1,0,NA,NA,NA
+1,17.1,R Dhawan,RA Jadeja,1legbyes,AR Patel,0,1,1,0,NA,NA,NA
+1,17.2,AR Patel,RA Jadeja,NA,R Dhawan,0,0,0,0,NA,NA,NA
+1,17.3,AR Patel,RA Jadeja,NA,R Dhawan,1,0,1,0,NA,NA,NA
+1,17.4,R Dhawan,RA Jadeja,NA,AR Patel,1,0,1,0,NA,NA,NA
+1,17.5,AR Patel,RA Jadeja,NA,R Dhawan,4,0,4,0,NA,NA,NA
+1,17.6,AR Patel,RA Jadeja,NA,R Dhawan,1,0,1,0,NA,NA,NA
+1,18.1,AR Patel,DJ Bravo,NA,R Dhawan,6,0,6,0,NA,NA,NA
+1,18.2,AR Patel,DJ Bravo,NA,R Dhawan,0,0,0,0,NA,NA,NA
+1,18.3,AR Patel,DJ Bravo,NA,R Dhawan,1,0,1,0,NA,NA,NA
+1,18.4,R Dhawan,DJ Bravo,NA,AR Patel,6,0,6,0,NA,NA,NA
+1,18.5,R Dhawan,DJ Bravo,NA,AR Patel,1,0,1,0,NA,NA,NA
+1,18.6,AR Patel,DJ Bravo,NA,R Dhawan,0,0,0,1,MS Dhoni,caught,AR Patel
+1,19.1,BE Hendricks,A Nehra,NA,R Dhawan,0,0,0,0,NA,NA,NA
+1,19.2,BE Hendricks,A Nehra,NA,R Dhawan,1,0,1,0,NA,NA,NA
+1,19.3,R Dhawan,A Nehra,NA,BE Hendricks,0,0,0,0,NA,NA,NA
+1,19.4,R Dhawan,A Nehra,NA,BE Hendricks,0,0,0,0,NA,NA,NA
+1,19.5,R Dhawan,A Nehra,NA,BE Hendricks,6,0,6,0,NA,NA,NA
+1,19.6,R Dhawan,A Nehra,NA,BE Hendricks,1,0,1,0,NA,NA,NA
+2,0.1,MEK Hussey,Sandeep Sharma,NA,BB McCullum,1,0,1,0,NA,NA,NA
+2,0.2,BB McCullum,Sandeep Sharma,NA,MEK Hussey,0,0,0,0,NA,NA,NA
+2,0.3,BB McCullum,Sandeep Sharma,NA,MEK Hussey,1,0,1,0,NA,NA,NA
+2,0.4,MEK Hussey,Sandeep Sharma,NA,BB McCullum,0,0,0,0,NA,NA,NA
+2,0.5,MEK Hussey,Sandeep Sharma,NA,BB McCullum,0,0,0,0,NA,NA,NA
+2,0.6,MEK Hussey,Sandeep Sharma,NA,BB McCullum,0,0,0,1,WP Saha,caught,MEK Hussey
+2,1.1,BB McCullum,BE Hendricks,NA,F du Plessis,1,0,1,0,NA,NA,NA
+2,1.2,F du Plessis,BE Hendricks,NA,BB McCullum,3,0,3,0,NA,NA,NA
+2,1.3,BB McCullum,BE Hendricks,NA,F du Plessis,0,0,0,0,NA,NA,NA
+2,1.4,BB McCullum,BE Hendricks,NA,F du Plessis,4,0,4,0,NA,NA,NA
+2,1.5,BB McCullum,BE Hendricks,NA,F du Plessis,0,0,0,1,NA,bowled,BB McCullum
+2,1.6,SK Raina,BE Hendricks,NA,F du Plessis,0,0,0,0,NA,NA,NA
+2,2.1,F du Plessis,Sandeep Sharma,NA,SK Raina,0,0,0,0,NA,NA,NA
+2,2.2,F du Plessis,Sandeep Sharma,NA,SK Raina,1,0,1,0,NA,NA,NA
+2,2.3,SK Raina,Sandeep Sharma,NA,F du Plessis,0,0,0,0,NA,NA,NA
+2,2.4,SK Raina,Sandeep Sharma,NA,F du Plessis,2,0,2,0,NA,NA,NA
+2,2.5,SK Raina,Sandeep Sharma,NA,F du Plessis,4,0,4,0,NA,NA,NA
+2,2.6,SK Raina,Sandeep Sharma,NA,F du Plessis,0,0,0,0,NA,NA,NA
+2,3.1,F du Plessis,BE Hendricks,NA,SK Raina,4,0,4,0,NA,NA,NA
+2,3.2,F du Plessis,BE Hendricks,NA,SK Raina,0,0,0,0,NA,NA,NA
+2,3.3,F du Plessis,BE Hendricks,NA,SK Raina,1,0,1,0,NA,NA,NA
+2,3.4,SK Raina,BE Hendricks,1wides,F du Plessis,0,1,1,0,NA,NA,NA
+2,3.5,SK Raina,BE Hendricks,NA,F du Plessis,1,0,1,0,NA,NA,NA
+2,3.6,F du Plessis,BE Hendricks,NA,SK Raina,3,0,3,0,NA,NA,NA
+2,3.7,SK Raina,BE Hendricks,NA,F du Plessis,1,0,1,0,NA,NA,NA
+2,4.1,SK Raina,Gurkeerat Singh,NA,F du Plessis,0,0,0,0,NA,NA,NA
+2,4.2,SK Raina,Gurkeerat Singh,NA,F du Plessis,4,0,4,0,NA,NA,NA
+2,4.3,SK Raina,Gurkeerat Singh,NA,F du Plessis,2,0,2,0,NA,NA,NA
+2,4.4,SK Raina,Gurkeerat Singh,NA,F du Plessis,1,0,1,0,NA,NA,NA
+2,4.5,F du Plessis,Gurkeerat Singh,NA,SK Raina,1,0,1,0,NA,NA,NA
+2,4.6,SK Raina,Gurkeerat Singh,NA,F du Plessis,4,0,4,0,NA,NA,NA
+2,5.1,F du Plessis,R Dhawan,NA,SK Raina,0,0,0,0,NA,NA,NA
+2,5.2,F du Plessis,R Dhawan,NA,SK Raina,0,0,0,0,NA,NA,NA
+2,5.3,F du Plessis,R Dhawan,NA,SK Raina,4,0,4,0,NA,NA,NA
+2,5.4,F du Plessis,R Dhawan,NA,SK Raina,0,0,0,0,NA,NA,NA
+2,5.5,F du Plessis,R Dhawan,NA,SK Raina,1,0,1,0,NA,NA,NA
+2,5.6,SK Raina,R Dhawan,1wides,F du Plessis,0,1,1,0,NA,NA,NA
+2,5.7,SK Raina,R Dhawan,NA,F du Plessis,1,0,1,0,NA,NA,NA
+2,6.1,SK Raina,GJ Maxwell,2wides,F du Plessis,0,2,2,0,NA,NA,NA
+2,6.2,F du Plessis,GJ Maxwell,NA,SK Raina,4,0,4,0,NA,NA,NA
+2,6.3,F du Plessis,GJ Maxwell,NA,SK Raina,1,0,1,0,NA,NA,NA
+2,6.4,SK Raina,GJ Maxwell,NA,F du Plessis,0,0,0,0,NA,NA,NA
+2,6.5,SK Raina,GJ Maxwell,NA,F du Plessis,0,0,0,0,NA,NA,NA
+2,6.6,SK Raina,GJ Maxwell,NA,F du Plessis,1,0,1,0,NA,NA,NA
+2,6.7,F du Plessis,GJ Maxwell,NA,SK Raina,0,0,0,0,NA,NA,NA
+2,7.1,SK Raina,AR Patel,NA,F du Plessis,1,0,1,0,NA,NA,NA
+2,7.2,F du Plessis,AR Patel,NA,SK Raina,1,0,1,0,NA,NA,NA
+2,7.3,SK Raina,AR Patel,NA,F du Plessis,1,0,1,0,NA,NA,NA
+2,7.4,F du Plessis,AR Patel,1wides,SK Raina,0,1,1,0,NA,NA,NA
+2,7.5,F du Plessis,AR Patel,NA,SK Raina,1,0,1,0,NA,NA,NA
+2,7.6,SK Raina,AR Patel,NA,F du Plessis,1,0,1,0,NA,NA,NA
+2,7.7,F du Plessis,AR Patel,NA,SK Raina,2,0,2,0,NA,NA,NA
+2,8.1,SK Raina,Anureet Singh,NA,F du Plessis,1,0,1,0,NA,NA,NA
+2,8.2,F du Plessis,Anureet Singh,NA,SK Raina,1,0,1,0,NA,NA,NA
+2,8.3,SK Raina,Anureet Singh,NA,F du Plessis,0,0,0,0,NA,NA,NA
+2,8.4,SK Raina,Anureet Singh,NA,F du Plessis,1,0,1,0,NA,NA,NA
+2,8.5,F du Plessis,Anureet Singh,NA,SK Raina,0,0,0,0,NA,NA,NA
+2,8.6,F du Plessis,Anureet Singh,NA,SK Raina,1,0,1,0,NA,NA,NA
+2,9.1,F du Plessis,AR Patel,NA,SK Raina,4,0,4,0,NA,NA,NA
+2,9.2,F du Plessis,AR Patel,NA,SK Raina,1,0,1,0,NA,NA,NA
+2,9.3,SK Raina,AR Patel,NA,F du Plessis,1,0,1,0,NA,NA,NA
+2,9.4,F du Plessis,AR Patel,NA,SK Raina,1,0,1,0,NA,NA,NA
+2,9.5,SK Raina,AR Patel,NA,F du Plessis,1,0,1,0,NA,NA,NA
+2,9.6,F du Plessis,AR Patel,NA,SK Raina,1,0,1,0,NA,NA,NA
+2,10.1,F du Plessis,Gurkeerat Singh,NA,SK Raina,1,0,1,0,NA,NA,NA
+2,10.2,SK Raina,Gurkeerat Singh,NA,F du Plessis,0,0,0,0,NA,NA,NA
+2,10.3,SK Raina,Gurkeerat Singh,NA,F du Plessis,1,0,1,0,NA,NA,NA
+2,10.4,F du Plessis,Gurkeerat Singh,NA,SK Raina,1,0,1,0,NA,NA,NA
+2,10.5,SK Raina,Gurkeerat Singh,NA,F du Plessis,2,0,2,0,NA,NA,NA
+2,10.6,SK Raina,Gurkeerat Singh,NA,F du Plessis,0,0,0,0,NA,NA,NA
+2,11.1,F du Plessis,AR Patel,NA,SK Raina,0,0,0,0,NA,NA,NA
+2,11.2,F du Plessis,AR Patel,NA,SK Raina,6,0,6,0,NA,NA,NA
+2,11.3,F du Plessis,AR Patel,NA,SK Raina,0,0,0,0,NA,NA,NA
+2,11.4,F du Plessis,AR Patel,NA,SK Raina,0,0,0,0,NA,NA,NA
+2,11.5,F du Plessis,AR Patel,NA,SK Raina,4,0,4,0,NA,NA,NA
+2,11.6,F du Plessis,AR Patel,NA,SK Raina,1,0,1,0,NA,NA,NA
+2,12.1,F du Plessis,Gurkeerat Singh,NA,SK Raina,0,0,0,0,NA,NA,NA
+2,12.2,F du Plessis,Gurkeerat Singh,NA,SK Raina,1,0,1,0,NA,NA,NA
+2,12.3,SK Raina,Gurkeerat Singh,NA,F du Plessis,2,0,2,0,NA,NA,NA
+2,12.4,SK Raina,Gurkeerat Singh,NA,F du Plessis,1,0,1,0,NA,NA,NA
+2,12.5,F du Plessis,Gurkeerat Singh,NA,SK Raina,0,0,0,0,NA,NA,NA
+2,12.6,F du Plessis,Gurkeerat Singh,NA,SK Raina,1,0,1,0,NA,NA,NA
+2,13.1,F du Plessis,R Dhawan,NA,SK Raina,2,0,2,0,NA,NA,NA
+2,13.2,F du Plessis,R Dhawan,1wides,SK Raina,0,1,1,0,NA,NA,NA
+2,13.3,F du Plessis,R Dhawan,NA,SK Raina,2,0,2,0,NA,NA,NA
+2,13.4,F du Plessis,R Dhawan,NA,SK Raina,0,0,0,1,NA,bowled,F du Plessis
+2,13.5,MS Dhoni,R Dhawan,NA,SK Raina,0,0,0,0,NA,NA,NA
+2,13.6,MS Dhoni,R Dhawan,NA,SK Raina,0,0,0,0,NA,NA,NA
+2,13.7,MS Dhoni,R Dhawan,NA,SK Raina,0,0,0,0,NA,NA,NA
+2,14.1,SK Raina,Anureet Singh,NA,MS Dhoni,1,0,1,0,NA,NA,NA
+2,14.2,MS Dhoni,Anureet Singh,NA,SK Raina,1,0,1,0,NA,NA,NA
+2,14.3,SK Raina,Anureet Singh,NA,MS Dhoni,1,0,1,0,NA,NA,NA
+2,14.4,MS Dhoni,Anureet Singh,NA,SK Raina,4,0,4,0,NA,NA,NA
+2,14.5,MS Dhoni,Anureet Singh,NA,SK Raina,2,0,2,0,NA,NA,NA
+2,14.6,MS Dhoni,Anureet Singh,NA,SK Raina,0,0,0,0,NA,NA,NA
+2,15.1,SK Raina,BE Hendricks,NA,MS Dhoni,1,0,1,0,NA,NA,NA
+2,15.2,MS Dhoni,BE Hendricks,NA,SK Raina,0,0,0,0,NA,NA,NA
+2,15.3,MS Dhoni,BE Hendricks,NA,SK Raina,0,0,0,0,NA,NA,NA
+2,15.4,MS Dhoni,BE Hendricks,NA,SK Raina,0,0,0,0,NA,NA,NA
+2,15.5,MS Dhoni,BE Hendricks,NA,SK Raina,4,0,4,0,NA,NA,NA
+2,15.6,MS Dhoni,BE Hendricks,NA,SK Raina,1,0,1,0,NA,NA,NA
+2,16.1,MS Dhoni,Anureet Singh,NA,SK Raina,0,0,0,0,NA,NA,NA
+2,16.2,MS Dhoni,Anureet Singh,NA,SK Raina,6,0,6,0,NA,NA,NA
+2,16.3,MS Dhoni,Anureet Singh,NA,SK Raina,6,0,6,0,NA,NA,NA
+2,16.4,MS Dhoni,Anureet Singh,NA,SK Raina,1,0,1,0,NA,NA,NA
+2,16.5,SK Raina,Anureet Singh,NA,MS Dhoni,4,0,4,0,NA,NA,NA

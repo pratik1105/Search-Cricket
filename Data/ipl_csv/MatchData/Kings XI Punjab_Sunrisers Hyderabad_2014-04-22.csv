@@ -1,0 +1,246 @@
+innings,ball,batsman,bowler,extras,non_striker,batsman_run,extras_run,total_run,wicket,fielders,wicket_kind,player_out
+1,0.1,CA Pujara,DW Steyn,NA,V Sehwag,1,0,1,0,NA,NA,NA
+1,0.2,V Sehwag,DW Steyn,NA,CA Pujara,0,0,0,0,NA,NA,NA
+1,0.3,V Sehwag,DW Steyn,NA,CA Pujara,0,0,0,0,NA,NA,NA
+1,0.4,V Sehwag,DW Steyn,NA,CA Pujara,0,0,0,0,NA,NA,NA
+1,0.5,V Sehwag,DW Steyn,NA,CA Pujara,0,0,0,0,NA,NA,NA
+1,0.6,V Sehwag,DW Steyn,NA,CA Pujara,1,0,1,0,NA,NA,NA
+1,1.1,V Sehwag,B Kumar,NA,CA Pujara,1,0,1,0,NA,NA,NA
+1,1.2,CA Pujara,B Kumar,NA,V Sehwag,0,0,0,0,NA,NA,NA
+1,1.3,CA Pujara,B Kumar,NA,V Sehwag,0,0,0,0,NA,NA,NA
+1,1.4,CA Pujara,B Kumar,NA,V Sehwag,0,0,0,0,NA,NA,NA
+1,1.5,CA Pujara,B Kumar,NA,V Sehwag,0,0,0,0,NA,NA,NA
+1,1.6,CA Pujara,B Kumar,NA,V Sehwag,0,0,0,0,NA,NA,NA
+1,2.1,V Sehwag,IK Pathan,NA,CA Pujara,1,0,1,0,NA,NA,NA
+1,2.2,CA Pujara,IK Pathan,NA,V Sehwag,1,0,1,0,NA,NA,NA
+1,2.3,V Sehwag,IK Pathan,NA,CA Pujara,6,0,6,0,NA,NA,NA
+1,2.4,V Sehwag,IK Pathan,NA,CA Pujara,4,0,4,0,NA,NA,NA
+1,2.5,V Sehwag,IK Pathan,NA,CA Pujara,0,0,0,0,NA,NA,NA
+1,2.6,V Sehwag,IK Pathan,NA,CA Pujara,4,0,4,0,NA,NA,NA
+1,3.1,CA Pujara,B Kumar,NA,V Sehwag,1,0,1,0,NA,NA,NA
+1,3.2,V Sehwag,B Kumar,NA,CA Pujara,0,0,0,0,NA,NA,NA
+1,3.3,V Sehwag,B Kumar,NA,CA Pujara,0,0,0,0,NA,NA,NA
+1,3.4,V Sehwag,B Kumar,NA,CA Pujara,0,0,0,0,NA,NA,NA
+1,3.5,V Sehwag,B Kumar,NA,CA Pujara,0,0,0,0,NA,NA,NA
+1,3.6,V Sehwag,B Kumar,NA,CA Pujara,6,0,6,0,NA,NA,NA
+1,4.1,CA Pujara,DW Steyn,NA,V Sehwag,4,0,4,0,NA,NA,NA
+1,4.2,CA Pujara,DW Steyn,NA,V Sehwag,0,0,0,0,NA,NA,NA
+1,4.3,CA Pujara,DW Steyn,NA,V Sehwag,4,0,4,0,NA,NA,NA
+1,4.4,CA Pujara,DW Steyn,NA,V Sehwag,4,0,4,0,NA,NA,NA
+1,4.5,CA Pujara,DW Steyn,NA,V Sehwag,0,0,0,0,NA,NA,NA
+1,4.6,CA Pujara,DW Steyn,NA,V Sehwag,0,0,0,0,NA,NA,NA
+1,5.1,V Sehwag,KV Sharma,NA,CA Pujara,0,0,0,0,NA,NA,NA
+1,5.2,V Sehwag,KV Sharma,NA,CA Pujara,0,0,0,0,NA,NA,NA
+1,5.3,V Sehwag,KV Sharma,1legbyes,CA Pujara,0,1,1,0,NA,NA,NA
+1,5.4,CA Pujara,KV Sharma,NA,V Sehwag,0,0,0,0,NA,NA,NA
+1,5.5,CA Pujara,KV Sharma,NA,V Sehwag,4,0,4,0,NA,NA,NA
+1,5.6,CA Pujara,KV Sharma,NA,V Sehwag,0,0,0,0,NA,NA,NA
+1,6.1,V Sehwag,A Mishra,NA,CA Pujara,1,0,1,0,NA,NA,NA
+1,6.2,CA Pujara,A Mishra,NA,V Sehwag,1,0,1,0,NA,NA,NA
+1,6.3,V Sehwag,A Mishra,NA,CA Pujara,6,0,6,0,NA,NA,NA
+1,6.4,V Sehwag,A Mishra,NA,CA Pujara,0,0,0,1,DJG Sammy,caught,V Sehwag
+1,6.5,CA Pujara,A Mishra,NA,GJ Maxwell,0,0,0,0,NA,NA,NA
+1,6.6,CA Pujara,A Mishra,NA,GJ Maxwell,1,0,1,0,NA,NA,NA
+1,7.1,CA Pujara,KV Sharma,NA,GJ Maxwell,0,0,0,0,NA,NA,NA
+1,7.2,CA Pujara,KV Sharma,1wides,GJ Maxwell,0,1,1,0,NA,NA,NA
+1,7.3,CA Pujara,KV Sharma,1legbyes,GJ Maxwell,0,1,1,0,NA,NA,NA
+1,7.4,GJ Maxwell,KV Sharma,NA,CA Pujara,1,0,1,0,NA,NA,NA
+1,7.5,CA Pujara,KV Sharma,NA,GJ Maxwell,1,0,1,0,NA,NA,NA
+1,7.6,GJ Maxwell,KV Sharma,NA,CA Pujara,0,0,0,0,NA,NA,NA
+1,7.7,GJ Maxwell,KV Sharma,NA,CA Pujara,1,0,1,0,NA,NA,NA
+1,8.1,GJ Maxwell,A Mishra,NA,CA Pujara,1,0,1,0,NA,NA,NA
+1,8.2,CA Pujara,A Mishra,NA,GJ Maxwell,0,0,0,0,NA,NA,NA
+1,8.3,CA Pujara,A Mishra,NA,GJ Maxwell,1,0,1,0,NA,NA,NA
+1,8.4,GJ Maxwell,A Mishra,NA,CA Pujara,1,0,1,0,NA,NA,NA
+1,8.5,CA Pujara,A Mishra,NA,GJ Maxwell,2,0,2,0,NA,NA,NA
+1,8.6,CA Pujara,A Mishra,NA,GJ Maxwell,0,0,0,0,NA,NA,NA
+1,9.1,GJ Maxwell,KV Sharma,NA,CA Pujara,1,0,1,0,NA,NA,NA
+1,9.2,CA Pujara,KV Sharma,1legbyes,GJ Maxwell,0,1,1,0,NA,NA,NA
+1,9.3,GJ Maxwell,KV Sharma,NA,CA Pujara,6,0,6,0,NA,NA,NA
+1,9.4,GJ Maxwell,KV Sharma,NA,CA Pujara,2,0,2,0,NA,NA,NA
+1,9.5,GJ Maxwell,KV Sharma,NA,CA Pujara,1,0,1,0,NA,NA,NA
+1,9.6,CA Pujara,KV Sharma,NA,GJ Maxwell,4,0,4,0,NA,NA,NA
+1,10.1,GJ Maxwell,DJG Sammy,NA,CA Pujara,0,0,0,0,NA,NA,NA
+1,10.2,GJ Maxwell,DJG Sammy,NA,CA Pujara,2,0,2,0,NA,NA,NA
+1,10.3,GJ Maxwell,DJG Sammy,NA,CA Pujara,1,0,1,0,NA,NA,NA
+1,10.4,CA Pujara,DJG Sammy,NA,GJ Maxwell,2,0,2,0,NA,NA,NA
+1,10.5,CA Pujara,DJG Sammy,NA,GJ Maxwell,4,0,4,0,NA,NA,NA
+1,10.6,CA Pujara,DJG Sammy,NA,GJ Maxwell,0,0,0,1,Y Venugopal Rao,caught,CA Pujara
+1,11.1,DA Miller,IK Pathan,NA,GJ Maxwell,0,0,0,0,NA,NA,NA
+1,11.2,DA Miller,IK Pathan,NA,GJ Maxwell,1,0,1,0,NA,NA,NA
+1,11.3,GJ Maxwell,IK Pathan,NA,DA Miller,6,0,6,0,NA,NA,NA
+1,11.4,GJ Maxwell,IK Pathan,NA,DA Miller,4,0,4,0,NA,NA,NA
+1,11.5,GJ Maxwell,IK Pathan,NA,DA Miller,0,0,0,0,NA,NA,NA
+1,11.6,GJ Maxwell,IK Pathan,NA,DA Miller,1,0,1,0,NA,NA,NA
+1,12.1,GJ Maxwell,A Mishra,NA,DA Miller,6,0,6,0,NA,NA,NA
+1,12.2,GJ Maxwell,A Mishra,NA,DA Miller,6,0,6,0,NA,NA,NA
+1,12.3,GJ Maxwell,A Mishra,NA,DA Miller,6,0,6,0,NA,NA,NA
+1,12.4,GJ Maxwell,A Mishra,NA,DA Miller,1,0,1,0,NA,NA,NA
+1,12.5,DA Miller,A Mishra,NA,GJ Maxwell,6,0,6,0,NA,NA,NA
+1,12.6,DA Miller,A Mishra,NA,GJ Maxwell,0,0,0,0,NA,NA,NA
+1,13.1,GJ Maxwell,KV Sharma,NA,DA Miller,6,0,6,0,NA,NA,NA
+1,13.2,GJ Maxwell,KV Sharma,NA,DA Miller,1,0,1,0,NA,NA,NA
+1,13.3,DA Miller,KV Sharma,NA,GJ Maxwell,0,0,0,0,NA,NA,NA
+1,13.4,DA Miller,KV Sharma,1legbyes,GJ Maxwell,0,1,1,0,NA,NA,NA
+1,13.5,GJ Maxwell,KV Sharma,NA,DA Miller,4,0,4,0,NA,NA,NA
+1,13.6,GJ Maxwell,KV Sharma,NA,DA Miller,4,0,4,0,NA,NA,NA
+1,14.1,DA Miller,DJG Sammy,NA,GJ Maxwell,1,0,1,0,NA,NA,NA
+1,14.2,GJ Maxwell,DJG Sammy,NA,DA Miller,0,0,0,0,NA,NA,NA
+1,14.3,GJ Maxwell,DJG Sammy,1noballs,DA Miller,0,1,1,0,NA,NA,NA
+1,14.4,DA Miller,DJG Sammy,NA,GJ Maxwell,1,0,1,0,NA,NA,NA
+1,14.5,GJ Maxwell,DJG Sammy,NA,DA Miller,0,0,0,0,NA,NA,NA
+1,14.6,GJ Maxwell,DJG Sammy,NA,DA Miller,6,0,6,0,NA,NA,NA
+1,14.7,GJ Maxwell,DJG Sammy,NA,DA Miller,4,0,4,0,NA,NA,NA
+1,15.1,DA Miller,B Kumar,NA,GJ Maxwell,1,0,1,0,NA,NA,NA
+1,15.2,GJ Maxwell,B Kumar,NA,DA Miller,1,0,1,0,NA,NA,NA
+1,15.3,DA Miller,B Kumar,NA,GJ Maxwell,0,0,0,1,DA Warner,caught,DA Miller
+1,15.4,GJ Maxwell,B Kumar,NA,GJ Bailey,0,0,0,0,NA,NA,NA
+1,15.5,GJ Maxwell,B Kumar,NA,GJ Bailey,0,0,0,0,NA,NA,NA
+1,15.6,GJ Maxwell,B Kumar,NA,GJ Bailey,1,0,1,0,NA,NA,NA
+1,16.1,GJ Maxwell,DW Steyn,NA,GJ Bailey,0,0,0,0,NA,NA,NA
+1,16.2,GJ Maxwell,DW Steyn,NA,GJ Bailey,0,0,0,0,NA,NA,NA
+1,16.3,GJ Maxwell,DW Steyn,NA,GJ Bailey,4,0,4,0,NA,NA,NA
+1,16.4,GJ Maxwell,DW Steyn,NA,GJ Bailey,1,0,1,0,NA,NA,NA
+1,16.5,GJ Bailey,DW Steyn,NA,GJ Maxwell,1,0,1,0,NA,NA,NA
+1,16.6,GJ Maxwell,DW Steyn,NA,GJ Bailey,1,0,1,0,NA,NA,NA
+1,17.1,GJ Maxwell,A Mishra,1wides,GJ Bailey,0,1,1,0,NA,NA,NA
+1,17.2,GJ Maxwell,A Mishra,NA,GJ Bailey,6,0,6,0,NA,NA,NA
+1,17.3,GJ Maxwell,A Mishra,NA,GJ Bailey,1,0,1,0,NA,NA,NA
+1,17.4,GJ Bailey,A Mishra,NA,GJ Maxwell,1,0,1,0,NA,NA,NA
+1,17.5,GJ Maxwell,A Mishra,NA,GJ Bailey,2,0,2,0,NA,NA,NA
+1,17.6,GJ Maxwell,A Mishra,NA,GJ Bailey,6,0,6,0,NA,NA,NA
+1,17.7,GJ Maxwell,A Mishra,NA,GJ Bailey,0,0,0,1,DJG Sammy,caught,GJ Maxwell
+1,18.1,GJ Bailey,DW Steyn,NA,MG Johnson,0,0,0,0,NA,NA,NA
+1,18.2,GJ Bailey,DW Steyn,NA,MG Johnson,2,0,2,0,NA,NA,NA
+1,18.3,GJ Bailey,DW Steyn,NA,MG Johnson,1,0,1,0,NA,NA,NA
+1,18.4,MG Johnson,DW Steyn,NA,GJ Bailey,0,0,0,0,NA,NA,NA
+1,18.5,MG Johnson,DW Steyn,1wides,GJ Bailey,0,1,1,0,NA,NA,NA
+1,18.6,MG Johnson,DW Steyn,1legbyes,GJ Bailey,0,1,1,0,NA,NA,NA
+1,18.7,GJ Bailey,DW Steyn,NA,MG Johnson,1,0,1,0,NA,NA,NA
+1,19.1,GJ Bailey,B Kumar,NA,MG Johnson,4,0,4,0,NA,NA,NA
+1,19.2,GJ Bailey,B Kumar,NA,MG Johnson,0,0,0,1,DA Warner,caught,GJ Bailey
+1,19.3,MG Johnson,B Kumar,NA,AR Patel,2,0,2,0,NA,NA,NA
+1,19.4,MG Johnson,B Kumar,NA,AR Patel,2,0,2,0,NA,NA,NA
+1,19.5,MG Johnson,B Kumar,NA,AR Patel,0,0,0,0,NA,NA,NA
+1,19.6,MG Johnson,B Kumar,NA,AR Patel,0,0,0,1,NA,bowled,MG Johnson
+2,0.1,AJ Finch,Sandeep Sharma,NA,S Dhawan,0,0,0,0,NA,NA,NA
+2,0.2,AJ Finch,Sandeep Sharma,NA,S Dhawan,0,0,0,0,NA,NA,NA
+2,0.3,AJ Finch,Sandeep Sharma,NA,S Dhawan,6,0,6,0,NA,NA,NA
+2,0.4,AJ Finch,Sandeep Sharma,NA,S Dhawan,2,0,2,0,NA,NA,NA
+2,0.5,AJ Finch,Sandeep Sharma,NA,S Dhawan,1,0,1,0,NA,NA,NA
+2,0.6,S Dhawan,Sandeep Sharma,1wides,AJ Finch,0,1,1,0,NA,NA,NA
+2,0.7,S Dhawan,Sandeep Sharma,NA,AJ Finch,1,0,1,0,NA,NA,NA
+2,1.1,S Dhawan,MG Johnson,NA,AJ Finch,0,0,0,0,NA,NA,NA
+2,1.2,S Dhawan,MG Johnson,NA,AJ Finch,0,0,0,1,WP Saha,caught,S Dhawan
+2,1.3,DA Warner,MG Johnson,NA,AJ Finch,0,0,0,0,NA,NA,NA
+2,1.4,DA Warner,MG Johnson,NA,AJ Finch,1,0,1,0,NA,NA,NA
+2,1.5,AJ Finch,MG Johnson,NA,DA Warner,0,0,0,0,NA,NA,NA
+2,1.6,AJ Finch,MG Johnson,NA,DA Warner,4,0,4,0,NA,NA,NA
+2,2.1,DA Warner,Sandeep Sharma,NA,AJ Finch,0,0,0,0,NA,NA,NA
+2,2.2,DA Warner,Sandeep Sharma,NA,AJ Finch,0,0,0,0,NA,NA,NA
+2,2.3,DA Warner,Sandeep Sharma,NA,AJ Finch,0,0,0,0,NA,NA,NA
+2,2.4,DA Warner,Sandeep Sharma,NA,AJ Finch,2,0,2,0,NA,NA,NA
+2,2.5,DA Warner,Sandeep Sharma,NA,AJ Finch,0,0,0,0,NA,NA,NA
+2,2.6,DA Warner,Sandeep Sharma,NA,AJ Finch,4,0,4,0,NA,NA,NA
+2,3.1,AJ Finch,MG Johnson,NA,DA Warner,0,0,0,0,NA,NA,NA
+2,3.2,AJ Finch,MG Johnson,1noballs,DA Warner,0,1,1,0,NA,NA,NA
+2,3.3,AJ Finch,MG Johnson,NA,DA Warner,1,0,1,0,NA,NA,NA
+2,3.4,DA Warner,MG Johnson,1noballs,AJ Finch,0,1,1,0,NA,NA,NA
+2,3.5,DA Warner,MG Johnson,NA,AJ Finch,1,0,1,0,NA,NA,NA
+2,3.6,AJ Finch,MG Johnson,NA,DA Warner,4,0,4,0,NA,NA,NA
+2,3.7,AJ Finch,MG Johnson,NA,DA Warner,1,0,1,0,NA,NA,NA
+2,3.8,DA Warner,MG Johnson,NA,AJ Finch,0,0,0,0,NA,NA,NA
+2,4.1,AJ Finch,L Balaji,NA,DA Warner,0,0,0,0,NA,NA,NA
+2,4.2,AJ Finch,L Balaji,NA,DA Warner,0,0,0,0,NA,NA,NA
+2,4.3,AJ Finch,L Balaji,NA,DA Warner,0,0,0,1,NA,bowled,AJ Finch
+2,4.4,KL Rahul,L Balaji,1wides,DA Warner,0,1,1,0,NA,NA,NA
+2,4.5,KL Rahul,L Balaji,NA,DA Warner,1,0,1,0,NA,NA,NA
+2,4.6,DA Warner,L Balaji,NA,KL Rahul,0,0,0,1,GJ Maxwell,caught,DA Warner
+2,4.7,Y Venugopal Rao,L Balaji,NA,KL Rahul,0,0,0,0,NA,NA,NA
+2,5.1,KL Rahul,R Dhawan,NA,Y Venugopal Rao,2,0,2,0,NA,NA,NA
+2,5.2,KL Rahul,R Dhawan,NA,Y Venugopal Rao,1,0,1,0,NA,NA,NA
+2,5.3,Y Venugopal Rao,R Dhawan,NA,KL Rahul,0,0,0,0,NA,NA,NA
+2,5.4,Y Venugopal Rao,R Dhawan,NA,KL Rahul,4,0,4,0,NA,NA,NA
+2,5.5,Y Venugopal Rao,R Dhawan,NA,KL Rahul,4,0,4,0,NA,NA,NA
+2,5.6,Y Venugopal Rao,R Dhawan,NA,KL Rahul,1,0,1,0,NA,NA,NA
+2,6.1,Y Venugopal Rao,Sandeep Sharma,NA,KL Rahul,1,0,1,0,NA,NA,NA
+2,6.2,KL Rahul,Sandeep Sharma,NA,Y Venugopal Rao,1,0,1,0,NA,NA,NA
+2,6.3,Y Venugopal Rao,Sandeep Sharma,NA,KL Rahul,0,0,0,0,NA,NA,NA
+2,6.4,Y Venugopal Rao,Sandeep Sharma,NA,KL Rahul,1,0,1,0,NA,NA,NA
+2,6.5,KL Rahul,Sandeep Sharma,NA,Y Venugopal Rao,1,0,1,0,NA,NA,NA
+2,6.6,Y Venugopal Rao,Sandeep Sharma,NA,KL Rahul,0,0,0,1,NA,bowled,Y Venugopal Rao
+2,7.1,KL Rahul,AR Patel,NA,IK Pathan,1,0,1,0,NA,NA,NA
+2,7.2,IK Pathan,AR Patel,NA,KL Rahul,0,0,0,0,NA,NA,NA
+2,7.3,IK Pathan,AR Patel,NA,KL Rahul,1,0,1,0,NA,NA,NA
+2,7.4,KL Rahul,AR Patel,NA,IK Pathan,0,0,0,0,NA,NA,NA
+2,7.5,KL Rahul,AR Patel,2legbyes,IK Pathan,0,2,2,0,NA,NA,NA
+2,7.6,KL Rahul,AR Patel,NA,IK Pathan,1,0,1,0,NA,NA,NA
+2,8.1,KL Rahul,R Dhawan,NA,IK Pathan,1,0,1,0,NA,NA,NA
+2,8.2,IK Pathan,R Dhawan,NA,KL Rahul,1,0,1,0,NA,NA,NA
+2,8.3,KL Rahul,R Dhawan,NA,IK Pathan,4,0,4,0,NA,NA,NA
+2,8.4,KL Rahul,R Dhawan,NA,IK Pathan,1,0,1,0,NA,NA,NA
+2,8.5,IK Pathan,R Dhawan,1wides,KL Rahul,0,1,1,0,NA,NA,NA
+2,8.6,IK Pathan,R Dhawan,NA,KL Rahul,1,0,1,0,NA,NA,NA
+2,8.7,KL Rahul,R Dhawan,NA,IK Pathan,1,0,1,0,NA,NA,NA
+2,9.1,KL Rahul,GJ Maxwell,NA,IK Pathan,1,0,1,0,NA,NA,NA
+2,9.2,IK Pathan,GJ Maxwell,NA,KL Rahul,0,0,0,0,NA,NA,NA
+2,9.3,IK Pathan,GJ Maxwell,NA,KL Rahul,1,0,1,0,NA,NA,NA
+2,9.4,KL Rahul,GJ Maxwell,NA,IK Pathan,1,0,1,0,NA,NA,NA
+2,9.5,IK Pathan,GJ Maxwell,NA,KL Rahul,1,0,1,0,NA,NA,NA
+2,9.6,KL Rahul,GJ Maxwell,NA,IK Pathan,6,0,6,0,NA,NA,NA
+2,10.1,IK Pathan,AR Patel,NA,KL Rahul,0,0,0,0,NA,NA,NA
+2,10.2,IK Pathan,AR Patel,NA,KL Rahul,0,0,0,1,NA,bowled,IK Pathan
+2,10.3,DJG Sammy,AR Patel,NA,KL Rahul,0,0,0,0,NA,NA,NA
+2,10.4,DJG Sammy,AR Patel,NA,KL Rahul,3,0,3,0,NA,NA,NA
+2,10.5,KL Rahul,AR Patel,NA,DJG Sammy,1,0,1,0,NA,NA,NA
+2,10.6,DJG Sammy,AR Patel,NA,KL Rahul,1,0,1,0,NA,NA,NA
+2,11.1,DJG Sammy,L Balaji,NA,KL Rahul,0,0,0,0,NA,NA,NA
+2,11.2,DJG Sammy,L Balaji,NA,KL Rahul,2,0,2,0,NA,NA,NA
+2,11.3,DJG Sammy,L Balaji,NA,KL Rahul,1,0,1,0,NA,NA,NA
+2,11.4,KL Rahul,L Balaji,NA,DJG Sammy,1,0,1,0,NA,NA,NA
+2,11.5,DJG Sammy,L Balaji,NA,KL Rahul,1,0,1,0,NA,NA,NA
+2,11.6,KL Rahul,L Balaji,NA,DJG Sammy,0,0,0,0,NA,NA,NA
+2,12.1,DJG Sammy,AR Patel,NA,KL Rahul,0,0,0,0,NA,NA,NA
+2,12.2,DJG Sammy,AR Patel,NA,KL Rahul,6,0,6,0,NA,NA,NA
+2,12.3,DJG Sammy,AR Patel,NA,KL Rahul,1,0,1,0,NA,NA,NA
+2,12.4,KL Rahul,AR Patel,NA,DJG Sammy,0,0,0,0,NA,NA,NA
+2,12.5,KL Rahul,AR Patel,NA,DJG Sammy,0,0,0,0,NA,NA,NA
+2,12.6,KL Rahul,AR Patel,NA,DJG Sammy,1,0,1,0,NA,NA,NA
+2,13.1,KL Rahul,L Balaji,NA,DJG Sammy,0,0,0,0,NA,NA,NA
+2,13.2,KL Rahul,L Balaji,NA,DJG Sammy,1,0,1,0,NA,NA,NA
+2,13.3,DJG Sammy,L Balaji,NA,KL Rahul,0,0,0,1,AR Patel,caught,DJG Sammy
+2,13.4,KV Sharma,L Balaji,NA,KL Rahul,1,0,1,0,NA,NA,NA
+2,13.5,KL Rahul,L Balaji,NA,KV Sharma,0,0,0,0,NA,NA,NA
+2,13.6,KL Rahul,L Balaji,1legbyes,KV Sharma,0,1,1,0,NA,NA,NA
+2,14.1,KL Rahul,AR Patel,NA,KV Sharma,0,0,0,1,DA Miller,caught,KL Rahul
+2,14.2,KV Sharma,AR Patel,NA,DW Steyn,1,0,1,0,NA,NA,NA
+2,14.3,DW Steyn,AR Patel,NA,KV Sharma,1,0,1,0,NA,NA,NA
+2,14.4,KV Sharma,AR Patel,NA,DW Steyn,1,0,1,0,NA,NA,NA
+2,14.5,DW Steyn,AR Patel,NA,KV Sharma,0,0,0,0,NA,NA,NA
+2,14.6,DW Steyn,AR Patel,NA,KV Sharma,1,0,1,0,NA,NA,NA
+2,15.1,DW Steyn,MG Johnson,NA,KV Sharma,0,0,0,0,NA,NA,NA
+2,15.2,DW Steyn,MG Johnson,NA,KV Sharma,0,0,0,0,NA,NA,NA
+2,15.3,DW Steyn,MG Johnson,NA,KV Sharma,2,0,2,0,NA,NA,NA
+2,15.4,DW Steyn,MG Johnson,NA,KV Sharma,1,0,1,0,NA,NA,NA
+2,15.5,KV Sharma,MG Johnson,NA,DW Steyn,0,0,0,0,NA,NA,NA
+2,15.6,KV Sharma,MG Johnson,NA,DW Steyn,6,0,6,0,NA,NA,NA
+2,16.1,DW Steyn,Sandeep Sharma,NA,KV Sharma,1,0,1,0,NA,NA,NA
+2,16.2,KV Sharma,Sandeep Sharma,NA,DW Steyn,1,0,1,0,NA,NA,NA
+2,16.3,DW Steyn,Sandeep Sharma,NA,KV Sharma,0,0,0,0,NA,NA,NA
+2,16.4,DW Steyn,Sandeep Sharma,NA,KV Sharma,0,0,0,0,NA,NA,NA
+2,16.5,DW Steyn,Sandeep Sharma,NA,KV Sharma,2,0,2,0,NA,NA,NA
+2,16.6,DW Steyn,Sandeep Sharma,NA,KV Sharma,1,0,1,0,NA,NA,NA
+2,17.1,DW Steyn,MG Johnson,NA,KV Sharma,1,0,1,0,NA,NA,NA
+2,17.2,KV Sharma,MG Johnson,NA,DW Steyn,0,0,0,0,NA,NA,NA
+2,17.3,KV Sharma,MG Johnson,NA,DW Steyn,0,0,0,1,DA Miller,caught,KV Sharma
+2,17.4,A Mishra,MG Johnson,NA,DW Steyn,0,0,0,0,NA,NA,NA
+2,17.5,A Mishra,MG Johnson,NA,DW Steyn,1,0,1,0,NA,NA,NA
+2,17.6,DW Steyn,MG Johnson,NA,A Mishra,1,0,1,0,NA,NA,NA
+2,18.1,DW Steyn,L Balaji,NA,A Mishra,1,0,1,0,NA,NA,NA
+2,18.2,A Mishra,L Balaji,NA,DW Steyn,1,0,1,0,NA,NA,NA
+2,18.3,DW Steyn,L Balaji,NA,A Mishra,0,0,0,1,NA,bowled,DW Steyn
+2,18.4,B Kumar,L Balaji,NA,A Mishra,0,0,0,0,NA,NA,NA
+2,18.5,B Kumar,L Balaji,NA,A Mishra,1,0,1,0,NA,NA,NA
+2,18.6,A Mishra,L Balaji,NA,B Kumar,1,0,1,0,NA,NA,NA
+2,19.1,A Mishra,R Dhawan,NA,B Kumar,1,0,1,0,NA,NA,NA
+2,19.2,B Kumar,R Dhawan,NA,A Mishra,0,0,0,1,MG Johnson,caught,B Kumar

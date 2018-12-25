@@ -1,0 +1,246 @@
+innings,ball,batsman,bowler,extras,non_striker,batsman_run,extras_run,total_run,wicket,fielders,wicket_kind,player_out
+1,0.1,AM Rahane,AF Milne,NA,RA Tripathi,0,0,0,0,NA,NA,NA
+1,0.2,AM Rahane,AF Milne,NA,RA Tripathi,1,0,1,0,NA,NA,NA
+1,0.3,RA Tripathi,AF Milne,NA,AM Rahane,2,0,2,0,NA,NA,NA
+1,0.4,RA Tripathi,AF Milne,NA,AM Rahane,0,0,0,0,NA,NA,NA
+1,0.5,RA Tripathi,AF Milne,NA,AM Rahane,0,0,0,0,NA,NA,NA
+1,0.6,RA Tripathi,AF Milne,1wides,AM Rahane,0,1,1,0,NA,NA,NA
+1,0.7,RA Tripathi,AF Milne,NA,AM Rahane,0,0,0,0,NA,NA,NA
+1,1.1,AM Rahane,S Badree,NA,RA Tripathi,1,0,1,0,NA,NA,NA
+1,1.2,RA Tripathi,S Badree,NA,AM Rahane,1,0,1,0,NA,NA,NA
+1,1.3,AM Rahane,S Badree,NA,RA Tripathi,2,0,2,0,NA,NA,NA
+1,1.4,AM Rahane,S Badree,NA,RA Tripathi,0,0,0,0,NA,NA,NA
+1,1.5,AM Rahane,S Badree,NA,RA Tripathi,1,0,1,0,NA,NA,NA
+1,1.6,RA Tripathi,S Badree,NA,AM Rahane,0,0,0,0,NA,NA,NA
+1,2.1,AM Rahane,AF Milne,NA,RA Tripathi,1,0,1,0,NA,NA,NA
+1,2.2,RA Tripathi,AF Milne,NA,AM Rahane,4,0,4,0,NA,NA,NA
+1,2.3,RA Tripathi,AF Milne,NA,AM Rahane,0,0,0,0,NA,NA,NA
+1,2.4,RA Tripathi,AF Milne,NA,AM Rahane,0,0,0,0,NA,NA,NA
+1,2.5,RA Tripathi,AF Milne,NA,AM Rahane,4,0,4,0,NA,NA,NA
+1,2.6,RA Tripathi,AF Milne,NA,AM Rahane,0,0,0,0,NA,NA,NA
+1,3.1,AM Rahane,S Badree,NA,RA Tripathi,0,0,0,1,AF Milne,caught,AM Rahane
+1,3.2,SPD Smith,S Badree,NA,RA Tripathi,4,0,4,0,NA,NA,NA
+1,3.3,SPD Smith,S Badree,NA,RA Tripathi,1,0,1,0,NA,NA,NA
+1,3.4,RA Tripathi,S Badree,NA,SPD Smith,1,0,1,0,NA,NA,NA
+1,3.5,SPD Smith,S Badree,NA,RA Tripathi,0,0,0,0,NA,NA,NA
+1,3.6,SPD Smith,S Badree,NA,RA Tripathi,0,0,0,0,NA,NA,NA
+1,4.1,RA Tripathi,S Aravind,NA,SPD Smith,6,0,6,0,NA,NA,NA
+1,4.2,RA Tripathi,S Aravind,NA,SPD Smith,0,0,0,0,NA,NA,NA
+1,4.3,RA Tripathi,S Aravind,NA,SPD Smith,0,0,0,0,NA,NA,NA
+1,4.4,RA Tripathi,S Aravind,NA,SPD Smith,1,0,1,0,NA,NA,NA
+1,4.5,SPD Smith,S Aravind,NA,RA Tripathi,0,0,0,0,NA,NA,NA
+1,4.6,SPD Smith,S Aravind,NA,RA Tripathi,0,0,0,0,NA,NA,NA
+1,5.1,RA Tripathi,YS Chahal,NA,SPD Smith,4,0,4,0,NA,NA,NA
+1,5.2,RA Tripathi,YS Chahal,NA,SPD Smith,1,0,1,0,NA,NA,NA
+1,5.3,SPD Smith,YS Chahal,NA,RA Tripathi,1,0,1,0,NA,NA,NA
+1,5.4,RA Tripathi,YS Chahal,NA,SPD Smith,4,0,4,0,NA,NA,NA
+1,5.5,RA Tripathi,YS Chahal,NA,SPD Smith,1,0,1,0,NA,NA,NA
+1,5.6,SPD Smith,YS Chahal,NA,RA Tripathi,1,0,1,0,NA,NA,NA
+1,6.1,SPD Smith,P Negi,NA,RA Tripathi,1,0,1,0,NA,NA,NA
+1,6.2,RA Tripathi,P Negi,NA,SPD Smith,1,0,1,0,NA,NA,NA
+1,6.3,SPD Smith,P Negi,NA,RA Tripathi,1,0,1,0,NA,NA,NA
+1,6.4,RA Tripathi,P Negi,NA,SPD Smith,2,0,2,0,NA,NA,NA
+1,6.5,RA Tripathi,P Negi,NA,SPD Smith,1,0,1,0,NA,NA,NA
+1,6.6,SPD Smith,P Negi,NA,RA Tripathi,2,0,2,0,NA,NA,NA
+1,7.1,RA Tripathi,STR Binny,NA,SPD Smith,2,0,2,0,NA,NA,NA
+1,7.2,RA Tripathi,STR Binny,NA,SPD Smith,1,0,1,0,NA,NA,NA
+1,7.3,SPD Smith,STR Binny,NA,RA Tripathi,1,0,1,0,NA,NA,NA
+1,7.4,RA Tripathi,STR Binny,NA,SPD Smith,1,0,1,0,NA,NA,NA
+1,7.5,SPD Smith,STR Binny,NA,RA Tripathi,1,0,1,0,NA,NA,NA
+1,7.6,RA Tripathi,STR Binny,NA,SPD Smith,0,0,0,0,NA,NA,NA
+1,8.1,SPD Smith,P Negi,NA,RA Tripathi,1,0,1,0,NA,NA,NA
+1,8.2,RA Tripathi,P Negi,NA,SPD Smith,0,0,0,1,KM Jadhav,caught,RA Tripathi
+1,8.3,MK Tiwary,P Negi,NA,SPD Smith,4,0,4,0,NA,NA,NA
+1,8.4,MK Tiwary,P Negi,NA,SPD Smith,0,0,0,0,NA,NA,NA
+1,8.5,MK Tiwary,P Negi,NA,SPD Smith,1,0,1,0,NA,NA,NA
+1,8.6,SPD Smith,P Negi,NA,MK Tiwary,0,0,0,0,NA,NA,NA
+1,9.1,MK Tiwary,S Aravind,NA,SPD Smith,1,0,1,0,NA,NA,NA
+1,9.2,SPD Smith,S Aravind,NA,MK Tiwary,0,0,0,0,NA,NA,NA
+1,9.3,SPD Smith,S Aravind,NA,MK Tiwary,1,0,1,0,NA,NA,NA
+1,9.4,MK Tiwary,S Aravind,NA,SPD Smith,1,0,1,0,NA,NA,NA
+1,9.5,SPD Smith,S Aravind,NA,MK Tiwary,1,0,1,0,NA,NA,NA
+1,9.6,MK Tiwary,S Aravind,NA,SPD Smith,0,0,0,0,NA,NA,NA
+1,10.1,SPD Smith,P Negi,NA,MK Tiwary,0,0,0,0,NA,NA,NA
+1,10.2,SPD Smith,P Negi,NA,MK Tiwary,0,0,0,0,NA,NA,NA
+1,10.3,SPD Smith,P Negi,NA,MK Tiwary,0,0,0,0,NA,NA,NA
+1,10.4,SPD Smith,P Negi,NA,MK Tiwary,1,0,1,0,NA,NA,NA
+1,10.5,MK Tiwary,P Negi,NA,SPD Smith,0,0,0,0,NA,NA,NA
+1,10.6,MK Tiwary,P Negi,NA,SPD Smith,1,0,1,0,NA,NA,NA
+1,11.1,MK Tiwary,S Badree,NA,SPD Smith,0,0,0,0,NA,NA,NA
+1,11.2,MK Tiwary,S Badree,NA,SPD Smith,1,0,1,0,NA,NA,NA
+1,11.3,SPD Smith,S Badree,NA,MK Tiwary,6,0,6,0,NA,NA,NA
+1,11.4,SPD Smith,S Badree,NA,MK Tiwary,4,0,4,0,NA,NA,NA
+1,11.5,SPD Smith,S Badree,NA,MK Tiwary,4,0,4,0,NA,NA,NA
+1,11.6,SPD Smith,S Badree,NA,MK Tiwary,1,0,1,0,NA,NA,NA
+1,12.1,SPD Smith,YS Chahal,NA,MK Tiwary,1,0,1,0,NA,NA,NA
+1,12.2,MK Tiwary,YS Chahal,NA,SPD Smith,6,0,6,0,NA,NA,NA
+1,12.3,MK Tiwary,YS Chahal,NA,SPD Smith,2,0,2,0,NA,NA,NA
+1,12.4,MK Tiwary,YS Chahal,NA,SPD Smith,1,0,1,0,NA,NA,NA
+1,12.5,SPD Smith,YS Chahal,NA,MK Tiwary,3,0,3,0,NA,NA,NA
+1,12.6,MK Tiwary,YS Chahal,NA,SPD Smith,0,0,0,0,NA,NA,NA
+1,13.1,SPD Smith,STR Binny,NA,MK Tiwary,4,0,4,0,NA,NA,NA
+1,13.2,SPD Smith,STR Binny,NA,MK Tiwary,4,0,4,0,NA,NA,NA
+1,13.3,SPD Smith,STR Binny,NA,MK Tiwary,1,0,1,0,NA,NA,NA
+1,13.4,MK Tiwary,STR Binny,NA,SPD Smith,1,0,1,0,NA,NA,NA
+1,13.5,SPD Smith,STR Binny,NA,MK Tiwary,0,0,0,1,AF Milne,caught,SPD Smith
+1,13.6,MK Tiwary,STR Binny,NA,MS Dhoni,1,0,1,0,NA,NA,NA
+1,14.1,MK Tiwary,P Negi,NA,MS Dhoni,0,0,0,0,NA,NA,NA
+1,14.2,MK Tiwary,P Negi,NA,MS Dhoni,0,0,0,0,NA,NA,NA
+1,14.3,MK Tiwary,P Negi,1wides,MS Dhoni,0,1,1,0,NA,NA,NA
+1,14.4,MK Tiwary,P Negi,NA,MS Dhoni,1,0,1,0,NA,NA,NA
+1,14.5,MS Dhoni,P Negi,NA,MK Tiwary,0,0,0,0,NA,NA,NA
+1,14.6,MS Dhoni,P Negi,NA,MK Tiwary,0,0,0,0,NA,NA,NA
+1,14.7,MS Dhoni,P Negi,NA,MK Tiwary,0,0,0,0,NA,NA,NA
+1,15.1,MK Tiwary,S Badree,NA,MS Dhoni,1,0,1,0,NA,NA,NA
+1,15.2,MS Dhoni,S Badree,NA,MK Tiwary,0,0,0,0,NA,NA,NA
+1,15.3,MS Dhoni,S Badree,NA,MK Tiwary,1,0,1,0,NA,NA,NA
+1,15.4,MK Tiwary,S Badree,NA,MS Dhoni,1,0,1,0,NA,NA,NA
+1,15.5,MS Dhoni,S Badree,NA,MK Tiwary,0,0,0,0,NA,NA,NA
+1,15.6,MS Dhoni,S Badree,NA,MK Tiwary,1,0,1,0,NA,NA,NA
+1,16.1,MS Dhoni,AF Milne,NA,MK Tiwary,4,0,4,0,NA,NA,NA
+1,16.2,MS Dhoni,AF Milne,NA,MK Tiwary,2,0,2,0,NA,NA,NA
+1,16.3,MS Dhoni,AF Milne,NA,MK Tiwary,1,0,1,0,NA,NA,NA
+1,16.4,MK Tiwary,AF Milne,NA,MS Dhoni,2,0,2,0,NA,NA,NA
+1,16.5,MK Tiwary,AF Milne,1wides,MS Dhoni,0,1,1,0,NA,NA,NA
+1,16.6,MK Tiwary,AF Milne,NA,MS Dhoni,4,0,4,0,NA,NA,NA
+1,16.7,MK Tiwary,AF Milne,NA,MS Dhoni,0,0,0,0,NA,NA,NA
+1,17.1,MS Dhoni,S Aravind,NA,MK Tiwary,1,0,1,0,NA,NA,NA
+1,17.2,MK Tiwary,S Aravind,NA,MS Dhoni,1,0,1,0,NA,NA,NA
+1,17.3,MS Dhoni,S Aravind,NA,MK Tiwary,6,0,6,0,NA,NA,NA
+1,17.4,MS Dhoni,S Aravind,NA,MK Tiwary,1,0,1,0,NA,NA,NA
+1,17.5,MK Tiwary,S Aravind,NA,MS Dhoni,0,0,0,0,NA,NA,NA
+1,17.6,MK Tiwary,S Aravind,NA,MS Dhoni,1,0,1,0,NA,NA,NA
+1,18.1,MK Tiwary,AF Milne,NA,MS Dhoni,1,0,1,0,NA,NA,NA
+1,18.2,MS Dhoni,AF Milne,NA,MK Tiwary,1,0,1,0,NA,NA,NA
+1,18.3,MK Tiwary,AF Milne,NA,MS Dhoni,0,0,0,0,NA,NA,NA
+1,18.4,MK Tiwary,AF Milne,NA,MS Dhoni,4,0,4,0,NA,NA,NA
+1,18.5,MK Tiwary,AF Milne,NA,MS Dhoni,0,0,0,0,NA,NA,NA
+1,18.6,MK Tiwary,AF Milne,NA,MS Dhoni,2,0,2,0,NA,NA,NA
+1,19.1,MS Dhoni,S Aravind,1legbyes,MK Tiwary,0,1,1,0,NA,NA,NA
+1,19.2,MK Tiwary,S Aravind,NA,MS Dhoni,1,0,1,0,NA,NA,NA
+1,19.3,MS Dhoni,S Aravind,NA,MK Tiwary,1,0,1,0,NA,NA,NA
+1,19.4,MK Tiwary,S Aravind,NA,MS Dhoni,4,0,4,0,NA,NA,NA
+1,19.5,MK Tiwary,S Aravind,NA,MS Dhoni,1,0,1,0,NA,NA,NA
+1,19.6,MS Dhoni,S Aravind,NA,MK Tiwary,2,0,2,0,NA,NA,NA
+2,0.1,TM Head,DL Chahar,NA,V Kohli,1,0,1,0,NA,NA,NA
+2,0.2,V Kohli,DL Chahar,NA,TM Head,1,0,1,0,NA,NA,NA
+2,0.3,TM Head,DL Chahar,NA,V Kohli,0,0,0,0,NA,NA,NA
+2,0.4,TM Head,DL Chahar,NA,V Kohli,0,0,0,0,NA,NA,NA
+2,0.5,TM Head,DL Chahar,NA,V Kohli,1,0,1,0,NA,NA,NA
+2,0.6,V Kohli,DL Chahar,NA,TM Head,1,0,1,0,NA,NA,NA
+2,1.1,V Kohli,JD Unadkat,NA,TM Head,0,0,0,0,NA,NA,NA
+2,1.2,V Kohli,JD Unadkat,NA,TM Head,4,0,4,0,NA,NA,NA
+2,1.3,V Kohli,JD Unadkat,NA,TM Head,2,0,2,0,NA,NA,NA
+2,1.4,V Kohli,JD Unadkat,NA,TM Head,0,0,0,0,NA,NA,NA
+2,1.5,V Kohli,JD Unadkat,NA,TM Head,1,0,1,0,NA,NA,NA
+2,1.6,TM Head,JD Unadkat,NA,V Kohli,0,0,0,1,NA,bowled,TM Head
+2,2.1,V Kohli,DL Chahar,NA,AB de Villiers,4,0,4,0,NA,NA,NA
+2,2.2,V Kohli,DL Chahar,NA,AB de Villiers,0,0,0,0,NA,NA,NA
+2,2.3,V Kohli,DL Chahar,NA,AB de Villiers,4,0,4,0,NA,NA,NA
+2,2.4,V Kohli,DL Chahar,NA,AB de Villiers,4,0,4,0,NA,NA,NA
+2,2.5,V Kohli,DL Chahar,NA,AB de Villiers,1,0,1,0,NA,NA,NA
+2,2.6,AB de Villiers,DL Chahar,NA,V Kohli,1,0,1,0,NA,NA,NA
+2,3.1,AB de Villiers,JD Unadkat,NA,V Kohli,0,0,0,0,NA,NA,NA
+2,3.2,AB de Villiers,JD Unadkat,NA,V Kohli,0,0,0,0,NA,NA,NA
+2,3.3,AB de Villiers,JD Unadkat,NA,V Kohli,1,0,1,0,NA,NA,NA
+2,3.4,V Kohli,JD Unadkat,NA,AB de Villiers,1,0,1,0,NA,NA,NA
+2,3.5,AB de Villiers,JD Unadkat,1legbyes,V Kohli,0,1,1,0,NA,NA,NA
+2,3.6,V Kohli,JD Unadkat,NA,AB de Villiers,2,0,2,0,NA,NA,NA
+2,4.1,AB de Villiers,LH Ferguson,NA,V Kohli,1,0,1,0,NA,NA,NA
+2,4.2,V Kohli,LH Ferguson,NA,AB de Villiers,1,0,1,0,NA,NA,NA
+2,4.3,AB de Villiers,LH Ferguson,NA,V Kohli,0,0,0,0,NA,NA,NA
+2,4.4,AB de Villiers,LH Ferguson,NA,V Kohli,0,0,0,1,MK Tiwary,caught,AB de Villiers
+2,4.5,KM Jadhav,LH Ferguson,NA,V Kohli,0,0,0,0,NA,NA,NA
+2,4.6,KM Jadhav,LH Ferguson,1wides,V Kohli,0,1,1,0,NA,NA,NA
+2,4.7,KM Jadhav,LH Ferguson,NA,V Kohli,0,0,0,0,NA,NA,NA
+2,5.1,V Kohli,DT Christian,NA,KM Jadhav,0,0,0,0,NA,NA,NA
+2,5.2,V Kohli,DT Christian,NA,KM Jadhav,1,0,1,0,NA,NA,NA
+2,5.3,KM Jadhav,DT Christian,NA,V Kohli,4,0,4,0,NA,NA,NA
+2,5.4,KM Jadhav,DT Christian,NA,V Kohli,0,0,0,0,NA,NA,NA
+2,5.5,KM Jadhav,DT Christian,NA,V Kohli,0,0,0,0,NA,NA,NA
+2,5.6,KM Jadhav,DT Christian,NA,V Kohli,1,0,1,0,NA,NA,NA
+2,6.1,KM Jadhav,Imran Tahir,NA,V Kohli,0,0,0,0,NA,NA,NA
+2,6.2,KM Jadhav,Imran Tahir,NA,V Kohli,1,0,1,0,NA,NA,NA
+2,6.3,V Kohli,Imran Tahir,NA,KM Jadhav,0,0,0,0,NA,NA,NA
+2,6.4,V Kohli,Imran Tahir,NA,KM Jadhav,1,0,1,0,NA,NA,NA
+2,6.5,KM Jadhav,Imran Tahir,NA,V Kohli,1,0,1,0,NA,NA,NA
+2,6.6,V Kohli,Imran Tahir,NA,KM Jadhav,1,0,1,0,NA,NA,NA
+2,7.1,V Kohli,LH Ferguson,NA,KM Jadhav,1,0,1,0,NA,NA,NA
+2,7.2,KM Jadhav,LH Ferguson,NA,V Kohli,0,0,0,0,NA,NA,NA
+2,7.3,KM Jadhav,LH Ferguson,NA,V Kohli,0,0,0,0,NA,NA,NA
+2,7.4,KM Jadhav,LH Ferguson,NA,V Kohli,0,0,0,1,LH Ferguson,run out,KM Jadhav
+2,7.5,Sachin Baby,LH Ferguson,NA,V Kohli,0,0,0,0,NA,NA,NA
+2,7.6,Sachin Baby,LH Ferguson,NA,V Kohli,1,0,1,0,NA,NA,NA
+2,8.1,Sachin Baby,Washington Sundar,NA,V Kohli,1,0,1,0,NA,NA,NA
+2,8.2,V Kohli,Washington Sundar,NA,Sachin Baby,0,0,0,0,NA,NA,NA
+2,8.3,V Kohli,Washington Sundar,NA,Sachin Baby,1,0,1,0,NA,NA,NA
+2,8.4,Sachin Baby,Washington Sundar,NA,V Kohli,0,0,0,1,SPD Smith,caught,Sachin Baby
+2,8.5,STR Binny,Washington Sundar,NA,V Kohli,0,0,0,0,NA,NA,NA
+2,8.6,STR Binny,Washington Sundar,NA,V Kohli,1,0,1,0,NA,NA,NA
+2,9.1,STR Binny,LH Ferguson,NA,V Kohli,0,0,0,0,NA,NA,NA
+2,9.2,STR Binny,LH Ferguson,NA,V Kohli,0,0,0,0,NA,NA,NA
+2,9.3,STR Binny,LH Ferguson,NA,V Kohli,0,0,0,0,NA,NA,NA
+2,9.4,STR Binny,LH Ferguson,NA,V Kohli,0,0,0,0,NA,NA,NA
+2,9.5,STR Binny,LH Ferguson,NA,V Kohli,0,0,0,1,Washington Sundar,caught,STR Binny
+2,9.6,P Negi,LH Ferguson,1legbyes,V Kohli,0,1,1,0,NA,NA,NA
+2,10.1,P Negi,Washington Sundar,NA,V Kohli,1,0,1,0,NA,NA,NA
+2,10.2,V Kohli,Washington Sundar,NA,P Negi,0,0,0,0,NA,NA,NA
+2,10.3,V Kohli,Washington Sundar,NA,P Negi,1,0,1,0,NA,NA,NA
+2,10.4,P Negi,Washington Sundar,NA,V Kohli,0,0,0,0,NA,NA,NA
+2,10.5,P Negi,Washington Sundar,NA,V Kohli,1,0,1,0,NA,NA,NA
+2,10.6,V Kohli,Washington Sundar,NA,P Negi,1,0,1,0,NA,NA,NA
+2,11.1,V Kohli,DT Christian,NA,P Negi,2,0,2,0,NA,NA,NA
+2,11.2,V Kohli,DT Christian,NA,P Negi,1,0,1,0,NA,NA,NA
+2,11.3,P Negi,DT Christian,NA,V Kohli,0,0,0,0,NA,NA,NA
+2,11.4,P Negi,DT Christian,NA,V Kohli,1,0,1,0,NA,NA,NA
+2,11.5,V Kohli,DT Christian,NA,P Negi,2,0,2,0,NA,NA,NA
+2,11.6,V Kohli,DT Christian,NA,P Negi,1,0,1,0,NA,NA,NA
+2,12.1,V Kohli,Imran Tahir,NA,P Negi,0,0,0,0,NA,NA,NA
+2,12.2,V Kohli,Imran Tahir,NA,P Negi,0,0,0,0,NA,NA,NA
+2,12.3,V Kohli,Imran Tahir,NA,P Negi,1,0,1,0,NA,NA,NA
+2,12.4,P Negi,Imran Tahir,NA,V Kohli,0,0,0,1,DT Christian,caught,P Negi
+2,12.5,AF Milne,Imran Tahir,NA,V Kohli,0,0,0,0,NA,NA,NA
+2,12.6,AF Milne,Imran Tahir,NA,V Kohli,0,0,0,0,NA,NA,NA
+2,13.1,V Kohli,JD Unadkat,NA,AF Milne,1,0,1,0,NA,NA,NA
+2,13.2,AF Milne,JD Unadkat,NA,V Kohli,1,0,1,0,NA,NA,NA
+2,13.3,V Kohli,JD Unadkat,NA,AF Milne,0,0,0,0,NA,NA,NA
+2,13.4,V Kohli,JD Unadkat,NA,AF Milne,1,0,1,0,NA,NA,NA
+2,13.5,AF Milne,JD Unadkat,NA,V Kohli,1,0,1,0,NA,NA,NA
+2,13.6,V Kohli,JD Unadkat,NA,AF Milne,1,0,1,0,NA,NA,NA
+2,14.1,V Kohli,Imran Tahir,NA,AF Milne,1,0,1,0,NA,NA,NA
+2,14.2,AF Milne,Imran Tahir,NA,V Kohli,2,0,2,0,NA,NA,NA
+2,14.3,AF Milne,Imran Tahir,NA,V Kohli,0,0,0,0,NA,NA,NA
+2,14.4,AF Milne,Imran Tahir,NA,V Kohli,1,0,1,0,NA,NA,NA
+2,14.5,V Kohli,Imran Tahir,NA,AF Milne,1,0,1,0,NA,NA,NA
+2,14.6,AF Milne,Imran Tahir,NA,V Kohli,0,0,0,1,SPD Smith,caught,AF Milne
+2,15.1,V Kohli,JD Unadkat,NA,S Badree,1,0,1,0,NA,NA,NA
+2,15.2,S Badree,JD Unadkat,NA,V Kohli,0,0,0,0,NA,NA,NA
+2,15.3,S Badree,JD Unadkat,NA,V Kohli,0,0,0,0,NA,NA,NA
+2,15.4,S Badree,JD Unadkat,NA,V Kohli,0,0,0,0,NA,NA,NA
+2,15.5,S Badree,JD Unadkat,1wides,V Kohli,0,1,1,0,NA,NA,NA
+2,15.6,S Badree,JD Unadkat,NA,V Kohli,0,0,0,0,NA,NA,NA
+2,15.7,S Badree,JD Unadkat,NA,V Kohli,1,0,1,0,NA,NA,NA
+2,16.1,S Badree,Imran Tahir,NA,V Kohli,1,0,1,0,NA,NA,NA
+2,16.2,V Kohli,Imran Tahir,NA,S Badree,0,0,0,0,NA,NA,NA
+2,16.3,V Kohli,Imran Tahir,NA,S Badree,6,0,6,0,NA,NA,NA
+2,16.4,V Kohli,Imran Tahir,NA,S Badree,1,0,1,0,NA,NA,NA
+2,16.5,S Badree,Imran Tahir,NA,V Kohli,0,0,0,1,NA,bowled,S Badree
+2,16.6,S Aravind,Imran Tahir,NA,V Kohli,0,0,0,0,NA,NA,NA
+2,17.1,V Kohli,DT Christian,NA,S Aravind,0,0,0,0,NA,NA,NA
+2,17.2,V Kohli,DT Christian,NA,S Aravind,0,0,0,0,NA,NA,NA
+2,17.3,V Kohli,DT Christian,NA,S Aravind,0,0,0,0,NA,NA,NA
+2,17.4,V Kohli,DT Christian,NA,S Aravind,2,0,2,0,NA,NA,NA
+2,17.5,V Kohli,DT Christian,NA,S Aravind,0,0,0,1,MA Agarwal (sub),caught,V Kohli
+2,17.6,S Aravind,DT Christian,NA,YS Chahal,2,0,2,0,NA,NA,NA
+2,18.1,YS Chahal,LH Ferguson,NA,S Aravind,0,0,0,0,NA,NA,NA
+2,18.2,YS Chahal,LH Ferguson,NA,S Aravind,0,0,0,0,NA,NA,NA
+2,18.3,YS Chahal,LH Ferguson,NA,S Aravind,0,0,0,0,NA,NA,NA
+2,18.4,YS Chahal,LH Ferguson,NA,S Aravind,0,0,0,0,NA,NA,NA
+2,18.5,YS Chahal,LH Ferguson,NA,S Aravind,1,0,1,0,NA,NA,NA
+2,18.6,S Aravind,LH Ferguson,NA,YS Chahal,1,0,1,0,NA,NA,NA
+2,19.1,S Aravind,DT Christian,NA,YS Chahal,1,0,1,0,NA,NA,NA
+2,19.2,YS Chahal,DT Christian,NA,S Aravind,0,0,0,0,NA,NA,NA
+2,19.3,YS Chahal,DT Christian,NA,S Aravind,2,0,2,0,NA,NA,NA
+2,19.4,YS Chahal,DT Christian,NA,S Aravind,0,0,0,0,NA,NA,NA
+2,19.5,YS Chahal,DT Christian,NA,S Aravind,1,0,1,0,NA,NA,NA
+2,19.6,S Aravind,DT Christian,NA,YS Chahal,4,0,4,0,NA,NA,NA

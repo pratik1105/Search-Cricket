@@ -1,0 +1,238 @@
+innings,ball,batsman,bowler,extras,non_striker,batsman_run,extras_run,total_run,wicket,fielders,wicket_kind,player_out
+1,0.1,MA Agarwal,SL Malinga,NA,TM Dilshan,0,0,0,1,NA,bowled,MA Agarwal
+1,0.2,V Kohli,SL Malinga,NA,TM Dilshan,0,0,0,0,NA,NA,NA
+1,0.3,V Kohli,SL Malinga,NA,TM Dilshan,0,0,0,0,NA,NA,NA
+1,0.4,V Kohli,SL Malinga,NA,TM Dilshan,0,0,0,0,NA,NA,NA
+1,0.5,V Kohli,SL Malinga,NA,TM Dilshan,0,0,0,0,NA,NA,NA
+1,0.6,V Kohli,SL Malinga,NA,TM Dilshan,1,0,1,0,NA,NA,NA
+1,1.1,V Kohli,MM Patel,1legbyes,TM Dilshan,0,1,1,0,NA,NA,NA
+1,1.2,TM Dilshan,MM Patel,NA,V Kohli,0,0,0,0,NA,NA,NA
+1,1.3,TM Dilshan,MM Patel,1legbyes,V Kohli,0,1,1,0,NA,NA,NA
+1,1.4,V Kohli,MM Patel,NA,TM Dilshan,0,0,0,0,NA,NA,NA
+1,1.5,V Kohli,MM Patel,NA,TM Dilshan,0,0,0,0,NA,NA,NA
+1,1.6,V Kohli,MM Patel,NA,TM Dilshan,1,0,1,0,NA,NA,NA
+1,2.1,V Kohli,SL Malinga,NA,TM Dilshan,4,0,4,0,NA,NA,NA
+1,2.2,V Kohli,SL Malinga,NA,TM Dilshan,0,0,0,0,NA,NA,NA
+1,2.3,V Kohli,SL Malinga,NA,TM Dilshan,4,0,4,0,NA,NA,NA
+1,2.4,V Kohli,SL Malinga,NA,TM Dilshan,0,0,0,0,NA,NA,NA
+1,2.5,V Kohli,SL Malinga,NA,TM Dilshan,1,0,1,0,NA,NA,NA
+1,2.6,TM Dilshan,SL Malinga,NA,V Kohli,1,0,1,0,NA,NA,NA
+1,3.1,TM Dilshan,MM Patel,NA,V Kohli,1,0,1,0,NA,NA,NA
+1,3.2,V Kohli,MM Patel,NA,TM Dilshan,0,0,0,0,NA,NA,NA
+1,3.3,V Kohli,MM Patel,NA,TM Dilshan,0,0,0,0,NA,NA,NA
+1,3.4,V Kohli,MM Patel,NA,TM Dilshan,1,0,1,0,NA,NA,NA
+1,3.5,TM Dilshan,MM Patel,NA,V Kohli,0,0,0,0,NA,NA,NA
+1,3.6,TM Dilshan,MM Patel,NA,V Kohli,0,0,0,0,NA,NA,NA
+1,4.1,V Kohli,KA Pollard,1legbyes,TM Dilshan,0,1,1,0,NA,NA,NA
+1,4.2,TM Dilshan,KA Pollard,1wides,V Kohli,0,1,1,0,NA,NA,NA
+1,4.3,TM Dilshan,KA Pollard,1legbyes,V Kohli,0,1,1,0,NA,NA,NA
+1,4.4,V Kohli,KA Pollard,NA,TM Dilshan,0,0,0,1,DJ Jacobs,caught,V Kohli
+1,4.5,TM Dilshan,KA Pollard,NA,AB de Villiers,0,0,0,0,NA,NA,NA
+1,4.6,TM Dilshan,KA Pollard,NA,AB de Villiers,0,0,0,0,NA,NA,NA
+1,4.7,TM Dilshan,KA Pollard,NA,AB de Villiers,1,0,1,0,NA,NA,NA
+1,5.1,TM Dilshan,AG Murtaza,NA,AB de Villiers,1,0,1,0,NA,NA,NA
+1,5.2,AB de Villiers,AG Murtaza,NA,TM Dilshan,1,0,1,0,NA,NA,NA
+1,5.3,TM Dilshan,AG Murtaza,NA,AB de Villiers,0,0,0,0,NA,NA,NA
+1,5.4,TM Dilshan,AG Murtaza,NA,AB de Villiers,1,0,1,0,NA,NA,NA
+1,5.5,AB de Villiers,AG Murtaza,NA,TM Dilshan,0,0,0,0,NA,NA,NA
+1,5.6,AB de Villiers,AG Murtaza,NA,TM Dilshan,1,0,1,0,NA,NA,NA
+1,6.1,AB de Villiers,KA Pollard,NA,TM Dilshan,1,0,1,0,NA,NA,NA
+1,6.2,TM Dilshan,KA Pollard,NA,AB de Villiers,0,0,0,0,NA,NA,NA
+1,6.3,TM Dilshan,KA Pollard,NA,AB de Villiers,1,0,1,0,NA,NA,NA
+1,6.4,AB de Villiers,KA Pollard,NA,TM Dilshan,1,0,1,0,NA,NA,NA
+1,6.5,TM Dilshan,KA Pollard,NA,AB de Villiers,1,0,1,0,NA,NA,NA
+1,6.6,AB de Villiers,KA Pollard,NA,TM Dilshan,1,0,1,0,NA,NA,NA
+1,7.1,AB de Villiers,AG Murtaza,NA,TM Dilshan,0,0,0,0,NA,NA,NA
+1,7.2,AB de Villiers,AG Murtaza,NA,TM Dilshan,4,0,4,0,NA,NA,NA
+1,7.3,AB de Villiers,AG Murtaza,NA,TM Dilshan,0,0,0,0,NA,NA,NA
+1,7.4,AB de Villiers,AG Murtaza,NA,TM Dilshan,1,0,1,0,NA,NA,NA
+1,7.5,TM Dilshan,AG Murtaza,NA,AB de Villiers,1,0,1,0,NA,NA,NA
+1,7.6,AB de Villiers,AG Murtaza,NA,TM Dilshan,0,0,0,0,NA,NA,NA
+1,8.1,TM Dilshan,Harbhajan Singh,NA,AB de Villiers,4,0,4,0,NA,NA,NA
+1,8.2,TM Dilshan,Harbhajan Singh,NA,AB de Villiers,0,0,0,0,NA,NA,NA
+1,8.3,TM Dilshan,Harbhajan Singh,NA,AB de Villiers,0,0,0,0,NA,NA,NA
+1,8.4,TM Dilshan,Harbhajan Singh,NA,AB de Villiers,1,0,1,0,NA,NA,NA
+1,8.5,AB de Villiers,Harbhajan Singh,NA,TM Dilshan,0,0,0,0,NA,NA,NA
+1,8.6,AB de Villiers,Harbhajan Singh,NA,TM Dilshan,1,0,1,0,NA,NA,NA
+1,9.1,AB de Villiers,JEC Franklin,NA,TM Dilshan,1,0,1,0,NA,NA,NA
+1,9.2,TM Dilshan,JEC Franklin,NA,AB de Villiers,1,0,1,0,NA,NA,NA
+1,9.3,AB de Villiers,JEC Franklin,NA,TM Dilshan,4,0,4,0,NA,NA,NA
+1,9.4,AB de Villiers,JEC Franklin,NA,TM Dilshan,1,0,1,0,NA,NA,NA
+1,9.5,TM Dilshan,JEC Franklin,NA,AB de Villiers,1,0,1,0,NA,NA,NA
+1,9.6,AB de Villiers,JEC Franklin,NA,TM Dilshan,1,0,1,0,NA,NA,NA
+1,10.1,AB de Villiers,Harbhajan Singh,NA,TM Dilshan,1,0,1,0,NA,NA,NA
+1,10.2,TM Dilshan,Harbhajan Singh,1legbyes,AB de Villiers,0,1,1,0,NA,NA,NA
+1,10.3,AB de Villiers,Harbhajan Singh,1wides,TM Dilshan,0,1,1,0,NA,NA,NA
+1,10.4,AB de Villiers,Harbhajan Singh,NA,TM Dilshan,0,0,0,0,NA,NA,NA
+1,10.5,AB de Villiers,Harbhajan Singh,NA,TM Dilshan,1,0,1,0,NA,NA,NA
+1,10.6,TM Dilshan,Harbhajan Singh,NA,AB de Villiers,1,0,1,0,NA,NA,NA
+1,10.7,AB de Villiers,Harbhajan Singh,NA,TM Dilshan,0,0,0,0,NA,NA,NA
+1,11.1,TM Dilshan,AG Murtaza,1legbyes,AB de Villiers,0,1,1,0,NA,NA,NA
+1,11.2,AB de Villiers,AG Murtaza,NA,TM Dilshan,1,0,1,0,NA,NA,NA
+1,11.3,TM Dilshan,AG Murtaza,NA,AB de Villiers,4,0,4,0,NA,NA,NA
+1,11.4,TM Dilshan,AG Murtaza,NA,AB de Villiers,1,0,1,0,NA,NA,NA
+1,11.5,AB de Villiers,AG Murtaza,NA,TM Dilshan,1,0,1,0,NA,NA,NA
+1,11.6,TM Dilshan,AG Murtaza,NA,AB de Villiers,1,0,1,0,NA,NA,NA
+1,12.1,TM Dilshan,MM Patel,NA,AB de Villiers,1,0,1,0,NA,NA,NA
+1,12.2,AB de Villiers,MM Patel,NA,TM Dilshan,1,0,1,0,NA,NA,NA
+1,12.3,TM Dilshan,MM Patel,NA,AB de Villiers,1,0,1,0,NA,NA,NA
+1,12.4,AB de Villiers,MM Patel,NA,TM Dilshan,1,0,1,0,NA,NA,NA
+1,12.5,TM Dilshan,MM Patel,NA,AB de Villiers,2,0,2,0,NA,NA,NA
+1,12.6,TM Dilshan,MM Patel,NA,AB de Villiers,1,0,1,0,NA,NA,NA
+1,13.1,TM Dilshan,KA Pollard,NA,AB de Villiers,4,0,4,0,NA,NA,NA
+1,13.2,TM Dilshan,KA Pollard,NA,AB de Villiers,1,0,1,0,NA,NA,NA
+1,13.3,AB de Villiers,KA Pollard,NA,TM Dilshan,4,0,4,0,NA,NA,NA
+1,13.4,AB de Villiers,KA Pollard,NA,TM Dilshan,1,0,1,0,NA,NA,NA
+1,13.5,TM Dilshan,KA Pollard,NA,AB de Villiers,0,0,0,0,NA,NA,NA
+1,13.6,TM Dilshan,KA Pollard,NA,AB de Villiers,1,0,1,0,NA,NA,NA
+1,14.1,TM Dilshan,Harbhajan Singh,1wides,AB de Villiers,0,1,1,0,NA,NA,NA
+1,14.2,TM Dilshan,Harbhajan Singh,NA,AB de Villiers,1,0,1,0,NA,NA,NA
+1,14.3,AB de Villiers,Harbhajan Singh,NA,TM Dilshan,1,0,1,0,NA,NA,NA
+1,14.4,TM Dilshan,Harbhajan Singh,NA,AB de Villiers,1,0,1,0,NA,NA,NA
+1,14.5,AB de Villiers,Harbhajan Singh,NA,TM Dilshan,1,0,1,0,NA,NA,NA
+1,14.6,TM Dilshan,Harbhajan Singh,NA,AB de Villiers,0,0,0,0,NA,NA,NA
+1,14.7,TM Dilshan,Harbhajan Singh,NA,AB de Villiers,4,0,4,0,NA,NA,NA
+1,15.1,AB de Villiers,AG Murtaza,NA,TM Dilshan,0,0,0,0,NA,NA,NA
+1,15.2,AB de Villiers,AG Murtaza,NA,TM Dilshan,0,0,0,0,NA,NA,NA
+1,15.3,AB de Villiers,AG Murtaza,4byes,TM Dilshan,0,4,4,0,NA,NA,NA
+1,15.4,AB de Villiers,AG Murtaza,NA,TM Dilshan,1,0,1,0,NA,NA,NA
+1,15.5,TM Dilshan,AG Murtaza,NA,AB de Villiers,1,0,1,0,NA,NA,NA
+1,15.6,AB de Villiers,AG Murtaza,NA,TM Dilshan,6,0,6,0,NA,NA,NA
+1,16.1,TM Dilshan,KA Pollard,NA,AB de Villiers,0,0,0,0,NA,NA,NA
+1,16.2,TM Dilshan,KA Pollard,NA,AB de Villiers,6,0,6,0,NA,NA,NA
+1,16.3,TM Dilshan,KA Pollard,1legbyes,AB de Villiers,0,1,1,0,NA,NA,NA
+1,16.4,AB de Villiers,KA Pollard,NA,TM Dilshan,0,0,0,0,NA,NA,NA
+1,16.5,AB de Villiers,KA Pollard,NA,TM Dilshan,0,0,0,1,NA,caught and bowled,AB de Villiers
+1,16.6,TM Dilshan,KA Pollard,NA,AUK Pathan,1,0,1,0,NA,NA,NA
+1,17.1,TM Dilshan,SL Malinga,NA,AUK Pathan,1,0,1,0,NA,NA,NA
+1,17.2,AUK Pathan,SL Malinga,NA,TM Dilshan,0,0,0,0,NA,NA,NA
+1,17.3,AUK Pathan,SL Malinga,NA,TM Dilshan,0,0,0,1,NA,bowled,AUK Pathan
+1,17.4,SS Tiwary,SL Malinga,NA,TM Dilshan,0,0,0,0,NA,NA,NA
+1,17.5,SS Tiwary,SL Malinga,NA,TM Dilshan,4,0,4,0,NA,NA,NA
+1,17.6,SS Tiwary,SL Malinga,NA,TM Dilshan,0,0,0,0,NA,NA,NA
+1,18.1,TM Dilshan,Harbhajan Singh,NA,SS Tiwary,1,0,1,0,NA,NA,NA
+1,18.2,SS Tiwary,Harbhajan Singh,NA,TM Dilshan,4,0,4,0,NA,NA,NA
+1,18.3,SS Tiwary,Harbhajan Singh,NA,TM Dilshan,0,0,0,0,NA,NA,NA
+1,18.4,SS Tiwary,Harbhajan Singh,NA,TM Dilshan,1,0,1,0,NA,NA,NA
+1,18.5,TM Dilshan,Harbhajan Singh,NA,SS Tiwary,1,0,1,0,NA,NA,NA
+1,18.6,SS Tiwary,Harbhajan Singh,NA,TM Dilshan,1,0,1,0,NA,NA,NA
+1,19.1,SS Tiwary,SL Malinga,NA,TM Dilshan,4,0,4,0,NA,NA,NA
+1,19.2,SS Tiwary,SL Malinga,1wides,TM Dilshan,0,1,1,0,NA,NA,NA
+1,19.3,SS Tiwary,SL Malinga,NA,TM Dilshan,1,0,1,0,NA,NA,NA
+1,19.4,TM Dilshan,SL Malinga,NA,SS Tiwary,1,0,1,0,NA,NA,NA
+1,19.5,SS Tiwary,SL Malinga,NA,TM Dilshan,1,0,1,0,NA,NA,NA
+1,19.6,TM Dilshan,SL Malinga,NA,SS Tiwary,6,0,6,0,NA,NA,NA
+1,19.7,TM Dilshan,SL Malinga,NA,SS Tiwary,2,0,2,0,NA,NA,NA
+2,0.1,DJ Jacobs,Z Khan,NA,SR Tendulkar,0,0,0,0,NA,NA,NA
+2,0.2,DJ Jacobs,Z Khan,NA,SR Tendulkar,0,0,0,0,NA,NA,NA
+2,0.3,DJ Jacobs,Z Khan,1wides,SR Tendulkar,0,1,1,0,NA,NA,NA
+2,0.4,DJ Jacobs,Z Khan,NA,SR Tendulkar,0,0,0,0,NA,NA,NA
+2,0.5,DJ Jacobs,Z Khan,NA,SR Tendulkar,6,0,6,0,NA,NA,NA
+2,0.6,DJ Jacobs,Z Khan,NA,SR Tendulkar,0,0,0,0,NA,NA,NA
+2,0.7,DJ Jacobs,Z Khan,NA,SR Tendulkar,0,0,0,0,NA,NA,NA
+2,1.1,SR Tendulkar,DL Vettori,NA,DJ Jacobs,0,0,0,0,NA,NA,NA
+2,1.2,SR Tendulkar,DL Vettori,NA,DJ Jacobs,0,0,0,0,NA,NA,NA
+2,1.3,SR Tendulkar,DL Vettori,NA,DJ Jacobs,2,0,2,0,NA,NA,NA
+2,1.4,SR Tendulkar,DL Vettori,NA,DJ Jacobs,1,0,1,0,NA,NA,NA
+2,1.5,DJ Jacobs,DL Vettori,NA,SR Tendulkar,0,0,0,0,NA,NA,NA
+2,1.6,DJ Jacobs,DL Vettori,NA,SR Tendulkar,1,0,1,0,NA,NA,NA
+2,2.1,DJ Jacobs,Z Khan,NA,SR Tendulkar,4,0,4,0,NA,NA,NA
+2,2.2,DJ Jacobs,Z Khan,NA,SR Tendulkar,6,0,6,0,NA,NA,NA
+2,2.3,DJ Jacobs,Z Khan,NA,SR Tendulkar,4,0,4,0,NA,NA,NA
+2,2.4,DJ Jacobs,Z Khan,NA,SR Tendulkar,0,0,0,0,NA,NA,NA
+2,2.5,DJ Jacobs,Z Khan,1legbyes,SR Tendulkar,0,1,1,0,NA,NA,NA
+2,2.6,SR Tendulkar,Z Khan,NA,DJ Jacobs,0,0,0,0,NA,NA,NA
+2,3.1,DJ Jacobs,DL Vettori,NA,SR Tendulkar,1,0,1,0,NA,NA,NA
+2,3.2,SR Tendulkar,DL Vettori,NA,DJ Jacobs,2,0,2,0,NA,NA,NA
+2,3.3,SR Tendulkar,DL Vettori,NA,DJ Jacobs,4,0,4,0,NA,NA,NA
+2,3.4,SR Tendulkar,DL Vettori,NA,DJ Jacobs,0,0,0,0,NA,NA,NA
+2,3.5,SR Tendulkar,DL Vettori,NA,DJ Jacobs,0,0,0,0,NA,NA,NA
+2,3.6,SR Tendulkar,DL Vettori,NA,DJ Jacobs,0,0,0,0,NA,NA,NA
+2,4.1,DJ Jacobs,DP Nannes,NA,SR Tendulkar,0,0,0,0,NA,NA,NA
+2,4.2,DJ Jacobs,DP Nannes,NA,SR Tendulkar,0,0,0,1,NA,bowled,DJ Jacobs
+2,4.3,AT Rayudu,DP Nannes,NA,SR Tendulkar,0,0,0,0,NA,NA,NA
+2,4.4,AT Rayudu,DP Nannes,NA,SR Tendulkar,0,0,0,0,NA,NA,NA
+2,4.5,AT Rayudu,DP Nannes,NA,SR Tendulkar,0,0,0,0,NA,NA,NA
+2,4.6,AT Rayudu,DP Nannes,NA,SR Tendulkar,0,0,0,0,NA,NA,NA
+2,5.1,SR Tendulkar,A Mithun,NA,AT Rayudu,4,0,4,0,NA,NA,NA
+2,5.2,SR Tendulkar,A Mithun,NA,AT Rayudu,0,0,0,0,NA,NA,NA
+2,5.3,SR Tendulkar,A Mithun,NA,AT Rayudu,1,0,1,0,NA,NA,NA
+2,5.4,AT Rayudu,A Mithun,NA,SR Tendulkar,1,0,1,0,NA,NA,NA
+2,5.5,SR Tendulkar,A Mithun,NA,AT Rayudu,0,0,0,0,NA,NA,NA
+2,5.6,SR Tendulkar,A Mithun,NA,AT Rayudu,1,0,1,0,NA,NA,NA
+2,6.1,SR Tendulkar,V Kohli,NA,AT Rayudu,1,0,1,0,NA,NA,NA
+2,6.2,AT Rayudu,V Kohli,NA,SR Tendulkar,1,0,1,0,NA,NA,NA
+2,6.3,SR Tendulkar,V Kohli,NA,AT Rayudu,1,0,1,0,NA,NA,NA
+2,6.4,AT Rayudu,V Kohli,NA,SR Tendulkar,1,0,1,0,NA,NA,NA
+2,6.5,SR Tendulkar,V Kohli,NA,AT Rayudu,1,0,1,0,NA,NA,NA
+2,6.6,AT Rayudu,V Kohli,NA,SR Tendulkar,0,0,0,0,NA,NA,NA
+2,7.1,SR Tendulkar,A Mithun,NA,AT Rayudu,1,0,1,0,NA,NA,NA
+2,7.2,AT Rayudu,A Mithun,NA,SR Tendulkar,4,0,4,0,NA,NA,NA
+2,7.3,AT Rayudu,A Mithun,NA,SR Tendulkar,4,0,4,0,NA,NA,NA
+2,7.4,AT Rayudu,A Mithun,NA,SR Tendulkar,1,0,1,0,NA,NA,NA
+2,7.5,SR Tendulkar,A Mithun,NA,AT Rayudu,1,0,1,0,NA,NA,NA
+2,7.6,AT Rayudu,A Mithun,1noballs,SR Tendulkar,1,1,2,0,NA,NA,NA
+2,7.7,SR Tendulkar,A Mithun,NA,AT Rayudu,4,0,4,0,NA,NA,NA
+2,8.1,AT Rayudu,DL Vettori,NA,SR Tendulkar,0,0,0,0,NA,NA,NA
+2,8.2,AT Rayudu,DL Vettori,NA,SR Tendulkar,1,0,1,0,NA,NA,NA
+2,8.3,SR Tendulkar,DL Vettori,NA,AT Rayudu,1,0,1,0,NA,NA,NA
+2,8.4,AT Rayudu,DL Vettori,NA,SR Tendulkar,0,0,0,0,NA,NA,NA
+2,8.5,AT Rayudu,DL Vettori,NA,SR Tendulkar,1,0,1,0,NA,NA,NA
+2,8.6,SR Tendulkar,DL Vettori,NA,AT Rayudu,1,0,1,0,NA,NA,NA
+2,9.1,SR Tendulkar,TM Dilshan,NA,AT Rayudu,4,0,4,0,NA,NA,NA
+2,9.2,SR Tendulkar,TM Dilshan,NA,AT Rayudu,0,0,0,0,NA,NA,NA
+2,9.3,SR Tendulkar,TM Dilshan,NA,AT Rayudu,4,0,4,0,NA,NA,NA
+2,9.4,SR Tendulkar,TM Dilshan,NA,AT Rayudu,1,0,1,0,NA,NA,NA
+2,9.5,AT Rayudu,TM Dilshan,NA,SR Tendulkar,2,0,2,0,NA,NA,NA
+2,9.6,AT Rayudu,TM Dilshan,NA,SR Tendulkar,1,0,1,0,NA,NA,NA
+2,10.1,AT Rayudu,DL Vettori,NA,SR Tendulkar,0,0,0,0,NA,NA,NA
+2,10.2,AT Rayudu,DL Vettori,NA,SR Tendulkar,0,0,0,0,NA,NA,NA
+2,10.3,AT Rayudu,DL Vettori,NA,SR Tendulkar,1,0,1,0,NA,NA,NA
+2,10.4,SR Tendulkar,DL Vettori,NA,AT Rayudu,0,0,0,0,NA,NA,NA
+2,10.5,SR Tendulkar,DL Vettori,NA,AT Rayudu,1,0,1,0,NA,NA,NA
+2,10.6,AT Rayudu,DL Vettori,NA,SR Tendulkar,1,0,1,0,NA,NA,NA
+2,11.1,AT Rayudu,AUK Pathan,NA,SR Tendulkar,4,0,4,0,NA,NA,NA
+2,11.2,AT Rayudu,AUK Pathan,NA,SR Tendulkar,1,0,1,0,NA,NA,NA
+2,11.3,SR Tendulkar,AUK Pathan,NA,AT Rayudu,1,0,1,0,NA,NA,NA
+2,11.4,AT Rayudu,AUK Pathan,NA,SR Tendulkar,1,0,1,0,NA,NA,NA
+2,11.5,SR Tendulkar,AUK Pathan,NA,AT Rayudu,0,0,0,0,NA,NA,NA
+2,11.6,SR Tendulkar,AUK Pathan,NA,AT Rayudu,1,0,1,0,NA,NA,NA
+2,12.1,SR Tendulkar,V Kohli,NA,AT Rayudu,1,0,1,0,NA,NA,NA
+2,12.2,AT Rayudu,V Kohli,NA,SR Tendulkar,1,0,1,0,NA,NA,NA
+2,12.3,SR Tendulkar,V Kohli,NA,AT Rayudu,1,0,1,0,NA,NA,NA
+2,12.4,AT Rayudu,V Kohli,NA,SR Tendulkar,1,0,1,0,NA,NA,NA
+2,12.5,SR Tendulkar,V Kohli,NA,AT Rayudu,4,0,4,0,NA,NA,NA
+2,12.6,SR Tendulkar,V Kohli,NA,AT Rayudu,2,0,2,0,NA,NA,NA
+2,13.1,AT Rayudu,Z Khan,NA,SR Tendulkar,4,0,4,0,NA,NA,NA
+2,13.2,AT Rayudu,Z Khan,NA,SR Tendulkar,0,0,0,0,NA,NA,NA
+2,13.3,AT Rayudu,Z Khan,NA,SR Tendulkar,4,0,4,0,NA,NA,NA
+2,13.4,AT Rayudu,Z Khan,NA,SR Tendulkar,0,0,0,0,NA,NA,NA
+2,13.5,AT Rayudu,Z Khan,NA,SR Tendulkar,1,0,1,0,NA,NA,NA
+2,13.6,SR Tendulkar,Z Khan,NA,AT Rayudu,0,0,0,0,NA,NA,NA
+2,14.1,AT Rayudu,AUK Pathan,NA,SR Tendulkar,4,0,4,0,NA,NA,NA
+2,14.2,AT Rayudu,AUK Pathan,NA,SR Tendulkar,1,0,1,0,NA,NA,NA
+2,14.3,SR Tendulkar,AUK Pathan,NA,AT Rayudu,1,0,1,0,NA,NA,NA
+2,14.4,AT Rayudu,AUK Pathan,NA,SR Tendulkar,0,0,0,0,NA,NA,NA
+2,14.5,AT Rayudu,AUK Pathan,NA,SR Tendulkar,1,0,1,0,NA,NA,NA
+2,14.6,SR Tendulkar,AUK Pathan,NA,AT Rayudu,1,0,1,0,NA,NA,NA
+2,15.1,SR Tendulkar,Z Khan,NA,AT Rayudu,0,0,0,0,NA,NA,NA
+2,15.2,SR Tendulkar,Z Khan,NA,AT Rayudu,1,0,1,0,NA,NA,NA
+2,15.3,AT Rayudu,Z Khan,NA,SR Tendulkar,4,0,4,0,NA,NA,NA
+2,15.4,AT Rayudu,Z Khan,NA,SR Tendulkar,0,0,0,0,NA,NA,NA
+2,15.5,AT Rayudu,Z Khan,NA,SR Tendulkar,0,0,0,0,NA,NA,NA
+2,15.6,AT Rayudu,Z Khan,NA,SR Tendulkar,1,0,1,0,NA,NA,NA
+2,16.1,AT Rayudu,AUK Pathan,NA,SR Tendulkar,4,0,4,0,NA,NA,NA
+2,16.2,AT Rayudu,AUK Pathan,NA,SR Tendulkar,0,0,0,0,NA,NA,NA
+2,16.3,AT Rayudu,AUK Pathan,NA,SR Tendulkar,1,0,1,0,NA,NA,NA
+2,16.4,SR Tendulkar,AUK Pathan,NA,AT Rayudu,1,0,1,0,NA,NA,NA
+2,16.5,AT Rayudu,AUK Pathan,NA,SR Tendulkar,2,0,2,0,NA,NA,NA
+2,16.6,AT Rayudu,AUK Pathan,NA,SR Tendulkar,1,0,1,0,NA,NA,NA
+2,17.1,AT Rayudu,A Mithun,NA,SR Tendulkar,1,0,1,0,NA,NA,NA
+2,17.2,SR Tendulkar,A Mithun,NA,AT Rayudu,1,0,1,0,NA,NA,NA
+2,17.3,AT Rayudu,A Mithun,NA,SR Tendulkar,0,0,0,0,NA,NA,NA
+2,17.4,AT Rayudu,A Mithun,NA,SR Tendulkar,4,0,4,0,NA,NA,NA
+2,17.5,AT Rayudu,A Mithun,NA,SR Tendulkar,1,0,1,0,NA,NA,NA
+2,17.6,SR Tendulkar,A Mithun,NA,AT Rayudu,0,0,0,0,NA,NA,NA
+2,18.1,AT Rayudu,AUK Pathan,NA,SR Tendulkar,1,0,1,0,NA,NA,NA
+2,18.2,SR Tendulkar,AUK Pathan,NA,AT Rayudu,0,0,0,0,NA,NA,NA
+2,18.3,SR Tendulkar,AUK Pathan,NA,AT Rayudu,4,0,4,0,NA,NA,NA

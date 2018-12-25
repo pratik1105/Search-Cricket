@@ -1,0 +1,241 @@
+innings,ball,batsman,bowler,extras,non_striker,batsman_run,extras_run,total_run,wicket,fielders,wicket_kind,player_out
+1,0.1,HM Amla,A Choudhary,NA,MJ Guptill,1,0,1,0,NA,NA,NA
+1,0.2,MJ Guptill,A Choudhary,NA,HM Amla,0,0,0,0,NA,NA,NA
+1,0.3,MJ Guptill,A Choudhary,NA,HM Amla,1,0,1,0,NA,NA,NA
+1,0.4,HM Amla,A Choudhary,NA,MJ Guptill,0,0,0,0,NA,NA,NA
+1,0.5,HM Amla,A Choudhary,NA,MJ Guptill,0,0,0,1,KM Jadhav,caught,HM Amla
+1,0.6,SE Marsh,A Choudhary,NA,MJ Guptill,0,0,0,0,NA,NA,NA
+1,1.1,MJ Guptill,S Aravind,NA,SE Marsh,0,0,0,0,NA,NA,NA
+1,1.2,MJ Guptill,S Aravind,NA,SE Marsh,4,0,4,0,NA,NA,NA
+1,1.3,MJ Guptill,S Aravind,NA,SE Marsh,0,0,0,0,NA,NA,NA
+1,1.4,MJ Guptill,S Aravind,NA,SE Marsh,1,0,1,0,NA,NA,NA
+1,1.5,SE Marsh,S Aravind,NA,MJ Guptill,4,0,4,0,NA,NA,NA
+1,1.6,SE Marsh,S Aravind,NA,MJ Guptill,0,0,0,0,NA,NA,NA
+1,2.1,MJ Guptill,A Choudhary,NA,SE Marsh,0,0,0,0,NA,NA,NA
+1,2.2,MJ Guptill,A Choudhary,NA,SE Marsh,2,0,2,0,NA,NA,NA
+1,2.3,MJ Guptill,A Choudhary,NA,SE Marsh,1,0,1,0,NA,NA,NA
+1,2.4,SE Marsh,A Choudhary,NA,MJ Guptill,0,0,0,0,NA,NA,NA
+1,2.5,SE Marsh,A Choudhary,NA,MJ Guptill,0,0,0,0,NA,NA,NA
+1,2.6,SE Marsh,A Choudhary,NA,MJ Guptill,1,0,1,0,NA,NA,NA
+1,3.1,SE Marsh,S Aravind,NA,MJ Guptill,2,0,2,0,NA,NA,NA
+1,3.2,SE Marsh,S Aravind,NA,MJ Guptill,1,0,1,0,NA,NA,NA
+1,3.3,MJ Guptill,S Aravind,NA,SE Marsh,0,0,0,1,P Negi,caught,MJ Guptill
+1,3.4,SE Marsh,S Aravind,NA,M Vohra,1,0,1,0,NA,NA,NA
+1,3.5,M Vohra,S Aravind,NA,SE Marsh,0,0,0,0,NA,NA,NA
+1,3.6,M Vohra,S Aravind,NA,SE Marsh,0,0,0,0,NA,NA,NA
+1,4.1,SE Marsh,SR Watson,NA,M Vohra,4,0,4,0,NA,NA,NA
+1,4.2,SE Marsh,SR Watson,NA,M Vohra,4,0,4,0,NA,NA,NA
+1,4.3,SE Marsh,SR Watson,NA,M Vohra,0,0,0,0,NA,NA,NA
+1,4.4,SE Marsh,SR Watson,NA,M Vohra,1,0,1,0,NA,NA,NA
+1,4.5,M Vohra,SR Watson,NA,SE Marsh,0,0,0,0,NA,NA,NA
+1,4.6,M Vohra,SR Watson,NA,SE Marsh,1,0,1,0,NA,NA,NA
+1,5.1,M Vohra,S Badree,NA,SE Marsh,0,0,0,0,NA,NA,NA
+1,5.2,M Vohra,S Badree,NA,SE Marsh,0,0,0,0,NA,NA,NA
+1,5.3,M Vohra,S Badree,NA,SE Marsh,0,0,0,0,NA,NA,NA
+1,5.4,M Vohra,S Badree,NA,SE Marsh,2,0,2,0,NA,NA,NA
+1,5.5,M Vohra,S Badree,NA,SE Marsh,0,0,0,0,NA,NA,NA
+1,5.6,M Vohra,S Badree,NA,SE Marsh,4,0,4,0,NA,NA,NA
+1,6.1,SE Marsh,P Negi,NA,M Vohra,1,0,1,0,NA,NA,NA
+1,6.2,M Vohra,P Negi,NA,SE Marsh,1,0,1,0,NA,NA,NA
+1,6.3,SE Marsh,P Negi,NA,M Vohra,0,0,0,0,NA,NA,NA
+1,6.4,SE Marsh,P Negi,NA,M Vohra,1,0,1,0,NA,NA,NA
+1,6.5,M Vohra,P Negi,NA,SE Marsh,1,0,1,0,NA,NA,NA
+1,6.6,SE Marsh,P Negi,NA,M Vohra,0,0,0,1,Mandeep Singh,caught,SE Marsh
+1,7.1,M Vohra,S Badree,NA,WP Saha,0,0,0,0,NA,NA,NA
+1,7.2,M Vohra,S Badree,NA,WP Saha,0,0,0,0,NA,NA,NA
+1,7.3,M Vohra,S Badree,NA,WP Saha,1,0,1,0,NA,NA,NA
+1,7.4,WP Saha,S Badree,NA,M Vohra,1,0,1,0,NA,NA,NA
+1,7.5,M Vohra,S Badree,NA,WP Saha,1,0,1,0,NA,NA,NA
+1,7.6,WP Saha,S Badree,NA,M Vohra,0,0,0,0,NA,NA,NA
+1,8.1,M Vohra,P Negi,NA,WP Saha,0,0,0,0,NA,NA,NA
+1,8.2,M Vohra,P Negi,NA,WP Saha,2,0,2,0,NA,NA,NA
+1,8.3,M Vohra,P Negi,NA,WP Saha,2,0,2,0,NA,NA,NA
+1,8.4,M Vohra,P Negi,NA,WP Saha,0,0,0,0,NA,NA,NA
+1,8.5,M Vohra,P Negi,NA,WP Saha,6,0,6,0,NA,NA,NA
+1,8.6,M Vohra,P Negi,NA,WP Saha,1,0,1,0,NA,NA,NA
+1,9.1,M Vohra,YS Chahal,NA,WP Saha,0,0,0,0,NA,NA,NA
+1,9.2,M Vohra,YS Chahal,NA,WP Saha,1,0,1,0,NA,NA,NA
+1,9.3,WP Saha,YS Chahal,NA,M Vohra,0,0,0,0,NA,NA,NA
+1,9.4,WP Saha,YS Chahal,NA,M Vohra,0,0,0,0,NA,NA,NA
+1,9.5,WP Saha,YS Chahal,NA,M Vohra,0,0,0,0,NA,NA,NA
+1,9.6,WP Saha,YS Chahal,NA,M Vohra,1,0,1,0,NA,NA,NA
+1,10.1,WP Saha,SR Watson,NA,M Vohra,1,0,1,0,NA,NA,NA
+1,10.2,M Vohra,SR Watson,NA,WP Saha,1,0,1,0,NA,NA,NA
+1,10.3,WP Saha,SR Watson,NA,M Vohra,1,0,1,0,NA,NA,NA
+1,10.4,M Vohra,SR Watson,NA,WP Saha,1,0,1,0,NA,NA,NA
+1,10.5,WP Saha,SR Watson,NA,M Vohra,1,0,1,0,NA,NA,NA
+1,10.6,M Vohra,SR Watson,NA,WP Saha,0,0,0,0,NA,NA,NA
+1,11.1,WP Saha,YS Chahal,NA,M Vohra,1,0,1,0,NA,NA,NA
+1,11.2,M Vohra,YS Chahal,NA,WP Saha,0,0,0,1,AB de Villiers,caught,M Vohra
+1,11.3,WP Saha,YS Chahal,NA,GJ Maxwell,0,0,0,0,NA,NA,NA
+1,11.4,WP Saha,YS Chahal,NA,GJ Maxwell,0,0,0,0,NA,NA,NA
+1,11.5,WP Saha,YS Chahal,NA,GJ Maxwell,1,0,1,0,NA,NA,NA
+1,11.6,GJ Maxwell,YS Chahal,NA,WP Saha,1,0,1,0,NA,NA,NA
+1,12.1,GJ Maxwell,P Negi,NA,WP Saha,0,0,0,0,NA,NA,NA
+1,12.2,GJ Maxwell,P Negi,NA,WP Saha,0,0,0,0,NA,NA,NA
+1,12.3,GJ Maxwell,P Negi,NA,WP Saha,1,0,1,0,NA,NA,NA
+1,12.4,WP Saha,P Negi,NA,GJ Maxwell,1,0,1,0,NA,NA,NA
+1,12.5,GJ Maxwell,P Negi,NA,WP Saha,4,0,4,0,NA,NA,NA
+1,12.6,GJ Maxwell,P Negi,1legbyes,WP Saha,0,1,1,0,NA,NA,NA
+1,13.1,GJ Maxwell,YS Chahal,4byes,WP Saha,0,4,4,0,NA,NA,NA
+1,13.2,GJ Maxwell,YS Chahal,NA,WP Saha,0,0,0,0,NA,NA,NA
+1,13.3,GJ Maxwell,YS Chahal,4byes,WP Saha,0,4,4,0,NA,NA,NA
+1,13.4,GJ Maxwell,YS Chahal,NA,WP Saha,0,0,0,0,NA,NA,NA
+1,13.5,GJ Maxwell,YS Chahal,NA,WP Saha,0,0,0,1,S Badree,caught,GJ Maxwell
+1,13.6,WP Saha,YS Chahal,NA,AR Patel,1,0,1,0,NA,NA,NA
+1,14.1,WP Saha,S Badree,NA,AR Patel,1,0,1,0,NA,NA,NA
+1,14.2,AR Patel,S Badree,NA,WP Saha,1,0,1,0,NA,NA,NA
+1,14.3,WP Saha,S Badree,NA,AR Patel,1,0,1,0,NA,NA,NA
+1,14.4,AR Patel,S Badree,NA,WP Saha,1,0,1,0,NA,NA,NA
+1,14.5,WP Saha,S Badree,NA,AR Patel,0,0,0,0,NA,NA,NA
+1,14.6,WP Saha,S Badree,NA,AR Patel,1,0,1,0,NA,NA,NA
+1,15.1,WP Saha,YS Chahal,NA,AR Patel,1,0,1,0,NA,NA,NA
+1,15.2,AR Patel,YS Chahal,1wides,WP Saha,0,1,1,0,NA,NA,NA
+1,15.3,AR Patel,YS Chahal,NA,WP Saha,0,0,0,0,NA,NA,NA
+1,15.4,AR Patel,YS Chahal,1wides,WP Saha,0,1,1,0,NA,NA,NA
+1,15.5,AR Patel,YS Chahal,NA,WP Saha,6,0,6,0,NA,NA,NA
+1,15.6,AR Patel,YS Chahal,NA,WP Saha,0,0,0,0,NA,NA,NA
+1,15.7,AR Patel,YS Chahal,NA,WP Saha,4,0,4,0,NA,NA,NA
+1,15.8,AR Patel,YS Chahal,NA,WP Saha,2,0,2,0,NA,NA,NA
+1,16.1,WP Saha,A Choudhary,NA,AR Patel,1,0,1,0,NA,NA,NA
+1,16.2,AR Patel,A Choudhary,NA,WP Saha,2,0,2,0,NA,NA,NA
+1,16.3,AR Patel,A Choudhary,NA,WP Saha,1,0,1,0,NA,NA,NA
+1,16.4,WP Saha,A Choudhary,NA,AR Patel,4,0,4,0,NA,NA,NA
+1,16.5,WP Saha,A Choudhary,NA,AR Patel,1,0,1,0,NA,NA,NA
+1,16.6,AR Patel,A Choudhary,NA,WP Saha,2,0,2,0,NA,NA,NA
+1,17.1,WP Saha,SR Watson,NA,AR Patel,2,0,2,0,NA,NA,NA
+1,17.2,WP Saha,SR Watson,NA,AR Patel,0,0,0,1,NA,bowled,WP Saha
+1,17.3,MM Sharma,SR Watson,NA,AR Patel,1,0,1,0,NA,NA,NA
+1,17.4,AR Patel,SR Watson,NA,MM Sharma,1,0,1,0,NA,NA,NA
+1,17.5,MM Sharma,SR Watson,NA,AR Patel,4,0,4,0,NA,NA,NA
+1,17.6,MM Sharma,SR Watson,NA,AR Patel,1,0,1,0,NA,NA,NA
+1,18.1,MM Sharma,A Choudhary,NA,AR Patel,0,0,0,1,KM Jadhav,caught,MM Sharma
+1,18.2,VR Aaron,A Choudhary,NA,AR Patel,0,0,0,0,NA,NA,NA
+1,18.3,VR Aaron,A Choudhary,NA,AR Patel,0,0,0,0,NA,NA,NA
+1,18.4,VR Aaron,A Choudhary,NA,AR Patel,0,0,0,0,NA,NA,NA
+1,18.5,VR Aaron,A Choudhary,NA,AR Patel,0,0,0,0,NA,NA,NA
+1,18.6,VR Aaron,A Choudhary,NA,AR Patel,0,0,0,0,NA,NA,NA
+1,19.1,AR Patel,SR Watson,NA,VR Aaron,6,0,6,0,NA,NA,NA
+1,19.2,AR Patel,SR Watson,NA,VR Aaron,2,0,2,0,NA,NA,NA
+1,19.3,AR Patel,SR Watson,NA,VR Aaron,4,0,4,0,NA,NA,NA
+1,19.4,AR Patel,SR Watson,NA,VR Aaron,4,0,4,0,NA,NA,NA
+1,19.5,AR Patel,SR Watson,1wides,VR Aaron,0,1,1,0,NA,NA,NA
+1,19.6,AR Patel,SR Watson,NA,VR Aaron,2,0,2,0,NA,NA,NA
+1,19.7,AR Patel,SR Watson,NA,VR Aaron,0,0,0,0,NA,NA,NA
+2,0.1,Mandeep Singh,Sandeep Sharma,NA,CH Gayle,0,0,0,0,NA,NA,NA
+2,0.2,Mandeep Singh,Sandeep Sharma,NA,CH Gayle,1,0,1,0,NA,NA,NA
+2,0.3,CH Gayle,Sandeep Sharma,NA,Mandeep Singh,0,0,0,0,NA,NA,NA
+2,0.4,CH Gayle,Sandeep Sharma,NA,Mandeep Singh,0,0,0,1,MJ Guptill,caught,CH Gayle
+2,0.5,V Kohli,Sandeep Sharma,NA,Mandeep Singh,4,0,4,0,NA,NA,NA
+2,0.6,V Kohli,Sandeep Sharma,NA,Mandeep Singh,2,0,2,0,NA,NA,NA
+2,1.1,Mandeep Singh,T Natarajan,NA,V Kohli,6,0,6,0,NA,NA,NA
+2,1.2,Mandeep Singh,T Natarajan,NA,V Kohli,4,0,4,0,NA,NA,NA
+2,1.3,Mandeep Singh,T Natarajan,NA,V Kohli,4,0,4,0,NA,NA,NA
+2,1.4,Mandeep Singh,T Natarajan,NA,V Kohli,1,0,1,0,NA,NA,NA
+2,1.5,V Kohli,T Natarajan,NA,Mandeep Singh,0,0,0,0,NA,NA,NA
+2,1.6,V Kohli,T Natarajan,NA,Mandeep Singh,0,0,0,0,NA,NA,NA
+2,2.1,Mandeep Singh,Sandeep Sharma,NA,V Kohli,0,0,0,0,NA,NA,NA
+2,2.2,Mandeep Singh,Sandeep Sharma,NA,V Kohli,0,0,0,0,NA,NA,NA
+2,2.3,Mandeep Singh,Sandeep Sharma,NA,V Kohli,1,0,1,0,NA,NA,NA
+2,2.4,V Kohli,Sandeep Sharma,NA,Mandeep Singh,0,0,0,0,NA,NA,NA
+2,2.5,V Kohli,Sandeep Sharma,NA,Mandeep Singh,0,0,0,1,NA,bowled,V Kohli
+2,2.6,AB de Villiers,Sandeep Sharma,NA,Mandeep Singh,0,0,0,0,NA,NA,NA
+2,3.1,Mandeep Singh,VR Aaron,NA,AB de Villiers,0,0,0,0,NA,NA,NA
+2,3.2,Mandeep Singh,VR Aaron,NA,AB de Villiers,0,0,0,0,NA,NA,NA
+2,3.3,Mandeep Singh,VR Aaron,NA,AB de Villiers,0,0,0,0,NA,NA,NA
+2,3.4,Mandeep Singh,VR Aaron,NA,AB de Villiers,4,0,4,0,NA,NA,NA
+2,3.5,Mandeep Singh,VR Aaron,NA,AB de Villiers,0,0,0,0,NA,NA,NA
+2,3.6,Mandeep Singh,VR Aaron,NA,AB de Villiers,0,0,0,0,NA,NA,NA
+2,4.1,AB de Villiers,Sandeep Sharma,NA,Mandeep Singh,0,0,0,0,NA,NA,NA
+2,4.2,AB de Villiers,Sandeep Sharma,NA,Mandeep Singh,4,0,4,0,NA,NA,NA
+2,4.3,AB de Villiers,Sandeep Sharma,NA,Mandeep Singh,0,0,0,0,NA,NA,NA
+2,4.4,AB de Villiers,Sandeep Sharma,NA,Mandeep Singh,6,0,6,0,NA,NA,NA
+2,4.5,AB de Villiers,Sandeep Sharma,NA,Mandeep Singh,0,0,0,1,WP Saha,caught,AB de Villiers
+2,4.6,KM Jadhav,Sandeep Sharma,NA,Mandeep Singh,0,0,0,0,NA,NA,NA
+2,5.1,Mandeep Singh,VR Aaron,NA,KM Jadhav,0,0,0,0,NA,NA,NA
+2,5.2,Mandeep Singh,VR Aaron,NA,KM Jadhav,0,0,0,0,NA,NA,NA
+2,5.3,Mandeep Singh,VR Aaron,NA,KM Jadhav,4,0,4,0,NA,NA,NA
+2,5.4,Mandeep Singh,VR Aaron,NA,KM Jadhav,1,0,1,0,NA,NA,NA
+2,5.5,KM Jadhav,VR Aaron,NA,Mandeep Singh,0,0,0,0,NA,NA,NA
+2,5.6,KM Jadhav,VR Aaron,NA,Mandeep Singh,4,0,4,0,NA,NA,NA
+2,6.1,Mandeep Singh,Sandeep Sharma,NA,KM Jadhav,0,0,0,0,NA,NA,NA
+2,6.2,Mandeep Singh,Sandeep Sharma,NA,KM Jadhav,1,0,1,0,NA,NA,NA
+2,6.3,KM Jadhav,Sandeep Sharma,NA,Mandeep Singh,1,0,1,0,NA,NA,NA
+2,6.4,Mandeep Singh,Sandeep Sharma,NA,KM Jadhav,2,0,2,0,NA,NA,NA
+2,6.5,Mandeep Singh,Sandeep Sharma,NA,KM Jadhav,0,0,0,0,NA,NA,NA
+2,6.6,Mandeep Singh,Sandeep Sharma,NA,KM Jadhav,0,0,0,0,NA,NA,NA
+2,7.1,KM Jadhav,MM Sharma,NA,Mandeep Singh,1,0,1,0,NA,NA,NA
+2,7.2,Mandeep Singh,MM Sharma,NA,KM Jadhav,0,0,0,0,NA,NA,NA
+2,7.3,Mandeep Singh,MM Sharma,NA,KM Jadhav,0,0,0,0,NA,NA,NA
+2,7.4,Mandeep Singh,MM Sharma,NA,KM Jadhav,1,0,1,0,NA,NA,NA
+2,7.5,KM Jadhav,MM Sharma,NA,Mandeep Singh,0,0,0,1,AR Patel,caught,KM Jadhav
+2,7.6,SR Watson,MM Sharma,NA,Mandeep Singh,0,0,0,0,NA,NA,NA
+2,8.1,Mandeep Singh,AR Patel,NA,SR Watson,1,0,1,0,NA,NA,NA
+2,8.2,SR Watson,AR Patel,NA,Mandeep Singh,1,0,1,0,NA,NA,NA
+2,8.3,Mandeep Singh,AR Patel,NA,SR Watson,0,0,0,0,NA,NA,NA
+2,8.4,Mandeep Singh,AR Patel,NA,SR Watson,0,0,0,0,NA,NA,NA
+2,8.5,Mandeep Singh,AR Patel,NA,SR Watson,0,0,0,0,NA,NA,NA
+2,8.6,Mandeep Singh,AR Patel,NA,SR Watson,1,0,1,0,NA,NA,NA
+2,9.1,Mandeep Singh,MM Sharma,NA,SR Watson,4,0,4,0,NA,NA,NA
+2,9.2,Mandeep Singh,MM Sharma,NA,SR Watson,1,0,1,0,NA,NA,NA
+2,9.3,SR Watson,MM Sharma,NA,Mandeep Singh,1,0,1,0,NA,NA,NA
+2,9.4,Mandeep Singh,MM Sharma,NA,SR Watson,0,0,0,0,NA,NA,NA
+2,9.5,Mandeep Singh,MM Sharma,NA,SR Watson,6,0,6,0,NA,NA,NA
+2,9.6,Mandeep Singh,MM Sharma,NA,SR Watson,1,0,1,0,NA,NA,NA
+2,10.1,Mandeep Singh,AR Patel,NA,SR Watson,1,0,1,0,NA,NA,NA
+2,10.2,SR Watson,AR Patel,NA,Mandeep Singh,0,0,0,0,NA,NA,NA
+2,10.3,SR Watson,AR Patel,NA,Mandeep Singh,1,0,1,0,NA,NA,NA
+2,10.4,Mandeep Singh,AR Patel,NA,SR Watson,1,0,1,0,NA,NA,NA
+2,10.5,SR Watson,AR Patel,NA,Mandeep Singh,0,0,0,1,WP Saha,caught,SR Watson
+2,10.6,P Negi,AR Patel,NA,Mandeep Singh,1,0,1,0,NA,NA,NA
+2,11.1,P Negi,GJ Maxwell,NA,Mandeep Singh,1,0,1,0,NA,NA,NA
+2,11.2,Mandeep Singh,GJ Maxwell,NA,P Negi,0,0,0,1,NA,bowled,Mandeep Singh
+2,11.3,S Aravind,GJ Maxwell,NA,P Negi,1,0,1,0,NA,NA,NA
+2,11.4,P Negi,GJ Maxwell,NA,S Aravind,0,0,0,0,NA,NA,NA
+2,11.5,P Negi,GJ Maxwell,NA,S Aravind,1,0,1,0,NA,NA,NA
+2,11.6,S Aravind,GJ Maxwell,NA,P Negi,0,0,0,0,NA,NA,NA
+2,12.1,P Negi,VR Aaron,NA,S Aravind,0,0,0,0,NA,NA,NA
+2,12.2,P Negi,VR Aaron,NA,S Aravind,0,0,0,0,NA,NA,NA
+2,12.3,P Negi,VR Aaron,NA,S Aravind,0,0,0,0,NA,NA,NA
+2,12.4,P Negi,VR Aaron,1wides,S Aravind,0,1,1,0,NA,NA,NA
+2,12.5,P Negi,VR Aaron,1wides,S Aravind,0,1,1,0,NA,NA,NA
+2,12.6,P Negi,VR Aaron,NA,S Aravind,4,0,4,0,NA,NA,NA
+2,12.7,P Negi,VR Aaron,NA,S Aravind,1,0,1,0,NA,NA,NA
+2,12.8,S Aravind,VR Aaron,NA,P Negi,2,0,2,0,NA,NA,NA
+2,13.1,P Negi,GJ Maxwell,NA,S Aravind,1,0,1,0,NA,NA,NA
+2,13.2,S Aravind,GJ Maxwell,NA,P Negi,1,0,1,0,NA,NA,NA
+2,13.3,P Negi,GJ Maxwell,NA,S Aravind,1,0,1,0,NA,NA,NA
+2,13.4,S Aravind,GJ Maxwell,NA,P Negi,0,0,0,0,NA,NA,NA
+2,13.5,S Aravind,GJ Maxwell,NA,P Negi,0,0,0,1,NA,lbw,S Aravind
+2,13.6,S Badree,GJ Maxwell,NA,P Negi,1,0,1,0,NA,NA,NA
+2,14.1,S Badree,VR Aaron,NA,P Negi,0,0,0,0,NA,NA,NA
+2,14.2,S Badree,VR Aaron,NA,P Negi,1,0,1,0,NA,NA,NA
+2,14.3,P Negi,VR Aaron,NA,S Badree,4,0,4,0,NA,NA,NA
+2,14.4,P Negi,VR Aaron,NA,S Badree,0,0,0,0,NA,NA,NA
+2,14.5,P Negi,VR Aaron,4legbyes,S Badree,0,4,4,0,NA,NA,NA
+2,14.6,P Negi,VR Aaron,NA,S Badree,1,0,1,0,NA,NA,NA
+2,15.1,P Negi,GJ Maxwell,NA,S Badree,1,0,1,0,NA,NA,NA
+2,15.2,S Badree,GJ Maxwell,NA,P Negi,2,0,2,0,NA,NA,NA
+2,15.3,S Badree,GJ Maxwell,1wides,P Negi,0,1,1,0,NA,NA,NA
+2,15.4,S Badree,GJ Maxwell,NA,P Negi,1,0,1,0,NA,NA,NA
+2,15.5,P Negi,GJ Maxwell,NA,S Badree,1,0,1,0,NA,NA,NA
+2,15.6,S Badree,GJ Maxwell,NA,P Negi,1,0,1,0,NA,NA,NA
+2,15.7,P Negi,GJ Maxwell,NA,S Badree,1,0,1,0,NA,NA,NA
+2,16.1,P Negi,MM Sharma,NA,S Badree,0,0,0,0,NA,NA,NA
+2,16.2,P Negi,MM Sharma,NA,S Badree,1,0,1,0,NA,NA,NA
+2,16.3,S Badree,MM Sharma,NA,P Negi,1,0,1,0,NA,NA,NA
+2,16.4,P Negi,MM Sharma,NA,S Badree,1,0,1,0,NA,NA,NA
+2,16.5,S Badree,MM Sharma,NA,P Negi,1,0,1,0,NA,NA,NA
+2,16.6,P Negi,MM Sharma,NA,S Badree,1,0,1,0,NA,NA,NA
+2,17.1,P Negi,AR Patel,NA,S Badree,0,0,0,1,WP Saha,caught,P Negi
+2,17.2,S Badree,AR Patel,NA,A Choudhary,0,0,0,1,NA,bowled,S Badree
+2,17.3,YS Chahal,AR Patel,NA,A Choudhary,1,0,1,0,NA,NA,NA
+2,17.4,A Choudhary,AR Patel,NA,YS Chahal,1,0,1,0,NA,NA,NA
+2,17.5,YS Chahal,AR Patel,NA,A Choudhary,1,0,1,0,NA,NA,NA
+2,17.6,A Choudhary,AR Patel,NA,YS Chahal,1,0,1,0,NA,NA,NA
+2,18.1,A Choudhary,MM Sharma,NA,YS Chahal,1,0,1,0,NA,NA,NA
+2,18.2,YS Chahal,MM Sharma,NA,A Choudhary,1,0,1,0,NA,NA,NA
+2,18.3,A Choudhary,MM Sharma,NA,YS Chahal,1,0,1,0,NA,NA,NA
+2,18.4,YS Chahal,MM Sharma,NA,A Choudhary,1,0,1,0,NA,NA,NA
+2,18.5,A Choudhary,MM Sharma,NA,YS Chahal,0,0,0,0,NA,NA,NA
+2,18.6,A Choudhary,MM Sharma,NA,YS Chahal,0,0,0,1,MJ Guptill,caught,A Choudhary

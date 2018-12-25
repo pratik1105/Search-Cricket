@@ -1,0 +1,254 @@
+innings,ball,batsman,bowler,extras,non_striker,batsman_run,extras_run,total_run,wicket,fielders,wicket_kind,player_out
+1,0.1,CH Gayle,DP Nannes,NA,MA Agarwal,0,0,0,0,NA,NA,NA
+1,0.2,CH Gayle,DP Nannes,NA,MA Agarwal,0,0,0,0,NA,NA,NA
+1,0.3,CH Gayle,DP Nannes,NA,MA Agarwal,0,0,0,0,NA,NA,NA
+1,0.4,CH Gayle,DP Nannes,NA,MA Agarwal,0,0,0,0,NA,NA,NA
+1,0.5,CH Gayle,DP Nannes,NA,MA Agarwal,0,0,0,0,NA,NA,NA
+1,0.6,CH Gayle,DP Nannes,1wides,MA Agarwal,0,1,1,0,NA,NA,NA
+1,0.7,CH Gayle,DP Nannes,NA,MA Agarwal,4,0,4,0,NA,NA,NA
+1,1.1,MA Agarwal,CH Morris,NA,CH Gayle,1,0,1,0,NA,NA,NA
+1,1.2,CH Gayle,CH Morris,NA,MA Agarwal,0,0,0,0,NA,NA,NA
+1,1.3,CH Gayle,CH Morris,NA,MA Agarwal,0,0,0,0,NA,NA,NA
+1,1.4,CH Gayle,CH Morris,NA,MA Agarwal,0,0,0,0,NA,NA,NA
+1,1.5,CH Gayle,CH Morris,NA,MA Agarwal,0,0,0,1,MS Dhoni,caught,CH Gayle
+1,1.6,V Kohli,CH Morris,NA,MA Agarwal,0,0,0,0,NA,NA,NA
+1,2.1,MA Agarwal,DP Nannes,NA,V Kohli,0,0,0,0,NA,NA,NA
+1,2.2,MA Agarwal,DP Nannes,NA,V Kohli,0,0,0,0,NA,NA,NA
+1,2.3,MA Agarwal,DP Nannes,NA,V Kohli,0,0,0,0,NA,NA,NA
+1,2.4,MA Agarwal,DP Nannes,NA,V Kohli,0,0,0,0,NA,NA,NA
+1,2.5,MA Agarwal,DP Nannes,NA,V Kohli,4,0,4,0,NA,NA,NA
+1,2.6,MA Agarwal,DP Nannes,NA,V Kohli,1,0,1,0,NA,NA,NA
+1,3.1,MA Agarwal,MM Sharma,NA,V Kohli,0,0,0,0,NA,NA,NA
+1,3.2,MA Agarwal,MM Sharma,NA,V Kohli,0,0,0,0,NA,NA,NA
+1,3.3,MA Agarwal,MM Sharma,NA,V Kohli,1,0,1,0,NA,NA,NA
+1,3.4,V Kohli,MM Sharma,NA,MA Agarwal,0,0,0,0,NA,NA,NA
+1,3.5,V Kohli,MM Sharma,NA,MA Agarwal,1,0,1,0,NA,NA,NA
+1,3.6,MA Agarwal,MM Sharma,NA,V Kohli,4,0,4,0,NA,NA,NA
+1,4.1,V Kohli,CH Morris,NA,MA Agarwal,1,0,1,0,NA,NA,NA
+1,4.2,MA Agarwal,CH Morris,NA,V Kohli,1,0,1,0,NA,NA,NA
+1,4.3,V Kohli,CH Morris,NA,MA Agarwal,4,0,4,0,NA,NA,NA
+1,4.4,V Kohli,CH Morris,NA,MA Agarwal,3,0,3,0,NA,NA,NA
+1,4.5,MA Agarwal,CH Morris,NA,V Kohli,0,0,0,0,NA,NA,NA
+1,4.6,MA Agarwal,CH Morris,NA,V Kohli,0,0,0,0,NA,NA,NA
+1,5.1,V Kohli,MM Sharma,NA,MA Agarwal,0,0,0,0,NA,NA,NA
+1,5.2,V Kohli,MM Sharma,NA,MA Agarwal,1,0,1,0,NA,NA,NA
+1,5.3,MA Agarwal,MM Sharma,NA,V Kohli,1,0,1,0,NA,NA,NA
+1,5.4,V Kohli,MM Sharma,NA,MA Agarwal,0,0,0,0,NA,NA,NA
+1,5.5,V Kohli,MM Sharma,NA,MA Agarwal,4,0,4,0,NA,NA,NA
+1,5.6,V Kohli,MM Sharma,NA,MA Agarwal,1,0,1,0,NA,NA,NA
+1,6.1,V Kohli,R Ashwin,NA,MA Agarwal,0,0,0,0,NA,NA,NA
+1,6.2,V Kohli,R Ashwin,NA,MA Agarwal,0,0,0,0,NA,NA,NA
+1,6.3,V Kohli,R Ashwin,NA,MA Agarwal,0,0,0,0,NA,NA,NA
+1,6.4,V Kohli,R Ashwin,NA,MA Agarwal,0,0,0,0,NA,NA,NA
+1,6.5,V Kohli,R Ashwin,NA,MA Agarwal,1,0,1,0,NA,NA,NA
+1,6.6,MA Agarwal,R Ashwin,NA,V Kohli,1,0,1,0,NA,NA,NA
+1,7.1,MA Agarwal,RA Jadeja,NA,V Kohli,1,0,1,0,NA,NA,NA
+1,7.2,V Kohli,RA Jadeja,NA,MA Agarwal,1,0,1,0,NA,NA,NA
+1,7.3,MA Agarwal,RA Jadeja,NA,V Kohli,6,0,6,0,NA,NA,NA
+1,7.4,MA Agarwal,RA Jadeja,NA,V Kohli,1,0,1,0,NA,NA,NA
+1,7.5,V Kohli,RA Jadeja,NA,MA Agarwal,0,0,0,0,NA,NA,NA
+1,7.6,V Kohli,RA Jadeja,NA,MA Agarwal,2,0,2,0,NA,NA,NA
+1,8.1,MA Agarwal,R Ashwin,NA,V Kohli,1,0,1,0,NA,NA,NA
+1,8.2,V Kohli,R Ashwin,NA,MA Agarwal,1,0,1,0,NA,NA,NA
+1,8.3,MA Agarwal,R Ashwin,NA,V Kohli,1,0,1,0,NA,NA,NA
+1,8.4,V Kohli,R Ashwin,NA,MA Agarwal,1,0,1,0,NA,NA,NA
+1,8.5,MA Agarwal,R Ashwin,1wides,V Kohli,0,1,1,1,MS Dhoni,stumped,MA Agarwal
+1,8.6,AB de Villiers,R Ashwin,NA,V Kohli,0,0,0,0,NA,NA,NA
+1,8.7,AB de Villiers,R Ashwin,NA,V Kohli,4,0,4,0,NA,NA,NA
+1,9.1,V Kohli,RA Jadeja,NA,AB de Villiers,1,0,1,0,NA,NA,NA
+1,9.2,AB de Villiers,RA Jadeja,NA,V Kohli,1,0,1,0,NA,NA,NA
+1,9.3,V Kohli,RA Jadeja,NA,AB de Villiers,1,0,1,0,NA,NA,NA
+1,9.4,AB de Villiers,RA Jadeja,NA,V Kohli,1,0,1,0,NA,NA,NA
+1,9.5,V Kohli,RA Jadeja,NA,AB de Villiers,1,0,1,0,NA,NA,NA
+1,9.6,AB de Villiers,RA Jadeja,NA,V Kohli,4,0,4,0,NA,NA,NA
+1,10.1,V Kohli,R Ashwin,NA,AB de Villiers,1,0,1,0,NA,NA,NA
+1,10.2,AB de Villiers,R Ashwin,NA,V Kohli,1,0,1,0,NA,NA,NA
+1,10.3,V Kohli,R Ashwin,NA,AB de Villiers,0,0,0,0,NA,NA,NA
+1,10.4,V Kohli,R Ashwin,NA,AB de Villiers,1,0,1,0,NA,NA,NA
+1,10.5,AB de Villiers,R Ashwin,NA,V Kohli,1,0,1,0,NA,NA,NA
+1,10.6,V Kohli,R Ashwin,NA,AB de Villiers,1,0,1,0,NA,NA,NA
+1,11.1,V Kohli,DJ Bravo,NA,AB de Villiers,2,0,2,0,NA,NA,NA
+1,11.2,V Kohli,DJ Bravo,NA,AB de Villiers,1,0,1,0,NA,NA,NA
+1,11.3,AB de Villiers,DJ Bravo,NA,V Kohli,1,0,1,0,NA,NA,NA
+1,11.4,V Kohli,DJ Bravo,NA,AB de Villiers,0,0,0,0,NA,NA,NA
+1,11.5,V Kohli,DJ Bravo,NA,AB de Villiers,0,0,0,0,NA,NA,NA
+1,11.6,V Kohli,DJ Bravo,NA,AB de Villiers,1,0,1,0,NA,NA,NA
+1,12.1,V Kohli,R Ashwin,NA,AB de Villiers,6,0,6,0,NA,NA,NA
+1,12.2,V Kohli,R Ashwin,NA,AB de Villiers,2,0,2,0,NA,NA,NA
+1,12.3,V Kohli,R Ashwin,NA,AB de Villiers,2,0,2,0,NA,NA,NA
+1,12.4,V Kohli,R Ashwin,NA,AB de Villiers,1,0,1,0,NA,NA,NA
+1,12.5,AB de Villiers,R Ashwin,NA,V Kohli,0,0,0,0,NA,NA,NA
+1,12.6,AB de Villiers,R Ashwin,NA,V Kohli,1,0,1,0,NA,NA,NA
+1,13.1,AB de Villiers,DJ Bravo,NA,V Kohli,4,0,4,0,NA,NA,NA
+1,13.2,AB de Villiers,DJ Bravo,NA,V Kohli,2,0,2,0,NA,NA,NA
+1,13.3,AB de Villiers,DJ Bravo,1legbyes,V Kohli,0,1,1,0,NA,NA,NA
+1,13.4,V Kohli,DJ Bravo,NA,AB de Villiers,1,0,1,0,NA,NA,NA
+1,13.5,AB de Villiers,DJ Bravo,NA,V Kohli,4,0,4,0,NA,NA,NA
+1,13.6,AB de Villiers,DJ Bravo,NA,V Kohli,1,0,1,0,NA,NA,NA
+1,14.1,AB de Villiers,DP Nannes,NA,V Kohli,4,0,4,0,NA,NA,NA
+1,14.2,AB de Villiers,DP Nannes,NA,V Kohli,4,0,4,0,NA,NA,NA
+1,14.3,AB de Villiers,DP Nannes,NA,V Kohli,0,0,0,0,NA,NA,NA
+1,14.4,AB de Villiers,DP Nannes,NA,V Kohli,3,0,3,0,NA,NA,NA
+1,14.5,V Kohli,DP Nannes,1noballs,AB de Villiers,1,1,2,0,NA,NA,NA
+1,14.6,AB de Villiers,DP Nannes,NA,V Kohli,1,0,1,0,NA,NA,NA
+1,14.7,V Kohli,DP Nannes,NA,AB de Villiers,2,0,2,0,NA,NA,NA
+1,15.1,AB de Villiers,DJ Bravo,NA,V Kohli,2,0,2,0,NA,NA,NA
+1,15.2,AB de Villiers,DJ Bravo,1wides,V Kohli,0,1,1,0,NA,NA,NA
+1,15.3,AB de Villiers,DJ Bravo,NA,V Kohli,1,0,1,0,NA,NA,NA
+1,15.4,V Kohli,DJ Bravo,NA,AB de Villiers,1,0,1,0,NA,NA,NA
+1,15.5,AB de Villiers,DJ Bravo,NA,V Kohli,1,0,1,0,NA,NA,NA
+1,15.6,V Kohli,DJ Bravo,1wides,AB de Villiers,0,1,1,0,NA,NA,NA
+1,15.7,V Kohli,DJ Bravo,NA,AB de Villiers,2,0,2,0,NA,NA,NA
+1,15.8,V Kohli,DJ Bravo,NA,AB de Villiers,1,0,1,0,NA,NA,NA
+1,16.1,V Kohli,CH Morris,NA,AB de Villiers,6,0,6,0,NA,NA,NA
+1,16.2,V Kohli,CH Morris,NA,AB de Villiers,0,0,0,0,NA,NA,NA
+1,16.3,V Kohli,CH Morris,NA,AB de Villiers,2,0,2,0,NA,NA,NA
+1,16.4,V Kohli,CH Morris,NA,AB de Villiers,0,0,0,1,MS Dhoni,caught,V Kohli
+1,16.5,DT Christian,CH Morris,NA,AB de Villiers,2,0,2,0,NA,NA,NA
+1,16.6,DT Christian,CH Morris,NA,AB de Villiers,0,0,0,1,SK Raina,caught,DT Christian
+1,17.1,AB de Villiers,DJ Bravo,NA,R Rampaul,1,0,1,0,NA,NA,NA
+1,17.2,R Rampaul,DJ Bravo,NA,AB de Villiers,0,0,0,0,NA,NA,NA
+1,17.3,R Rampaul,DJ Bravo,NA,AB de Villiers,0,0,0,0,NA,NA,NA
+1,17.4,R Rampaul,DJ Bravo,1wides,AB de Villiers,0,1,1,0,NA,NA,NA
+1,17.5,R Rampaul,DJ Bravo,1wides,AB de Villiers,0,1,1,0,NA,NA,NA
+1,17.6,R Rampaul,DJ Bravo,NA,AB de Villiers,0,0,0,0,NA,NA,NA
+1,17.7,R Rampaul,DJ Bravo,NA,AB de Villiers,0,0,0,1,MS Dhoni,caught,R Rampaul
+1,17.8,KB Arun Karthik,DJ Bravo,NA,AB de Villiers,2,0,2,0,NA,NA,NA
+1,18.1,AB de Villiers,CH Morris,NA,KB Arun Karthik,2,0,2,0,NA,NA,NA
+1,18.2,AB de Villiers,CH Morris,NA,KB Arun Karthik,6,0,6,0,NA,NA,NA
+1,18.3,AB de Villiers,CH Morris,NA,KB Arun Karthik,2,0,2,0,NA,NA,NA
+1,18.4,AB de Villiers,CH Morris,NA,KB Arun Karthik,4,0,4,0,NA,NA,NA
+1,18.5,AB de Villiers,CH Morris,NA,KB Arun Karthik,2,0,2,0,NA,NA,NA
+1,18.6,AB de Villiers,CH Morris,NA,KB Arun Karthik,4,0,4,0,NA,NA,NA
+1,19.1,KB Arun Karthik,DP Nannes,NA,AB de Villiers,0,0,0,0,NA,NA,NA
+1,19.2,KB Arun Karthik,DP Nannes,NA,AB de Villiers,0,0,0,0,NA,NA,NA
+1,19.3,KB Arun Karthik,DP Nannes,NA,AB de Villiers,2,0,2,0,NA,NA,NA
+1,19.4,KB Arun Karthik,DP Nannes,NA,AB de Villiers,1,0,1,0,NA,NA,NA
+1,19.5,AB de Villiers,DP Nannes,NA,KB Arun Karthik,2,0,2,0,NA,NA,NA
+1,19.6,AB de Villiers,DP Nannes,NA,KB Arun Karthik,0,0,0,1,DJ Bravo,caught,AB de Villiers
+2,0.1,MEK Hussey,R Rampaul,NA,M Vijay,1,0,1,0,NA,NA,NA
+2,0.2,M Vijay,R Rampaul,NA,MEK Hussey,0,0,0,0,NA,NA,NA
+2,0.3,M Vijay,R Rampaul,1wides,MEK Hussey,0,1,1,0,NA,NA,NA
+2,0.4,M Vijay,R Rampaul,NA,MEK Hussey,0,0,0,0,NA,NA,NA
+2,0.5,M Vijay,R Rampaul,NA,MEK Hussey,1,0,1,0,NA,NA,NA
+2,0.6,MEK Hussey,R Rampaul,NA,M Vijay,0,0,0,0,NA,NA,NA
+2,0.7,MEK Hussey,R Rampaul,NA,M Vijay,0,0,0,0,NA,NA,NA
+2,1.1,M Vijay,RP Singh,NA,MEK Hussey,1,0,1,0,NA,NA,NA
+2,1.2,MEK Hussey,RP Singh,NA,M Vijay,0,0,0,0,NA,NA,NA
+2,1.3,MEK Hussey,RP Singh,NA,M Vijay,0,0,0,0,NA,NA,NA
+2,1.4,MEK Hussey,RP Singh,NA,M Vijay,0,0,0,0,NA,NA,NA
+2,1.5,MEK Hussey,RP Singh,NA,M Vijay,0,0,0,0,NA,NA,NA
+2,1.6,MEK Hussey,RP Singh,NA,M Vijay,0,0,0,0,NA,NA,NA
+2,2.1,M Vijay,R Rampaul,NA,MEK Hussey,0,0,0,1,KB Arun Karthik,caught,M Vijay
+2,2.2,SK Raina,R Rampaul,NA,MEK Hussey,0,0,0,0,NA,NA,NA
+2,2.3,SK Raina,R Rampaul,NA,MEK Hussey,1,0,1,0,NA,NA,NA
+2,2.4,MEK Hussey,R Rampaul,NA,SK Raina,0,0,0,0,NA,NA,NA
+2,2.5,MEK Hussey,R Rampaul,NA,SK Raina,1,0,1,0,NA,NA,NA
+2,2.6,SK Raina,R Rampaul,NA,MEK Hussey,0,0,0,0,NA,NA,NA
+2,3.1,MEK Hussey,R Vinay Kumar,NA,SK Raina,2,0,2,0,NA,NA,NA
+2,3.2,MEK Hussey,R Vinay Kumar,NA,SK Raina,2,0,2,0,NA,NA,NA
+2,3.3,MEK Hussey,R Vinay Kumar,NA,SK Raina,0,0,0,0,NA,NA,NA
+2,3.4,MEK Hussey,R Vinay Kumar,NA,SK Raina,0,0,0,0,NA,NA,NA
+2,3.5,MEK Hussey,R Vinay Kumar,NA,SK Raina,0,0,0,0,NA,NA,NA
+2,3.6,MEK Hussey,R Vinay Kumar,NA,SK Raina,0,0,0,1,MA Agarwal,caught,MEK Hussey
+2,4.1,S Badrinath,DT Christian,1noballs,SK Raina,0,1,1,0,NA,NA,NA
+2,4.2,S Badrinath,DT Christian,NA,SK Raina,0,0,0,0,NA,NA,NA
+2,4.3,S Badrinath,DT Christian,NA,SK Raina,1,0,1,0,NA,NA,NA
+2,4.4,SK Raina,DT Christian,NA,S Badrinath,0,0,0,0,NA,NA,NA
+2,4.5,SK Raina,DT Christian,NA,S Badrinath,4,0,4,0,NA,NA,NA
+2,4.6,SK Raina,DT Christian,NA,S Badrinath,0,0,0,0,NA,NA,NA
+2,4.7,SK Raina,DT Christian,NA,S Badrinath,1,0,1,0,NA,NA,NA
+2,5.1,SK Raina,R Vinay Kumar,NA,S Badrinath,4,0,4,0,NA,NA,NA
+2,5.2,SK Raina,R Vinay Kumar,NA,S Badrinath,1,0,1,0,NA,NA,NA
+2,5.3,S Badrinath,R Vinay Kumar,NA,SK Raina,1,0,1,0,NA,NA,NA
+2,5.4,SK Raina,R Vinay Kumar,NA,S Badrinath,4,0,4,0,NA,NA,NA
+2,5.5,SK Raina,R Vinay Kumar,NA,S Badrinath,4,0,4,0,NA,NA,NA
+2,5.6,SK Raina,R Vinay Kumar,NA,S Badrinath,0,0,0,0,NA,NA,NA
+2,6.1,S Badrinath,DT Christian,NA,SK Raina,0,0,0,0,NA,NA,NA
+2,6.2,S Badrinath,DT Christian,NA,SK Raina,0,0,0,0,NA,NA,NA
+2,6.3,S Badrinath,DT Christian,NA,SK Raina,1,0,1,0,NA,NA,NA
+2,6.4,SK Raina,DT Christian,NA,S Badrinath,1,0,1,0,NA,NA,NA
+2,6.5,S Badrinath,DT Christian,NA,SK Raina,4,0,4,0,NA,NA,NA
+2,6.6,S Badrinath,DT Christian,NA,SK Raina,0,0,0,0,NA,NA,NA
+2,7.1,SK Raina,M Kartik,NA,S Badrinath,0,0,0,0,NA,NA,NA
+2,7.2,SK Raina,M Kartik,NA,S Badrinath,1,0,1,0,NA,NA,NA
+2,7.3,S Badrinath,M Kartik,NA,SK Raina,1,0,1,0,NA,NA,NA
+2,7.4,SK Raina,M Kartik,NA,S Badrinath,1,0,1,0,NA,NA,NA
+2,7.5,S Badrinath,M Kartik,NA,SK Raina,4,0,4,0,NA,NA,NA
+2,7.6,S Badrinath,M Kartik,NA,SK Raina,2,0,2,0,NA,NA,NA
+2,8.1,SK Raina,J Syed Mohammad,NA,S Badrinath,4,0,4,0,NA,NA,NA
+2,8.2,SK Raina,J Syed Mohammad,NA,S Badrinath,1,0,1,0,NA,NA,NA
+2,8.3,S Badrinath,J Syed Mohammad,NA,SK Raina,0,0,0,0,NA,NA,NA
+2,8.4,S Badrinath,J Syed Mohammad,NA,SK Raina,1,0,1,0,NA,NA,NA
+2,8.5,SK Raina,J Syed Mohammad,NA,S Badrinath,1,0,1,0,NA,NA,NA
+2,8.6,S Badrinath,J Syed Mohammad,1legbyes,SK Raina,0,1,1,0,NA,NA,NA
+2,9.1,S Badrinath,M Kartik,NA,SK Raina,4,0,4,0,NA,NA,NA
+2,9.2,S Badrinath,M Kartik,NA,SK Raina,0,0,0,0,NA,NA,NA
+2,9.3,S Badrinath,M Kartik,NA,SK Raina,2,0,2,0,NA,NA,NA
+2,9.4,S Badrinath,M Kartik,NA,SK Raina,2,0,2,0,NA,NA,NA
+2,9.5,S Badrinath,M Kartik,NA,SK Raina,1,0,1,0,NA,NA,NA
+2,9.6,SK Raina,M Kartik,NA,S Badrinath,1,0,1,0,NA,NA,NA
+2,10.1,SK Raina,J Syed Mohammad,NA,S Badrinath,1,0,1,0,NA,NA,NA
+2,10.2,S Badrinath,J Syed Mohammad,NA,SK Raina,1,0,1,0,NA,NA,NA
+2,10.3,SK Raina,J Syed Mohammad,NA,S Badrinath,0,0,0,1,M Kartik,caught,SK Raina
+2,10.4,S Badrinath,J Syed Mohammad,NA,MS Dhoni,1,0,1,0,NA,NA,NA
+2,10.5,MS Dhoni,J Syed Mohammad,NA,S Badrinath,1,0,1,0,NA,NA,NA
+2,10.6,S Badrinath,J Syed Mohammad,NA,MS Dhoni,0,0,0,0,NA,NA,NA
+2,11.1,MS Dhoni,M Kartik,NA,S Badrinath,1,0,1,0,NA,NA,NA
+2,11.2,S Badrinath,M Kartik,NA,MS Dhoni,1,0,1,0,NA,NA,NA
+2,11.3,MS Dhoni,M Kartik,NA,S Badrinath,1,0,1,0,NA,NA,NA
+2,11.4,S Badrinath,M Kartik,NA,MS Dhoni,2,0,2,0,NA,NA,NA
+2,11.5,S Badrinath,M Kartik,NA,MS Dhoni,4,0,4,0,NA,NA,NA
+2,11.6,S Badrinath,M Kartik,NA,MS Dhoni,1,0,1,0,NA,NA,NA
+2,12.1,S Badrinath,J Syed Mohammad,NA,MS Dhoni,0,0,0,0,NA,NA,NA
+2,12.2,S Badrinath,J Syed Mohammad,NA,MS Dhoni,0,0,0,1,MA Agarwal,caught,S Badrinath
+2,12.3,MS Dhoni,J Syed Mohammad,NA,RA Jadeja,1,0,1,0,NA,NA,NA
+2,12.4,RA Jadeja,J Syed Mohammad,NA,MS Dhoni,1,0,1,0,NA,NA,NA
+2,12.5,MS Dhoni,J Syed Mohammad,NA,RA Jadeja,0,0,0,0,NA,NA,NA
+2,12.6,MS Dhoni,J Syed Mohammad,1wides,RA Jadeja,0,1,1,0,NA,NA,NA
+2,12.7,MS Dhoni,J Syed Mohammad,NA,RA Jadeja,1,0,1,0,NA,NA,NA
+2,13.1,MS Dhoni,RP Singh,NA,RA Jadeja,1,0,1,0,NA,NA,NA
+2,13.2,RA Jadeja,RP Singh,NA,MS Dhoni,1,0,1,0,NA,NA,NA
+2,13.3,MS Dhoni,RP Singh,NA,RA Jadeja,6,0,6,0,NA,NA,NA
+2,13.4,MS Dhoni,RP Singh,NA,RA Jadeja,1,0,1,0,NA,NA,NA
+2,13.5,RA Jadeja,RP Singh,NA,MS Dhoni,1,0,1,0,NA,NA,NA
+2,13.6,MS Dhoni,RP Singh,1noballs,RA Jadeja,1,1,2,0,NA,NA,NA
+2,13.7,RA Jadeja,RP Singh,NA,MS Dhoni,1,0,1,0,NA,NA,NA
+2,14.1,RA Jadeja,R Vinay Kumar,NA,MS Dhoni,1,0,1,0,NA,NA,NA
+2,14.2,MS Dhoni,R Vinay Kumar,NA,RA Jadeja,0,0,0,0,NA,NA,NA
+2,14.3,MS Dhoni,R Vinay Kumar,NA,RA Jadeja,1,0,1,0,NA,NA,NA
+2,14.4,RA Jadeja,R Vinay Kumar,NA,MS Dhoni,0,0,0,0,NA,NA,NA
+2,14.5,RA Jadeja,R Vinay Kumar,NA,MS Dhoni,2,0,2,0,NA,NA,NA
+2,14.6,RA Jadeja,R Vinay Kumar,NA,MS Dhoni,2,0,2,0,NA,NA,NA
+2,15.1,MS Dhoni,RP Singh,NA,RA Jadeja,2,0,2,0,NA,NA,NA
+2,15.2,MS Dhoni,RP Singh,NA,RA Jadeja,0,0,0,0,NA,NA,NA
+2,15.3,MS Dhoni,RP Singh,NA,RA Jadeja,1,0,1,0,NA,NA,NA
+2,15.4,RA Jadeja,RP Singh,NA,MS Dhoni,2,0,2,0,NA,NA,NA
+2,15.5,RA Jadeja,RP Singh,NA,MS Dhoni,2,0,2,0,NA,NA,NA
+2,15.6,RA Jadeja,RP Singh,NA,MS Dhoni,4,0,4,0,NA,NA,NA
+2,16.1,MS Dhoni,R Rampaul,NA,RA Jadeja,4,0,4,0,NA,NA,NA
+2,16.2,MS Dhoni,R Rampaul,NA,RA Jadeja,6,0,6,0,NA,NA,NA
+2,16.3,MS Dhoni,R Rampaul,NA,RA Jadeja,2,0,2,0,NA,NA,NA
+2,16.4,MS Dhoni,R Rampaul,NA,RA Jadeja,0,0,0,0,NA,NA,NA
+2,16.5,MS Dhoni,R Rampaul,NA,RA Jadeja,1,0,1,0,NA,NA,NA
+2,16.6,RA Jadeja,R Rampaul,NA,MS Dhoni,0,0,0,0,NA,NA,NA
+2,17.1,MS Dhoni,R Vinay Kumar,1wides,RA Jadeja,0,1,1,0,NA,NA,NA
+2,17.2,MS Dhoni,R Vinay Kumar,NA,RA Jadeja,1,0,1,0,NA,NA,NA
+2,17.3,RA Jadeja,R Vinay Kumar,NA,MS Dhoni,4,0,4,0,NA,NA,NA
+2,17.4,RA Jadeja,R Vinay Kumar,NA,MS Dhoni,2,0,2,0,NA,NA,NA
+2,17.5,RA Jadeja,R Vinay Kumar,NA,MS Dhoni,2,0,2,0,NA,NA,NA
+2,17.6,RA Jadeja,R Vinay Kumar,NA,MS Dhoni,1,0,1,0,NA,NA,NA
+2,17.7,MS Dhoni,R Vinay Kumar,NA,RA Jadeja,1,0,1,0,NA,NA,NA
+2,18.1,MS Dhoni,R Rampaul,NA,RA Jadeja,0,0,0,1,KB Arun Karthik,caught,MS Dhoni
+2,18.2,DJ Bravo,R Rampaul,1wides,RA Jadeja,0,1,1,0,NA,NA,NA
+2,18.3,DJ Bravo,R Rampaul,NA,RA Jadeja,6,0,6,0,NA,NA,NA
+2,18.4,DJ Bravo,R Rampaul,NA,RA Jadeja,2,0,2,0,NA,NA,NA
+2,18.5,DJ Bravo,R Rampaul,NA,RA Jadeja,0,0,0,1,NA,lbw,DJ Bravo
+2,18.6,CH Morris,R Rampaul,NA,RA Jadeja,2,0,2,0,NA,NA,NA
+2,18.7,CH Morris,R Rampaul,NA,RA Jadeja,2,0,2,0,NA,NA,NA
+2,19.1,RA Jadeja,RP Singh,NA,CH Morris,4,0,4,0,NA,NA,NA
+2,19.2,RA Jadeja,RP Singh,NA,CH Morris,6,0,6,0,NA,NA,NA
+2,19.3,RA Jadeja,RP Singh,NA,CH Morris,1,0,1,0,NA,NA,NA
+2,19.4,CH Morris,RP Singh,NA,RA Jadeja,2,0,2,0,NA,NA,NA
+2,19.5,CH Morris,RP Singh,NA,RA Jadeja,1,0,1,0,NA,NA,NA
+2,19.6,RA Jadeja,RP Singh,1noballs,CH Morris,1,1,2,0,NA,NA,NA

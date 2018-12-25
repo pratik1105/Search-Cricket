@@ -1,0 +1,217 @@
+innings,ball,batsman,bowler,extras,non_striker,batsman_run,extras_run,total_run,wicket,fielders,wicket_kind,player_out
+1,0.1,CH Gayle,UT Yadav,NA,Mandeep Singh,0,0,0,1,G Gambhir,caught,CH Gayle
+1,0.2,V Kohli,UT Yadav,NA,Mandeep Singh,0,0,0,0,NA,NA,NA
+1,0.3,V Kohli,UT Yadav,NA,Mandeep Singh,0,0,0,0,NA,NA,NA
+1,0.4,V Kohli,UT Yadav,NA,Mandeep Singh,0,0,0,0,NA,NA,NA
+1,0.5,V Kohli,UT Yadav,NA,Mandeep Singh,0,0,0,0,NA,NA,NA
+1,0.6,V Kohli,UT Yadav,NA,Mandeep Singh,1,0,1,0,NA,NA,NA
+1,1.1,V Kohli,CR Woakes,NA,Mandeep Singh,1,0,1,0,NA,NA,NA
+1,1.2,Mandeep Singh,CR Woakes,NA,V Kohli,0,0,0,0,NA,NA,NA
+1,1.3,Mandeep Singh,CR Woakes,NA,V Kohli,0,0,0,0,NA,NA,NA
+1,1.4,Mandeep Singh,CR Woakes,NA,V Kohli,0,0,0,0,NA,NA,NA
+1,1.5,Mandeep Singh,CR Woakes,NA,V Kohli,4,0,4,0,NA,NA,NA
+1,1.6,Mandeep Singh,CR Woakes,NA,V Kohli,6,0,6,0,NA,NA,NA
+1,2.1,V Kohli,UT Yadav,NA,Mandeep Singh,1,0,1,0,NA,NA,NA
+1,2.2,Mandeep Singh,UT Yadav,NA,V Kohli,4,0,4,0,NA,NA,NA
+1,2.3,Mandeep Singh,UT Yadav,NA,V Kohli,1,0,1,0,NA,NA,NA
+1,2.4,V Kohli,UT Yadav,NA,Mandeep Singh,2,0,2,0,NA,NA,NA
+1,2.5,V Kohli,UT Yadav,NA,Mandeep Singh,0,0,0,1,NA,lbw,V Kohli
+1,2.6,AB de Villiers,UT Yadav,NA,Mandeep Singh,0,0,0,0,NA,NA,NA
+1,3.1,Mandeep Singh,CR Woakes,NA,AB de Villiers,2,0,2,0,NA,NA,NA
+1,3.2,Mandeep Singh,CR Woakes,NA,AB de Villiers,1,0,1,0,NA,NA,NA
+1,3.3,AB de Villiers,CR Woakes,NA,Mandeep Singh,0,0,0,0,NA,NA,NA
+1,3.4,AB de Villiers,CR Woakes,NA,Mandeep Singh,0,0,0,0,NA,NA,NA
+1,3.5,AB de Villiers,CR Woakes,NA,Mandeep Singh,2,0,2,0,NA,NA,NA
+1,3.6,AB de Villiers,CR Woakes,NA,Mandeep Singh,4,0,4,0,NA,NA,NA
+1,4.1,Mandeep Singh,SP Narine,NA,AB de Villiers,1,0,1,0,NA,NA,NA
+1,4.2,AB de Villiers,SP Narine,NA,Mandeep Singh,0,0,0,0,NA,NA,NA
+1,4.3,AB de Villiers,SP Narine,NA,Mandeep Singh,4,0,4,0,NA,NA,NA
+1,4.4,AB de Villiers,SP Narine,NA,Mandeep Singh,0,0,0,1,NA,bowled,AB de Villiers
+1,4.5,TM Head,SP Narine,NA,Mandeep Singh,0,0,0,0,NA,NA,NA
+1,4.6,TM Head,SP Narine,NA,Mandeep Singh,0,0,0,0,NA,NA,NA
+1,5.1,Mandeep Singh,UT Yadav,NA,TM Head,0,0,0,0,NA,NA,NA
+1,5.2,Mandeep Singh,UT Yadav,1wides,TM Head,0,1,1,0,NA,NA,NA
+1,5.3,Mandeep Singh,UT Yadav,NA,TM Head,0,0,0,0,NA,NA,NA
+1,5.4,Mandeep Singh,UT Yadav,NA,TM Head,1,0,1,0,NA,NA,NA
+1,5.5,TM Head,UT Yadav,NA,Mandeep Singh,0,0,0,0,NA,NA,NA
+1,5.6,TM Head,UT Yadav,NA,Mandeep Singh,4,0,4,0,NA,NA,NA
+1,5.7,TM Head,UT Yadav,NA,Mandeep Singh,0,0,0,0,NA,NA,NA
+1,6.1,Mandeep Singh,SP Narine,NA,TM Head,1,0,1,0,NA,NA,NA
+1,6.2,TM Head,SP Narine,NA,Mandeep Singh,2,0,2,0,NA,NA,NA
+1,6.3,TM Head,SP Narine,NA,Mandeep Singh,1,0,1,0,NA,NA,NA
+1,6.4,Mandeep Singh,SP Narine,NA,TM Head,0,0,0,0,NA,NA,NA
+1,6.5,Mandeep Singh,SP Narine,NA,TM Head,4,0,4,0,NA,NA,NA
+1,6.6,Mandeep Singh,SP Narine,NA,TM Head,1,0,1,0,NA,NA,NA
+1,7.1,Mandeep Singh,AS Rajpoot,NA,TM Head,1,0,1,0,NA,NA,NA
+1,7.2,TM Head,AS Rajpoot,NA,Mandeep Singh,0,0,0,0,NA,NA,NA
+1,7.3,TM Head,AS Rajpoot,NA,Mandeep Singh,1,0,1,0,NA,NA,NA
+1,7.4,Mandeep Singh,AS Rajpoot,NA,TM Head,1,0,1,0,NA,NA,NA
+1,7.5,TM Head,AS Rajpoot,NA,Mandeep Singh,1,0,1,0,NA,NA,NA
+1,7.6,Mandeep Singh,AS Rajpoot,NA,TM Head,1,0,1,0,NA,NA,NA
+1,8.1,Mandeep Singh,PP Chawla,NA,TM Head,1,0,1,0,NA,NA,NA
+1,8.2,TM Head,PP Chawla,NA,Mandeep Singh,1,0,1,0,NA,NA,NA
+1,8.3,Mandeep Singh,PP Chawla,NA,TM Head,1,0,1,0,NA,NA,NA
+1,8.4,TM Head,PP Chawla,NA,Mandeep Singh,1,0,1,0,NA,NA,NA
+1,8.5,Mandeep Singh,PP Chawla,NA,TM Head,1,0,1,0,NA,NA,NA
+1,8.6,TM Head,PP Chawla,NA,Mandeep Singh,0,0,0,0,NA,NA,NA
+1,9.1,Mandeep Singh,AS Rajpoot,NA,TM Head,0,0,0,0,NA,NA,NA
+1,9.2,Mandeep Singh,AS Rajpoot,NA,TM Head,1,0,1,0,NA,NA,NA
+1,9.3,TM Head,AS Rajpoot,NA,Mandeep Singh,0,0,0,0,NA,NA,NA
+1,9.4,TM Head,AS Rajpoot,NA,Mandeep Singh,1,0,1,0,NA,NA,NA
+1,9.5,Mandeep Singh,AS Rajpoot,NA,TM Head,1,0,1,0,NA,NA,NA
+1,9.6,TM Head,AS Rajpoot,1legbyes,Mandeep Singh,0,1,1,0,NA,NA,NA
+1,10.1,TM Head,PP Chawla,NA,Mandeep Singh,1,0,1,0,NA,NA,NA
+1,10.2,Mandeep Singh,PP Chawla,NA,TM Head,1,0,1,0,NA,NA,NA
+1,10.3,TM Head,PP Chawla,NA,Mandeep Singh,1,0,1,0,NA,NA,NA
+1,10.4,Mandeep Singh,PP Chawla,NA,TM Head,1,0,1,0,NA,NA,NA
+1,10.5,TM Head,PP Chawla,NA,Mandeep Singh,2,0,2,0,NA,NA,NA
+1,10.6,TM Head,PP Chawla,NA,Mandeep Singh,2,0,2,0,NA,NA,NA
+1,11.1,Mandeep Singh,AS Rajpoot,NA,TM Head,0,0,0,0,NA,NA,NA
+1,11.2,Mandeep Singh,AS Rajpoot,NA,TM Head,1,0,1,0,NA,NA,NA
+1,11.3,TM Head,AS Rajpoot,NA,Mandeep Singh,0,0,0,0,NA,NA,NA
+1,11.4,TM Head,AS Rajpoot,NA,Mandeep Singh,1,0,1,0,NA,NA,NA
+1,11.5,Mandeep Singh,AS Rajpoot,NA,TM Head,1,0,1,0,NA,NA,NA
+1,11.6,TM Head,AS Rajpoot,NA,Mandeep Singh,4,0,4,0,NA,NA,NA
+1,12.1,Mandeep Singh,C de Grandhomme,NA,TM Head,1,0,1,0,NA,NA,NA
+1,12.2,TM Head,C de Grandhomme,NA,Mandeep Singh,1,0,1,0,NA,NA,NA
+1,12.3,Mandeep Singh,C de Grandhomme,NA,TM Head,0,0,0,0,NA,NA,NA
+1,12.4,Mandeep Singh,C de Grandhomme,NA,TM Head,1,0,1,0,NA,NA,NA
+1,12.5,TM Head,C de Grandhomme,NA,Mandeep Singh,2,0,2,0,NA,NA,NA
+1,12.6,TM Head,C de Grandhomme,NA,Mandeep Singh,1,0,1,0,NA,NA,NA
+1,13.1,TM Head,SP Narine,NA,Mandeep Singh,1,0,1,0,NA,NA,NA
+1,13.2,Mandeep Singh,SP Narine,NA,TM Head,2,0,2,0,NA,NA,NA
+1,13.3,Mandeep Singh,SP Narine,NA,TM Head,1,0,1,0,NA,NA,NA
+1,13.4,TM Head,SP Narine,NA,Mandeep Singh,6,0,6,0,NA,NA,NA
+1,13.5,TM Head,SP Narine,NA,Mandeep Singh,1,0,1,0,NA,NA,NA
+1,13.6,Mandeep Singh,SP Narine,NA,TM Head,1,0,1,0,NA,NA,NA
+1,14.1,Mandeep Singh,C de Grandhomme,NA,TM Head,4,0,4,0,NA,NA,NA
+1,14.2,Mandeep Singh,C de Grandhomme,NA,TM Head,0,0,0,0,NA,NA,NA
+1,14.3,Mandeep Singh,C de Grandhomme,NA,TM Head,1,0,1,0,NA,NA,NA
+1,14.4,TM Head,C de Grandhomme,NA,Mandeep Singh,1,0,1,0,NA,NA,NA
+1,14.5,Mandeep Singh,C de Grandhomme,NA,TM Head,2,0,2,0,NA,NA,NA
+1,14.6,Mandeep Singh,C de Grandhomme,NA,TM Head,1,0,1,0,NA,NA,NA
+1,15.1,Mandeep Singh,SP Narine,NA,TM Head,0,0,0,1,UT Yadav,caught,Mandeep Singh
+1,15.2,TM Head,SP Narine,NA,KM Jadhav,1,0,1,0,NA,NA,NA
+1,15.3,KM Jadhav,SP Narine,NA,TM Head,1,0,1,0,NA,NA,NA
+1,15.4,TM Head,SP Narine,NA,KM Jadhav,1,0,1,0,NA,NA,NA
+1,15.5,KM Jadhav,SP Narine,NA,TM Head,0,0,0,0,NA,NA,NA
+1,15.6,KM Jadhav,SP Narine,NA,TM Head,0,0,0,0,NA,NA,NA
+1,16.1,TM Head,CR Woakes,NA,KM Jadhav,1,0,1,0,NA,NA,NA
+1,16.2,KM Jadhav,CR Woakes,NA,TM Head,0,0,0,0,NA,NA,NA
+1,16.3,KM Jadhav,CR Woakes,NA,TM Head,1,0,1,0,NA,NA,NA
+1,16.4,TM Head,CR Woakes,NA,KM Jadhav,0,0,0,0,NA,NA,NA
+1,16.5,TM Head,CR Woakes,NA,KM Jadhav,1,0,1,0,NA,NA,NA
+1,16.6,KM Jadhav,CR Woakes,NA,TM Head,4,0,4,0,NA,NA,NA
+1,17.1,TM Head,AS Rajpoot,NA,KM Jadhav,0,0,0,0,NA,NA,NA
+1,17.2,TM Head,AS Rajpoot,NA,KM Jadhav,1,0,1,0,NA,NA,NA
+1,17.3,KM Jadhav,AS Rajpoot,NA,TM Head,1,0,1,0,NA,NA,NA
+1,17.4,TM Head,AS Rajpoot,NA,KM Jadhav,1,0,1,0,NA,NA,NA
+1,17.5,KM Jadhav,AS Rajpoot,NA,TM Head,1,0,1,0,NA,NA,NA
+1,17.6,TM Head,AS Rajpoot,NA,KM Jadhav,6,0,6,0,NA,NA,NA
+1,18.1,KM Jadhav,CR Woakes,NA,TM Head,0,0,0,1,UT Yadav,caught,KM Jadhav
+1,18.2,TM Head,CR Woakes,NA,P Negi,1,0,1,0,NA,NA,NA
+1,18.3,P Negi,CR Woakes,NA,TM Head,1,0,1,0,NA,NA,NA
+1,18.4,TM Head,CR Woakes,1wides,P Negi,0,1,1,0,NA,NA,NA
+1,18.5,TM Head,CR Woakes,NA,P Negi,2,0,2,0,NA,NA,NA
+1,18.6,TM Head,CR Woakes,NA,P Negi,6,0,6,0,NA,NA,NA
+1,18.7,TM Head,CR Woakes,NA,P Negi,1,0,1,0,NA,NA,NA
+1,19.1,TM Head,UT Yadav,NA,P Negi,1,0,1,0,NA,NA,NA
+1,19.2,P Negi,UT Yadav,NA,TM Head,4,0,4,0,NA,NA,NA
+1,19.3,P Negi,UT Yadav,NA,TM Head,0,0,0,1,CA Lynn,caught,P Negi
+1,19.4,TM Head,UT Yadav,NA,S Aravind,6,0,6,0,NA,NA,NA
+1,19.5,TM Head,UT Yadav,NA,S Aravind,6,0,6,0,NA,NA,NA
+1,19.6,TM Head,UT Yadav,NA,S Aravind,4,0,4,0,NA,NA,NA
+2,0.1,CA Lynn,A Choudhary,NA,SP Narine,0,0,0,0,NA,NA,NA
+2,0.2,CA Lynn,A Choudhary,NA,SP Narine,4,0,4,0,NA,NA,NA
+2,0.3,CA Lynn,A Choudhary,NA,SP Narine,4,0,4,0,NA,NA,NA
+2,0.4,CA Lynn,A Choudhary,NA,SP Narine,6,0,6,0,NA,NA,NA
+2,0.5,CA Lynn,A Choudhary,NA,SP Narine,0,0,0,0,NA,NA,NA
+2,0.6,CA Lynn,A Choudhary,NA,SP Narine,0,0,0,0,NA,NA,NA
+2,1.1,SP Narine,S Badree,NA,CA Lynn,0,0,0,0,NA,NA,NA
+2,1.2,SP Narine,S Badree,NA,CA Lynn,0,0,0,0,NA,NA,NA
+2,1.3,SP Narine,S Badree,NA,CA Lynn,4,0,4,0,NA,NA,NA
+2,1.4,SP Narine,S Badree,NA,CA Lynn,1,0,1,0,NA,NA,NA
+2,1.5,CA Lynn,S Badree,NA,SP Narine,0,0,0,0,NA,NA,NA
+2,1.6,CA Lynn,S Badree,NA,SP Narine,1,0,1,0,NA,NA,NA
+2,2.1,CA Lynn,YS Chahal,NA,SP Narine,0,0,0,0,NA,NA,NA
+2,2.2,CA Lynn,YS Chahal,NA,SP Narine,4,0,4,0,NA,NA,NA
+2,2.3,CA Lynn,YS Chahal,NA,SP Narine,0,0,0,0,NA,NA,NA
+2,2.4,CA Lynn,YS Chahal,NA,SP Narine,6,0,6,0,NA,NA,NA
+2,2.5,CA Lynn,YS Chahal,NA,SP Narine,0,0,0,0,NA,NA,NA
+2,2.6,CA Lynn,YS Chahal,NA,SP Narine,4,0,4,0,NA,NA,NA
+2,3.1,SP Narine,S Badree,NA,CA Lynn,6,0,6,0,NA,NA,NA
+2,3.2,SP Narine,S Badree,NA,CA Lynn,6,0,6,0,NA,NA,NA
+2,3.3,SP Narine,S Badree,NA,CA Lynn,6,0,6,0,NA,NA,NA
+2,3.4,SP Narine,S Badree,NA,CA Lynn,4,0,4,0,NA,NA,NA
+2,3.5,SP Narine,S Badree,NA,CA Lynn,2,0,2,0,NA,NA,NA
+2,3.6,SP Narine,S Badree,NA,CA Lynn,1,0,1,0,NA,NA,NA
+2,4.1,SP Narine,S Aravind,NA,CA Lynn,2,0,2,0,NA,NA,NA
+2,4.2,SP Narine,S Aravind,NA,CA Lynn,4,0,4,0,NA,NA,NA
+2,4.3,SP Narine,S Aravind,NA,CA Lynn,4,0,4,0,NA,NA,NA
+2,4.4,SP Narine,S Aravind,NA,CA Lynn,4,0,4,0,NA,NA,NA
+2,4.5,SP Narine,S Aravind,1wides,CA Lynn,0,1,1,0,NA,NA,NA
+2,4.6,SP Narine,S Aravind,1wides,CA Lynn,0,1,1,0,NA,NA,NA
+2,4.7,SP Narine,S Aravind,NA,CA Lynn,6,0,6,0,NA,NA,NA
+2,4.8,SP Narine,S Aravind,NA,CA Lynn,4,0,4,0,NA,NA,NA
+2,5.1,CA Lynn,YS Chahal,NA,SP Narine,6,0,6,0,NA,NA,NA
+2,5.2,CA Lynn,YS Chahal,NA,SP Narine,4,0,4,0,NA,NA,NA
+2,5.3,CA Lynn,YS Chahal,NA,SP Narine,2,0,2,0,NA,NA,NA
+2,5.4,CA Lynn,YS Chahal,NA,SP Narine,2,0,2,0,NA,NA,NA
+2,5.5,CA Lynn,YS Chahal,NA,SP Narine,0,0,0,0,NA,NA,NA
+2,5.6,CA Lynn,YS Chahal,NA,SP Narine,6,0,6,0,NA,NA,NA
+2,6.1,SP Narine,A Choudhary,NA,CA Lynn,0,0,0,1,KM Jadhav,caught,SP Narine
+2,6.2,C de Grandhomme,A Choudhary,NA,CA Lynn,0,0,0,0,NA,NA,NA
+2,6.3,C de Grandhomme,A Choudhary,NA,CA Lynn,0,0,0,0,NA,NA,NA
+2,6.4,C de Grandhomme,A Choudhary,NA,CA Lynn,0,0,0,0,NA,NA,NA
+2,6.5,C de Grandhomme,A Choudhary,NA,CA Lynn,0,0,0,0,NA,NA,NA
+2,6.6,C de Grandhomme,A Choudhary,NA,CA Lynn,0,0,0,0,NA,NA,NA
+2,7.1,CA Lynn,P Negi,NA,C de Grandhomme,1,0,1,0,NA,NA,NA
+2,7.2,C de Grandhomme,P Negi,NA,CA Lynn,1,0,1,0,NA,NA,NA
+2,7.3,CA Lynn,P Negi,NA,C de Grandhomme,0,0,0,1,NA,bowled,CA Lynn
+2,7.4,G Gambhir,P Negi,NA,C de Grandhomme,1,0,1,0,NA,NA,NA
+2,7.5,C de Grandhomme,P Negi,NA,G Gambhir,1,0,1,0,NA,NA,NA
+2,7.6,G Gambhir,P Negi,NA,C de Grandhomme,1,0,1,0,NA,NA,NA
+2,8.1,G Gambhir,A Choudhary,NA,C de Grandhomme,1,0,1,0,NA,NA,NA
+2,8.2,C de Grandhomme,A Choudhary,NA,G Gambhir,2,0,2,0,NA,NA,NA
+2,8.3,C de Grandhomme,A Choudhary,NA,G Gambhir,1,0,1,0,NA,NA,NA
+2,8.4,G Gambhir,A Choudhary,NA,C de Grandhomme,0,0,0,0,NA,NA,NA
+2,8.5,G Gambhir,A Choudhary,NA,C de Grandhomme,1,0,1,0,NA,NA,NA
+2,8.6,C de Grandhomme,TM Head,NA,G Gambhir,0,0,0,0,NA,NA,NA
+2,9.1,G Gambhir,S Badree,NA,C de Grandhomme,0,0,0,0,NA,NA,NA
+2,9.2,G Gambhir,S Badree,NA,C de Grandhomme,1,0,1,0,NA,NA,NA
+2,9.3,C de Grandhomme,S Badree,2legbyes,G Gambhir,0,2,2,0,NA,NA,NA
+2,9.4,C de Grandhomme,S Badree,NA,G Gambhir,1,0,1,0,NA,NA,NA
+2,9.5,G Gambhir,S Badree,NA,C de Grandhomme,1,0,1,0,NA,NA,NA
+2,9.6,C de Grandhomme,S Badree,NA,G Gambhir,6,0,6,0,NA,NA,NA
+2,10.1,G Gambhir,P Negi,NA,C de Grandhomme,2,0,2,0,NA,NA,NA
+2,10.2,G Gambhir,P Negi,NA,C de Grandhomme,1,0,1,0,NA,NA,NA
+2,10.3,C de Grandhomme,P Negi,NA,G Gambhir,4,0,4,0,NA,NA,NA
+2,10.4,C de Grandhomme,P Negi,NA,G Gambhir,0,0,0,0,NA,NA,NA
+2,10.5,C de Grandhomme,P Negi,NA,G Gambhir,2,0,2,0,NA,NA,NA
+2,10.6,C de Grandhomme,P Negi,NA,G Gambhir,1,0,1,0,NA,NA,NA
+2,11.1,C de Grandhomme,YS Chahal,NA,G Gambhir,2,0,2,0,NA,NA,NA
+2,11.2,C de Grandhomme,YS Chahal,NA,G Gambhir,0,0,0,0,NA,NA,NA
+2,11.3,C de Grandhomme,YS Chahal,NA,G Gambhir,0,0,0,0,NA,NA,NA
+2,11.4,C de Grandhomme,YS Chahal,1legbyes,G Gambhir,0,1,1,0,NA,NA,NA
+2,11.5,G Gambhir,YS Chahal,NA,C de Grandhomme,1,0,1,0,NA,NA,NA
+2,11.6,C de Grandhomme,YS Chahal,NA,G Gambhir,1,0,1,0,NA,NA,NA
+2,12.1,C de Grandhomme,TM Head,NA,G Gambhir,1,0,1,0,NA,NA,NA
+2,12.2,G Gambhir,TM Head,NA,C de Grandhomme,1,0,1,0,NA,NA,NA
+2,12.3,C de Grandhomme,TM Head,NA,G Gambhir,1,0,1,0,NA,NA,NA
+2,12.4,G Gambhir,TM Head,NA,C de Grandhomme,1,0,1,0,NA,NA,NA
+2,12.5,C de Grandhomme,TM Head,NA,G Gambhir,6,0,6,0,NA,NA,NA
+2,12.6,C de Grandhomme,TM Head,NA,G Gambhir,1,0,1,0,NA,NA,NA
+2,13.1,C de Grandhomme,P Negi,NA,G Gambhir,0,0,0,0,NA,NA,NA
+2,13.2,C de Grandhomme,P Negi,NA,G Gambhir,0,0,0,1,KM Jadhav,stumped,C de Grandhomme
+2,13.3,MK Pandey,P Negi,NA,G Gambhir,1,0,1,0,NA,NA,NA
+2,13.4,G Gambhir,P Negi,NA,MK Pandey,1,0,1,0,NA,NA,NA
+2,13.5,MK Pandey,P Negi,NA,G Gambhir,1,0,1,0,NA,NA,NA
+2,13.6,G Gambhir,P Negi,NA,MK Pandey,1,0,1,0,NA,NA,NA
+2,14.1,G Gambhir,YS Chahal,NA,MK Pandey,0,0,0,1,P Negi,caught,G Gambhir
+2,14.2,YK Pathan,YS Chahal,NA,MK Pandey,0,0,0,0,NA,NA,NA
+2,14.3,YK Pathan,YS Chahal,NA,MK Pandey,0,0,0,0,NA,NA,NA
+2,14.4,YK Pathan,YS Chahal,NA,MK Pandey,0,0,0,0,NA,NA,NA
+2,14.5,YK Pathan,YS Chahal,NA,MK Pandey,0,0,0,0,NA,NA,NA
+2,14.6,YK Pathan,YS Chahal,1wides,MK Pandey,0,1,1,0,NA,NA,NA
+2,14.7,YK Pathan,YS Chahal,NA,MK Pandey,0,0,0,0,NA,NA,NA
+2,15.1,MK Pandey,P Negi,NA,YK Pathan,2,0,2,0,NA,NA,NA

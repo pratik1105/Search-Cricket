@@ -1,0 +1,129 @@
+innings,ball,batsman,bowler,extras,non_striker,batsman_run,extras_run,total_run,wicket,fielders,wicket_kind,player_out
+1,0.1,CH Gayle,TG Southee,NA,V Kohli,0,0,0,0,NA,NA,NA
+1,0.2,CH Gayle,TG Southee,NA,V Kohli,4,0,4,0,NA,NA,NA
+1,0.3,CH Gayle,TG Southee,NA,V Kohli,6,0,6,0,NA,NA,NA
+1,0.4,CH Gayle,TG Southee,NA,V Kohli,0,0,0,1,DJ Hooda,caught,CH Gayle
+1,0.5,AB de Villiers,TG Southee,NA,V Kohli,0,0,0,0,NA,NA,NA
+1,0.6,AB de Villiers,TG Southee,NA,V Kohli,0,0,0,0,NA,NA,NA
+1,1.1,V Kohli,DS Kulkarni,NA,AB de Villiers,0,0,0,0,NA,NA,NA
+1,1.2,V Kohli,DS Kulkarni,NA,AB de Villiers,1,0,1,0,NA,NA,NA
+1,1.3,AB de Villiers,DS Kulkarni,NA,V Kohli,4,0,4,0,NA,NA,NA
+1,1.4,AB de Villiers,DS Kulkarni,NA,V Kohli,0,0,0,0,NA,NA,NA
+1,1.5,AB de Villiers,DS Kulkarni,NA,V Kohli,0,0,0,0,NA,NA,NA
+1,1.6,AB de Villiers,DS Kulkarni,4byes,V Kohli,0,4,4,0,NA,NA,NA
+1,2.1,V Kohli,TG Southee,NA,AB de Villiers,0,0,0,0,NA,NA,NA
+1,2.2,V Kohli,TG Southee,NA,AB de Villiers,0,0,0,1,SV Samson,caught,V Kohli
+1,2.3,Mandeep Singh,TG Southee,NA,AB de Villiers,4,0,4,0,NA,NA,NA
+1,2.4,Mandeep Singh,TG Southee,NA,AB de Villiers,1,0,1,0,NA,NA,NA
+1,2.5,AB de Villiers,TG Southee,1legbyes,Mandeep Singh,0,1,1,0,NA,NA,NA
+1,2.6,Mandeep Singh,TG Southee,NA,AB de Villiers,0,0,0,0,NA,NA,NA
+1,3.1,AB de Villiers,DS Kulkarni,NA,Mandeep Singh,0,0,0,0,NA,NA,NA
+1,3.2,AB de Villiers,DS Kulkarni,NA,Mandeep Singh,4,0,4,0,NA,NA,NA
+1,3.3,AB de Villiers,DS Kulkarni,NA,Mandeep Singh,0,0,0,0,NA,NA,NA
+1,3.4,AB de Villiers,DS Kulkarni,NA,Mandeep Singh,4,0,4,0,NA,NA,NA
+1,3.5,AB de Villiers,DS Kulkarni,NA,Mandeep Singh,0,0,0,0,NA,NA,NA
+1,3.6,AB de Villiers,DS Kulkarni,NA,Mandeep Singh,0,0,0,0,NA,NA,NA
+1,4.1,Mandeep Singh,JP Faulkner,NA,AB de Villiers,1,0,1,0,NA,NA,NA
+1,4.2,AB de Villiers,JP Faulkner,NA,Mandeep Singh,4,0,4,0,NA,NA,NA
+1,4.3,AB de Villiers,JP Faulkner,NA,Mandeep Singh,4,0,4,0,NA,NA,NA
+1,4.4,AB de Villiers,JP Faulkner,NA,Mandeep Singh,4,0,4,0,NA,NA,NA
+1,4.5,AB de Villiers,JP Faulkner,NA,Mandeep Singh,0,0,0,0,NA,NA,NA
+1,4.6,AB de Villiers,JP Faulkner,NA,Mandeep Singh,1,0,1,0,NA,NA,NA
+1,5.1,AB de Villiers,SR Watson,NA,Mandeep Singh,0,0,0,0,NA,NA,NA
+1,5.2,AB de Villiers,SR Watson,NA,Mandeep Singh,0,0,0,0,NA,NA,NA
+1,5.3,AB de Villiers,SR Watson,1wides,Mandeep Singh,0,1,1,0,NA,NA,NA
+1,5.4,AB de Villiers,SR Watson,NA,Mandeep Singh,0,0,0,0,NA,NA,NA
+1,5.5,AB de Villiers,SR Watson,1wides,Mandeep Singh,0,1,1,0,NA,NA,NA
+1,5.6,AB de Villiers,SR Watson,NA,Mandeep Singh,1,0,1,0,NA,NA,NA
+1,5.7,Mandeep Singh,SR Watson,NA,AB de Villiers,1,0,1,0,NA,NA,NA
+1,5.8,AB de Villiers,SR Watson,NA,Mandeep Singh,1,0,1,0,NA,NA,NA
+1,6.1,AB de Villiers,PV Tambe,NA,Mandeep Singh,0,0,0,0,NA,NA,NA
+1,6.2,AB de Villiers,PV Tambe,NA,Mandeep Singh,4,0,4,0,NA,NA,NA
+1,6.3,AB de Villiers,PV Tambe,NA,Mandeep Singh,4,0,4,0,NA,NA,NA
+1,6.4,AB de Villiers,PV Tambe,NA,Mandeep Singh,1,0,1,0,NA,NA,NA
+1,6.5,Mandeep Singh,PV Tambe,NA,AB de Villiers,2,0,2,0,NA,NA,NA
+1,6.6,Mandeep Singh,PV Tambe,NA,AB de Villiers,4,0,4,0,NA,NA,NA
+1,7.1,AB de Villiers,STR Binny,NA,Mandeep Singh,0,0,0,0,NA,NA,NA
+1,7.2,AB de Villiers,STR Binny,NA,Mandeep Singh,0,0,0,0,NA,NA,NA
+1,7.3,AB de Villiers,STR Binny,NA,Mandeep Singh,0,0,0,0,NA,NA,NA
+1,7.4,AB de Villiers,STR Binny,NA,Mandeep Singh,1,0,1,0,NA,NA,NA
+1,7.5,Mandeep Singh,STR Binny,NA,AB de Villiers,0,0,0,0,NA,NA,NA
+1,7.6,Mandeep Singh,STR Binny,NA,AB de Villiers,1,0,1,0,NA,NA,NA
+1,8.1,Mandeep Singh,SR Watson,NA,AB de Villiers,1,0,1,0,NA,NA,NA
+1,8.2,AB de Villiers,SR Watson,NA,Mandeep Singh,4,0,4,0,NA,NA,NA
+1,8.3,AB de Villiers,SR Watson,NA,Mandeep Singh,0,0,0,0,NA,NA,NA
+1,8.4,AB de Villiers,SR Watson,NA,Mandeep Singh,0,0,0,0,NA,NA,NA
+1,8.5,AB de Villiers,SR Watson,NA,Mandeep Singh,0,0,0,0,NA,NA,NA
+1,8.6,AB de Villiers,SR Watson,NA,Mandeep Singh,2,0,2,0,NA,NA,NA
+1,9.1,Mandeep Singh,STR Binny,NA,AB de Villiers,4,0,4,0,NA,NA,NA
+1,9.2,Mandeep Singh,STR Binny,NA,AB de Villiers,0,0,0,0,NA,NA,NA
+1,9.3,Mandeep Singh,STR Binny,NA,AB de Villiers,2,0,2,0,NA,NA,NA
+1,9.4,Mandeep Singh,STR Binny,NA,AB de Villiers,0,0,0,0,NA,NA,NA
+1,9.5,Mandeep Singh,STR Binny,1legbyes,AB de Villiers,0,1,1,0,NA,NA,NA
+1,9.6,AB de Villiers,STR Binny,NA,Mandeep Singh,0,0,0,0,NA,NA,NA
+1,10.1,Mandeep Singh,DS Kulkarni,NA,AB de Villiers,1,0,1,0,NA,NA,NA
+1,10.2,AB de Villiers,DS Kulkarni,NA,Mandeep Singh,1,0,1,0,NA,NA,NA
+1,10.3,Mandeep Singh,DS Kulkarni,NA,AB de Villiers,4,0,4,0,NA,NA,NA
+1,10.4,Mandeep Singh,DS Kulkarni,NA,AB de Villiers,0,0,0,0,NA,NA,NA
+1,10.5,Mandeep Singh,DS Kulkarni,1wides,AB de Villiers,0,1,1,0,NA,NA,NA
+1,10.6,Mandeep Singh,DS Kulkarni,NA,AB de Villiers,1,0,1,0,NA,NA,NA
+1,10.7,AB de Villiers,DS Kulkarni,NA,Mandeep Singh,2,0,2,0,NA,NA,NA
+1,11.1,Mandeep Singh,STR Binny,NA,AB de Villiers,0,0,0,1,NA,lbw,Mandeep Singh
+1,11.2,KD Karthik,STR Binny,NA,AB de Villiers,1,0,1,0,NA,NA,NA
+1,11.3,AB de Villiers,STR Binny,NA,KD Karthik,2,0,2,0,NA,NA,NA
+1,11.4,AB de Villiers,STR Binny,NA,KD Karthik,6,0,6,0,NA,NA,NA
+1,11.5,AB de Villiers,STR Binny,NA,KD Karthik,1,0,1,0,NA,NA,NA
+1,11.6,KD Karthik,STR Binny,NA,AB de Villiers,0,0,0,0,NA,NA,NA
+1,12.1,AB de Villiers,TG Southee,1noballs,KD Karthik,1,1,2,0,NA,NA,NA
+1,12.2,KD Karthik,TG Southee,NA,AB de Villiers,0,0,0,0,NA,NA,NA
+1,12.3,KD Karthik,TG Southee,NA,AB de Villiers,1,0,1,0,NA,NA,NA
+1,12.4,AB de Villiers,TG Southee,1legbyes,KD Karthik,0,1,1,0,NA,NA,NA
+1,12.5,KD Karthik,TG Southee,NA,AB de Villiers,1,0,1,0,NA,NA,NA
+1,12.6,AB de Villiers,TG Southee,NA,KD Karthik,1,0,1,0,NA,NA,NA
+1,12.7,KD Karthik,TG Southee,NA,AB de Villiers,1,0,1,0,NA,NA,NA
+1,13.1,KD Karthik,STR Binny,NA,AB de Villiers,6,0,6,0,NA,NA,NA
+1,13.2,KD Karthik,STR Binny,NA,AB de Villiers,0,0,0,0,NA,NA,NA
+1,13.3,KD Karthik,STR Binny,NA,AB de Villiers,4,0,4,0,NA,NA,NA
+1,13.4,KD Karthik,STR Binny,NA,AB de Villiers,4,0,4,0,NA,NA,NA
+1,13.5,KD Karthik,STR Binny,NA,AB de Villiers,0,0,0,1,DJ Hooda,run out,AB de Villiers
+1,13.6,SN Khan,STR Binny,NA,KD Karthik,0,0,0,0,NA,NA,NA
+1,14.1,KD Karthik,PV Tambe,NA,SN Khan,1,0,1,0,NA,NA,NA
+1,14.2,SN Khan,PV Tambe,NA,KD Karthik,1,0,1,0,NA,NA,NA
+1,14.3,KD Karthik,PV Tambe,NA,SN Khan,0,0,0,0,NA,NA,NA
+1,14.4,KD Karthik,PV Tambe,NA,SN Khan,2,0,2,0,NA,NA,NA
+1,14.5,KD Karthik,PV Tambe,NA,SN Khan,1,0,1,0,NA,NA,NA
+1,14.6,SN Khan,PV Tambe,NA,KD Karthik,1,0,1,0,NA,NA,NA
+1,15.1,SN Khan,JP Faulkner,NA,KD Karthik,1,0,1,0,NA,NA,NA
+1,15.2,KD Karthik,JP Faulkner,NA,SN Khan,0,0,0,0,NA,NA,NA
+1,15.3,KD Karthik,JP Faulkner,1wides,SN Khan,0,1,1,0,NA,NA,NA
+1,15.4,KD Karthik,JP Faulkner,NA,SN Khan,1,0,1,0,NA,NA,NA
+1,15.5,SN Khan,JP Faulkner,NA,KD Karthik,4,0,4,0,NA,NA,NA
+1,15.6,SN Khan,JP Faulkner,NA,KD Karthik,1,0,1,0,NA,NA,NA
+1,15.7,KD Karthik,JP Faulkner,NA,SN Khan,4,0,4,0,NA,NA,NA
+1,16.1,SN Khan,SR Watson,NA,KD Karthik,4,0,4,0,NA,NA,NA
+1,16.2,SN Khan,SR Watson,NA,KD Karthik,4,0,4,0,NA,NA,NA
+1,16.3,SN Khan,SR Watson,1noballs,KD Karthik,1,1,2,1,TG Southee,run out,KD Karthik
+1,16.4,D Wiese,SR Watson,NA,SN Khan,1,0,1,0,NA,NA,NA
+1,16.5,SN Khan,SR Watson,NA,D Wiese,1,0,1,0,NA,NA,NA
+1,16.6,D Wiese,SR Watson,NA,SN Khan,1,0,1,0,NA,NA,NA
+1,16.7,SN Khan,SR Watson,1wides,D Wiese,0,1,1,0,NA,NA,NA
+1,16.8,SN Khan,SR Watson,NA,D Wiese,1,0,1,0,NA,NA,NA
+1,17.1,SN Khan,PV Tambe,NA,D Wiese,4,0,4,0,NA,NA,NA
+1,17.2,SN Khan,PV Tambe,NA,D Wiese,6,0,6,0,NA,NA,NA
+1,17.3,SN Khan,PV Tambe,NA,D Wiese,1,0,1,0,NA,NA,NA
+1,17.4,D Wiese,PV Tambe,NA,SN Khan,1,0,1,0,NA,NA,NA
+1,17.5,SN Khan,PV Tambe,NA,D Wiese,4,0,4,0,NA,NA,NA
+1,17.6,SN Khan,PV Tambe,NA,D Wiese,2,0,2,0,NA,NA,NA
+1,18.1,D Wiese,DS Kulkarni,1wides,SN Khan,0,1,1,0,NA,NA,NA
+1,18.2,D Wiese,DS Kulkarni,NA,SN Khan,4,0,4,0,NA,NA,NA
+1,18.3,D Wiese,DS Kulkarni,NA,SN Khan,0,0,0,0,NA,NA,NA
+1,18.4,D Wiese,DS Kulkarni,NA,SN Khan,4,0,4,0,NA,NA,NA
+1,18.5,D Wiese,DS Kulkarni,NA,SN Khan,0,0,0,0,NA,NA,NA
+1,18.6,D Wiese,DS Kulkarni,NA,SN Khan,0,0,0,1,TG Southee,caught,D Wiese
+1,18.7,SN Khan,DS Kulkarni,NA,HV Patel,4,0,4,0,NA,NA,NA
+1,19.1,HV Patel,TG Southee,NA,SN Khan,6,0,6,0,NA,NA,NA
+1,19.2,HV Patel,TG Southee,1byes,SN Khan,0,1,1,0,NA,NA,NA
+1,19.3,SN Khan,TG Southee,NA,HV Patel,2,0,2,0,NA,NA,NA
+1,19.4,SN Khan,TG Southee,NA,HV Patel,0,0,0,0,NA,NA,NA
+1,19.5,SN Khan,TG Southee,NA,HV Patel,2,0,2,0,NA,NA,NA
+1,19.6,SN Khan,TG Southee,NA,HV Patel,1,0,1,1,AM Rahane,run out,HV Patel

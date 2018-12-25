@@ -1,0 +1,233 @@
+innings,ball,batsman,bowler,extras,non_striker,batsman_run,extras_run,total_run,wicket,fielders,wicket_kind,player_out
+1,0.1,PA Patel,Harbhajan Singh,NA,S Dhawan,2,0,2,0,NA,NA,NA
+1,0.2,PA Patel,Harbhajan Singh,NA,S Dhawan,0,0,0,0,NA,NA,NA
+1,0.3,PA Patel,Harbhajan Singh,NA,S Dhawan,0,0,0,0,NA,NA,NA
+1,0.4,PA Patel,Harbhajan Singh,1legbyes,S Dhawan,0,1,1,0,NA,NA,NA
+1,0.5,S Dhawan,Harbhajan Singh,NA,PA Patel,0,0,0,0,NA,NA,NA
+1,0.6,S Dhawan,Harbhajan Singh,NA,PA Patel,0,0,0,0,NA,NA,NA
+1,1.1,PA Patel,RP Singh,NA,S Dhawan,0,0,0,0,NA,NA,NA
+1,1.2,PA Patel,RP Singh,NA,S Dhawan,2,0,2,0,NA,NA,NA
+1,1.3,PA Patel,RP Singh,NA,S Dhawan,6,0,6,0,NA,NA,NA
+1,1.4,PA Patel,RP Singh,NA,S Dhawan,0,0,0,0,NA,NA,NA
+1,1.5,PA Patel,RP Singh,NA,S Dhawan,0,0,0,0,NA,NA,NA
+1,1.6,PA Patel,RP Singh,NA,S Dhawan,1,0,1,0,NA,NA,NA
+1,2.1,PA Patel,MM Patel,NA,S Dhawan,2,0,2,0,NA,NA,NA
+1,2.2,PA Patel,MM Patel,NA,S Dhawan,4,0,4,0,NA,NA,NA
+1,2.3,PA Patel,MM Patel,NA,S Dhawan,0,0,0,0,NA,NA,NA
+1,2.4,PA Patel,MM Patel,NA,S Dhawan,1,0,1,0,NA,NA,NA
+1,2.5,S Dhawan,MM Patel,NA,PA Patel,0,0,0,0,NA,NA,NA
+1,2.6,S Dhawan,MM Patel,1byes,PA Patel,0,1,1,0,NA,NA,NA
+1,3.1,S Dhawan,RP Singh,NA,PA Patel,4,0,4,0,NA,NA,NA
+1,3.2,S Dhawan,RP Singh,NA,PA Patel,2,0,2,0,NA,NA,NA
+1,3.3,S Dhawan,RP Singh,NA,PA Patel,0,0,0,0,NA,NA,NA
+1,3.4,S Dhawan,RP Singh,NA,PA Patel,2,0,2,0,NA,NA,NA
+1,3.5,S Dhawan,RP Singh,NA,PA Patel,1,0,1,0,NA,NA,NA
+1,3.6,PA Patel,RP Singh,NA,S Dhawan,0,0,0,0,NA,NA,NA
+1,4.1,S Dhawan,SL Malinga,NA,PA Patel,4,0,4,0,NA,NA,NA
+1,4.2,S Dhawan,SL Malinga,NA,PA Patel,1,0,1,0,NA,NA,NA
+1,4.3,PA Patel,SL Malinga,NA,S Dhawan,1,0,1,0,NA,NA,NA
+1,4.4,S Dhawan,SL Malinga,NA,PA Patel,0,0,0,0,NA,NA,NA
+1,4.5,S Dhawan,SL Malinga,NA,PA Patel,0,0,0,0,NA,NA,NA
+1,4.6,S Dhawan,SL Malinga,NA,PA Patel,1,0,1,0,NA,NA,NA
+1,5.1,S Dhawan,RP Singh,NA,PA Patel,1,0,1,0,NA,NA,NA
+1,5.2,PA Patel,RP Singh,NA,S Dhawan,0,0,0,0,NA,NA,NA
+1,5.3,PA Patel,RP Singh,NA,S Dhawan,0,0,0,1,MM Patel,caught,PA Patel
+1,5.4,IR Jaggi,RP Singh,NA,S Dhawan,1,0,1,0,NA,NA,NA
+1,5.5,S Dhawan,RP Singh,NA,IR Jaggi,0,0,0,0,NA,NA,NA
+1,5.6,S Dhawan,RP Singh,NA,IR Jaggi,0,0,0,0,NA,NA,NA
+1,6.1,IR Jaggi,MM Patel,NA,S Dhawan,0,0,0,0,NA,NA,NA
+1,6.2,IR Jaggi,MM Patel,NA,S Dhawan,1,0,1,0,NA,NA,NA
+1,6.3,S Dhawan,MM Patel,NA,IR Jaggi,1,0,1,0,NA,NA,NA
+1,6.4,IR Jaggi,MM Patel,NA,S Dhawan,0,0,0,0,NA,NA,NA
+1,6.5,IR Jaggi,MM Patel,NA,S Dhawan,0,0,0,0,NA,NA,NA
+1,6.6,IR Jaggi,MM Patel,NA,S Dhawan,0,0,0,0,NA,NA,NA
+1,7.1,S Dhawan,Harbhajan Singh,NA,IR Jaggi,1,0,1,0,NA,NA,NA
+1,7.2,IR Jaggi,Harbhajan Singh,NA,S Dhawan,0,0,0,1,MM Patel,caught,IR Jaggi
+1,7.3,S Dhawan,Harbhajan Singh,NA,CL White,0,0,0,0,NA,NA,NA
+1,7.4,S Dhawan,Harbhajan Singh,NA,CL White,0,0,0,0,NA,NA,NA
+1,7.5,S Dhawan,Harbhajan Singh,NA,CL White,2,0,2,0,NA,NA,NA
+1,7.6,S Dhawan,Harbhajan Singh,NA,CL White,0,0,0,0,NA,NA,NA
+1,8.1,CL White,SL Malinga,1wides,S Dhawan,0,1,1,0,NA,NA,NA
+1,8.2,CL White,SL Malinga,NA,S Dhawan,0,0,0,1,RP Singh,caught,CL White
+1,8.3,JP Duminy,SL Malinga,NA,S Dhawan,0,0,0,0,NA,NA,NA
+1,8.4,JP Duminy,SL Malinga,1wides,S Dhawan,0,1,1,0,NA,NA,NA
+1,8.5,JP Duminy,SL Malinga,NA,S Dhawan,0,0,0,0,NA,NA,NA
+1,8.6,JP Duminy,SL Malinga,NA,S Dhawan,0,0,0,0,NA,NA,NA
+1,8.7,JP Duminy,SL Malinga,NA,S Dhawan,1,0,1,0,NA,NA,NA
+1,8.8,S Dhawan,SL Malinga,NA,JP Duminy,2,0,2,0,NA,NA,NA
+1,9.1,JP Duminy,Harbhajan Singh,NA,S Dhawan,0,0,0,0,NA,NA,NA
+1,9.2,JP Duminy,Harbhajan Singh,NA,S Dhawan,1,0,1,0,NA,NA,NA
+1,9.3,S Dhawan,Harbhajan Singh,NA,JP Duminy,1,0,1,0,NA,NA,NA
+1,9.4,JP Duminy,Harbhajan Singh,NA,S Dhawan,1,0,1,0,NA,NA,NA
+1,9.5,S Dhawan,Harbhajan Singh,NA,JP Duminy,0,0,0,0,NA,NA,NA
+1,9.6,S Dhawan,Harbhajan Singh,NA,JP Duminy,0,0,0,0,NA,NA,NA
+1,10.1,JP Duminy,JEC Franklin,NA,S Dhawan,1,0,1,0,NA,NA,NA
+1,10.2,S Dhawan,JEC Franklin,NA,JP Duminy,1,0,1,0,NA,NA,NA
+1,10.3,JP Duminy,JEC Franklin,NA,S Dhawan,1,0,1,0,NA,NA,NA
+1,10.4,S Dhawan,JEC Franklin,NA,JP Duminy,0,0,0,0,NA,NA,NA
+1,10.5,S Dhawan,JEC Franklin,NA,JP Duminy,4,0,4,0,NA,NA,NA
+1,10.6,S Dhawan,JEC Franklin,NA,JP Duminy,1,0,1,0,NA,NA,NA
+1,11.1,S Dhawan,Harbhajan Singh,NA,JP Duminy,0,0,0,1,KD Karthik,stumped,S Dhawan
+1,11.2,DT Christian,Harbhajan Singh,NA,JP Duminy,4,0,4,0,NA,NA,NA
+1,11.3,DT Christian,Harbhajan Singh,NA,JP Duminy,0,0,0,0,NA,NA,NA
+1,11.4,DT Christian,Harbhajan Singh,NA,JP Duminy,0,0,0,0,NA,NA,NA
+1,11.5,DT Christian,Harbhajan Singh,NA,JP Duminy,1,0,1,0,NA,NA,NA
+1,11.6,JP Duminy,Harbhajan Singh,NA,DT Christian,0,0,0,0,NA,NA,NA
+1,12.1,DT Christian,JEC Franklin,NA,JP Duminy,0,0,0,1,RG Sharma,caught,DT Christian
+1,12.2,B Chipli,JEC Franklin,NA,JP Duminy,0,0,0,0,NA,NA,NA
+1,12.3,B Chipli,JEC Franklin,NA,JP Duminy,1,0,1,0,NA,NA,NA
+1,12.4,JP Duminy,JEC Franklin,NA,B Chipli,0,0,0,0,NA,NA,NA
+1,12.5,JP Duminy,JEC Franklin,NA,B Chipli,1,0,1,0,NA,NA,NA
+1,12.6,B Chipli,JEC Franklin,NA,JP Duminy,0,0,0,1,Harbhajan Singh,caught,B Chipli
+1,13.1,A Ashish Reddy,RJ Peterson,NA,JP Duminy,0,0,0,0,NA,NA,NA
+1,13.2,A Ashish Reddy,RJ Peterson,NA,JP Duminy,0,0,0,0,NA,NA,NA
+1,13.3,A Ashish Reddy,RJ Peterson,NA,JP Duminy,0,0,0,0,NA,NA,NA
+1,13.4,A Ashish Reddy,RJ Peterson,NA,JP Duminy,1,0,1,0,NA,NA,NA
+1,13.5,JP Duminy,RJ Peterson,NA,A Ashish Reddy,1,0,1,0,NA,NA,NA
+1,13.6,A Ashish Reddy,RJ Peterson,NA,JP Duminy,6,0,6,0,NA,NA,NA
+1,14.1,JP Duminy,JEC Franklin,NA,A Ashish Reddy,4,0,4,0,NA,NA,NA
+1,14.2,JP Duminy,JEC Franklin,NA,A Ashish Reddy,0,0,0,0,NA,NA,NA
+1,14.3,JP Duminy,JEC Franklin,NA,A Ashish Reddy,1,0,1,0,NA,NA,NA
+1,14.4,A Ashish Reddy,JEC Franklin,NA,JP Duminy,2,0,2,0,NA,NA,NA
+1,14.5,A Ashish Reddy,JEC Franklin,NA,JP Duminy,0,0,0,0,NA,NA,NA
+1,14.6,A Ashish Reddy,JEC Franklin,NA,JP Duminy,1,0,1,0,NA,NA,NA
+1,15.1,A Ashish Reddy,MM Patel,NA,JP Duminy,0,0,0,0,NA,NA,NA
+1,15.2,A Ashish Reddy,MM Patel,NA,JP Duminy,0,0,0,1,RG Sharma,caught,A Ashish Reddy
+1,15.3,JP Duminy,MM Patel,NA,A Mishra,4,0,4,0,NA,NA,NA
+1,15.4,JP Duminy,MM Patel,NA,A Mishra,1,0,1,0,NA,NA,NA
+1,15.5,A Mishra,MM Patel,NA,JP Duminy,0,0,0,0,NA,NA,NA
+1,15.6,A Mishra,MM Patel,NA,JP Duminy,0,0,0,0,NA,NA,NA
+1,16.1,JP Duminy,SL Malinga,NA,A Mishra,1,0,1,0,NA,NA,NA
+1,16.2,A Mishra,SL Malinga,NA,JP Duminy,0,0,0,0,NA,NA,NA
+1,16.3,A Mishra,SL Malinga,NA,JP Duminy,0,0,0,0,NA,NA,NA
+1,16.4,A Mishra,SL Malinga,NA,JP Duminy,1,0,1,0,NA,NA,NA
+1,16.5,JP Duminy,SL Malinga,NA,A Mishra,1,0,1,0,NA,NA,NA
+1,16.6,A Mishra,SL Malinga,NA,JP Duminy,0,0,0,1,JEC Franklin,caught,A Mishra
+1,17.1,DW Steyn,MM Patel,NA,JP Duminy,0,0,0,0,NA,NA,NA
+1,17.2,DW Steyn,MM Patel,NA,JP Duminy,1,0,1,0,NA,NA,NA
+1,17.3,JP Duminy,MM Patel,NA,DW Steyn,4,0,4,0,NA,NA,NA
+1,17.4,JP Duminy,MM Patel,NA,DW Steyn,0,0,0,0,NA,NA,NA
+1,17.5,JP Duminy,MM Patel,1wides,DW Steyn,0,1,1,0,NA,NA,NA
+1,17.6,JP Duminy,MM Patel,NA,DW Steyn,1,0,1,0,NA,NA,NA
+1,17.7,DW Steyn,MM Patel,NA,JP Duminy,2,0,2,0,NA,NA,NA
+1,18.1,JP Duminy,SL Malinga,NA,DW Steyn,1,0,1,0,NA,NA,NA
+1,18.2,DW Steyn,SL Malinga,NA,JP Duminy,0,0,0,0,NA,NA,NA
+1,18.3,DW Steyn,SL Malinga,NA,JP Duminy,0,0,0,1,NA,caught and bowled,DW Steyn
+1,18.4,V Pratap Singh,SL Malinga,NA,JP Duminy,0,0,0,1,RG Sharma,caught,V Pratap Singh
+2,0.1,RE Levi,DW Steyn,NA,SR Tendulkar,0,0,0,1,NA,bowled,RE Levi
+2,0.2,RG Sharma,DW Steyn,1wides,SR Tendulkar,0,1,1,0,NA,NA,NA
+2,0.3,RG Sharma,DW Steyn,NA,SR Tendulkar,0,0,0,0,NA,NA,NA
+2,0.4,RG Sharma,DW Steyn,NA,SR Tendulkar,0,0,0,0,NA,NA,NA
+2,0.5,RG Sharma,DW Steyn,NA,SR Tendulkar,0,0,0,0,NA,NA,NA
+2,0.6,RG Sharma,DW Steyn,NA,SR Tendulkar,0,0,0,0,NA,NA,NA
+2,0.7,RG Sharma,DW Steyn,NA,SR Tendulkar,0,0,0,0,NA,NA,NA
+2,1.1,SR Tendulkar,V Pratap Singh,NA,RG Sharma,0,0,0,0,NA,NA,NA
+2,1.2,SR Tendulkar,V Pratap Singh,1wides,RG Sharma,0,1,1,0,NA,NA,NA
+2,1.3,SR Tendulkar,V Pratap Singh,NA,RG Sharma,0,0,0,0,NA,NA,NA
+2,1.4,SR Tendulkar,V Pratap Singh,NA,RG Sharma,3,0,3,0,NA,NA,NA
+2,1.5,RG Sharma,V Pratap Singh,NA,SR Tendulkar,0,0,0,0,NA,NA,NA
+2,1.6,RG Sharma,V Pratap Singh,NA,SR Tendulkar,0,0,0,0,NA,NA,NA
+2,1.7,RG Sharma,V Pratap Singh,NA,SR Tendulkar,2,0,2,0,NA,NA,NA
+2,2.1,SR Tendulkar,DW Steyn,NA,RG Sharma,1,0,1,0,NA,NA,NA
+2,2.2,RG Sharma,DW Steyn,NA,SR Tendulkar,0,0,0,0,NA,NA,NA
+2,2.3,RG Sharma,DW Steyn,NA,SR Tendulkar,0,0,0,0,NA,NA,NA
+2,2.4,RG Sharma,DW Steyn,NA,SR Tendulkar,0,0,0,0,NA,NA,NA
+2,2.5,RG Sharma,DW Steyn,NA,SR Tendulkar,0,0,0,0,NA,NA,NA
+2,2.6,RG Sharma,DW Steyn,NA,SR Tendulkar,1,0,1,0,NA,NA,NA
+2,3.1,RG Sharma,V Pratap Singh,NA,SR Tendulkar,4,0,4,0,NA,NA,NA
+2,3.2,RG Sharma,V Pratap Singh,NA,SR Tendulkar,1,0,1,0,NA,NA,NA
+2,3.3,SR Tendulkar,V Pratap Singh,NA,RG Sharma,0,0,0,0,NA,NA,NA
+2,3.4,SR Tendulkar,V Pratap Singh,1legbyes,RG Sharma,0,1,1,0,NA,NA,NA
+2,3.5,RG Sharma,V Pratap Singh,NA,SR Tendulkar,4,0,4,0,NA,NA,NA
+2,3.6,RG Sharma,V Pratap Singh,NA,SR Tendulkar,0,0,0,0,NA,NA,NA
+2,4.1,SR Tendulkar,DT Christian,NA,RG Sharma,0,0,0,0,NA,NA,NA
+2,4.2,SR Tendulkar,DT Christian,1wides,RG Sharma,0,1,1,0,NA,NA,NA
+2,4.3,SR Tendulkar,DT Christian,NA,RG Sharma,2,0,2,0,NA,NA,NA
+2,4.4,SR Tendulkar,DT Christian,NA,RG Sharma,4,0,4,0,NA,NA,NA
+2,4.5,SR Tendulkar,DT Christian,NA,RG Sharma,0,0,0,0,NA,NA,NA
+2,4.6,SR Tendulkar,DT Christian,NA,RG Sharma,1,0,1,0,NA,NA,NA
+2,4.7,RG Sharma,DT Christian,NA,SR Tendulkar,0,0,0,0,NA,NA,NA
+2,5.1,SR Tendulkar,V Pratap Singh,NA,RG Sharma,1,0,1,0,NA,NA,NA
+2,5.2,RG Sharma,V Pratap Singh,NA,SR Tendulkar,0,0,0,0,NA,NA,NA
+2,5.3,RG Sharma,V Pratap Singh,NA,SR Tendulkar,1,0,1,0,NA,NA,NA
+2,5.4,SR Tendulkar,V Pratap Singh,NA,RG Sharma,2,0,2,0,NA,NA,NA
+2,5.5,SR Tendulkar,V Pratap Singh,NA,RG Sharma,0,0,0,1,DT Christian,caught,SR Tendulkar
+2,5.6,KD Karthik,V Pratap Singh,NA,RG Sharma,0,0,0,0,NA,NA,NA
+2,6.1,RG Sharma,DT Christian,1wides,KD Karthik,0,1,1,0,NA,NA,NA
+2,6.2,RG Sharma,DT Christian,NA,KD Karthik,1,0,1,0,NA,NA,NA
+2,6.3,KD Karthik,DT Christian,NA,RG Sharma,0,0,0,0,NA,NA,NA
+2,6.4,KD Karthik,DT Christian,NA,RG Sharma,1,0,1,0,NA,NA,NA
+2,6.5,RG Sharma,DT Christian,NA,KD Karthik,0,0,0,0,NA,NA,NA
+2,6.6,RG Sharma,DT Christian,NA,KD Karthik,0,0,0,0,NA,NA,NA
+2,6.7,RG Sharma,DT Christian,NA,KD Karthik,1,0,1,0,NA,NA,NA
+2,7.1,RG Sharma,V Pratap Singh,NA,KD Karthik,1,0,1,0,NA,NA,NA
+2,7.2,KD Karthik,V Pratap Singh,NA,RG Sharma,1,0,1,0,NA,NA,NA
+2,7.3,RG Sharma,V Pratap Singh,NA,KD Karthik,6,0,6,0,NA,NA,NA
+2,7.4,RG Sharma,V Pratap Singh,NA,KD Karthik,0,0,0,0,NA,NA,NA
+2,7.5,RG Sharma,V Pratap Singh,NA,KD Karthik,1,0,1,0,NA,NA,NA
+2,7.6,KD Karthik,V Pratap Singh,NA,RG Sharma,0,0,0,0,NA,NA,NA
+2,8.1,RG Sharma,DW Steyn,NA,KD Karthik,0,0,0,0,NA,NA,NA
+2,8.2,RG Sharma,DW Steyn,NA,KD Karthik,1,0,1,0,NA,NA,NA
+2,8.3,KD Karthik,DW Steyn,NA,RG Sharma,0,0,0,1,PA Patel,caught,KD Karthik
+2,8.4,JEC Franklin,DW Steyn,1wides,RG Sharma,0,1,1,0,NA,NA,NA
+2,8.5,JEC Franklin,DW Steyn,NA,RG Sharma,0,0,0,0,NA,NA,NA
+2,8.6,JEC Franklin,DW Steyn,1wides,RG Sharma,0,1,1,0,NA,NA,NA
+2,8.7,JEC Franklin,DW Steyn,NA,RG Sharma,0,0,0,0,NA,NA,NA
+2,8.8,JEC Franklin,DW Steyn,NA,RG Sharma,0,0,0,0,NA,NA,NA
+2,9.1,RG Sharma,A Mishra,NA,JEC Franklin,0,0,0,0,NA,NA,NA
+2,9.2,RG Sharma,A Mishra,NA,JEC Franklin,2,0,2,0,NA,NA,NA
+2,9.3,RG Sharma,A Mishra,NA,JEC Franklin,1,0,1,0,NA,NA,NA
+2,9.4,JEC Franklin,A Mishra,NA,RG Sharma,0,0,0,0,NA,NA,NA
+2,9.5,JEC Franklin,A Mishra,NA,RG Sharma,1,0,1,0,NA,NA,NA
+2,9.6,RG Sharma,A Mishra,NA,JEC Franklin,1,0,1,0,NA,NA,NA
+2,10.1,RG Sharma,A Ashish Reddy,NA,JEC Franklin,0,0,0,0,NA,NA,NA
+2,10.2,RG Sharma,A Ashish Reddy,NA,JEC Franklin,0,0,0,0,NA,NA,NA
+2,10.3,RG Sharma,A Ashish Reddy,NA,JEC Franklin,0,0,0,0,NA,NA,NA
+2,10.4,RG Sharma,A Ashish Reddy,NA,JEC Franklin,4,0,4,0,NA,NA,NA
+2,10.5,RG Sharma,A Ashish Reddy,NA,JEC Franklin,1,0,1,0,NA,NA,NA
+2,10.6,JEC Franklin,A Ashish Reddy,NA,RG Sharma,0,0,0,0,NA,NA,NA
+2,11.1,RG Sharma,A Mishra,NA,JEC Franklin,1,0,1,0,NA,NA,NA
+2,11.2,JEC Franklin,A Mishra,NA,RG Sharma,2,0,2,0,NA,NA,NA
+2,11.3,JEC Franklin,A Mishra,NA,RG Sharma,2,0,2,0,NA,NA,NA
+2,11.4,JEC Franklin,A Mishra,NA,RG Sharma,1,0,1,0,NA,NA,NA
+2,11.5,RG Sharma,A Mishra,NA,JEC Franklin,0,0,0,0,NA,NA,NA
+2,11.6,RG Sharma,A Mishra,NA,JEC Franklin,0,0,0,0,NA,NA,NA
+2,12.1,JEC Franklin,DW Steyn,NA,RG Sharma,0,0,0,0,NA,NA,NA
+2,12.2,JEC Franklin,DW Steyn,NA,RG Sharma,0,0,0,0,NA,NA,NA
+2,12.3,JEC Franklin,DW Steyn,NA,RG Sharma,1,0,1,0,NA,NA,NA
+2,12.4,RG Sharma,DW Steyn,NA,JEC Franklin,1,0,1,0,NA,NA,NA
+2,12.5,JEC Franklin,DW Steyn,NA,RG Sharma,1,0,1,0,NA,NA,NA
+2,12.6,RG Sharma,DW Steyn,NA,JEC Franklin,1,0,1,0,NA,NA,NA
+2,13.1,RG Sharma,JP Duminy,NA,JEC Franklin,1,0,1,0,NA,NA,NA
+2,13.2,JEC Franklin,JP Duminy,NA,RG Sharma,1,0,1,0,NA,NA,NA
+2,13.3,RG Sharma,JP Duminy,NA,JEC Franklin,1,0,1,0,NA,NA,NA
+2,13.4,JEC Franklin,JP Duminy,NA,RG Sharma,1,0,1,0,NA,NA,NA
+2,13.5,RG Sharma,JP Duminy,NA,JEC Franklin,4,0,4,0,NA,NA,NA
+2,13.6,RG Sharma,JP Duminy,NA,JEC Franklin,0,0,0,1,IR Jaggi,caught,RG Sharma
+2,14.1,JEC Franklin,DT Christian,NA,AT Rayudu,0,0,0,0,NA,NA,NA
+2,14.2,JEC Franklin,DT Christian,NA,AT Rayudu,1,0,1,0,NA,NA,NA
+2,14.3,AT Rayudu,DT Christian,NA,JEC Franklin,0,0,0,0,NA,NA,NA
+2,14.4,AT Rayudu,DT Christian,NA,JEC Franklin,0,0,0,0,NA,NA,NA
+2,14.5,AT Rayudu,DT Christian,NA,JEC Franklin,0,0,0,0,NA,NA,NA
+2,14.6,AT Rayudu,DT Christian,NA,JEC Franklin,1,0,1,0,NA,NA,NA
+2,15.1,AT Rayudu,A Mishra,NA,JEC Franklin,1,0,1,0,NA,NA,NA
+2,15.2,JEC Franklin,A Mishra,NA,AT Rayudu,1,0,1,0,NA,NA,NA
+2,15.3,AT Rayudu,A Mishra,NA,JEC Franklin,0,0,0,0,NA,NA,NA
+2,15.4,AT Rayudu,A Mishra,NA,JEC Franklin,1,0,1,0,NA,NA,NA
+2,15.5,JEC Franklin,A Mishra,NA,AT Rayudu,1,0,1,0,NA,NA,NA
+2,15.6,AT Rayudu,A Mishra,NA,JEC Franklin,0,0,0,0,NA,NA,NA
+2,16.1,JEC Franklin,A Ashish Reddy,NA,AT Rayudu,0,0,0,1,PA Patel,caught,JEC Franklin
+2,16.2,RJ Peterson,A Ashish Reddy,NA,AT Rayudu,0,0,0,0,NA,NA,NA
+2,16.3,RJ Peterson,A Ashish Reddy,NA,AT Rayudu,0,0,0,0,NA,NA,NA
+2,16.4,RJ Peterson,A Ashish Reddy,NA,AT Rayudu,1,0,1,0,NA,NA,NA
+2,16.5,AT Rayudu,A Ashish Reddy,NA,RJ Peterson,1,0,1,0,NA,NA,NA
+2,16.6,RJ Peterson,A Ashish Reddy,NA,AT Rayudu,0,0,0,0,NA,NA,NA
+2,17.1,AT Rayudu,A Mishra,NA,RJ Peterson,2,0,2,0,NA,NA,NA
+2,17.2,AT Rayudu,A Mishra,NA,RJ Peterson,4,0,4,0,NA,NA,NA
+2,17.3,AT Rayudu,A Mishra,NA,RJ Peterson,1,0,1,0,NA,NA,NA
+2,17.4,RJ Peterson,A Mishra,NA,AT Rayudu,0,0,0,0,NA,NA,NA
+2,17.5,RJ Peterson,A Mishra,2wides,AT Rayudu,0,2,2,0,NA,NA,NA
+2,17.6,AT Rayudu,A Mishra,NA,RJ Peterson,4,0,4,0,NA,NA,NA
+2,17.7,AT Rayudu,A Mishra,NA,RJ Peterson,1,0,1,0,NA,NA,NA
+2,18.1,AT Rayudu,A Ashish Reddy,1wides,RJ Peterson,0,1,1,0,NA,NA,NA
+2,18.2,AT Rayudu,A Ashish Reddy,NA,RJ Peterson,3,0,3,0,NA,NA,NA

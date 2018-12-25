@@ -1,0 +1,227 @@
+innings,ball,batsman,bowler,extras,non_striker,batsman_run,extras_run,total_run,wicket,fielders,wicket_kind,player_out
+1,0.1,AP Tare,AB Dinda,NA,SW Billings,0,0,0,0,NA,NA,NA
+1,0.2,AP Tare,AB Dinda,NA,SW Billings,0,0,0,0,NA,NA,NA
+1,0.3,AP Tare,AB Dinda,NA,SW Billings,0,0,0,0,NA,NA,NA
+1,0.4,AP Tare,AB Dinda,1wides,SW Billings,0,1,1,0,NA,NA,NA
+1,0.5,AP Tare,AB Dinda,1legbyes,SW Billings,0,1,1,0,NA,NA,NA
+1,0.6,SW Billings,AB Dinda,NA,AP Tare,0,0,0,0,NA,NA,NA
+1,0.7,SW Billings,AB Dinda,NA,AP Tare,0,0,0,0,NA,NA,NA
+1,1.1,AP Tare,DL Chahar,NA,SW Billings,0,0,0,1,MS Dhoni,caught,AP Tare
+1,1.2,SV Samson,DL Chahar,1legbyes,SW Billings,0,1,1,0,NA,NA,NA
+1,1.3,SW Billings,DL Chahar,NA,SV Samson,1,0,1,0,NA,NA,NA
+1,1.4,SV Samson,DL Chahar,NA,SW Billings,4,0,4,0,NA,NA,NA
+1,1.5,SV Samson,DL Chahar,NA,SW Billings,4,0,4,0,NA,NA,NA
+1,1.6,SV Samson,DL Chahar,NA,SW Billings,1,0,1,0,NA,NA,NA
+1,2.1,SV Samson,AB Dinda,NA,SW Billings,4,0,4,0,NA,NA,NA
+1,2.2,SV Samson,AB Dinda,NA,SW Billings,4,0,4,0,NA,NA,NA
+1,2.3,SV Samson,AB Dinda,NA,SW Billings,1,0,1,0,NA,NA,NA
+1,2.4,SW Billings,AB Dinda,1wides,SV Samson,0,1,1,0,NA,NA,NA
+1,2.5,SW Billings,AB Dinda,NA,SV Samson,4,0,4,0,NA,NA,NA
+1,2.6,SW Billings,AB Dinda,NA,SV Samson,1,0,1,0,NA,NA,NA
+1,2.7,SV Samson,AB Dinda,NA,SW Billings,1,0,1,0,NA,NA,NA
+1,3.1,SV Samson,DL Chahar,NA,SW Billings,2,0,2,0,NA,NA,NA
+1,3.2,SV Samson,DL Chahar,NA,SW Billings,4,0,4,0,NA,NA,NA
+1,3.3,SV Samson,DL Chahar,NA,SW Billings,1,0,1,0,NA,NA,NA
+1,3.4,SW Billings,DL Chahar,NA,SV Samson,1,0,1,0,NA,NA,NA
+1,3.5,SV Samson,DL Chahar,NA,SW Billings,0,0,0,0,NA,NA,NA
+1,3.6,SV Samson,DL Chahar,1wides,SW Billings,0,1,1,0,NA,NA,NA
+1,3.7,SV Samson,DL Chahar,NA,SW Billings,1,0,1,0,NA,NA,NA
+1,4.1,SV Samson,BA Stokes,NA,SW Billings,4,0,4,0,NA,NA,NA
+1,4.2,SV Samson,BA Stokes,NA,SW Billings,0,0,0,0,NA,NA,NA
+1,4.3,SV Samson,BA Stokes,NA,SW Billings,0,0,0,0,NA,NA,NA
+1,4.4,SV Samson,BA Stokes,NA,SW Billings,1,0,1,0,NA,NA,NA
+1,4.5,SW Billings,BA Stokes,NA,SV Samson,1,0,1,0,NA,NA,NA
+1,4.6,SV Samson,BA Stokes,NA,SW Billings,2,0,2,0,NA,NA,NA
+1,5.1,SW Billings,DL Chahar,NA,SV Samson,0,0,0,0,NA,NA,NA
+1,5.2,SW Billings,DL Chahar,1wides,SV Samson,0,1,1,0,NA,NA,NA
+1,5.3,SW Billings,DL Chahar,NA,SV Samson,4,0,4,0,NA,NA,NA
+1,5.4,SW Billings,DL Chahar,NA,SV Samson,4,0,4,0,NA,NA,NA
+1,5.5,SW Billings,DL Chahar,NA,SV Samson,4,0,4,0,NA,NA,NA
+1,5.6,SW Billings,DL Chahar,NA,SV Samson,1,0,1,0,NA,NA,NA
+1,5.7,SV Samson,DL Chahar,NA,SW Billings,1,0,1,0,NA,NA,NA
+1,6.1,SV Samson,Imran Tahir,1legbyes,SW Billings,0,1,1,0,NA,NA,NA
+1,6.2,SW Billings,Imran Tahir,NA,SV Samson,0,0,0,0,NA,NA,NA
+1,6.3,SW Billings,Imran Tahir,NA,SV Samson,1,0,1,0,NA,NA,NA
+1,6.4,SV Samson,Imran Tahir,NA,SW Billings,1,0,1,0,NA,NA,NA
+1,6.5,SW Billings,Imran Tahir,NA,SV Samson,1,0,1,0,NA,NA,NA
+1,6.6,SV Samson,Imran Tahir,NA,SW Billings,0,0,0,0,NA,NA,NA
+1,7.1,SW Billings,A Zampa,NA,SV Samson,1,0,1,0,NA,NA,NA
+1,7.2,SV Samson,A Zampa,NA,SW Billings,2,0,2,0,NA,NA,NA
+1,7.3,SV Samson,A Zampa,NA,SW Billings,2,0,2,0,NA,NA,NA
+1,7.4,SV Samson,A Zampa,NA,SW Billings,0,0,0,0,NA,NA,NA
+1,7.5,SV Samson,A Zampa,NA,SW Billings,0,0,0,0,NA,NA,NA
+1,7.6,SV Samson,A Zampa,NA,SW Billings,0,0,0,0,NA,NA,NA
+1,8.1,SW Billings,Imran Tahir,NA,SV Samson,0,0,0,1,NA,bowled,SW Billings
+1,8.2,RR Pant,Imran Tahir,NA,SV Samson,1,0,1,0,NA,NA,NA
+1,8.3,SV Samson,Imran Tahir,NA,RR Pant,1,0,1,0,NA,NA,NA
+1,8.4,RR Pant,Imran Tahir,NA,SV Samson,1,0,1,0,NA,NA,NA
+1,8.5,SV Samson,Imran Tahir,NA,RR Pant,1,0,1,0,NA,NA,NA
+1,8.6,RR Pant,Imran Tahir,NA,SV Samson,1,0,1,0,NA,NA,NA
+1,9.1,RR Pant,R Bhatia,NA,SV Samson,1,0,1,0,NA,NA,NA
+1,9.2,SV Samson,R Bhatia,NA,RR Pant,1,0,1,0,NA,NA,NA
+1,9.3,RR Pant,R Bhatia,NA,SV Samson,1,0,1,0,NA,NA,NA
+1,9.4,SV Samson,R Bhatia,NA,RR Pant,1,0,1,0,NA,NA,NA
+1,9.5,RR Pant,R Bhatia,NA,SV Samson,1,0,1,0,NA,NA,NA
+1,9.6,SV Samson,R Bhatia,NA,RR Pant,0,0,0,0,NA,NA,NA
+1,10.1,RR Pant,A Zampa,NA,SV Samson,1,0,1,0,NA,NA,NA
+1,10.2,SV Samson,A Zampa,NA,RR Pant,1,0,1,0,NA,NA,NA
+1,10.3,RR Pant,A Zampa,NA,SV Samson,0,0,0,0,NA,NA,NA
+1,10.4,RR Pant,A Zampa,NA,SV Samson,4,0,4,0,NA,NA,NA
+1,10.5,RR Pant,A Zampa,NA,SV Samson,0,0,0,0,NA,NA,NA
+1,10.6,RR Pant,A Zampa,NA,SV Samson,1,0,1,0,NA,NA,NA
+1,11.1,RR Pant,R Bhatia,NA,SV Samson,6,0,6,0,NA,NA,NA
+1,11.2,RR Pant,R Bhatia,NA,SV Samson,1,0,1,0,NA,NA,NA
+1,11.3,SV Samson,R Bhatia,NA,RR Pant,1,0,1,0,NA,NA,NA
+1,11.4,RR Pant,R Bhatia,NA,SV Samson,6,0,6,0,NA,NA,NA
+1,11.5,RR Pant,R Bhatia,NA,SV Samson,1,0,1,0,NA,NA,NA
+1,11.6,SV Samson,R Bhatia,NA,RR Pant,1,0,1,0,NA,NA,NA
+1,12.1,SV Samson,Imran Tahir,NA,RR Pant,1,0,1,0,NA,NA,NA
+1,12.2,RR Pant,Imran Tahir,NA,SV Samson,2,0,2,0,NA,NA,NA
+1,12.3,RR Pant,Imran Tahir,NA,SV Samson,0,0,0,0,NA,NA,NA
+1,12.4,RR Pant,Imran Tahir,NA,SV Samson,1,0,1,0,NA,NA,NA
+1,12.5,SV Samson,Imran Tahir,NA,RR Pant,0,0,0,0,NA,NA,NA
+1,12.6,SV Samson,Imran Tahir,NA,RR Pant,0,0,0,0,NA,NA,NA
+1,13.1,RR Pant,BA Stokes,NA,SV Samson,1,0,1,0,NA,NA,NA
+1,13.2,SV Samson,BA Stokes,NA,RR Pant,1,0,1,0,NA,NA,NA
+1,13.3,RR Pant,BA Stokes,NA,SV Samson,1,0,1,0,NA,NA,NA
+1,13.4,SV Samson,BA Stokes,NA,RR Pant,0,0,0,0,NA,NA,NA
+1,13.5,SV Samson,BA Stokes,NA,RR Pant,1,0,1,0,NA,NA,NA
+1,13.6,RR Pant,BA Stokes,NA,SV Samson,0,0,0,0,NA,NA,NA
+1,14.1,SV Samson,A Zampa,NA,RR Pant,2,0,2,0,NA,NA,NA
+1,14.2,SV Samson,A Zampa,NA,RR Pant,2,0,2,0,NA,NA,NA
+1,14.3,SV Samson,A Zampa,NA,RR Pant,0,0,0,0,NA,NA,NA
+1,14.4,SV Samson,A Zampa,NA,RR Pant,0,0,0,0,NA,NA,NA
+1,14.5,SV Samson,A Zampa,NA,RR Pant,6,0,6,0,NA,NA,NA
+1,14.6,SV Samson,A Zampa,NA,RR Pant,1,0,1,0,NA,NA,NA
+1,15.1,SV Samson,BA Stokes,NA,RR Pant,1,0,1,0,NA,NA,NA
+1,15.2,RR Pant,BA Stokes,NA,SV Samson,0,0,0,1,MA Agarwal,run out,RR Pant
+1,15.3,SV Samson,BA Stokes,NA,CJ Anderson,4,0,4,0,NA,NA,NA
+1,15.4,SV Samson,BA Stokes,NA,CJ Anderson,1,0,1,0,NA,NA,NA
+1,15.5,CJ Anderson,BA Stokes,NA,SV Samson,0,0,0,0,NA,NA,NA
+1,15.6,CJ Anderson,BA Stokes,NA,SV Samson,0,0,0,0,NA,NA,NA
+1,16.1,SV Samson,Imran Tahir,NA,CJ Anderson,0,0,0,0,NA,NA,NA
+1,16.2,SV Samson,Imran Tahir,NA,CJ Anderson,1,0,1,0,NA,NA,NA
+1,16.3,CJ Anderson,Imran Tahir,1wides,SV Samson,0,1,1,0,NA,NA,NA
+1,16.4,CJ Anderson,Imran Tahir,NA,SV Samson,1,0,1,0,NA,NA,NA
+1,16.5,SV Samson,Imran Tahir,NA,CJ Anderson,6,0,6,0,NA,NA,NA
+1,16.6,SV Samson,Imran Tahir,NA,CJ Anderson,2,0,2,0,NA,NA,NA
+1,16.7,SV Samson,Imran Tahir,NA,CJ Anderson,1,0,1,0,NA,NA,NA
+1,17.1,SV Samson,AB Dinda,NA,CJ Anderson,6,0,6,0,NA,NA,NA
+1,17.2,SV Samson,AB Dinda,NA,CJ Anderson,2,0,2,0,NA,NA,NA
+1,17.3,SV Samson,AB Dinda,NA,CJ Anderson,0,0,0,0,NA,NA,NA
+1,17.4,SV Samson,AB Dinda,NA,CJ Anderson,6,0,6,0,NA,NA,NA
+1,17.5,SV Samson,AB Dinda,NA,CJ Anderson,4,0,4,0,NA,NA,NA
+1,17.6,SV Samson,AB Dinda,NA,CJ Anderson,1,0,1,0,NA,NA,NA
+1,18.1,SV Samson,A Zampa,NA,CJ Anderson,6,0,6,0,NA,NA,NA
+1,18.2,SV Samson,A Zampa,NA,CJ Anderson,0,0,0,1,NA,bowled,SV Samson
+1,18.3,CH Morris,A Zampa,NA,CJ Anderson,4,0,4,0,NA,NA,NA
+1,18.4,CH Morris,A Zampa,NA,CJ Anderson,2,0,2,0,NA,NA,NA
+1,18.5,CH Morris,A Zampa,NA,CJ Anderson,6,0,6,0,NA,NA,NA
+1,18.6,CH Morris,A Zampa,NA,CJ Anderson,4,0,4,0,NA,NA,NA
+1,19.1,CJ Anderson,BA Stokes,NA,CH Morris,1,0,1,0,NA,NA,NA
+1,19.2,CH Morris,BA Stokes,NA,CJ Anderson,4,0,4,0,NA,NA,NA
+1,19.3,CH Morris,BA Stokes,NA,CJ Anderson,2,0,2,0,NA,NA,NA
+1,19.4,CH Morris,BA Stokes,NA,CJ Anderson,4,0,4,0,NA,NA,NA
+1,19.5,CH Morris,BA Stokes,NA,CJ Anderson,6,0,6,0,NA,NA,NA
+1,19.6,CH Morris,BA Stokes,NA,CJ Anderson,6,0,6,0,NA,NA,NA
+2,0.1,AM Rahane,S Nadeem,NA,MA Agarwal,1,0,1,0,NA,NA,NA
+2,0.2,MA Agarwal,S Nadeem,NA,AM Rahane,1,0,1,0,NA,NA,NA
+2,0.3,AM Rahane,S Nadeem,1wides,MA Agarwal,0,1,1,0,NA,NA,NA
+2,0.4,AM Rahane,S Nadeem,NA,MA Agarwal,1,0,1,0,NA,NA,NA
+2,0.5,MA Agarwal,S Nadeem,NA,AM Rahane,4,0,4,0,NA,NA,NA
+2,0.6,MA Agarwal,S Nadeem,NA,AM Rahane,1,0,1,0,NA,NA,NA
+2,0.7,AM Rahane,S Nadeem,NA,MA Agarwal,1,0,1,0,NA,NA,NA
+2,1.1,AM Rahane,PJ Cummins,NA,MA Agarwal,1,0,1,0,NA,NA,NA
+2,1.2,MA Agarwal,PJ Cummins,NA,AM Rahane,2,0,2,0,NA,NA,NA
+2,1.3,MA Agarwal,PJ Cummins,NA,AM Rahane,0,0,0,0,NA,NA,NA
+2,1.4,MA Agarwal,PJ Cummins,1wides,AM Rahane,0,1,1,0,NA,NA,NA
+2,1.5,MA Agarwal,PJ Cummins,NA,AM Rahane,1,0,1,0,NA,NA,NA
+2,1.6,AM Rahane,PJ Cummins,NA,MA Agarwal,1,0,1,0,NA,NA,NA
+2,1.7,MA Agarwal,PJ Cummins,NA,AM Rahane,1,0,1,0,NA,NA,NA
+2,2.1,MA Agarwal,Z Khan,NA,AM Rahane,1,0,1,0,NA,NA,NA
+2,2.2,AM Rahane,Z Khan,NA,MA Agarwal,1,0,1,0,NA,NA,NA
+2,2.3,MA Agarwal,Z Khan,NA,AM Rahane,1,0,1,0,NA,NA,NA
+2,2.4,AM Rahane,Z Khan,NA,MA Agarwal,2,0,2,0,NA,NA,NA
+2,2.5,AM Rahane,Z Khan,NA,MA Agarwal,2,0,2,0,NA,NA,NA
+2,2.6,AM Rahane,Z Khan,NA,MA Agarwal,0,0,0,1,SV Samson,caught,AM Rahane
+2,3.1,F du Plessis,CH Morris,NA,MA Agarwal,1,0,1,0,NA,NA,NA
+2,3.2,MA Agarwal,CH Morris,NA,F du Plessis,4,0,4,0,NA,NA,NA
+2,3.3,MA Agarwal,CH Morris,NA,F du Plessis,0,0,0,0,NA,NA,NA
+2,3.4,MA Agarwal,CH Morris,NA,F du Plessis,0,0,0,0,NA,NA,NA
+2,3.5,MA Agarwal,CH Morris,NA,F du Plessis,0,0,0,0,NA,NA,NA
+2,3.6,MA Agarwal,CH Morris,NA,F du Plessis,2,0,2,0,NA,NA,NA
+2,4.1,F du Plessis,Z Khan,NA,MA Agarwal,1,0,1,0,NA,NA,NA
+2,4.2,MA Agarwal,Z Khan,NA,F du Plessis,2,0,2,0,NA,NA,NA
+2,4.3,MA Agarwal,Z Khan,NA,F du Plessis,0,0,0,0,NA,NA,NA
+2,4.4,MA Agarwal,Z Khan,NA,F du Plessis,0,0,0,0,NA,NA,NA
+2,4.5,MA Agarwal,Z Khan,NA,F du Plessis,0,0,0,1,CH Morris,caught,MA Agarwal
+2,4.6,F du Plessis,Z Khan,NA,RA Tripathi,4,0,4,0,NA,NA,NA
+2,5.1,RA Tripathi,CH Morris,NA,F du Plessis,4,0,4,0,NA,NA,NA
+2,5.2,RA Tripathi,CH Morris,1wides,F du Plessis,0,1,1,0,NA,NA,NA
+2,5.3,RA Tripathi,CH Morris,NA,F du Plessis,4,0,4,0,NA,NA,NA
+2,5.4,RA Tripathi,CH Morris,NA,F du Plessis,0,0,0,0,NA,NA,NA
+2,5.5,RA Tripathi,CH Morris,NA,F du Plessis,2,0,2,0,NA,NA,NA
+2,5.6,RA Tripathi,CH Morris,NA,F du Plessis,0,0,0,1,S Nadeem,caught,RA Tripathi
+2,5.7,F du Plessis,CH Morris,NA,BA Stokes,1,0,1,0,NA,NA,NA
+2,6.1,F du Plessis,S Nadeem,NA,BA Stokes,0,0,0,0,NA,NA,NA
+2,6.2,F du Plessis,S Nadeem,NA,BA Stokes,1,0,1,0,NA,NA,NA
+2,6.3,BA Stokes,S Nadeem,NA,F du Plessis,1,0,1,0,NA,NA,NA
+2,6.4,F du Plessis,S Nadeem,NA,BA Stokes,0,0,0,1,RR Pant,caught,F du Plessis
+2,6.5,MS Dhoni,S Nadeem,NA,BA Stokes,0,0,0,0,NA,NA,NA
+2,6.6,MS Dhoni,S Nadeem,NA,BA Stokes,0,0,0,0,NA,NA,NA
+2,7.1,BA Stokes,PJ Cummins,NA,MS Dhoni,1,0,1,0,NA,NA,NA
+2,7.2,MS Dhoni,PJ Cummins,NA,BA Stokes,1,0,1,0,NA,NA,NA
+2,7.3,BA Stokes,PJ Cummins,NA,MS Dhoni,0,0,0,0,NA,NA,NA
+2,7.4,BA Stokes,PJ Cummins,NA,MS Dhoni,0,0,0,0,NA,NA,NA
+2,7.5,BA Stokes,PJ Cummins,NA,MS Dhoni,0,0,0,1,RR Pant,caught,BA Stokes
+2,7.6,R Bhatia,PJ Cummins,NA,MS Dhoni,1,0,1,0,NA,NA,NA
+2,8.1,R Bhatia,S Nadeem,NA,MS Dhoni,1,0,1,0,NA,NA,NA
+2,8.2,MS Dhoni,S Nadeem,NA,R Bhatia,0,0,0,0,NA,NA,NA
+2,8.3,MS Dhoni,S Nadeem,NA,R Bhatia,0,0,0,0,NA,NA,NA
+2,8.4,MS Dhoni,S Nadeem,NA,R Bhatia,1,0,1,0,NA,NA,NA
+2,8.5,R Bhatia,S Nadeem,NA,MS Dhoni,0,0,0,0,NA,NA,NA
+2,8.6,R Bhatia,S Nadeem,NA,MS Dhoni,1,0,1,0,NA,NA,NA
+2,9.1,R Bhatia,CJ Anderson,NA,MS Dhoni,2,0,2,0,NA,NA,NA
+2,9.2,R Bhatia,CJ Anderson,NA,MS Dhoni,0,0,0,0,NA,NA,NA
+2,9.3,R Bhatia,CJ Anderson,NA,MS Dhoni,0,0,0,0,NA,NA,NA
+2,9.4,R Bhatia,CJ Anderson,NA,MS Dhoni,1,0,1,0,NA,NA,NA
+2,9.5,MS Dhoni,CJ Anderson,NA,R Bhatia,1,0,1,0,NA,NA,NA
+2,9.6,R Bhatia,CJ Anderson,NA,MS Dhoni,6,0,6,0,NA,NA,NA
+2,10.1,MS Dhoni,S Nadeem,NA,R Bhatia,1,0,1,0,NA,NA,NA
+2,10.2,R Bhatia,S Nadeem,NA,MS Dhoni,0,0,0,0,NA,NA,NA
+2,10.3,R Bhatia,S Nadeem,NA,MS Dhoni,1,0,1,0,NA,NA,NA
+2,10.4,MS Dhoni,S Nadeem,NA,R Bhatia,6,0,6,0,NA,NA,NA
+2,10.5,MS Dhoni,S Nadeem,NA,R Bhatia,0,0,0,0,NA,NA,NA
+2,10.6,MS Dhoni,S Nadeem,NA,R Bhatia,0,0,0,0,NA,NA,NA
+2,11.1,R Bhatia,A Mishra,NA,MS Dhoni,1,0,1,0,NA,NA,NA
+2,11.2,MS Dhoni,A Mishra,NA,R Bhatia,0,0,0,0,NA,NA,NA
+2,11.3,MS Dhoni,A Mishra,NA,R Bhatia,1,0,1,0,NA,NA,NA
+2,11.4,R Bhatia,A Mishra,NA,MS Dhoni,0,0,0,0,NA,NA,NA
+2,11.5,R Bhatia,A Mishra,NA,MS Dhoni,1,0,1,0,NA,NA,NA
+2,11.6,MS Dhoni,A Mishra,NA,R Bhatia,0,0,0,1,KK Nair,caught,MS Dhoni
+2,12.1,R Bhatia,PJ Cummins,1legbyes,DL Chahar,0,1,1,0,NA,NA,NA
+2,12.2,DL Chahar,PJ Cummins,NA,R Bhatia,0,0,0,0,NA,NA,NA
+2,12.3,DL Chahar,PJ Cummins,NA,R Bhatia,1,0,1,0,NA,NA,NA
+2,12.4,R Bhatia,PJ Cummins,NA,DL Chahar,1,0,1,0,NA,NA,NA
+2,12.5,DL Chahar,PJ Cummins,NA,R Bhatia,6,0,6,0,NA,NA,NA
+2,12.6,DL Chahar,PJ Cummins,NA,R Bhatia,6,0,6,0,NA,NA,NA
+2,13.1,R Bhatia,A Mishra,NA,DL Chahar,0,0,0,1,CH Morris,caught,R Bhatia
+2,13.2,A Zampa,A Mishra,NA,DL Chahar,0,0,0,0,NA,NA,NA
+2,13.3,A Zampa,A Mishra,NA,DL Chahar,1,0,1,0,NA,NA,NA
+2,13.4,DL Chahar,A Mishra,NA,A Zampa,1,0,1,0,NA,NA,NA
+2,13.5,A Zampa,A Mishra,NA,DL Chahar,4,0,4,0,NA,NA,NA
+2,13.6,A Zampa,A Mishra,NA,DL Chahar,0,0,0,0,NA,NA,NA
+2,14.1,DL Chahar,Z Khan,NA,A Zampa,0,0,0,1,RR Pant,caught,DL Chahar
+2,14.2,AB Dinda,Z Khan,NA,A Zampa,0,0,0,0,NA,NA,NA
+2,14.3,AB Dinda,Z Khan,NA,A Zampa,4,0,4,0,NA,NA,NA
+2,14.4,AB Dinda,Z Khan,NA,A Zampa,0,0,0,0,NA,NA,NA
+2,14.5,AB Dinda,Z Khan,1wides,A Zampa,0,1,1,0,NA,NA,NA
+2,14.6,AB Dinda,Z Khan,NA,A Zampa,1,0,1,0,NA,NA,NA
+2,14.7,A Zampa,Z Khan,NA,AB Dinda,0,0,0,0,NA,NA,NA
+2,15.1,AB Dinda,A Mishra,NA,A Zampa,1,0,1,0,NA,NA,NA
+2,15.2,A Zampa,A Mishra,NA,AB Dinda,0,0,0,0,NA,NA,NA
+2,15.3,A Zampa,A Mishra,NA,AB Dinda,0,0,0,1,SV Samson,caught,A Zampa
+2,15.4,AB Dinda,A Mishra,NA,Imran Tahir,1,0,1,0,NA,NA,NA
+2,15.5,Imran Tahir,A Mishra,NA,AB Dinda,0,0,0,0,NA,NA,NA
+2,15.6,Imran Tahir,A Mishra,NA,AB Dinda,0,0,0,0,NA,NA,NA
+2,16.1,AB Dinda,PJ Cummins,NA,Imran Tahir,0,0,0,1,A Mishra,caught,AB Dinda

@@ -1,0 +1,248 @@
+innings,ball,batsman,bowler,extras,non_striker,batsman_run,extras_run,total_run,wicket,fielders,wicket_kind,player_out
+1,0.1,S Dhawan,M Morkel,NA,DB Ravi Teja,4,0,4,0,NA,NA,NA
+1,0.2,S Dhawan,M Morkel,NA,DB Ravi Teja,4,0,4,0,NA,NA,NA
+1,0.3,S Dhawan,M Morkel,1legbyes,DB Ravi Teja,0,1,1,0,NA,NA,NA
+1,0.4,DB Ravi Teja,M Morkel,NA,S Dhawan,0,0,0,0,NA,NA,NA
+1,0.5,DB Ravi Teja,M Morkel,1legbyes,S Dhawan,0,1,1,0,NA,NA,NA
+1,0.6,S Dhawan,M Morkel,NA,DB Ravi Teja,0,0,0,0,NA,NA,NA
+1,1.1,DB Ravi Teja,IK Pathan,NA,S Dhawan,1,0,1,0,NA,NA,NA
+1,1.2,S Dhawan,IK Pathan,NA,DB Ravi Teja,1,0,1,0,NA,NA,NA
+1,1.3,DB Ravi Teja,IK Pathan,NA,S Dhawan,0,0,0,0,NA,NA,NA
+1,1.4,DB Ravi Teja,IK Pathan,NA,S Dhawan,1,0,1,0,NA,NA,NA
+1,1.5,S Dhawan,IK Pathan,NA,DB Ravi Teja,1,0,1,0,NA,NA,NA
+1,1.6,DB Ravi Teja,IK Pathan,NA,S Dhawan,0,0,0,0,NA,NA,NA
+1,2.1,S Dhawan,AM Salvi,NA,DB Ravi Teja,4,0,4,0,NA,NA,NA
+1,2.2,S Dhawan,AM Salvi,NA,DB Ravi Teja,1,0,1,0,NA,NA,NA
+1,2.3,DB Ravi Teja,AM Salvi,NA,S Dhawan,0,0,0,0,NA,NA,NA
+1,2.4,DB Ravi Teja,AM Salvi,NA,S Dhawan,0,0,0,0,NA,NA,NA
+1,2.5,DB Ravi Teja,AM Salvi,NA,S Dhawan,0,0,0,1,NV Ojha,caught,DB Ravi Teja
+1,2.6,KC Sangakkara,AM Salvi,NA,S Dhawan,0,0,0,0,NA,NA,NA
+1,3.1,S Dhawan,IK Pathan,NA,KC Sangakkara,0,0,0,0,NA,NA,NA
+1,3.2,S Dhawan,IK Pathan,NA,KC Sangakkara,4,0,4,0,NA,NA,NA
+1,3.3,S Dhawan,IK Pathan,NA,KC Sangakkara,1,0,1,0,NA,NA,NA
+1,3.4,KC Sangakkara,IK Pathan,NA,S Dhawan,0,0,0,0,NA,NA,NA
+1,3.5,KC Sangakkara,IK Pathan,NA,S Dhawan,0,0,0,0,NA,NA,NA
+1,3.6,KC Sangakkara,IK Pathan,NA,S Dhawan,0,0,0,0,NA,NA,NA
+1,4.1,S Dhawan,AM Salvi,NA,KC Sangakkara,1,0,1,0,NA,NA,NA
+1,4.2,KC Sangakkara,AM Salvi,NA,S Dhawan,0,0,0,0,NA,NA,NA
+1,4.3,KC Sangakkara,AM Salvi,NA,S Dhawan,0,0,0,0,NA,NA,NA
+1,4.4,KC Sangakkara,AM Salvi,NA,S Dhawan,4,0,4,0,NA,NA,NA
+1,4.5,KC Sangakkara,AM Salvi,NA,S Dhawan,0,0,0,0,NA,NA,NA
+1,4.6,KC Sangakkara,AM Salvi,NA,S Dhawan,1,0,1,0,NA,NA,NA
+1,5.1,KC Sangakkara,M Morkel,NA,S Dhawan,0,0,0,0,NA,NA,NA
+1,5.2,KC Sangakkara,M Morkel,NA,S Dhawan,4,0,4,0,NA,NA,NA
+1,5.3,KC Sangakkara,M Morkel,NA,S Dhawan,4,0,4,0,NA,NA,NA
+1,5.4,KC Sangakkara,M Morkel,NA,S Dhawan,4,0,4,0,NA,NA,NA
+1,5.5,KC Sangakkara,M Morkel,NA,S Dhawan,1,0,1,0,NA,NA,NA
+1,5.6,S Dhawan,M Morkel,NA,KC Sangakkara,0,0,0,0,NA,NA,NA
+1,6.1,KC Sangakkara,AB Agarkar,NA,S Dhawan,1,0,1,0,NA,NA,NA
+1,6.2,S Dhawan,AB Agarkar,NA,KC Sangakkara,1,0,1,0,NA,NA,NA
+1,6.3,KC Sangakkara,AB Agarkar,NA,S Dhawan,2,0,2,0,NA,NA,NA
+1,6.4,KC Sangakkara,AB Agarkar,NA,S Dhawan,0,0,0,0,NA,NA,NA
+1,6.5,KC Sangakkara,AB Agarkar,NA,S Dhawan,0,0,0,0,NA,NA,NA
+1,6.6,KC Sangakkara,AB Agarkar,1legbyes,S Dhawan,0,1,1,0,NA,NA,NA
+1,7.1,KC Sangakkara,M Morkel,NA,S Dhawan,0,0,0,0,NA,NA,NA
+1,7.2,KC Sangakkara,M Morkel,NA,S Dhawan,0,0,0,0,NA,NA,NA
+1,7.3,KC Sangakkara,M Morkel,NA,S Dhawan,0,0,0,0,NA,NA,NA
+1,7.4,KC Sangakkara,M Morkel,NA,S Dhawan,0,0,0,0,NA,NA,NA
+1,7.5,KC Sangakkara,M Morkel,NA,S Dhawan,1,0,1,0,NA,NA,NA
+1,7.6,S Dhawan,M Morkel,NA,KC Sangakkara,4,0,4,0,NA,NA,NA
+1,8.1,KC Sangakkara,AB Agarkar,NA,S Dhawan,1,0,1,0,NA,NA,NA
+1,8.2,S Dhawan,AB Agarkar,NA,KC Sangakkara,2,0,2,0,NA,NA,NA
+1,8.3,S Dhawan,AB Agarkar,NA,KC Sangakkara,1,0,1,0,NA,NA,NA
+1,8.4,KC Sangakkara,AB Agarkar,NA,S Dhawan,1,0,1,0,NA,NA,NA
+1,8.5,S Dhawan,AB Agarkar,NA,KC Sangakkara,0,0,0,1,AM Salvi,caught,S Dhawan
+1,8.6,JP Duminy,AB Agarkar,NA,KC Sangakkara,0,0,0,0,NA,NA,NA
+1,9.1,KC Sangakkara,JR Hopes,NA,JP Duminy,1,0,1,0,NA,NA,NA
+1,9.2,JP Duminy,JR Hopes,NA,KC Sangakkara,2,0,2,0,NA,NA,NA
+1,9.3,JP Duminy,JR Hopes,NA,KC Sangakkara,1,0,1,0,NA,NA,NA
+1,9.4,KC Sangakkara,JR Hopes,NA,JP Duminy,4,0,4,0,NA,NA,NA
+1,9.5,KC Sangakkara,JR Hopes,NA,JP Duminy,1,0,1,0,NA,NA,NA
+1,9.6,JP Duminy,JR Hopes,NA,KC Sangakkara,0,0,0,0,NA,NA,NA
+1,10.1,KC Sangakkara,Y Venugopal Rao,NA,JP Duminy,1,0,1,0,NA,NA,NA
+1,10.2,JP Duminy,Y Venugopal Rao,NA,KC Sangakkara,1,0,1,0,NA,NA,NA
+1,10.3,KC Sangakkara,Y Venugopal Rao,NA,JP Duminy,4,0,4,0,NA,NA,NA
+1,10.4,KC Sangakkara,Y Venugopal Rao,NA,JP Duminy,4,0,4,0,NA,NA,NA
+1,10.5,KC Sangakkara,Y Venugopal Rao,NA,JP Duminy,1,0,1,0,NA,NA,NA
+1,10.6,JP Duminy,Y Venugopal Rao,NA,KC Sangakkara,1,0,1,0,NA,NA,NA
+1,11.1,JP Duminy,JR Hopes,NA,KC Sangakkara,0,0,0,0,NA,NA,NA
+1,11.2,JP Duminy,JR Hopes,NA,KC Sangakkara,1,0,1,0,NA,NA,NA
+1,11.3,KC Sangakkara,JR Hopes,1legbyes,JP Duminy,0,1,1,0,NA,NA,NA
+1,11.4,JP Duminy,JR Hopes,NA,KC Sangakkara,1,0,1,0,NA,NA,NA
+1,11.5,KC Sangakkara,JR Hopes,NA,JP Duminy,4,0,4,0,NA,NA,NA
+1,11.6,KC Sangakkara,JR Hopes,1wides,JP Duminy,0,1,1,0,NA,NA,NA
+1,11.7,KC Sangakkara,JR Hopes,NA,JP Duminy,0,0,0,1,V Sehwag,caught,KC Sangakkara
+1,12.1,DT Christian,AM Salvi,NA,JP Duminy,1,0,1,0,NA,NA,NA
+1,12.2,JP Duminy,AM Salvi,NA,DT Christian,0,0,0,0,NA,NA,NA
+1,12.3,JP Duminy,AM Salvi,NA,DT Christian,1,0,1,0,NA,NA,NA
+1,12.4,DT Christian,AM Salvi,1wides,JP Duminy,0,1,1,0,NA,NA,NA
+1,12.5,DT Christian,AM Salvi,NA,JP Duminy,2,0,2,0,NA,NA,NA
+1,12.6,DT Christian,AM Salvi,NA,JP Duminy,0,0,0,0,NA,NA,NA
+1,12.7,DT Christian,AM Salvi,NA,JP Duminy,0,0,0,0,NA,NA,NA
+1,13.1,JP Duminy,JR Hopes,NA,DT Christian,2,0,2,0,NA,NA,NA
+1,13.2,JP Duminy,JR Hopes,NA,DT Christian,4,0,4,0,NA,NA,NA
+1,13.3,JP Duminy,JR Hopes,NA,DT Christian,0,0,0,0,NA,NA,NA
+1,13.4,JP Duminy,JR Hopes,NA,DT Christian,6,0,6,0,NA,NA,NA
+1,13.5,JP Duminy,JR Hopes,NA,DT Christian,1,0,1,0,NA,NA,NA
+1,13.6,DT Christian,JR Hopes,NA,JP Duminy,0,0,0,0,NA,NA,NA
+1,14.1,JP Duminy,Y Nagar,NA,DT Christian,2,0,2,0,NA,NA,NA
+1,14.2,JP Duminy,Y Nagar,NA,DT Christian,0,0,0,0,NA,NA,NA
+1,14.3,JP Duminy,Y Nagar,2wides,DT Christian,0,2,2,0,NA,NA,NA
+1,14.4,DT Christian,Y Nagar,NA,JP Duminy,1,0,1,0,NA,NA,NA
+1,14.5,JP Duminy,Y Nagar,1noballs,DT Christian,1,1,2,0,NA,NA,NA
+1,14.6,DT Christian,Y Nagar,NA,JP Duminy,4,0,4,0,NA,NA,NA
+1,14.7,DT Christian,Y Nagar,1noballs,JP Duminy,1,1,2,0,NA,NA,NA
+1,14.8,JP Duminy,Y Nagar,NA,DT Christian,6,0,6,0,NA,NA,NA
+1,14.9,JP Duminy,Y Nagar,NA,DT Christian,1,0,1,0,NA,NA,NA
+1,15.1,JP Duminy,IK Pathan,NA,DT Christian,1,0,1,0,NA,NA,NA
+1,15.2,DT Christian,IK Pathan,NA,JP Duminy,1,0,1,0,NA,NA,NA
+1,15.3,JP Duminy,IK Pathan,NA,DT Christian,1,0,1,0,NA,NA,NA
+1,15.4,DT Christian,IK Pathan,NA,JP Duminy,4,0,4,0,NA,NA,NA
+1,15.5,DT Christian,IK Pathan,NA,JP Duminy,1,0,1,0,NA,NA,NA
+1,15.6,JP Duminy,IK Pathan,NA,DT Christian,1,0,1,0,NA,NA,NA
+1,16.1,JP Duminy,AB Agarkar,NA,DT Christian,1,0,1,0,NA,NA,NA
+1,16.2,DT Christian,AB Agarkar,NA,JP Duminy,1,0,1,0,NA,NA,NA
+1,16.3,JP Duminy,AB Agarkar,NA,DT Christian,4,0,4,0,NA,NA,NA
+1,16.4,JP Duminy,AB Agarkar,NA,DT Christian,6,0,6,0,NA,NA,NA
+1,16.5,JP Duminy,AB Agarkar,NA,DT Christian,1,0,1,0,NA,NA,NA
+1,16.6,DT Christian,AB Agarkar,NA,JP Duminy,2,0,2,0,NA,NA,NA
+1,17.1,JP Duminy,M Morkel,NA,DT Christian,2,0,2,0,NA,NA,NA
+1,17.2,JP Duminy,M Morkel,NA,DT Christian,6,0,6,0,NA,NA,NA
+1,17.3,JP Duminy,M Morkel,NA,DT Christian,1,0,1,1,AB Agarkar,run out,JP Duminy
+1,17.4,B Chipli,M Morkel,NA,DT Christian,1,0,1,0,NA,NA,NA
+1,17.5,DT Christian,M Morkel,NA,B Chipli,0,0,0,0,NA,NA,NA
+1,17.6,DT Christian,M Morkel,NA,B Chipli,1,0,1,0,NA,NA,NA
+1,18.1,DT Christian,AB Agarkar,NA,B Chipli,1,0,1,0,NA,NA,NA
+1,18.2,B Chipli,AB Agarkar,NA,DT Christian,0,0,0,1,AJ Finch,caught,B Chipli
+1,18.3,DT Christian,AB Agarkar,NA,I Malhotra,1,0,1,0,NA,NA,NA
+1,18.4,I Malhotra,AB Agarkar,NA,DT Christian,1,0,1,0,NA,NA,NA
+1,18.5,DT Christian,AB Agarkar,NA,I Malhotra,0,0,0,0,NA,NA,NA
+1,18.6,DT Christian,AB Agarkar,NA,I Malhotra,2,0,2,0,NA,NA,NA
+1,19.1,I Malhotra,AM Salvi,NA,DT Christian,1,0,1,0,NA,NA,NA
+1,19.2,DT Christian,AM Salvi,NA,I Malhotra,1,0,1,0,NA,NA,NA
+1,19.3,I Malhotra,AM Salvi,NA,DT Christian,4,0,4,0,NA,NA,NA
+1,19.4,I Malhotra,AM Salvi,NA,DT Christian,1,0,1,0,NA,NA,NA
+1,19.5,DT Christian,AM Salvi,NA,I Malhotra,2,0,2,0,NA,NA,NA
+1,19.6,DT Christian,AM Salvi,NA,I Malhotra,1,0,1,0,NA,NA,NA
+2,0.1,AJ Finch,DW Steyn,NA,V Sehwag,0,0,0,0,NA,NA,NA
+2,0.2,AJ Finch,DW Steyn,NA,V Sehwag,0,0,0,1,DT Christian,caught,AJ Finch
+2,0.3,NV Ojha,DW Steyn,NA,V Sehwag,0,0,0,0,NA,NA,NA
+2,0.4,NV Ojha,DW Steyn,NA,V Sehwag,0,0,0,0,NA,NA,NA
+2,0.5,NV Ojha,DW Steyn,NA,V Sehwag,1,0,1,0,NA,NA,NA
+2,0.6,V Sehwag,DW Steyn,NA,NV Ojha,4,0,4,0,NA,NA,NA
+2,1.1,NV Ojha,I Sharma,NA,V Sehwag,1,0,1,0,NA,NA,NA
+2,1.2,V Sehwag,I Sharma,NA,NV Ojha,0,0,0,0,NA,NA,NA
+2,1.3,V Sehwag,I Sharma,NA,NV Ojha,0,0,0,0,NA,NA,NA
+2,1.4,V Sehwag,I Sharma,1noballs,NV Ojha,0,1,1,0,NA,NA,NA
+2,1.5,V Sehwag,I Sharma,NA,NV Ojha,0,0,0,0,NA,NA,NA
+2,1.6,V Sehwag,I Sharma,NA,NV Ojha,1,0,1,0,NA,NA,NA
+2,1.7,NV Ojha,I Sharma,NA,V Sehwag,0,0,0,0,NA,NA,NA
+2,2.1,V Sehwag,DW Steyn,1wides,NV Ojha,0,1,1,0,NA,NA,NA
+2,2.2,V Sehwag,DW Steyn,NA,NV Ojha,0,0,0,0,NA,NA,NA
+2,2.3,V Sehwag,DW Steyn,NA,NV Ojha,1,0,1,0,NA,NA,NA
+2,2.4,NV Ojha,DW Steyn,NA,V Sehwag,0,0,0,0,NA,NA,NA
+2,2.5,NV Ojha,DW Steyn,NA,V Sehwag,0,0,0,0,NA,NA,NA
+2,2.6,NV Ojha,DW Steyn,NA,V Sehwag,1,0,1,0,NA,NA,NA
+2,2.7,V Sehwag,DW Steyn,NA,NV Ojha,0,0,0,0,NA,NA,NA
+2,3.1,NV Ojha,I Sharma,NA,V Sehwag,4,0,4,0,NA,NA,NA
+2,3.2,NV Ojha,I Sharma,NA,V Sehwag,0,0,0,1,KC Sangakkara,caught,NV Ojha
+2,3.3,Y Venugopal Rao,I Sharma,NA,V Sehwag,0,0,0,0,NA,NA,NA
+2,3.4,Y Venugopal Rao,I Sharma,NA,V Sehwag,0,0,0,0,NA,NA,NA
+2,3.5,Y Venugopal Rao,I Sharma,NA,V Sehwag,0,0,0,0,NA,NA,NA
+2,3.6,Y Venugopal Rao,I Sharma,NA,V Sehwag,1,0,1,0,NA,NA,NA
+2,4.1,Y Venugopal Rao,DT Christian,2wides,V Sehwag,0,2,2,0,NA,NA,NA
+2,4.2,V Sehwag,DT Christian,NA,Y Venugopal Rao,1,0,1,0,NA,NA,NA
+2,4.3,Y Venugopal Rao,DT Christian,NA,V Sehwag,1,0,1,0,NA,NA,NA
+2,4.4,V Sehwag,DT Christian,NA,Y Venugopal Rao,0,0,0,0,NA,NA,NA
+2,4.5,V Sehwag,DT Christian,1wides,Y Venugopal Rao,0,1,1,0,NA,NA,NA
+2,4.6,V Sehwag,DT Christian,NA,Y Venugopal Rao,1,0,1,0,NA,NA,NA
+2,4.7,Y Venugopal Rao,DT Christian,1wides,V Sehwag,0,1,1,0,NA,NA,NA
+2,4.8,Y Venugopal Rao,DT Christian,NA,V Sehwag,0,0,0,0,NA,NA,NA
+2,4.9,Y Venugopal Rao,DT Christian,NA,V Sehwag,1,0,1,0,NA,NA,NA
+2,5.1,Y Venugopal Rao,I Sharma,1wides,V Sehwag,0,1,1,0,NA,NA,NA
+2,5.2,Y Venugopal Rao,I Sharma,NA,V Sehwag,0,0,0,0,NA,NA,NA
+2,5.3,Y Venugopal Rao,I Sharma,NA,V Sehwag,0,0,0,0,NA,NA,NA
+2,5.4,Y Venugopal Rao,I Sharma,NA,V Sehwag,0,0,0,0,NA,NA,NA
+2,5.5,Y Venugopal Rao,I Sharma,NA,V Sehwag,0,0,0,1,JP Duminy,caught,Y Venugopal Rao
+2,5.6,V Sehwag,I Sharma,NA,TR Birt,0,0,0,0,NA,NA,NA
+2,5.7,V Sehwag,I Sharma,NA,TR Birt,4,0,4,0,NA,NA,NA
+2,6.1,TR Birt,DT Christian,NA,V Sehwag,0,0,0,0,NA,NA,NA
+2,6.2,TR Birt,DT Christian,NA,V Sehwag,0,0,0,0,NA,NA,NA
+2,6.3,TR Birt,DT Christian,NA,V Sehwag,0,0,0,0,NA,NA,NA
+2,6.4,TR Birt,DT Christian,NA,V Sehwag,0,0,0,0,NA,NA,NA
+2,6.5,TR Birt,DT Christian,1wides,V Sehwag,0,1,1,0,NA,NA,NA
+2,6.6,TR Birt,DT Christian,NA,V Sehwag,1,0,1,0,NA,NA,NA
+2,6.7,V Sehwag,DT Christian,NA,TR Birt,1,0,1,0,NA,NA,NA
+2,7.1,V Sehwag,I Malhotra,NA,TR Birt,6,0,6,0,NA,NA,NA
+2,7.2,V Sehwag,I Malhotra,NA,TR Birt,6,0,6,0,NA,NA,NA
+2,7.3,V Sehwag,I Malhotra,NA,TR Birt,4,0,4,0,NA,NA,NA
+2,7.4,V Sehwag,I Malhotra,NA,TR Birt,4,0,4,0,NA,NA,NA
+2,7.5,V Sehwag,I Malhotra,NA,TR Birt,2,0,2,0,NA,NA,NA
+2,7.6,V Sehwag,I Malhotra,NA,TR Birt,1,0,1,0,NA,NA,NA
+2,8.1,V Sehwag,DT Christian,NA,TR Birt,2,0,2,0,NA,NA,NA
+2,8.2,V Sehwag,DT Christian,NA,TR Birt,4,0,4,0,NA,NA,NA
+2,8.3,V Sehwag,DT Christian,NA,TR Birt,1,0,1,0,NA,NA,NA
+2,8.4,TR Birt,DT Christian,NA,V Sehwag,1,0,1,0,NA,NA,NA
+2,8.5,V Sehwag,DT Christian,NA,TR Birt,4,0,4,0,NA,NA,NA
+2,8.6,V Sehwag,DT Christian,NA,TR Birt,1,0,1,0,NA,NA,NA
+2,9.1,V Sehwag,A Mishra,NA,TR Birt,6,0,6,0,NA,NA,NA
+2,9.2,V Sehwag,A Mishra,NA,TR Birt,2,0,2,0,NA,NA,NA
+2,9.3,V Sehwag,A Mishra,NA,TR Birt,4,0,4,0,NA,NA,NA
+2,9.4,V Sehwag,A Mishra,NA,TR Birt,2,0,2,0,NA,NA,NA
+2,9.5,V Sehwag,A Mishra,NA,TR Birt,1,0,1,0,NA,NA,NA
+2,9.6,TR Birt,A Mishra,NA,V Sehwag,2,0,2,0,NA,NA,NA
+2,10.1,V Sehwag,DT Christian,NA,TR Birt,1,0,1,0,NA,NA,NA
+2,10.2,TR Birt,DT Christian,NA,V Sehwag,0,0,0,1,NA,bowled,TR Birt
+2,10.3,IK Pathan,DT Christian,NA,V Sehwag,0,0,0,0,NA,NA,NA
+2,10.4,IK Pathan,DT Christian,NA,V Sehwag,1,0,1,0,NA,NA,NA
+2,10.5,V Sehwag,DT Christian,NA,IK Pathan,1,0,1,0,NA,NA,NA
+2,10.6,IK Pathan,DT Christian,NA,V Sehwag,4,0,4,0,NA,NA,NA
+2,11.1,V Sehwag,A Mishra,NA,IK Pathan,1,0,1,0,NA,NA,NA
+2,11.2,IK Pathan,A Mishra,NA,V Sehwag,1,0,1,0,NA,NA,NA
+2,11.3,V Sehwag,A Mishra,NA,IK Pathan,4,0,4,0,NA,NA,NA
+2,11.4,V Sehwag,A Mishra,NA,IK Pathan,4,0,4,0,NA,NA,NA
+2,11.5,V Sehwag,A Mishra,NA,IK Pathan,4,0,4,0,NA,NA,NA
+2,11.6,V Sehwag,A Mishra,NA,IK Pathan,1,0,1,0,NA,NA,NA
+2,12.1,V Sehwag,DW Steyn,NA,IK Pathan,1,0,1,0,NA,NA,NA
+2,12.2,IK Pathan,DW Steyn,1legbyes,V Sehwag,0,1,1,0,NA,NA,NA
+2,12.3,V Sehwag,DW Steyn,NA,IK Pathan,0,0,0,0,NA,NA,NA
+2,12.4,V Sehwag,DW Steyn,NA,IK Pathan,2,0,2,0,NA,NA,NA
+2,12.5,V Sehwag,DW Steyn,NA,IK Pathan,4,0,4,0,NA,NA,NA
+2,12.6,V Sehwag,DW Steyn,NA,IK Pathan,4,0,4,0,NA,NA,NA
+2,13.1,IK Pathan,A Mishra,NA,V Sehwag,1,0,1,0,NA,NA,NA
+2,13.2,V Sehwag,A Mishra,NA,IK Pathan,0,0,0,0,NA,NA,NA
+2,13.3,V Sehwag,A Mishra,NA,IK Pathan,6,0,6,0,NA,NA,NA
+2,13.4,V Sehwag,A Mishra,NA,IK Pathan,1,0,1,0,NA,NA,NA
+2,13.5,IK Pathan,A Mishra,NA,V Sehwag,1,0,1,0,NA,NA,NA
+2,13.6,V Sehwag,A Mishra,NA,IK Pathan,1,0,1,0,NA,NA,NA
+2,14.1,V Sehwag,B Chipli,NA,IK Pathan,2,0,2,0,NA,NA,NA
+2,14.2,V Sehwag,B Chipli,NA,IK Pathan,6,0,6,0,NA,NA,NA
+2,14.3,V Sehwag,B Chipli,NA,IK Pathan,6,0,6,0,NA,NA,NA
+2,14.4,V Sehwag,B Chipli,NA,IK Pathan,2,0,2,0,NA,NA,NA
+2,14.5,V Sehwag,B Chipli,NA,IK Pathan,4,0,4,0,NA,NA,NA
+2,14.6,V Sehwag,B Chipli,NA,IK Pathan,0,0,0,0,NA,NA,NA
+2,15.1,IK Pathan,I Sharma,NA,V Sehwag,0,0,0,0,NA,NA,NA
+2,15.2,IK Pathan,I Sharma,NA,V Sehwag,0,0,0,0,NA,NA,NA
+2,15.3,IK Pathan,I Sharma,NA,V Sehwag,1,0,1,0,NA,NA,NA
+2,15.4,V Sehwag,I Sharma,NA,IK Pathan,0,0,0,0,NA,NA,NA
+2,15.5,V Sehwag,I Sharma,NA,IK Pathan,1,0,1,0,NA,NA,NA
+2,15.6,IK Pathan,I Sharma,NA,V Sehwag,1,0,1,0,NA,NA,NA
+2,16.1,IK Pathan,DW Steyn,NA,V Sehwag,1,0,1,0,NA,NA,NA
+2,16.2,V Sehwag,DW Steyn,NA,IK Pathan,0,0,0,1,KC Sangakkara,caught,V Sehwag
+2,16.3,JR Hopes,DW Steyn,NA,IK Pathan,1,0,1,0,NA,NA,NA
+2,16.4,IK Pathan,DW Steyn,NA,JR Hopes,0,0,0,0,NA,NA,NA
+2,16.5,IK Pathan,DW Steyn,1wides,JR Hopes,0,1,1,0,NA,NA,NA
+2,16.6,IK Pathan,DW Steyn,NA,JR Hopes,1,0,1,0,NA,NA,NA
+2,16.7,JR Hopes,DW Steyn,NA,IK Pathan,1,0,1,0,NA,NA,NA
+2,17.1,JR Hopes,A Mishra,NA,IK Pathan,2,0,2,0,NA,NA,NA
+2,17.2,JR Hopes,A Mishra,NA,IK Pathan,4,0,4,0,NA,NA,NA
+2,17.3,JR Hopes,A Mishra,NA,IK Pathan,4,0,4,0,NA,NA,NA
+2,17.4,JR Hopes,A Mishra,NA,IK Pathan,1,0,1,0,NA,NA,NA
+2,17.5,IK Pathan,A Mishra,NA,JR Hopes,0,0,0,1,KC Sangakkara,stumped,IK Pathan
+2,17.6,Y Nagar,A Mishra,NA,JR Hopes,0,0,0,0,NA,NA,NA
+2,18.1,JR Hopes,JP Duminy,NA,Y Nagar,1,0,1,0,NA,NA,NA
+2,18.2,Y Nagar,JP Duminy,NA,JR Hopes,1,0,1,0,NA,NA,NA
+2,18.3,JR Hopes,JP Duminy,NA,Y Nagar,2,0,2,0,NA,NA,NA
+2,18.4,JR Hopes,JP Duminy,NA,Y Nagar,0,0,0,0,NA,NA,NA
+2,18.5,JR Hopes,JP Duminy,NA,Y Nagar,1,0,1,0,NA,NA,NA
+2,18.6,Y Nagar,JP Duminy,NA,JR Hopes,6,0,6,0,NA,NA,NA

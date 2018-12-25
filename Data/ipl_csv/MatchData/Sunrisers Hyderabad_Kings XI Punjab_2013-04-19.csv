@@ -1,0 +1,237 @@
+innings,ball,batsman,bowler,extras,non_striker,batsman_run,extras_run,total_run,wicket,fielders,wicket_kind,player_out
+1,0.1,Mandeep Singh,GH Vihari,NA,AC Gilchrist,0,0,0,0,NA,NA,NA
+1,0.2,Mandeep Singh,GH Vihari,NA,AC Gilchrist,0,0,0,0,NA,NA,NA
+1,0.3,Mandeep Singh,GH Vihari,NA,AC Gilchrist,1,0,1,0,NA,NA,NA
+1,0.4,AC Gilchrist,GH Vihari,NA,Mandeep Singh,0,0,0,0,NA,NA,NA
+1,0.5,AC Gilchrist,GH Vihari,NA,Mandeep Singh,1,0,1,0,NA,NA,NA
+1,0.6,Mandeep Singh,GH Vihari,NA,AC Gilchrist,0,0,0,0,NA,NA,NA
+1,1.1,AC Gilchrist,DW Steyn,NA,Mandeep Singh,0,0,0,0,NA,NA,NA
+1,1.2,AC Gilchrist,DW Steyn,NA,Mandeep Singh,0,0,0,0,NA,NA,NA
+1,1.3,AC Gilchrist,DW Steyn,NA,Mandeep Singh,1,0,1,0,NA,NA,NA
+1,1.4,Mandeep Singh,DW Steyn,NA,AC Gilchrist,0,0,0,0,NA,NA,NA
+1,1.5,Mandeep Singh,DW Steyn,NA,AC Gilchrist,1,0,1,0,NA,NA,NA
+1,1.6,AC Gilchrist,DW Steyn,NA,Mandeep Singh,2,0,2,0,NA,NA,NA
+1,2.1,Mandeep Singh,I Sharma,NA,AC Gilchrist,4,0,4,0,NA,NA,NA
+1,2.2,Mandeep Singh,I Sharma,1wides,AC Gilchrist,0,1,1,0,NA,NA,NA
+1,2.3,Mandeep Singh,I Sharma,NA,AC Gilchrist,0,0,0,0,NA,NA,NA
+1,2.4,Mandeep Singh,I Sharma,NA,AC Gilchrist,2,0,2,0,NA,NA,NA
+1,2.5,Mandeep Singh,I Sharma,NA,AC Gilchrist,2,0,2,0,NA,NA,NA
+1,2.6,Mandeep Singh,I Sharma,NA,AC Gilchrist,0,0,0,1,Q de Kock,caught,Mandeep Singh
+1,2.7,AC Gilchrist,I Sharma,NA,PC Valthaty,1,0,1,0,NA,NA,NA
+1,3.1,AC Gilchrist,DW Steyn,NA,PC Valthaty,0,0,0,0,NA,NA,NA
+1,3.2,AC Gilchrist,DW Steyn,NA,PC Valthaty,0,0,0,0,NA,NA,NA
+1,3.3,AC Gilchrist,DW Steyn,NA,PC Valthaty,1,0,1,0,NA,NA,NA
+1,3.4,PC Valthaty,DW Steyn,NA,AC Gilchrist,0,0,0,0,NA,NA,NA
+1,3.5,PC Valthaty,DW Steyn,NA,AC Gilchrist,0,0,0,0,NA,NA,NA
+1,3.6,PC Valthaty,DW Steyn,NA,AC Gilchrist,0,0,0,0,NA,NA,NA
+1,4.1,AC Gilchrist,NLTC Perera,NA,PC Valthaty,4,0,4,0,NA,NA,NA
+1,4.2,AC Gilchrist,NLTC Perera,NA,PC Valthaty,0,0,0,0,NA,NA,NA
+1,4.3,AC Gilchrist,NLTC Perera,NA,PC Valthaty,4,0,4,0,NA,NA,NA
+1,4.4,AC Gilchrist,NLTC Perera,NA,PC Valthaty,4,0,4,0,NA,NA,NA
+1,4.5,AC Gilchrist,NLTC Perera,NA,PC Valthaty,0,0,0,0,NA,NA,NA
+1,4.6,AC Gilchrist,NLTC Perera,NA,PC Valthaty,0,0,0,0,NA,NA,NA
+1,5.1,PC Valthaty,I Sharma,NA,AC Gilchrist,0,0,0,0,NA,NA,NA
+1,5.2,PC Valthaty,I Sharma,NA,AC Gilchrist,1,0,1,0,NA,NA,NA
+1,5.3,AC Gilchrist,I Sharma,NA,PC Valthaty,4,0,4,0,NA,NA,NA
+1,5.4,AC Gilchrist,I Sharma,NA,PC Valthaty,0,0,0,0,NA,NA,NA
+1,5.5,AC Gilchrist,I Sharma,NA,PC Valthaty,1,0,1,0,NA,NA,NA
+1,5.6,PC Valthaty,I Sharma,NA,AC Gilchrist,1,0,1,0,NA,NA,NA
+1,6.1,PC Valthaty,KV Sharma,NA,AC Gilchrist,0,0,0,0,NA,NA,NA
+1,6.2,PC Valthaty,KV Sharma,NA,AC Gilchrist,0,0,0,0,NA,NA,NA
+1,6.3,PC Valthaty,KV Sharma,NA,AC Gilchrist,0,0,0,0,NA,NA,NA
+1,6.4,PC Valthaty,KV Sharma,NA,AC Gilchrist,0,0,0,0,NA,NA,NA
+1,6.5,PC Valthaty,KV Sharma,NA,AC Gilchrist,2,0,2,0,NA,NA,NA
+1,6.6,PC Valthaty,KV Sharma,4byes,AC Gilchrist,0,4,4,0,NA,NA,NA
+1,7.1,AC Gilchrist,A Mishra,NA,PC Valthaty,0,0,0,0,NA,NA,NA
+1,7.2,AC Gilchrist,A Mishra,NA,PC Valthaty,1,0,1,0,NA,NA,NA
+1,7.3,PC Valthaty,A Mishra,NA,AC Gilchrist,0,0,0,0,NA,NA,NA
+1,7.4,PC Valthaty,A Mishra,NA,AC Gilchrist,0,0,0,0,NA,NA,NA
+1,7.5,PC Valthaty,A Mishra,NA,AC Gilchrist,1,0,1,0,NA,NA,NA
+1,7.6,AC Gilchrist,A Mishra,NA,PC Valthaty,1,0,1,0,NA,NA,NA
+1,8.1,AC Gilchrist,KV Sharma,NA,PC Valthaty,1,0,1,0,NA,NA,NA
+1,8.2,PC Valthaty,KV Sharma,NA,AC Gilchrist,1,0,1,0,NA,NA,NA
+1,8.3,AC Gilchrist,KV Sharma,NA,PC Valthaty,0,0,0,0,NA,NA,NA
+1,8.4,AC Gilchrist,KV Sharma,NA,PC Valthaty,0,0,0,1,I Sharma,caught,AC Gilchrist
+1,8.5,DJ Hussey,KV Sharma,NA,PC Valthaty,1,0,1,0,NA,NA,NA
+1,8.6,PC Valthaty,KV Sharma,NA,DJ Hussey,0,0,0,1,NLTC Perera,caught,PC Valthaty
+1,9.1,PP Chawla,DW Steyn,NA,DJ Hussey,1,0,1,0,NA,NA,NA
+1,9.2,DJ Hussey,DW Steyn,NA,PP Chawla,1,0,1,0,NA,NA,NA
+1,9.3,PP Chawla,DW Steyn,NA,DJ Hussey,1,0,1,0,NA,NA,NA
+1,9.4,DJ Hussey,DW Steyn,NA,PP Chawla,4,0,4,0,NA,NA,NA
+1,9.5,DJ Hussey,DW Steyn,NA,PP Chawla,0,0,0,0,NA,NA,NA
+1,9.6,DJ Hussey,DW Steyn,NA,PP Chawla,0,0,0,0,NA,NA,NA
+1,10.1,PP Chawla,KV Sharma,NA,DJ Hussey,6,0,6,0,NA,NA,NA
+1,10.2,PP Chawla,KV Sharma,NA,DJ Hussey,0,0,0,0,NA,NA,NA
+1,10.3,PP Chawla,KV Sharma,NA,DJ Hussey,6,0,6,0,NA,NA,NA
+1,10.4,PP Chawla,KV Sharma,NA,DJ Hussey,1,0,1,0,NA,NA,NA
+1,10.5,DJ Hussey,KV Sharma,NA,PP Chawla,0,0,0,0,NA,NA,NA
+1,10.6,DJ Hussey,KV Sharma,NA,PP Chawla,1,0,1,0,NA,NA,NA
+1,11.1,DJ Hussey,A Mishra,NA,PP Chawla,1,0,1,0,NA,NA,NA
+1,11.2,PP Chawla,A Mishra,NA,DJ Hussey,1,0,1,0,NA,NA,NA
+1,11.3,DJ Hussey,A Mishra,NA,PP Chawla,0,0,0,0,NA,NA,NA
+1,11.4,DJ Hussey,A Mishra,NA,PP Chawla,1,0,1,0,NA,NA,NA
+1,11.5,PP Chawla,A Mishra,NA,DJ Hussey,4,0,4,0,NA,NA,NA
+1,11.6,PP Chawla,A Mishra,NA,DJ Hussey,0,0,0,0,NA,NA,NA
+1,12.1,DJ Hussey,NLTC Perera,NA,PP Chawla,0,0,0,0,NA,NA,NA
+1,12.2,DJ Hussey,NLTC Perera,NA,PP Chawla,0,0,0,0,NA,NA,NA
+1,12.3,DJ Hussey,NLTC Perera,NA,PP Chawla,1,0,1,0,NA,NA,NA
+1,12.4,PP Chawla,NLTC Perera,NA,DJ Hussey,0,0,0,0,NA,NA,NA
+1,12.5,PP Chawla,NLTC Perera,NA,DJ Hussey,0,0,0,0,NA,NA,NA
+1,12.6,PP Chawla,NLTC Perera,NA,DJ Hussey,2,0,2,0,NA,NA,NA
+1,13.1,DJ Hussey,I Sharma,NA,PP Chawla,6,0,6,0,NA,NA,NA
+1,13.2,DJ Hussey,I Sharma,NA,PP Chawla,1,0,1,0,NA,NA,NA
+1,13.3,PP Chawla,I Sharma,NA,DJ Hussey,0,0,0,0,NA,NA,NA
+1,13.4,PP Chawla,I Sharma,1wides,DJ Hussey,0,1,1,0,NA,NA,NA
+1,13.5,PP Chawla,I Sharma,NA,DJ Hussey,1,0,1,0,NA,NA,NA
+1,13.6,DJ Hussey,I Sharma,NA,PP Chawla,0,0,0,0,NA,NA,NA
+1,13.7,DJ Hussey,I Sharma,NA,PP Chawla,0,0,0,0,NA,NA,NA
+1,14.1,PP Chawla,NLTC Perera,NA,DJ Hussey,0,0,0,1,PA Reddy,run out,PP Chawla
+1,14.2,DJ Hussey,NLTC Perera,NA,Gurkeerat Singh,1,0,1,0,NA,NA,NA
+1,14.3,Gurkeerat Singh,NLTC Perera,NA,DJ Hussey,1,0,1,0,NA,NA,NA
+1,14.4,DJ Hussey,NLTC Perera,NA,Gurkeerat Singh,0,0,0,0,NA,NA,NA
+1,14.5,DJ Hussey,NLTC Perera,NA,Gurkeerat Singh,1,0,1,0,NA,NA,NA
+1,14.6,Gurkeerat Singh,NLTC Perera,NA,DJ Hussey,1,0,1,0,NA,NA,NA
+1,15.1,Gurkeerat Singh,A Mishra,NA,DJ Hussey,1,0,1,0,NA,NA,NA
+1,15.2,DJ Hussey,A Mishra,NA,Gurkeerat Singh,1,0,1,0,NA,NA,NA
+1,15.3,Gurkeerat Singh,A Mishra,NA,DJ Hussey,6,0,6,0,NA,NA,NA
+1,15.4,Gurkeerat Singh,A Mishra,NA,DJ Hussey,1,0,1,0,NA,NA,NA
+1,15.5,DJ Hussey,A Mishra,NA,Gurkeerat Singh,1,0,1,0,NA,NA,NA
+1,15.6,Gurkeerat Singh,A Mishra,NA,DJ Hussey,0,0,0,0,NA,NA,NA
+1,16.1,DJ Hussey,I Sharma,NA,Gurkeerat Singh,1,0,1,0,NA,NA,NA
+1,16.2,Gurkeerat Singh,I Sharma,NA,DJ Hussey,1,0,1,0,NA,NA,NA
+1,16.3,DJ Hussey,I Sharma,NA,Gurkeerat Singh,0,0,0,1,PA Reddy,caught,DJ Hussey
+1,16.4,Gurkeerat Singh,I Sharma,NA,Azhar Mahmood,1,0,1,0,NA,NA,NA
+1,16.5,Azhar Mahmood,I Sharma,NA,Gurkeerat Singh,0,0,0,0,NA,NA,NA
+1,16.6,Azhar Mahmood,I Sharma,NA,Gurkeerat Singh,0,0,0,0,NA,NA,NA
+1,17.1,Gurkeerat Singh,A Mishra,NA,Azhar Mahmood,4,0,4,0,NA,NA,NA
+1,17.2,Gurkeerat Singh,A Mishra,1legbyes,Azhar Mahmood,0,1,1,0,NA,NA,NA
+1,17.3,Azhar Mahmood,A Mishra,NA,Gurkeerat Singh,4,0,4,0,NA,NA,NA
+1,17.4,Azhar Mahmood,A Mishra,NA,Gurkeerat Singh,0,0,0,1,A Ashish Reddy,caught,Azhar Mahmood
+1,17.5,Gurkeerat Singh,A Mishra,NA,MS Gony,1,0,1,1,I Sharma,run out,MS Gony
+1,17.6,M Vohra,A Mishra,NA,Gurkeerat Singh,0,0,0,1,I Sharma,caught,M Vohra
+1,18.1,Gurkeerat Singh,DW Steyn,NA,AD Mascarenhas,0,0,0,1,NA,bowled,Gurkeerat Singh
+1,18.2,P Kumar,DW Steyn,NA,AD Mascarenhas,0,0,0,0,NA,NA,NA
+1,18.3,P Kumar,DW Steyn,NA,AD Mascarenhas,1,0,1,0,NA,NA,NA
+1,18.4,AD Mascarenhas,DW Steyn,NA,P Kumar,0,0,0,0,NA,NA,NA
+1,18.5,AD Mascarenhas,DW Steyn,NA,P Kumar,1,0,1,0,NA,NA,NA
+1,18.6,P Kumar,DW Steyn,NA,AD Mascarenhas,0,0,0,0,NA,NA,NA
+1,19.1,AD Mascarenhas,NLTC Perera,NA,P Kumar,1,0,1,0,NA,NA,NA
+1,19.2,P Kumar,NLTC Perera,NA,AD Mascarenhas,1,0,1,0,NA,NA,NA
+1,19.3,AD Mascarenhas,NLTC Perera,NA,P Kumar,1,0,1,0,NA,NA,NA
+1,19.4,P Kumar,NLTC Perera,NA,AD Mascarenhas,0,0,0,0,NA,NA,NA
+1,19.5,P Kumar,NLTC Perera,NA,AD Mascarenhas,1,0,1,0,NA,NA,NA
+1,19.6,AD Mascarenhas,NLTC Perera,NA,P Kumar,2,0,2,0,NA,NA,NA
+2,0.1,Q de Kock,P Kumar,NA,PA Reddy,0,0,0,0,NA,NA,NA
+2,0.2,Q de Kock,P Kumar,NA,PA Reddy,0,0,0,0,NA,NA,NA
+2,0.3,Q de Kock,P Kumar,NA,PA Reddy,0,0,0,0,NA,NA,NA
+2,0.4,Q de Kock,P Kumar,NA,PA Reddy,0,0,0,1,NA,bowled,Q de Kock
+2,0.5,GH Vihari,P Kumar,NA,PA Reddy,0,0,0,0,NA,NA,NA
+2,0.6,GH Vihari,P Kumar,NA,PA Reddy,0,0,0,0,NA,NA,NA
+2,1.1,PA Reddy,AD Mascarenhas,NA,GH Vihari,1,0,1,0,NA,NA,NA
+2,1.2,GH Vihari,AD Mascarenhas,NA,PA Reddy,0,0,0,0,NA,NA,NA
+2,1.3,GH Vihari,AD Mascarenhas,NA,PA Reddy,1,0,1,0,NA,NA,NA
+2,1.4,PA Reddy,AD Mascarenhas,NA,GH Vihari,1,0,1,0,NA,NA,NA
+2,1.5,GH Vihari,AD Mascarenhas,NA,PA Reddy,1,0,1,0,NA,NA,NA
+2,1.6,PA Reddy,AD Mascarenhas,NA,GH Vihari,4,0,4,0,NA,NA,NA
+2,2.1,GH Vihari,P Kumar,NA,PA Reddy,0,0,0,0,NA,NA,NA
+2,2.2,GH Vihari,P Kumar,NA,PA Reddy,0,0,0,0,NA,NA,NA
+2,2.3,GH Vihari,P Kumar,NA,PA Reddy,0,0,0,0,NA,NA,NA
+2,2.4,GH Vihari,P Kumar,NA,PA Reddy,2,0,2,0,NA,NA,NA
+2,2.5,GH Vihari,P Kumar,NA,PA Reddy,1,0,1,0,NA,NA,NA
+2,2.6,PA Reddy,P Kumar,NA,GH Vihari,0,0,0,0,NA,NA,NA
+2,3.1,GH Vihari,AD Mascarenhas,NA,PA Reddy,0,0,0,0,NA,NA,NA
+2,3.2,GH Vihari,AD Mascarenhas,NA,PA Reddy,1,0,1,0,NA,NA,NA
+2,3.3,PA Reddy,AD Mascarenhas,NA,GH Vihari,1,0,1,0,NA,NA,NA
+2,3.4,GH Vihari,AD Mascarenhas,NA,PA Reddy,2,0,2,0,NA,NA,NA
+2,3.5,GH Vihari,AD Mascarenhas,NA,PA Reddy,1,0,1,0,NA,NA,NA
+2,3.6,PA Reddy,AD Mascarenhas,NA,GH Vihari,0,0,0,0,NA,NA,NA
+2,4.1,GH Vihari,P Kumar,NA,PA Reddy,1,0,1,0,NA,NA,NA
+2,4.2,PA Reddy,P Kumar,NA,GH Vihari,3,0,3,0,NA,NA,NA
+2,4.3,GH Vihari,P Kumar,NA,PA Reddy,3,0,3,0,NA,NA,NA
+2,4.4,PA Reddy,P Kumar,NA,GH Vihari,1,0,1,0,NA,NA,NA
+2,4.5,GH Vihari,P Kumar,NA,PA Reddy,1,0,1,0,NA,NA,NA
+2,4.6,PA Reddy,P Kumar,NA,GH Vihari,0,0,0,0,NA,NA,NA
+2,5.1,GH Vihari,Azhar Mahmood,NA,PA Reddy,4,0,4,0,NA,NA,NA
+2,5.2,GH Vihari,Azhar Mahmood,NA,PA Reddy,0,0,0,0,NA,NA,NA
+2,5.3,GH Vihari,Azhar Mahmood,NA,PA Reddy,1,0,1,0,NA,NA,NA
+2,5.4,PA Reddy,Azhar Mahmood,NA,GH Vihari,0,0,0,0,NA,NA,NA
+2,5.5,PA Reddy,Azhar Mahmood,NA,GH Vihari,2,0,2,0,NA,NA,NA
+2,5.6,PA Reddy,Azhar Mahmood,NA,GH Vihari,1,0,1,0,NA,NA,NA
+2,6.1,PA Reddy,PP Chawla,NA,GH Vihari,1,0,1,0,NA,NA,NA
+2,6.2,GH Vihari,PP Chawla,NA,PA Reddy,0,0,0,0,NA,NA,NA
+2,6.3,GH Vihari,PP Chawla,NA,PA Reddy,0,0,0,0,NA,NA,NA
+2,6.4,GH Vihari,PP Chawla,NA,PA Reddy,4,0,4,0,NA,NA,NA
+2,6.5,GH Vihari,PP Chawla,NA,PA Reddy,4,0,4,0,NA,NA,NA
+2,6.6,GH Vihari,PP Chawla,NA,PA Reddy,1,0,1,0,NA,NA,NA
+2,7.1,GH Vihari,MS Gony,NA,PA Reddy,1,0,1,0,NA,NA,NA
+2,7.2,PA Reddy,MS Gony,NA,GH Vihari,0,0,0,0,NA,NA,NA
+2,7.3,PA Reddy,MS Gony,NA,GH Vihari,4,0,4,0,NA,NA,NA
+2,7.4,PA Reddy,MS Gony,NA,GH Vihari,0,0,0,0,NA,NA,NA
+2,7.5,PA Reddy,MS Gony,NA,GH Vihari,0,0,0,1,Azhar Mahmood,caught,PA Reddy
+2,7.6,GH Vihari,MS Gony,NA,CL White,0,0,0,0,NA,NA,NA
+2,8.1,CL White,AD Mascarenhas,NA,GH Vihari,0,0,0,0,NA,NA,NA
+2,8.2,CL White,AD Mascarenhas,NA,GH Vihari,1,0,1,0,NA,NA,NA
+2,8.3,GH Vihari,AD Mascarenhas,NA,CL White,1,0,1,0,NA,NA,NA
+2,8.4,CL White,AD Mascarenhas,NA,GH Vihari,0,0,0,0,NA,NA,NA
+2,8.5,CL White,AD Mascarenhas,NA,GH Vihari,0,0,0,0,NA,NA,NA
+2,8.6,CL White,AD Mascarenhas,NA,GH Vihari,0,0,0,0,NA,NA,NA
+2,9.1,GH Vihari,PP Chawla,NA,CL White,4,0,4,0,NA,NA,NA
+2,9.2,GH Vihari,PP Chawla,NA,CL White,0,0,0,0,NA,NA,NA
+2,9.3,GH Vihari,PP Chawla,NA,CL White,1,0,1,0,NA,NA,NA
+2,9.4,CL White,PP Chawla,NA,GH Vihari,0,0,0,0,NA,NA,NA
+2,9.5,CL White,PP Chawla,NA,GH Vihari,1,0,1,0,NA,NA,NA
+2,9.6,GH Vihari,PP Chawla,NA,CL White,0,0,0,0,NA,NA,NA
+2,10.1,CL White,AD Mascarenhas,NA,GH Vihari,1,0,1,0,NA,NA,NA
+2,10.2,GH Vihari,AD Mascarenhas,NA,CL White,4,0,4,0,NA,NA,NA
+2,10.3,GH Vihari,AD Mascarenhas,NA,CL White,2,0,2,0,NA,NA,NA
+2,10.4,GH Vihari,AD Mascarenhas,NA,CL White,1,0,1,0,NA,NA,NA
+2,10.5,CL White,AD Mascarenhas,NA,GH Vihari,1,0,1,0,NA,NA,NA
+2,10.6,GH Vihari,AD Mascarenhas,NA,CL White,1,0,1,0,NA,NA,NA
+2,11.1,GH Vihari,PP Chawla,NA,CL White,2,0,2,0,NA,NA,NA
+2,11.2,GH Vihari,PP Chawla,NA,CL White,1,0,1,0,NA,NA,NA
+2,11.3,CL White,PP Chawla,NA,GH Vihari,1,0,1,0,NA,NA,NA
+2,11.4,GH Vihari,PP Chawla,NA,CL White,0,0,0,1,DJ Hussey,caught,GH Vihari
+2,11.5,BB Samantray,PP Chawla,NA,CL White,0,0,0,0,NA,NA,NA
+2,11.6,BB Samantray,PP Chawla,NA,CL White,0,0,0,0,NA,NA,NA
+2,12.1,CL White,Azhar Mahmood,NA,BB Samantray,1,0,1,0,NA,NA,NA
+2,12.2,BB Samantray,Azhar Mahmood,NA,CL White,1,0,1,0,NA,NA,NA
+2,12.3,CL White,Azhar Mahmood,NA,BB Samantray,1,0,1,0,NA,NA,NA
+2,12.4,BB Samantray,Azhar Mahmood,NA,CL White,1,0,1,0,NA,NA,NA
+2,12.5,CL White,Azhar Mahmood,NA,BB Samantray,1,0,1,0,NA,NA,NA
+2,12.6,BB Samantray,Azhar Mahmood,NA,CL White,0,0,0,0,NA,NA,NA
+2,13.1,CL White,MS Gony,NA,BB Samantray,0,0,0,0,NA,NA,NA
+2,13.2,CL White,MS Gony,NA,BB Samantray,0,0,0,0,NA,NA,NA
+2,13.3,CL White,MS Gony,NA,BB Samantray,1,0,1,0,NA,NA,NA
+2,13.4,BB Samantray,MS Gony,NA,CL White,1,0,1,0,NA,NA,NA
+2,13.5,CL White,MS Gony,NA,BB Samantray,4,0,4,0,NA,NA,NA
+2,13.6,CL White,MS Gony,1legbyes,BB Samantray,0,1,1,0,NA,NA,NA
+2,14.1,CL White,PP Chawla,NA,BB Samantray,1,0,1,0,NA,NA,NA
+2,14.2,BB Samantray,PP Chawla,NA,CL White,1,0,1,0,NA,NA,NA
+2,14.3,CL White,PP Chawla,NA,BB Samantray,0,0,0,0,NA,NA,NA
+2,14.4,CL White,PP Chawla,NA,BB Samantray,1,0,1,0,NA,NA,NA
+2,14.5,BB Samantray,PP Chawla,NA,CL White,1,0,1,0,NA,NA,NA
+2,14.6,CL White,PP Chawla,NA,BB Samantray,1,0,1,0,NA,NA,NA
+2,15.1,CL White,MS Gony,NA,BB Samantray,0,0,0,1,NA,bowled,CL White
+2,15.2,NLTC Perera,MS Gony,NA,BB Samantray,1,0,1,0,NA,NA,NA
+2,15.3,BB Samantray,MS Gony,NA,NLTC Perera,4,0,4,0,NA,NA,NA
+2,15.4,BB Samantray,MS Gony,NA,NLTC Perera,0,0,0,0,NA,NA,NA
+2,15.5,BB Samantray,MS Gony,NA,NLTC Perera,1,0,1,0,NA,NA,NA
+2,15.6,NLTC Perera,MS Gony,4byes,BB Samantray,0,4,4,0,NA,NA,NA
+2,16.1,BB Samantray,Azhar Mahmood,NA,NLTC Perera,0,0,0,1,NA,lbw,BB Samantray
+2,16.2,A Ashish Reddy,Azhar Mahmood,NA,NLTC Perera,1,0,1,0,NA,NA,NA
+2,16.3,NLTC Perera,Azhar Mahmood,NA,A Ashish Reddy,0,0,0,0,NA,NA,NA
+2,16.4,NLTC Perera,Azhar Mahmood,NA,A Ashish Reddy,0,0,0,0,NA,NA,NA
+2,16.5,NLTC Perera,Azhar Mahmood,NA,A Ashish Reddy,1,0,1,0,NA,NA,NA
+2,16.6,A Ashish Reddy,Azhar Mahmood,NA,NLTC Perera,0,0,0,0,NA,NA,NA
+2,17.1,NLTC Perera,MS Gony,NA,A Ashish Reddy,1,0,1,0,NA,NA,NA
+2,17.2,A Ashish Reddy,MS Gony,NA,NLTC Perera,1,0,1,0,NA,NA,NA
+2,17.3,NLTC Perera,MS Gony,NA,A Ashish Reddy,1,0,1,0,NA,NA,NA
+2,17.4,A Ashish Reddy,MS Gony,NA,NLTC Perera,0,0,0,0,NA,NA,NA
+2,17.5,A Ashish Reddy,MS Gony,NA,NLTC Perera,4,0,4,0,NA,NA,NA
+2,17.6,A Ashish Reddy,MS Gony,NA,NLTC Perera,0,0,0,0,NA,NA,NA
+2,18.1,NLTC Perera,Azhar Mahmood,NA,A Ashish Reddy,6,0,6,0,NA,NA,NA
+2,18.2,NLTC Perera,Azhar Mahmood,1wides,A Ashish Reddy,0,1,1,0,NA,NA,NA
+2,18.3,NLTC Perera,Azhar Mahmood,NA,A Ashish Reddy,1,0,1,0,NA,NA,NA
+2,18.4,A Ashish Reddy,Azhar Mahmood,NA,NLTC Perera,1,0,1,0,NA,NA,NA
+2,18.5,NLTC Perera,Azhar Mahmood,NA,A Ashish Reddy,6,0,6,0,NA,NA,NA
+2,18.6,NLTC Perera,Azhar Mahmood,NA,A Ashish Reddy,6,0,6,0,NA,NA,NA

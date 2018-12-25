@@ -1,0 +1,219 @@
+innings,ball,batsman,bowler,extras,non_striker,batsman_run,extras_run,total_run,wicket,fielders,wicket_kind,player_out
+1,0.1,DA Warner,BW Hilfenhaus,NA,V Sehwag,0,0,0,0,NA,NA,NA
+1,0.2,DA Warner,BW Hilfenhaus,NA,V Sehwag,0,0,0,0,NA,NA,NA
+1,0.3,DA Warner,BW Hilfenhaus,NA,V Sehwag,1,0,1,0,NA,NA,NA
+1,0.4,V Sehwag,BW Hilfenhaus,NA,DA Warner,4,0,4,0,NA,NA,NA
+1,0.5,V Sehwag,BW Hilfenhaus,NA,DA Warner,0,0,0,1,NA,bowled,V Sehwag
+1,0.6,NV Ojha,BW Hilfenhaus,NA,DA Warner,0,0,0,0,NA,NA,NA
+1,1.1,DA Warner,JA Morkel,NA,NV Ojha,0,0,0,0,NA,NA,NA
+1,1.2,DA Warner,JA Morkel,NA,NV Ojha,4,0,4,0,NA,NA,NA
+1,1.3,DA Warner,JA Morkel,NA,NV Ojha,0,0,0,0,NA,NA,NA
+1,1.4,DA Warner,JA Morkel,NA,NV Ojha,0,0,0,0,NA,NA,NA
+1,1.5,DA Warner,JA Morkel,NA,NV Ojha,3,0,3,0,NA,NA,NA
+1,1.6,NV Ojha,JA Morkel,NA,DA Warner,0,0,0,0,NA,NA,NA
+1,2.1,DA Warner,BW Hilfenhaus,NA,NV Ojha,0,0,0,1,R Ashwin,caught,DA Warner
+1,2.2,DPMD Jayawardene,BW Hilfenhaus,NA,NV Ojha,0,0,0,0,NA,NA,NA
+1,2.3,DPMD Jayawardene,BW Hilfenhaus,NA,NV Ojha,0,0,0,0,NA,NA,NA
+1,2.4,DPMD Jayawardene,BW Hilfenhaus,NA,NV Ojha,4,0,4,0,NA,NA,NA
+1,2.5,DPMD Jayawardene,BW Hilfenhaus,NA,NV Ojha,2,0,2,0,NA,NA,NA
+1,2.6,DPMD Jayawardene,BW Hilfenhaus,NA,NV Ojha,0,0,0,0,NA,NA,NA
+1,3.1,NV Ojha,JA Morkel,NA,DPMD Jayawardene,0,0,0,0,NA,NA,NA
+1,3.2,NV Ojha,JA Morkel,NA,DPMD Jayawardene,0,0,0,0,NA,NA,NA
+1,3.3,NV Ojha,JA Morkel,NA,DPMD Jayawardene,1,0,1,0,NA,NA,NA
+1,3.4,DPMD Jayawardene,JA Morkel,NA,NV Ojha,1,0,1,0,NA,NA,NA
+1,3.5,NV Ojha,JA Morkel,NA,DPMD Jayawardene,1,0,1,0,NA,NA,NA
+1,3.6,DPMD Jayawardene,JA Morkel,NA,NV Ojha,0,0,0,0,NA,NA,NA
+1,4.1,NV Ojha,BW Hilfenhaus,1wides,DPMD Jayawardene,0,1,1,0,NA,NA,NA
+1,4.2,NV Ojha,BW Hilfenhaus,NA,DPMD Jayawardene,0,0,0,0,NA,NA,NA
+1,4.3,NV Ojha,BW Hilfenhaus,NA,DPMD Jayawardene,0,0,0,0,NA,NA,NA
+1,4.4,NV Ojha,BW Hilfenhaus,NA,DPMD Jayawardene,0,0,0,0,NA,NA,NA
+1,4.5,NV Ojha,BW Hilfenhaus,NA,DPMD Jayawardene,1,0,1,0,NA,NA,NA
+1,4.6,DPMD Jayawardene,BW Hilfenhaus,NA,NV Ojha,1,0,1,0,NA,NA,NA
+1,4.7,NV Ojha,BW Hilfenhaus,NA,DPMD Jayawardene,0,0,0,1,MS Dhoni,caught,NV Ojha
+1,5.1,DPMD Jayawardene,JA Morkel,NA,Y Venugopal Rao,0,0,0,0,NA,NA,NA
+1,5.2,DPMD Jayawardene,JA Morkel,NA,Y Venugopal Rao,0,0,0,1,MEK Hussey,caught,DPMD Jayawardene
+1,5.3,Y Nagar,JA Morkel,NA,Y Venugopal Rao,1,0,1,0,NA,NA,NA
+1,5.4,Y Venugopal Rao,JA Morkel,NA,Y Nagar,0,0,0,0,NA,NA,NA
+1,5.5,Y Venugopal Rao,JA Morkel,1legbyes,Y Nagar,0,1,1,0,NA,NA,NA
+1,5.6,Y Nagar,JA Morkel,NA,Y Venugopal Rao,1,0,1,0,NA,NA,NA
+1,6.1,Y Nagar,DJ Bravo,NA,Y Venugopal Rao,0,0,0,0,NA,NA,NA
+1,6.2,Y Nagar,DJ Bravo,NA,Y Venugopal Rao,0,0,0,0,NA,NA,NA
+1,6.3,Y Nagar,DJ Bravo,NA,Y Venugopal Rao,1,0,1,0,NA,NA,NA
+1,6.4,Y Venugopal Rao,DJ Bravo,NA,Y Nagar,1,0,1,0,NA,NA,NA
+1,6.5,Y Nagar,DJ Bravo,NA,Y Venugopal Rao,1,0,1,0,NA,NA,NA
+1,6.6,Y Venugopal Rao,DJ Bravo,1wides,Y Nagar,0,1,1,0,NA,NA,NA
+1,6.7,Y Venugopal Rao,DJ Bravo,NA,Y Nagar,1,0,1,0,NA,NA,NA
+1,7.1,Y Venugopal Rao,SB Jakati,NA,Y Nagar,1,0,1,0,NA,NA,NA
+1,7.2,Y Nagar,SB Jakati,NA,Y Venugopal Rao,0,0,0,0,NA,NA,NA
+1,7.3,Y Nagar,SB Jakati,NA,Y Venugopal Rao,1,0,1,0,NA,NA,NA
+1,7.4,Y Venugopal Rao,SB Jakati,NA,Y Nagar,1,0,1,0,NA,NA,NA
+1,7.5,Y Nagar,SB Jakati,NA,Y Venugopal Rao,1,0,1,0,NA,NA,NA
+1,7.6,Y Venugopal Rao,SB Jakati,NA,Y Nagar,1,0,1,0,NA,NA,NA
+1,8.1,Y Venugopal Rao,RA Jadeja,NA,Y Nagar,6,0,6,0,NA,NA,NA
+1,8.2,Y Venugopal Rao,RA Jadeja,NA,Y Nagar,1,0,1,0,NA,NA,NA
+1,8.3,Y Nagar,RA Jadeja,NA,Y Venugopal Rao,1,0,1,0,NA,NA,NA
+1,8.4,Y Venugopal Rao,RA Jadeja,NA,Y Nagar,1,0,1,0,NA,NA,NA
+1,8.5,Y Nagar,RA Jadeja,NA,Y Venugopal Rao,1,0,1,0,NA,NA,NA
+1,8.6,Y Venugopal Rao,RA Jadeja,NA,Y Nagar,1,0,1,0,NA,NA,NA
+1,9.1,Y Venugopal Rao,R Ashwin,NA,Y Nagar,1,0,1,0,NA,NA,NA
+1,9.2,Y Nagar,R Ashwin,NA,Y Venugopal Rao,1,0,1,0,NA,NA,NA
+1,9.3,Y Venugopal Rao,R Ashwin,NA,Y Nagar,0,0,0,0,NA,NA,NA
+1,9.4,Y Venugopal Rao,R Ashwin,NA,Y Nagar,1,0,1,0,NA,NA,NA
+1,9.5,Y Nagar,R Ashwin,NA,Y Venugopal Rao,0,0,0,0,NA,NA,NA
+1,9.6,Y Nagar,R Ashwin,NA,Y Venugopal Rao,1,0,1,0,NA,NA,NA
+1,10.1,Y Nagar,SB Jakati,NA,Y Venugopal Rao,1,0,1,0,NA,NA,NA
+1,10.2,Y Venugopal Rao,SB Jakati,NA,Y Nagar,1,0,1,0,NA,NA,NA
+1,10.3,Y Nagar,SB Jakati,NA,Y Venugopal Rao,1,0,1,0,NA,NA,NA
+1,10.4,Y Venugopal Rao,SB Jakati,NA,Y Nagar,0,0,0,0,NA,NA,NA
+1,10.5,Y Venugopal Rao,SB Jakati,NA,Y Nagar,1,0,1,0,NA,NA,NA
+1,10.6,Y Nagar,SB Jakati,NA,Y Venugopal Rao,0,0,0,0,NA,NA,NA
+1,11.1,Y Venugopal Rao,R Ashwin,NA,Y Nagar,1,0,1,0,NA,NA,NA
+1,11.2,Y Nagar,R Ashwin,NA,Y Venugopal Rao,1,0,1,0,NA,NA,NA
+1,11.3,Y Venugopal Rao,R Ashwin,NA,Y Nagar,0,0,0,0,NA,NA,NA
+1,11.4,Y Venugopal Rao,R Ashwin,NA,Y Nagar,1,0,1,0,NA,NA,NA
+1,11.5,Y Nagar,R Ashwin,NA,Y Venugopal Rao,0,0,0,0,NA,NA,NA
+1,11.6,Y Nagar,R Ashwin,NA,Y Venugopal Rao,1,0,1,0,NA,NA,NA
+1,12.1,Y Nagar,SB Jakati,NA,Y Venugopal Rao,1,0,1,0,NA,NA,NA
+1,12.2,Y Venugopal Rao,SB Jakati,NA,Y Nagar,6,0,6,0,NA,NA,NA
+1,12.3,Y Venugopal Rao,SB Jakati,NA,Y Nagar,1,0,1,0,NA,NA,NA
+1,12.4,Y Nagar,SB Jakati,NA,Y Venugopal Rao,2,0,2,0,NA,NA,NA
+1,12.5,Y Nagar,SB Jakati,NA,Y Venugopal Rao,1,0,1,0,NA,NA,NA
+1,12.6,Y Venugopal Rao,SB Jakati,NA,Y Nagar,0,0,0,0,NA,NA,NA
+1,13.1,Y Nagar,R Ashwin,NA,Y Venugopal Rao,1,0,1,0,NA,NA,NA
+1,13.2,Y Venugopal Rao,R Ashwin,NA,Y Nagar,0,0,0,1,JA Morkel,caught,Y Venugopal Rao
+1,13.3,IK Pathan,R Ashwin,NA,Y Nagar,0,0,0,0,NA,NA,NA
+1,13.4,IK Pathan,R Ashwin,NA,Y Nagar,1,0,1,0,NA,NA,NA
+1,13.5,Y Nagar,R Ashwin,NA,IK Pathan,0,0,0,0,NA,NA,NA
+1,13.6,Y Nagar,R Ashwin,NA,IK Pathan,1,0,1,0,NA,NA,NA
+1,14.1,Y Nagar,DJ Bravo,NA,IK Pathan,0,0,0,0,NA,NA,NA
+1,14.2,Y Nagar,DJ Bravo,NA,IK Pathan,1,0,1,0,NA,NA,NA
+1,14.3,IK Pathan,DJ Bravo,NA,Y Nagar,0,0,0,0,NA,NA,NA
+1,14.4,IK Pathan,DJ Bravo,NA,Y Nagar,2,0,2,0,NA,NA,NA
+1,14.5,IK Pathan,DJ Bravo,NA,Y Nagar,0,0,0,0,NA,NA,NA
+1,14.6,IK Pathan,DJ Bravo,NA,Y Nagar,1,0,1,0,NA,NA,NA
+1,15.1,IK Pathan,R Ashwin,NA,Y Nagar,1,0,1,0,NA,NA,NA
+1,15.2,Y Nagar,R Ashwin,NA,IK Pathan,0,0,0,0,NA,NA,NA
+1,15.3,Y Nagar,R Ashwin,NA,IK Pathan,2,0,2,0,NA,NA,NA
+1,15.4,Y Nagar,R Ashwin,NA,IK Pathan,2,0,2,0,NA,NA,NA
+1,15.5,Y Nagar,R Ashwin,NA,IK Pathan,0,0,0,0,NA,NA,NA
+1,15.6,Y Nagar,R Ashwin,NA,IK Pathan,1,0,1,0,NA,NA,NA
+1,16.1,Y Nagar,JA Morkel,NA,IK Pathan,1,0,1,0,NA,NA,NA
+1,16.2,IK Pathan,JA Morkel,NA,Y Nagar,0,0,0,0,NA,NA,NA
+1,16.3,IK Pathan,JA Morkel,1legbyes,Y Nagar,0,1,1,0,NA,NA,NA
+1,16.4,Y Nagar,JA Morkel,NA,IK Pathan,0,0,0,0,NA,NA,NA
+1,16.5,Y Nagar,JA Morkel,NA,IK Pathan,1,0,1,0,NA,NA,NA
+1,16.6,IK Pathan,JA Morkel,1wides,Y Nagar,0,1,1,0,NA,NA,NA
+1,16.7,IK Pathan,JA Morkel,NA,Y Nagar,0,0,0,0,NA,NA,NA
+1,17.1,Y Nagar,DJ Bravo,NA,IK Pathan,0,0,0,0,NA,NA,NA
+1,17.2,Y Nagar,DJ Bravo,NA,IK Pathan,1,0,1,0,NA,NA,NA
+1,17.3,IK Pathan,DJ Bravo,1wides,Y Nagar,0,1,1,0,NA,NA,NA
+1,17.4,IK Pathan,DJ Bravo,NA,Y Nagar,2,0,2,0,NA,NA,NA
+1,17.5,IK Pathan,DJ Bravo,NA,Y Nagar,1,0,1,0,NA,NA,NA
+1,17.6,Y Nagar,DJ Bravo,NA,IK Pathan,1,0,1,0,NA,NA,NA
+1,17.7,IK Pathan,DJ Bravo,NA,Y Nagar,0,0,0,0,NA,NA,NA
+1,18.1,Y Nagar,BW Hilfenhaus,NA,IK Pathan,0,0,0,0,NA,NA,NA
+1,18.2,Y Nagar,BW Hilfenhaus,NA,IK Pathan,1,0,1,0,NA,NA,NA
+1,18.3,IK Pathan,BW Hilfenhaus,1wides,Y Nagar,0,1,1,0,NA,NA,NA
+1,18.4,IK Pathan,BW Hilfenhaus,NA,Y Nagar,1,0,1,0,NA,NA,NA
+1,18.5,Y Nagar,BW Hilfenhaus,NA,IK Pathan,4,0,4,0,NA,NA,NA
+1,18.6,Y Nagar,BW Hilfenhaus,NA,IK Pathan,0,0,0,0,NA,NA,NA
+1,18.7,Y Nagar,BW Hilfenhaus,NA,IK Pathan,6,0,6,0,NA,NA,NA
+1,19.1,IK Pathan,DJ Bravo,NA,Y Nagar,2,0,2,0,NA,NA,NA
+1,19.2,IK Pathan,DJ Bravo,NA,Y Nagar,1,0,1,0,NA,NA,NA
+1,19.3,Y Nagar,DJ Bravo,NA,IK Pathan,1,0,1,0,NA,NA,NA
+1,19.4,IK Pathan,DJ Bravo,NA,Y Nagar,1,0,1,0,NA,NA,NA
+1,19.5,Y Nagar,DJ Bravo,NA,IK Pathan,2,0,2,0,NA,NA,NA
+1,19.6,Y Nagar,DJ Bravo,NA,IK Pathan,0,0,0,0,NA,NA,NA
+2,0.1,MEK Hussey,M Morkel,NA,M Vijay,0,0,0,0,NA,NA,NA
+2,0.2,MEK Hussey,M Morkel,NA,M Vijay,0,0,0,0,NA,NA,NA
+2,0.3,MEK Hussey,M Morkel,NA,M Vijay,2,0,2,0,NA,NA,NA
+2,0.4,MEK Hussey,M Morkel,NA,M Vijay,0,0,0,0,NA,NA,NA
+2,0.5,MEK Hussey,M Morkel,NA,M Vijay,0,0,0,0,NA,NA,NA
+2,0.6,MEK Hussey,M Morkel,NA,M Vijay,0,0,0,0,NA,NA,NA
+2,1.1,M Vijay,UT Yadav,NA,MEK Hussey,0,0,0,0,NA,NA,NA
+2,1.2,M Vijay,UT Yadav,NA,MEK Hussey,4,0,4,0,NA,NA,NA
+2,1.3,M Vijay,UT Yadav,1wides,MEK Hussey,0,1,1,0,NA,NA,NA
+2,1.4,M Vijay,UT Yadav,NA,MEK Hussey,0,0,0,0,NA,NA,NA
+2,1.5,M Vijay,UT Yadav,NA,MEK Hussey,2,0,2,0,NA,NA,NA
+2,1.6,M Vijay,UT Yadav,NA,MEK Hussey,1,0,1,0,NA,NA,NA
+2,1.7,MEK Hussey,UT Yadav,NA,M Vijay,0,0,0,0,NA,NA,NA
+2,2.1,M Vijay,M Morkel,NA,MEK Hussey,0,0,0,0,NA,NA,NA
+2,2.2,M Vijay,M Morkel,NA,MEK Hussey,1,0,1,0,NA,NA,NA
+2,2.3,MEK Hussey,M Morkel,NA,M Vijay,0,0,0,0,NA,NA,NA
+2,2.4,MEK Hussey,M Morkel,NA,M Vijay,0,0,0,0,NA,NA,NA
+2,2.5,MEK Hussey,M Morkel,NA,M Vijay,4,0,4,0,NA,NA,NA
+2,2.6,MEK Hussey,M Morkel,NA,M Vijay,0,0,0,0,NA,NA,NA
+2,3.1,M Vijay,VR Aaron,NA,MEK Hussey,2,0,2,0,NA,NA,NA
+2,3.2,M Vijay,VR Aaron,NA,MEK Hussey,0,0,0,0,NA,NA,NA
+2,3.3,M Vijay,VR Aaron,NA,MEK Hussey,0,0,0,0,NA,NA,NA
+2,3.4,M Vijay,VR Aaron,NA,MEK Hussey,1,0,1,0,NA,NA,NA
+2,3.5,MEK Hussey,VR Aaron,NA,M Vijay,4,0,4,0,NA,NA,NA
+2,3.6,MEK Hussey,VR Aaron,NA,M Vijay,3,0,3,0,NA,NA,NA
+2,4.1,MEK Hussey,M Morkel,NA,M Vijay,4,0,4,0,NA,NA,NA
+2,4.2,MEK Hussey,M Morkel,NA,M Vijay,4,0,4,0,NA,NA,NA
+2,4.3,MEK Hussey,M Morkel,NA,M Vijay,0,0,0,0,NA,NA,NA
+2,4.4,MEK Hussey,M Morkel,NA,M Vijay,1,0,1,0,NA,NA,NA
+2,4.5,M Vijay,M Morkel,NA,MEK Hussey,4,0,4,0,NA,NA,NA
+2,4.6,M Vijay,M Morkel,NA,MEK Hussey,0,0,0,0,NA,NA,NA
+2,5.1,MEK Hussey,VR Aaron,NA,M Vijay,6,0,6,0,NA,NA,NA
+2,5.2,MEK Hussey,VR Aaron,NA,M Vijay,0,0,0,0,NA,NA,NA
+2,5.3,MEK Hussey,VR Aaron,NA,M Vijay,0,0,0,0,NA,NA,NA
+2,5.4,MEK Hussey,VR Aaron,NA,M Vijay,0,0,0,0,NA,NA,NA
+2,5.5,MEK Hussey,VR Aaron,NA,M Vijay,1,0,1,0,NA,NA,NA
+2,5.6,M Vijay,VR Aaron,NA,MEK Hussey,0,0,0,0,NA,NA,NA
+2,6.1,MEK Hussey,UT Yadav,NA,M Vijay,1,0,1,0,NA,NA,NA
+2,6.2,M Vijay,UT Yadav,NA,MEK Hussey,0,0,0,0,NA,NA,NA
+2,6.3,M Vijay,UT Yadav,NA,MEK Hussey,4,0,4,0,NA,NA,NA
+2,6.4,M Vijay,UT Yadav,NA,MEK Hussey,4,0,4,0,NA,NA,NA
+2,6.5,M Vijay,UT Yadav,NA,MEK Hussey,0,0,0,0,NA,NA,NA
+2,6.6,M Vijay,UT Yadav,NA,MEK Hussey,1,0,1,0,NA,NA,NA
+2,7.1,M Vijay,RE van der Merwe,NA,MEK Hussey,1,0,1,0,NA,NA,NA
+2,7.2,MEK Hussey,RE van der Merwe,NA,M Vijay,4,0,4,0,NA,NA,NA
+2,7.3,MEK Hussey,RE van der Merwe,NA,M Vijay,0,0,0,0,NA,NA,NA
+2,7.4,MEK Hussey,RE van der Merwe,NA,M Vijay,0,0,0,0,NA,NA,NA
+2,7.5,MEK Hussey,RE van der Merwe,NA,M Vijay,1,0,1,0,NA,NA,NA
+2,7.6,M Vijay,RE van der Merwe,NA,MEK Hussey,2,0,2,0,NA,NA,NA
+2,8.1,MEK Hussey,IK Pathan,NA,M Vijay,0,0,0,0,NA,NA,NA
+2,8.2,MEK Hussey,IK Pathan,NA,M Vijay,1,0,1,0,NA,NA,NA
+2,8.3,M Vijay,IK Pathan,NA,MEK Hussey,1,0,1,0,NA,NA,NA
+2,8.4,MEK Hussey,IK Pathan,NA,M Vijay,1,0,1,0,NA,NA,NA
+2,8.5,M Vijay,IK Pathan,NA,MEK Hussey,4,0,4,0,NA,NA,NA
+2,8.6,M Vijay,IK Pathan,NA,MEK Hussey,0,0,0,0,NA,NA,NA
+2,9.1,MEK Hussey,RE van der Merwe,NA,M Vijay,1,0,1,0,NA,NA,NA
+2,9.2,M Vijay,RE van der Merwe,NA,MEK Hussey,0,0,0,0,NA,NA,NA
+2,9.3,M Vijay,RE van der Merwe,NA,MEK Hussey,0,0,0,0,NA,NA,NA
+2,9.4,M Vijay,RE van der Merwe,NA,MEK Hussey,0,0,0,0,NA,NA,NA
+2,9.5,M Vijay,RE van der Merwe,NA,MEK Hussey,2,0,2,0,NA,NA,NA
+2,9.6,M Vijay,RE van der Merwe,NA,MEK Hussey,2,0,2,0,NA,NA,NA
+2,10.1,MEK Hussey,IK Pathan,NA,M Vijay,0,0,0,1,DPMD Jayawardene,caught,MEK Hussey
+2,10.2,SK Raina,IK Pathan,NA,M Vijay,1,0,1,0,NA,NA,NA
+2,10.3,M Vijay,IK Pathan,NA,SK Raina,1,0,1,0,NA,NA,NA
+2,10.4,SK Raina,IK Pathan,NA,M Vijay,0,0,0,0,NA,NA,NA
+2,10.5,SK Raina,IK Pathan,NA,M Vijay,0,0,0,0,NA,NA,NA
+2,10.6,SK Raina,IK Pathan,NA,M Vijay,6,0,6,0,NA,NA,NA
+2,11.1,M Vijay,RE van der Merwe,NA,SK Raina,1,0,1,0,NA,NA,NA
+2,11.2,SK Raina,RE van der Merwe,NA,M Vijay,1,0,1,0,NA,NA,NA
+2,11.3,M Vijay,RE van der Merwe,NA,SK Raina,1,0,1,0,NA,NA,NA
+2,11.4,SK Raina,RE van der Merwe,NA,M Vijay,0,0,0,0,NA,NA,NA
+2,11.5,SK Raina,RE van der Merwe,NA,M Vijay,1,0,1,0,NA,NA,NA
+2,11.6,M Vijay,RE van der Merwe,NA,SK Raina,0,0,0,0,NA,NA,NA
+2,12.1,SK Raina,UT Yadav,NA,M Vijay,0,0,0,0,NA,NA,NA
+2,12.2,SK Raina,UT Yadav,NA,M Vijay,0,0,0,0,NA,NA,NA
+2,12.3,SK Raina,UT Yadav,NA,M Vijay,4,0,4,0,NA,NA,NA
+2,12.4,SK Raina,UT Yadav,NA,M Vijay,1,0,1,0,NA,NA,NA
+2,12.5,M Vijay,UT Yadav,NA,SK Raina,1,0,1,0,NA,NA,NA
+2,12.6,SK Raina,UT Yadav,NA,M Vijay,0,0,0,0,NA,NA,NA
+2,13.1,M Vijay,VR Aaron,NA,SK Raina,0,0,0,0,NA,NA,NA
+2,13.2,M Vijay,VR Aaron,NA,SK Raina,1,0,1,0,NA,NA,NA
+2,13.3,SK Raina,VR Aaron,NA,M Vijay,0,0,0,0,NA,NA,NA
+2,13.4,SK Raina,VR Aaron,NA,M Vijay,1,0,1,0,NA,NA,NA
+2,13.5,M Vijay,VR Aaron,NA,SK Raina,6,0,6,0,NA,NA,NA
+2,13.6,M Vijay,VR Aaron,NA,SK Raina,0,0,0,0,NA,NA,NA
+2,14.1,SK Raina,M Morkel,NA,M Vijay,6,0,6,0,NA,NA,NA
+2,14.2,SK Raina,M Morkel,NA,M Vijay,1,0,1,0,NA,NA,NA
+2,14.3,M Vijay,M Morkel,NA,SK Raina,1,0,1,0,NA,NA,NA
+2,14.4,SK Raina,M Morkel,NA,M Vijay,2,0,2,0,NA,NA,NA
+2,14.5,SK Raina,M Morkel,NA,M Vijay,1,0,1,0,NA,NA,NA
+2,14.6,M Vijay,M Morkel,NA,SK Raina,0,0,0,0,NA,NA,NA
+2,15.1,SK Raina,VR Aaron,NA,M Vijay,0,0,0,0,NA,NA,NA
+2,15.2,SK Raina,VR Aaron,NA,M Vijay,3,0,3,0,NA,NA,NA

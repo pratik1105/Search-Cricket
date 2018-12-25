@@ -1,0 +1,249 @@
+innings,ball,batsman,bowler,extras,non_striker,batsman_run,extras_run,total_run,wicket,fielders,wicket_kind,player_out
+1,0.1,MEK Hussey,B Lee,NA,M Vijay,0,0,0,0,NA,NA,NA
+1,0.2,MEK Hussey,B Lee,NA,M Vijay,0,0,0,0,NA,NA,NA
+1,0.3,MEK Hussey,B Lee,NA,M Vijay,2,0,2,0,NA,NA,NA
+1,0.4,MEK Hussey,B Lee,NA,M Vijay,1,0,1,0,NA,NA,NA
+1,0.5,M Vijay,B Lee,NA,MEK Hussey,0,0,0,0,NA,NA,NA
+1,0.6,M Vijay,B Lee,NA,MEK Hussey,0,0,0,0,NA,NA,NA
+1,1.1,MEK Hussey,Shakib Al Hasan,NA,M Vijay,0,0,0,0,NA,NA,NA
+1,1.2,MEK Hussey,Shakib Al Hasan,NA,M Vijay,1,0,1,0,NA,NA,NA
+1,1.3,M Vijay,Shakib Al Hasan,NA,MEK Hussey,1,0,1,0,NA,NA,NA
+1,1.4,MEK Hussey,Shakib Al Hasan,NA,M Vijay,0,0,0,0,NA,NA,NA
+1,1.5,MEK Hussey,Shakib Al Hasan,NA,M Vijay,0,0,0,0,NA,NA,NA
+1,1.6,MEK Hussey,Shakib Al Hasan,NA,M Vijay,1,0,1,0,NA,NA,NA
+1,2.1,MEK Hussey,B Lee,NA,M Vijay,0,0,0,0,NA,NA,NA
+1,2.2,MEK Hussey,B Lee,NA,M Vijay,4,0,4,0,NA,NA,NA
+1,2.3,MEK Hussey,B Lee,NA,M Vijay,1,0,1,0,NA,NA,NA
+1,2.4,M Vijay,B Lee,NA,MEK Hussey,1,0,1,0,NA,NA,NA
+1,2.5,MEK Hussey,B Lee,1legbyes,M Vijay,0,1,1,0,NA,NA,NA
+1,2.6,M Vijay,B Lee,NA,MEK Hussey,4,0,4,0,NA,NA,NA
+1,3.1,MEK Hussey,Shakib Al Hasan,NA,M Vijay,6,0,6,0,NA,NA,NA
+1,3.2,MEK Hussey,Shakib Al Hasan,NA,M Vijay,0,0,0,0,NA,NA,NA
+1,3.3,MEK Hussey,Shakib Al Hasan,NA,M Vijay,4,0,4,0,NA,NA,NA
+1,3.4,MEK Hussey,Shakib Al Hasan,NA,M Vijay,2,0,2,0,NA,NA,NA
+1,3.5,MEK Hussey,Shakib Al Hasan,NA,M Vijay,1,0,1,0,NA,NA,NA
+1,3.6,M Vijay,Shakib Al Hasan,NA,MEK Hussey,1,0,1,0,NA,NA,NA
+1,4.1,MEK Hussey,SP Narine,NA,M Vijay,0,0,0,0,NA,NA,NA
+1,4.2,MEK Hussey,SP Narine,NA,M Vijay,1,0,1,0,NA,NA,NA
+1,4.3,M Vijay,SP Narine,NA,MEK Hussey,0,0,0,0,NA,NA,NA
+1,4.4,M Vijay,SP Narine,NA,MEK Hussey,2,0,2,0,NA,NA,NA
+1,4.5,M Vijay,SP Narine,NA,MEK Hussey,0,0,0,0,NA,NA,NA
+1,4.6,M Vijay,SP Narine,NA,MEK Hussey,1,0,1,0,NA,NA,NA
+1,5.1,M Vijay,B Lee,NA,MEK Hussey,6,0,6,0,NA,NA,NA
+1,5.2,M Vijay,B Lee,NA,MEK Hussey,0,0,0,0,NA,NA,NA
+1,5.3,M Vijay,B Lee,1noballs,MEK Hussey,0,1,1,0,NA,NA,NA
+1,5.4,M Vijay,B Lee,NA,MEK Hussey,4,0,4,0,NA,NA,NA
+1,5.5,M Vijay,B Lee,NA,MEK Hussey,1,0,1,0,NA,NA,NA
+1,5.6,MEK Hussey,B Lee,NA,M Vijay,6,0,6,0,NA,NA,NA
+1,5.7,MEK Hussey,B Lee,NA,M Vijay,1,0,1,0,NA,NA,NA
+1,6.1,MEK Hussey,Iqbal Abdulla,NA,M Vijay,0,0,0,0,NA,NA,NA
+1,6.2,MEK Hussey,Iqbal Abdulla,NA,M Vijay,1,0,1,0,NA,NA,NA
+1,6.3,M Vijay,Iqbal Abdulla,NA,MEK Hussey,2,0,2,0,NA,NA,NA
+1,6.4,M Vijay,Iqbal Abdulla,NA,MEK Hussey,4,0,4,0,NA,NA,NA
+1,6.5,M Vijay,Iqbal Abdulla,NA,MEK Hussey,2,0,2,0,NA,NA,NA
+1,6.6,M Vijay,Iqbal Abdulla,NA,MEK Hussey,0,0,0,0,NA,NA,NA
+1,7.1,MEK Hussey,JH Kallis,NA,M Vijay,0,0,0,0,NA,NA,NA
+1,7.2,MEK Hussey,JH Kallis,NA,M Vijay,1,0,1,0,NA,NA,NA
+1,7.3,M Vijay,JH Kallis,NA,MEK Hussey,1,0,1,0,NA,NA,NA
+1,7.4,MEK Hussey,JH Kallis,1wides,M Vijay,0,1,1,0,NA,NA,NA
+1,7.5,MEK Hussey,JH Kallis,NA,M Vijay,1,0,1,0,NA,NA,NA
+1,7.6,M Vijay,JH Kallis,1noballs,MEK Hussey,0,1,1,0,NA,NA,NA
+1,7.7,M Vijay,JH Kallis,NA,MEK Hussey,0,0,0,0,NA,NA,NA
+1,7.8,M Vijay,JH Kallis,NA,MEK Hussey,1,0,1,0,NA,NA,NA
+1,8.1,M Vijay,R Bhatia,NA,MEK Hussey,1,0,1,0,NA,NA,NA
+1,8.2,MEK Hussey,R Bhatia,NA,M Vijay,1,0,1,0,NA,NA,NA
+1,8.3,M Vijay,R Bhatia,NA,MEK Hussey,2,0,2,0,NA,NA,NA
+1,8.4,M Vijay,R Bhatia,NA,MEK Hussey,4,0,4,0,NA,NA,NA
+1,8.5,M Vijay,R Bhatia,NA,MEK Hussey,1,0,1,0,NA,NA,NA
+1,8.6,MEK Hussey,R Bhatia,NA,M Vijay,4,0,4,0,NA,NA,NA
+1,9.1,M Vijay,JH Kallis,NA,MEK Hussey,1,0,1,0,NA,NA,NA
+1,9.2,MEK Hussey,JH Kallis,NA,M Vijay,0,0,0,0,NA,NA,NA
+1,9.3,MEK Hussey,JH Kallis,NA,M Vijay,1,0,1,0,NA,NA,NA
+1,9.4,M Vijay,JH Kallis,NA,MEK Hussey,0,0,0,0,NA,NA,NA
+1,9.5,M Vijay,JH Kallis,NA,MEK Hussey,2,0,2,0,NA,NA,NA
+1,9.6,M Vijay,JH Kallis,NA,MEK Hussey,0,0,0,0,NA,NA,NA
+1,10.1,MEK Hussey,R Bhatia,NA,M Vijay,1,0,1,0,NA,NA,NA
+1,10.2,M Vijay,R Bhatia,NA,MEK Hussey,0,0,0,1,Shakib Al Hasan,caught,M Vijay
+1,10.3,MEK Hussey,R Bhatia,NA,SK Raina,1,0,1,0,NA,NA,NA
+1,10.4,SK Raina,R Bhatia,NA,MEK Hussey,1,0,1,0,NA,NA,NA
+1,10.5,MEK Hussey,R Bhatia,NA,SK Raina,0,0,0,0,NA,NA,NA
+1,10.6,MEK Hussey,R Bhatia,NA,SK Raina,2,0,2,0,NA,NA,NA
+1,11.1,SK Raina,JH Kallis,NA,MEK Hussey,1,0,1,0,NA,NA,NA
+1,11.2,MEK Hussey,JH Kallis,NA,SK Raina,4,0,4,0,NA,NA,NA
+1,11.3,MEK Hussey,JH Kallis,NA,SK Raina,1,0,1,0,NA,NA,NA
+1,11.4,SK Raina,JH Kallis,NA,MEK Hussey,0,0,0,0,NA,NA,NA
+1,11.5,SK Raina,JH Kallis,NA,MEK Hussey,6,0,6,0,NA,NA,NA
+1,11.6,SK Raina,JH Kallis,NA,MEK Hussey,1,0,1,0,NA,NA,NA
+1,12.1,SK Raina,R Bhatia,NA,MEK Hussey,0,0,0,0,NA,NA,NA
+1,12.2,SK Raina,R Bhatia,NA,MEK Hussey,2,0,2,0,NA,NA,NA
+1,12.3,SK Raina,R Bhatia,NA,MEK Hussey,0,0,0,0,NA,NA,NA
+1,12.4,SK Raina,R Bhatia,2legbyes,MEK Hussey,0,2,2,0,NA,NA,NA
+1,12.5,SK Raina,R Bhatia,NA,MEK Hussey,2,0,2,0,NA,NA,NA
+1,12.6,SK Raina,R Bhatia,NA,MEK Hussey,1,0,1,0,NA,NA,NA
+1,13.1,SK Raina,YK Pathan,NA,MEK Hussey,1,0,1,0,NA,NA,NA
+1,13.2,MEK Hussey,YK Pathan,NA,SK Raina,1,0,1,0,NA,NA,NA
+1,13.3,SK Raina,YK Pathan,NA,MEK Hussey,4,0,4,0,NA,NA,NA
+1,13.4,SK Raina,YK Pathan,NA,MEK Hussey,6,0,6,0,NA,NA,NA
+1,13.5,SK Raina,YK Pathan,NA,MEK Hussey,4,0,4,0,NA,NA,NA
+1,13.6,SK Raina,YK Pathan,NA,MEK Hussey,1,0,1,0,NA,NA,NA
+1,14.1,SK Raina,SP Narine,NA,MEK Hussey,1,0,1,0,NA,NA,NA
+1,14.2,MEK Hussey,SP Narine,NA,SK Raina,1,0,1,0,NA,NA,NA
+1,14.3,SK Raina,SP Narine,NA,MEK Hussey,4,0,4,0,NA,NA,NA
+1,14.4,SK Raina,SP Narine,NA,MEK Hussey,1,0,1,0,NA,NA,NA
+1,14.5,MEK Hussey,SP Narine,NA,SK Raina,1,0,1,0,NA,NA,NA
+1,14.6,SK Raina,SP Narine,NA,MEK Hussey,0,0,0,0,NA,NA,NA
+1,15.1,MEK Hussey,B Lee,NA,SK Raina,1,0,1,0,NA,NA,NA
+1,15.2,SK Raina,B Lee,NA,MEK Hussey,6,0,6,0,NA,NA,NA
+1,15.3,SK Raina,B Lee,NA,MEK Hussey,2,0,2,0,NA,NA,NA
+1,15.4,SK Raina,B Lee,NA,MEK Hussey,0,0,0,0,NA,NA,NA
+1,15.5,SK Raina,B Lee,NA,MEK Hussey,0,0,0,0,NA,NA,NA
+1,15.6,SK Raina,B Lee,NA,MEK Hussey,1,0,1,0,NA,NA,NA
+1,16.1,SK Raina,SP Narine,NA,MEK Hussey,1,0,1,0,NA,NA,NA
+1,16.2,MEK Hussey,SP Narine,NA,SK Raina,1,0,1,0,NA,NA,NA
+1,16.3,SK Raina,SP Narine,NA,MEK Hussey,6,0,6,0,NA,NA,NA
+1,16.4,SK Raina,SP Narine,NA,MEK Hussey,2,0,2,0,NA,NA,NA
+1,16.5,SK Raina,SP Narine,NA,MEK Hussey,2,0,2,0,NA,NA,NA
+1,16.6,SK Raina,SP Narine,NA,MEK Hussey,2,0,2,0,NA,NA,NA
+1,17.1,MEK Hussey,JH Kallis,NA,SK Raina,0,0,0,1,NA,bowled,MEK Hussey
+1,17.2,MS Dhoni,JH Kallis,NA,SK Raina,1,0,1,0,NA,NA,NA
+1,17.3,SK Raina,JH Kallis,NA,MS Dhoni,1,0,1,0,NA,NA,NA
+1,17.4,MS Dhoni,JH Kallis,NA,SK Raina,4,0,4,0,NA,NA,NA
+1,17.5,MS Dhoni,JH Kallis,NA,SK Raina,4,0,4,0,NA,NA,NA
+1,17.6,MS Dhoni,JH Kallis,NA,SK Raina,1,0,1,0,NA,NA,NA
+1,18.1,MS Dhoni,SP Narine,NA,SK Raina,0,0,0,0,NA,NA,NA
+1,18.2,MS Dhoni,SP Narine,NA,SK Raina,1,0,1,0,NA,NA,NA
+1,18.3,SK Raina,SP Narine,NA,MS Dhoni,1,0,1,0,NA,NA,NA
+1,18.4,MS Dhoni,SP Narine,NA,SK Raina,1,0,1,0,NA,NA,NA
+1,18.5,SK Raina,SP Narine,NA,MS Dhoni,6,0,6,0,NA,NA,NA
+1,18.6,SK Raina,SP Narine,NA,MS Dhoni,2,0,2,0,NA,NA,NA
+1,19.1,MS Dhoni,Shakib Al Hasan,1wides,SK Raina,0,1,1,0,NA,NA,NA
+1,19.2,MS Dhoni,Shakib Al Hasan,NA,SK Raina,1,0,1,0,NA,NA,NA
+1,19.3,SK Raina,Shakib Al Hasan,NA,MS Dhoni,1,0,1,0,NA,NA,NA
+1,19.4,MS Dhoni,Shakib Al Hasan,NA,SK Raina,1,0,1,0,NA,NA,NA
+1,19.5,SK Raina,Shakib Al Hasan,NA,MS Dhoni,2,0,2,0,NA,NA,NA
+1,19.6,SK Raina,Shakib Al Hasan,NA,MS Dhoni,2,0,2,0,NA,NA,NA
+1,19.7,SK Raina,Shakib Al Hasan,NA,MS Dhoni,0,0,0,1,B Lee,caught,SK Raina
+2,0.1,MS Bisla,BW Hilfenhaus,NA,G Gambhir,0,0,0,0,NA,NA,NA
+2,0.2,MS Bisla,BW Hilfenhaus,NA,G Gambhir,1,0,1,0,NA,NA,NA
+2,0.3,G Gambhir,BW Hilfenhaus,NA,MS Bisla,0,0,0,0,NA,NA,NA
+2,0.4,G Gambhir,BW Hilfenhaus,NA,MS Bisla,0,0,0,0,NA,NA,NA
+2,0.5,G Gambhir,BW Hilfenhaus,NA,MS Bisla,2,0,2,0,NA,NA,NA
+2,0.6,G Gambhir,BW Hilfenhaus,NA,MS Bisla,0,0,0,1,NA,bowled,G Gambhir
+2,1.1,MS Bisla,JA Morkel,NA,JH Kallis,0,0,0,0,NA,NA,NA
+2,1.2,MS Bisla,JA Morkel,NA,JH Kallis,1,0,1,0,NA,NA,NA
+2,1.3,JH Kallis,JA Morkel,NA,MS Bisla,0,0,0,0,NA,NA,NA
+2,1.4,JH Kallis,JA Morkel,NA,MS Bisla,4,0,4,0,NA,NA,NA
+2,1.5,JH Kallis,JA Morkel,NA,MS Bisla,1,0,1,0,NA,NA,NA
+2,1.6,MS Bisla,JA Morkel,NA,JH Kallis,0,0,0,0,NA,NA,NA
+2,2.1,JH Kallis,BW Hilfenhaus,1legbyes,MS Bisla,0,1,1,0,NA,NA,NA
+2,2.2,MS Bisla,BW Hilfenhaus,NA,JH Kallis,4,0,4,0,NA,NA,NA
+2,2.3,MS Bisla,BW Hilfenhaus,NA,JH Kallis,0,0,0,0,NA,NA,NA
+2,2.4,MS Bisla,BW Hilfenhaus,1wides,JH Kallis,0,1,1,0,NA,NA,NA
+2,2.5,MS Bisla,BW Hilfenhaus,NA,JH Kallis,1,0,1,0,NA,NA,NA
+2,2.6,JH Kallis,BW Hilfenhaus,NA,MS Bisla,0,0,0,0,NA,NA,NA
+2,2.7,JH Kallis,BW Hilfenhaus,NA,MS Bisla,0,0,0,0,NA,NA,NA
+2,3.1,MS Bisla,JA Morkel,NA,JH Kallis,4,0,4,0,NA,NA,NA
+2,3.2,MS Bisla,JA Morkel,1wides,JH Kallis,0,1,1,0,NA,NA,NA
+2,3.3,MS Bisla,JA Morkel,1wides,JH Kallis,0,1,1,0,NA,NA,NA
+2,3.4,MS Bisla,JA Morkel,NA,JH Kallis,1,0,1,0,NA,NA,NA
+2,3.5,JH Kallis,JA Morkel,NA,MS Bisla,1,0,1,0,NA,NA,NA
+2,3.6,MS Bisla,JA Morkel,NA,JH Kallis,4,0,4,0,NA,NA,NA
+2,3.7,MS Bisla,JA Morkel,NA,JH Kallis,4,0,4,0,NA,NA,NA
+2,3.8,MS Bisla,JA Morkel,NA,JH Kallis,4,0,4,0,NA,NA,NA
+2,4.1,JH Kallis,BW Hilfenhaus,NA,MS Bisla,1,0,1,0,NA,NA,NA
+2,4.2,MS Bisla,BW Hilfenhaus,NA,JH Kallis,1,0,1,0,NA,NA,NA
+2,4.3,JH Kallis,BW Hilfenhaus,NA,MS Bisla,1,0,1,0,NA,NA,NA
+2,4.4,MS Bisla,BW Hilfenhaus,NA,JH Kallis,1,0,1,0,NA,NA,NA
+2,4.5,JH Kallis,BW Hilfenhaus,NA,MS Bisla,1,0,1,0,NA,NA,NA
+2,4.6,MS Bisla,BW Hilfenhaus,NA,JH Kallis,0,0,0,0,NA,NA,NA
+2,5.1,JH Kallis,R Ashwin,NA,MS Bisla,1,0,1,0,NA,NA,NA
+2,5.2,MS Bisla,R Ashwin,NA,JH Kallis,6,0,6,0,NA,NA,NA
+2,5.3,MS Bisla,R Ashwin,NA,JH Kallis,0,0,0,0,NA,NA,NA
+2,5.4,MS Bisla,R Ashwin,NA,JH Kallis,6,0,6,0,NA,NA,NA
+2,5.5,MS Bisla,R Ashwin,NA,JH Kallis,2,0,2,0,NA,NA,NA
+2,5.6,MS Bisla,R Ashwin,NA,JH Kallis,0,0,0,0,NA,NA,NA
+2,6.1,JH Kallis,DJ Bravo,NA,MS Bisla,0,0,0,0,NA,NA,NA
+2,6.2,JH Kallis,DJ Bravo,NA,MS Bisla,1,0,1,0,NA,NA,NA
+2,6.3,MS Bisla,DJ Bravo,NA,JH Kallis,1,0,1,0,NA,NA,NA
+2,6.4,JH Kallis,DJ Bravo,NA,MS Bisla,1,0,1,0,NA,NA,NA
+2,6.5,MS Bisla,DJ Bravo,NA,JH Kallis,1,0,1,0,NA,NA,NA
+2,6.6,JH Kallis,DJ Bravo,2wides,MS Bisla,0,2,2,0,NA,NA,NA
+2,6.7,MS Bisla,DJ Bravo,1wides,JH Kallis,0,1,1,0,NA,NA,NA
+2,6.8,MS Bisla,DJ Bravo,NA,JH Kallis,6,0,6,0,NA,NA,NA
+2,7.1,JH Kallis,SB Jakati,NA,MS Bisla,4,0,4,0,NA,NA,NA
+2,7.2,JH Kallis,SB Jakati,NA,MS Bisla,1,0,1,0,NA,NA,NA
+2,7.3,MS Bisla,SB Jakati,NA,JH Kallis,1,0,1,0,NA,NA,NA
+2,7.4,JH Kallis,SB Jakati,NA,MS Bisla,1,0,1,0,NA,NA,NA
+2,7.5,MS Bisla,SB Jakati,NA,JH Kallis,0,0,0,0,NA,NA,NA
+2,7.6,MS Bisla,SB Jakati,NA,JH Kallis,1,0,1,0,NA,NA,NA
+2,8.1,MS Bisla,DJ Bravo,NA,JH Kallis,4,0,4,0,NA,NA,NA
+2,8.2,MS Bisla,DJ Bravo,NA,JH Kallis,1,0,1,0,NA,NA,NA
+2,8.3,JH Kallis,DJ Bravo,NA,MS Bisla,1,0,1,0,NA,NA,NA
+2,8.4,MS Bisla,DJ Bravo,NA,JH Kallis,6,0,6,0,NA,NA,NA
+2,8.5,MS Bisla,DJ Bravo,NA,JH Kallis,1,0,1,0,NA,NA,NA
+2,8.6,JH Kallis,DJ Bravo,NA,MS Bisla,1,0,1,0,NA,NA,NA
+2,9.1,JH Kallis,R Ashwin,NA,MS Bisla,4,0,4,0,NA,NA,NA
+2,9.2,JH Kallis,R Ashwin,NA,MS Bisla,2,0,2,0,NA,NA,NA
+2,9.3,JH Kallis,R Ashwin,NA,MS Bisla,0,0,0,0,NA,NA,NA
+2,9.4,JH Kallis,R Ashwin,NA,MS Bisla,1,0,1,0,NA,NA,NA
+2,9.5,MS Bisla,R Ashwin,NA,JH Kallis,2,0,2,0,NA,NA,NA
+2,9.6,MS Bisla,R Ashwin,NA,JH Kallis,0,0,0,0,NA,NA,NA
+2,10.1,JH Kallis,SB Jakati,NA,MS Bisla,1,0,1,0,NA,NA,NA
+2,10.2,MS Bisla,SB Jakati,NA,JH Kallis,4,0,4,0,NA,NA,NA
+2,10.3,MS Bisla,SB Jakati,NA,JH Kallis,4,0,4,0,NA,NA,NA
+2,10.4,MS Bisla,SB Jakati,NA,JH Kallis,1,0,1,0,NA,NA,NA
+2,10.5,JH Kallis,SB Jakati,NA,MS Bisla,1,0,1,0,NA,NA,NA
+2,10.6,MS Bisla,SB Jakati,NA,JH Kallis,0,0,0,0,NA,NA,NA
+2,11.1,JH Kallis,R Ashwin,NA,MS Bisla,0,0,0,0,NA,NA,NA
+2,11.2,JH Kallis,R Ashwin,NA,MS Bisla,1,0,1,0,NA,NA,NA
+2,11.3,MS Bisla,R Ashwin,NA,JH Kallis,1,0,1,0,NA,NA,NA
+2,11.4,JH Kallis,R Ashwin,NA,MS Bisla,1,0,1,0,NA,NA,NA
+2,11.5,MS Bisla,R Ashwin,NA,JH Kallis,6,0,6,0,NA,NA,NA
+2,11.6,MS Bisla,R Ashwin,NA,JH Kallis,1,0,1,0,NA,NA,NA
+2,12.1,MS Bisla,JA Morkel,NA,JH Kallis,2,0,2,0,NA,NA,NA
+2,12.2,MS Bisla,JA Morkel,NA,JH Kallis,2,0,2,0,NA,NA,NA
+2,12.3,MS Bisla,JA Morkel,NA,JH Kallis,1,0,1,0,NA,NA,NA
+2,12.4,JH Kallis,JA Morkel,NA,MS Bisla,1,0,1,0,NA,NA,NA
+2,12.5,MS Bisla,JA Morkel,NA,JH Kallis,1,0,1,0,NA,NA,NA
+2,12.6,JH Kallis,JA Morkel,NA,MS Bisla,1,0,1,0,NA,NA,NA
+2,13.1,JH Kallis,SB Jakati,NA,MS Bisla,0,0,0,0,NA,NA,NA
+2,13.2,JH Kallis,SB Jakati,NA,MS Bisla,4,0,4,0,NA,NA,NA
+2,13.3,JH Kallis,SB Jakati,NA,MS Bisla,2,0,2,0,NA,NA,NA
+2,13.4,JH Kallis,SB Jakati,NA,MS Bisla,1,0,1,0,NA,NA,NA
+2,13.5,MS Bisla,SB Jakati,NA,JH Kallis,0,0,0,0,NA,NA,NA
+2,13.6,MS Bisla,SB Jakati,NA,JH Kallis,1,0,1,0,NA,NA,NA
+2,14.1,MS Bisla,JA Morkel,NA,JH Kallis,1,0,1,0,NA,NA,NA
+2,14.2,JH Kallis,JA Morkel,NA,MS Bisla,0,0,0,0,NA,NA,NA
+2,14.3,JH Kallis,JA Morkel,NA,MS Bisla,1,0,1,0,NA,NA,NA
+2,14.4,MS Bisla,JA Morkel,NA,JH Kallis,0,0,0,1,S Badrinath,caught,MS Bisla
+2,14.5,JH Kallis,JA Morkel,NA,LR Shukla,1,0,1,0,NA,NA,NA
+2,14.6,LR Shukla,JA Morkel,NA,JH Kallis,1,0,1,0,NA,NA,NA
+2,15.1,LR Shukla,SB Jakati,NA,JH Kallis,1,0,1,0,NA,NA,NA
+2,15.2,JH Kallis,SB Jakati,NA,LR Shukla,4,0,4,0,NA,NA,NA
+2,15.3,JH Kallis,SB Jakati,NA,LR Shukla,4,0,4,0,NA,NA,NA
+2,15.4,JH Kallis,SB Jakati,NA,LR Shukla,1,0,1,0,NA,NA,NA
+2,15.5,LR Shukla,SB Jakati,NA,JH Kallis,0,0,0,0,NA,NA,NA
+2,15.6,LR Shukla,SB Jakati,NA,JH Kallis,1,0,1,0,NA,NA,NA
+2,16.1,LR Shukla,DJ Bravo,NA,JH Kallis,0,0,0,0,NA,NA,NA
+2,16.2,LR Shukla,DJ Bravo,NA,JH Kallis,0,0,0,1,MEK Hussey,caught,LR Shukla
+2,16.3,JH Kallis,DJ Bravo,NA,YK Pathan,1,0,1,0,NA,NA,NA
+2,16.4,YK Pathan,DJ Bravo,NA,JH Kallis,1,0,1,0,NA,NA,NA
+2,16.5,JH Kallis,DJ Bravo,NA,YK Pathan,4,0,4,0,NA,NA,NA
+2,16.6,JH Kallis,DJ Bravo,NA,YK Pathan,6,0,6,0,NA,NA,NA
+2,17.1,YK Pathan,R Ashwin,NA,JH Kallis,0,0,0,1,S Badrinath,caught,YK Pathan
+2,17.2,JH Kallis,R Ashwin,NA,Shakib Al Hasan,2,0,2,0,NA,NA,NA
+2,17.3,JH Kallis,R Ashwin,NA,Shakib Al Hasan,2,0,2,0,NA,NA,NA
+2,17.4,JH Kallis,R Ashwin,NA,Shakib Al Hasan,1,0,1,0,NA,NA,NA
+2,17.5,Shakib Al Hasan,R Ashwin,NA,JH Kallis,1,0,1,0,NA,NA,NA
+2,17.6,JH Kallis,R Ashwin,NA,Shakib Al Hasan,1,0,1,0,NA,NA,NA
+2,18.1,JH Kallis,BW Hilfenhaus,NA,Shakib Al Hasan,1,0,1,0,NA,NA,NA
+2,18.2,Shakib Al Hasan,BW Hilfenhaus,NA,JH Kallis,0,0,0,0,NA,NA,NA
+2,18.3,Shakib Al Hasan,BW Hilfenhaus,NA,JH Kallis,2,0,2,0,NA,NA,NA
+2,18.4,Shakib Al Hasan,BW Hilfenhaus,NA,JH Kallis,1,0,1,0,NA,NA,NA
+2,18.5,JH Kallis,BW Hilfenhaus,NA,Shakib Al Hasan,0,0,0,1,RA Jadeja,caught,JH Kallis
+2,18.6,Shakib Al Hasan,BW Hilfenhaus,1noballs,MK Tiwary,2,1,3,0,NA,NA,NA
+2,18.7,Shakib Al Hasan,BW Hilfenhaus,NA,MK Tiwary,4,0,4,0,NA,NA,NA
+2,19.1,MK Tiwary,DJ Bravo,NA,Shakib Al Hasan,1,0,1,0,NA,NA,NA
+2,19.2,Shakib Al Hasan,DJ Bravo,NA,MK Tiwary,1,0,1,0,NA,NA,NA
+2,19.3,MK Tiwary,DJ Bravo,NA,Shakib Al Hasan,4,0,4,0,NA,NA,NA
+2,19.4,MK Tiwary,DJ Bravo,NA,Shakib Al Hasan,4,0,4,0,NA,NA,NA

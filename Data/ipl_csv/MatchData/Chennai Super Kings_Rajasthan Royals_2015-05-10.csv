@@ -1,0 +1,248 @@
+innings,ball,batsman,bowler,extras,non_striker,batsman_run,extras_run,total_run,wicket,fielders,wicket_kind,player_out
+1,0.1,DR Smith,CH Morris,NA,BB McCullum,0,0,0,0,NA,NA,NA
+1,0.2,DR Smith,CH Morris,NA,BB McCullum,0,0,0,0,NA,NA,NA
+1,0.3,DR Smith,CH Morris,NA,BB McCullum,0,0,0,0,NA,NA,NA
+1,0.4,DR Smith,CH Morris,NA,BB McCullum,0,0,0,0,NA,NA,NA
+1,0.5,DR Smith,CH Morris,NA,BB McCullum,1,0,1,0,NA,NA,NA
+1,0.6,BB McCullum,CH Morris,NA,DR Smith,4,0,4,0,NA,NA,NA
+1,1.1,DR Smith,SR Watson,NA,BB McCullum,4,0,4,0,NA,NA,NA
+1,1.2,DR Smith,SR Watson,NA,BB McCullum,0,0,0,0,NA,NA,NA
+1,1.3,DR Smith,SR Watson,NA,BB McCullum,1,0,1,0,NA,NA,NA
+1,1.4,BB McCullum,SR Watson,NA,DR Smith,0,0,0,0,NA,NA,NA
+1,1.5,BB McCullum,SR Watson,NA,DR Smith,1,0,1,0,NA,NA,NA
+1,1.6,DR Smith,SR Watson,NA,BB McCullum,0,0,0,0,NA,NA,NA
+1,2.1,BB McCullum,Ankit Sharma,NA,DR Smith,0,0,0,0,NA,NA,NA
+1,2.2,BB McCullum,Ankit Sharma,NA,DR Smith,0,0,0,0,NA,NA,NA
+1,2.3,BB McCullum,Ankit Sharma,NA,DR Smith,1,0,1,0,NA,NA,NA
+1,2.4,DR Smith,Ankit Sharma,NA,BB McCullum,0,0,0,1,JP Faulkner,caught,DR Smith
+1,2.5,SK Raina,Ankit Sharma,NA,BB McCullum,2,0,2,0,NA,NA,NA
+1,2.6,SK Raina,Ankit Sharma,NA,BB McCullum,1,0,1,0,NA,NA,NA
+1,3.1,SK Raina,CH Morris,NA,BB McCullum,0,0,0,0,NA,NA,NA
+1,3.2,SK Raina,CH Morris,NA,BB McCullum,0,0,0,0,NA,NA,NA
+1,3.3,SK Raina,CH Morris,NA,BB McCullum,0,0,0,0,NA,NA,NA
+1,3.4,SK Raina,CH Morris,NA,BB McCullum,0,0,0,1,JP Faulkner,caught,SK Raina
+1,3.5,F du Plessis,CH Morris,NA,BB McCullum,0,0,0,0,NA,NA,NA
+1,3.6,F du Plessis,CH Morris,1wides,BB McCullum,0,1,1,0,NA,NA,NA
+1,3.7,F du Plessis,CH Morris,NA,BB McCullum,1,0,1,0,NA,NA,NA
+1,4.1,F du Plessis,Ankit Sharma,NA,BB McCullum,0,0,0,0,NA,NA,NA
+1,4.2,F du Plessis,Ankit Sharma,NA,BB McCullum,4,0,4,0,NA,NA,NA
+1,4.3,F du Plessis,Ankit Sharma,NA,BB McCullum,1,0,1,0,NA,NA,NA
+1,4.4,BB McCullum,Ankit Sharma,NA,F du Plessis,0,0,0,0,NA,NA,NA
+1,4.5,BB McCullum,Ankit Sharma,NA,F du Plessis,0,0,0,0,NA,NA,NA
+1,4.6,BB McCullum,Ankit Sharma,NA,F du Plessis,1,0,1,0,NA,NA,NA
+1,5.1,BB McCullum,PV Tambe,NA,F du Plessis,6,0,6,0,NA,NA,NA
+1,5.2,BB McCullum,PV Tambe,NA,F du Plessis,0,0,0,0,NA,NA,NA
+1,5.3,BB McCullum,PV Tambe,NA,F du Plessis,0,0,0,0,NA,NA,NA
+1,5.4,BB McCullum,PV Tambe,NA,F du Plessis,0,0,0,0,NA,NA,NA
+1,5.5,BB McCullum,PV Tambe,NA,F du Plessis,6,0,6,0,NA,NA,NA
+1,5.6,BB McCullum,PV Tambe,NA,F du Plessis,1,0,1,0,NA,NA,NA
+1,6.1,BB McCullum,JP Faulkner,NA,F du Plessis,0,0,0,0,NA,NA,NA
+1,6.2,BB McCullum,JP Faulkner,NA,F du Plessis,1,0,1,0,NA,NA,NA
+1,6.3,F du Plessis,JP Faulkner,NA,BB McCullum,1,0,1,0,NA,NA,NA
+1,6.4,BB McCullum,JP Faulkner,NA,F du Plessis,0,0,0,0,NA,NA,NA
+1,6.5,BB McCullum,JP Faulkner,NA,F du Plessis,4,0,4,0,NA,NA,NA
+1,6.6,BB McCullum,JP Faulkner,NA,F du Plessis,1,0,1,0,NA,NA,NA
+1,7.1,BB McCullum,R Bhatia,NA,F du Plessis,1,0,1,0,NA,NA,NA
+1,7.2,F du Plessis,R Bhatia,NA,BB McCullum,1,0,1,0,NA,NA,NA
+1,7.3,BB McCullum,R Bhatia,NA,F du Plessis,0,0,0,0,NA,NA,NA
+1,7.4,BB McCullum,R Bhatia,NA,F du Plessis,0,0,0,0,NA,NA,NA
+1,7.5,BB McCullum,R Bhatia,NA,F du Plessis,2,0,2,0,NA,NA,NA
+1,7.6,BB McCullum,R Bhatia,NA,F du Plessis,1,0,1,0,NA,NA,NA
+1,8.1,BB McCullum,PV Tambe,NA,F du Plessis,1,0,1,0,NA,NA,NA
+1,8.2,F du Plessis,PV Tambe,NA,BB McCullum,1,0,1,0,NA,NA,NA
+1,8.3,BB McCullum,PV Tambe,NA,F du Plessis,0,0,0,0,NA,NA,NA
+1,8.4,BB McCullum,PV Tambe,NA,F du Plessis,0,0,0,0,NA,NA,NA
+1,8.5,BB McCullum,PV Tambe,NA,F du Plessis,0,0,0,0,NA,NA,NA
+1,8.6,BB McCullum,PV Tambe,NA,F du Plessis,0,0,0,0,NA,NA,NA
+1,9.1,F du Plessis,Ankit Sharma,NA,BB McCullum,1,0,1,0,NA,NA,NA
+1,9.2,BB McCullum,Ankit Sharma,NA,F du Plessis,4,0,4,0,NA,NA,NA
+1,9.3,BB McCullum,Ankit Sharma,NA,F du Plessis,1,0,1,0,NA,NA,NA
+1,9.4,F du Plessis,Ankit Sharma,NA,BB McCullum,3,0,3,0,NA,NA,NA
+1,9.5,BB McCullum,Ankit Sharma,NA,F du Plessis,1,0,1,0,NA,NA,NA
+1,9.6,F du Plessis,Ankit Sharma,NA,BB McCullum,0,0,0,0,NA,NA,NA
+1,10.1,BB McCullum,R Bhatia,1legbyes,F du Plessis,0,1,1,0,NA,NA,NA
+1,10.2,F du Plessis,R Bhatia,NA,BB McCullum,1,0,1,0,NA,NA,NA
+1,10.3,BB McCullum,R Bhatia,NA,F du Plessis,1,0,1,0,NA,NA,NA
+1,10.4,F du Plessis,R Bhatia,NA,BB McCullum,0,0,0,0,NA,NA,NA
+1,10.5,F du Plessis,R Bhatia,NA,BB McCullum,1,0,1,0,NA,NA,NA
+1,10.6,BB McCullum,R Bhatia,NA,F du Plessis,1,0,1,0,NA,NA,NA
+1,11.1,BB McCullum,JP Faulkner,NA,F du Plessis,0,0,0,0,NA,NA,NA
+1,11.2,BB McCullum,JP Faulkner,NA,F du Plessis,0,0,0,0,NA,NA,NA
+1,11.3,BB McCullum,JP Faulkner,NA,F du Plessis,0,0,0,0,NA,NA,NA
+1,11.4,BB McCullum,JP Faulkner,NA,F du Plessis,4,0,4,0,NA,NA,NA
+1,11.5,BB McCullum,JP Faulkner,NA,F du Plessis,4,0,4,0,NA,NA,NA
+1,11.6,BB McCullum,JP Faulkner,NA,F du Plessis,1,0,1,0,NA,NA,NA
+1,12.1,BB McCullum,PV Tambe,NA,F du Plessis,1,0,1,0,NA,NA,NA
+1,12.2,F du Plessis,PV Tambe,NA,BB McCullum,0,0,0,0,NA,NA,NA
+1,12.3,F du Plessis,PV Tambe,NA,BB McCullum,2,0,2,0,NA,NA,NA
+1,12.4,F du Plessis,PV Tambe,NA,BB McCullum,1,0,1,0,NA,NA,NA
+1,12.5,BB McCullum,PV Tambe,NA,F du Plessis,1,0,1,0,NA,NA,NA
+1,12.6,F du Plessis,PV Tambe,NA,BB McCullum,4,0,4,0,NA,NA,NA
+1,13.1,BB McCullum,R Bhatia,NA,F du Plessis,4,0,4,0,NA,NA,NA
+1,13.2,BB McCullum,R Bhatia,NA,F du Plessis,1,0,1,0,NA,NA,NA
+1,13.3,F du Plessis,R Bhatia,NA,BB McCullum,1,0,1,0,NA,NA,NA
+1,13.4,BB McCullum,R Bhatia,NA,F du Plessis,0,0,0,0,NA,NA,NA
+1,13.5,BB McCullum,R Bhatia,NA,F du Plessis,6,0,6,0,NA,NA,NA
+1,13.6,BB McCullum,R Bhatia,NA,F du Plessis,2,0,2,0,NA,NA,NA
+1,14.1,F du Plessis,Ankit Sharma,NA,BB McCullum,0,0,0,0,NA,NA,NA
+1,14.2,F du Plessis,Ankit Sharma,NA,BB McCullum,1,0,1,0,NA,NA,NA
+1,14.3,BB McCullum,Ankit Sharma,5wides,F du Plessis,0,5,5,0,NA,NA,NA
+1,14.4,BB McCullum,Ankit Sharma,NA,F du Plessis,1,0,1,0,NA,NA,NA
+1,14.5,F du Plessis,Ankit Sharma,NA,BB McCullum,4,0,4,0,NA,NA,NA
+1,14.6,F du Plessis,Ankit Sharma,NA,BB McCullum,0,0,0,0,NA,NA,NA
+1,14.7,F du Plessis,Ankit Sharma,NA,BB McCullum,0,0,0,0,NA,NA,NA
+1,15.1,BB McCullum,JP Faulkner,NA,F du Plessis,0,0,0,0,NA,NA,NA
+1,15.2,BB McCullum,JP Faulkner,NA,F du Plessis,1,0,1,0,NA,NA,NA
+1,15.3,F du Plessis,JP Faulkner,NA,BB McCullum,1,0,1,0,NA,NA,NA
+1,15.4,BB McCullum,JP Faulkner,NA,F du Plessis,2,0,2,0,NA,NA,NA
+1,15.5,BB McCullum,JP Faulkner,NA,F du Plessis,2,0,2,0,NA,NA,NA
+1,15.6,BB McCullum,JP Faulkner,NA,F du Plessis,1,0,1,0,NA,NA,NA
+1,16.1,BB McCullum,SR Watson,1wides,F du Plessis,0,1,1,0,NA,NA,NA
+1,16.2,BB McCullum,SR Watson,NA,F du Plessis,0,0,0,0,NA,NA,NA
+1,16.3,BB McCullum,SR Watson,NA,F du Plessis,0,0,0,1,SR Watson,run out,F du Plessis
+1,16.4,BB McCullum,SR Watson,NA,P Negi,4,0,4,0,NA,NA,NA
+1,16.5,BB McCullum,SR Watson,NA,P Negi,1,0,1,0,NA,NA,NA
+1,16.6,P Negi,SR Watson,NA,BB McCullum,1,0,1,0,NA,NA,NA
+1,16.7,BB McCullum,SR Watson,NA,P Negi,6,0,6,0,NA,NA,NA
+1,17.1,P Negi,CH Morris,NA,BB McCullum,1,0,1,0,NA,NA,NA
+1,17.2,BB McCullum,CH Morris,NA,P Negi,0,0,0,1,Ankit Sharma,caught,BB McCullum
+1,17.3,P Negi,CH Morris,NA,MS Dhoni,0,0,0,1,SPD Smith,caught,P Negi
+1,17.4,DJ Bravo,CH Morris,NA,MS Dhoni,1,0,1,0,NA,NA,NA
+1,17.5,MS Dhoni,CH Morris,NA,DJ Bravo,1,0,1,0,NA,NA,NA
+1,17.6,DJ Bravo,CH Morris,NA,MS Dhoni,1,0,1,0,NA,NA,NA
+1,18.1,DJ Bravo,JP Faulkner,NA,MS Dhoni,4,0,4,0,NA,NA,NA
+1,18.2,DJ Bravo,JP Faulkner,NA,MS Dhoni,2,0,2,0,NA,NA,NA
+1,18.3,DJ Bravo,JP Faulkner,NA,MS Dhoni,1,0,1,0,NA,NA,NA
+1,18.4,MS Dhoni,JP Faulkner,NA,DJ Bravo,6,0,6,0,NA,NA,NA
+1,18.5,MS Dhoni,JP Faulkner,NA,DJ Bravo,0,0,0,0,NA,NA,NA
+1,18.6,MS Dhoni,JP Faulkner,NA,DJ Bravo,4,0,4,0,NA,NA,NA
+1,19.1,DJ Bravo,CH Morris,NA,MS Dhoni,4,0,4,0,NA,NA,NA
+1,19.2,DJ Bravo,CH Morris,NA,MS Dhoni,1,0,1,0,NA,NA,NA
+1,19.3,MS Dhoni,CH Morris,NA,DJ Bravo,0,0,0,0,NA,NA,NA
+1,19.4,MS Dhoni,CH Morris,NA,DJ Bravo,1,0,1,0,NA,NA,NA
+1,19.5,DJ Bravo,CH Morris,NA,MS Dhoni,1,0,1,0,NA,NA,NA
+1,19.6,MS Dhoni,CH Morris,NA,DJ Bravo,1,0,1,0,NA,NA,NA
+2,0.1,AM Rahane,A Nehra,NA,SR Watson,0,0,0,0,NA,NA,NA
+2,0.2,AM Rahane,A Nehra,NA,SR Watson,0,0,0,0,NA,NA,NA
+2,0.3,AM Rahane,A Nehra,NA,SR Watson,0,0,0,0,NA,NA,NA
+2,0.4,AM Rahane,A Nehra,NA,SR Watson,0,0,0,0,NA,NA,NA
+2,0.5,AM Rahane,A Nehra,NA,SR Watson,4,0,4,0,NA,NA,NA
+2,0.6,AM Rahane,A Nehra,NA,SR Watson,0,0,0,0,NA,NA,NA
+2,1.1,SR Watson,MM Sharma,NA,AM Rahane,0,0,0,0,NA,NA,NA
+2,1.2,SR Watson,MM Sharma,NA,AM Rahane,0,0,0,0,NA,NA,NA
+2,1.3,SR Watson,MM Sharma,NA,AM Rahane,0,0,0,0,NA,NA,NA
+2,1.4,SR Watson,MM Sharma,NA,AM Rahane,0,0,0,0,NA,NA,NA
+2,1.5,SR Watson,MM Sharma,NA,AM Rahane,0,0,0,0,NA,NA,NA
+2,1.6,SR Watson,MM Sharma,NA,AM Rahane,2,0,2,0,NA,NA,NA
+2,2.1,AM Rahane,A Nehra,NA,SR Watson,0,0,0,0,NA,NA,NA
+2,2.2,AM Rahane,A Nehra,NA,SR Watson,4,0,4,0,NA,NA,NA
+2,2.3,AM Rahane,A Nehra,NA,SR Watson,1,0,1,0,NA,NA,NA
+2,2.4,SR Watson,A Nehra,NA,AM Rahane,0,0,0,0,NA,NA,NA
+2,2.5,SR Watson,A Nehra,NA,AM Rahane,0,0,0,0,NA,NA,NA
+2,2.6,SR Watson,A Nehra,NA,AM Rahane,1,0,1,0,NA,NA,NA
+2,3.1,SR Watson,MM Sharma,NA,AM Rahane,1,0,1,0,NA,NA,NA
+2,3.2,AM Rahane,MM Sharma,NA,SR Watson,4,0,4,0,NA,NA,NA
+2,3.3,AM Rahane,MM Sharma,NA,SR Watson,1,0,1,0,NA,NA,NA
+2,3.4,SR Watson,MM Sharma,NA,AM Rahane,1,0,1,0,NA,NA,NA
+2,3.5,AM Rahane,MM Sharma,NA,SR Watson,0,0,0,0,NA,NA,NA
+2,3.6,AM Rahane,MM Sharma,NA,SR Watson,2,0,2,0,NA,NA,NA
+2,4.1,SR Watson,A Nehra,NA,AM Rahane,0,0,0,0,NA,NA,NA
+2,4.2,SR Watson,A Nehra,NA,AM Rahane,1,0,1,0,NA,NA,NA
+2,4.3,AM Rahane,A Nehra,NA,SR Watson,4,0,4,0,NA,NA,NA
+2,4.4,AM Rahane,A Nehra,NA,SR Watson,1,0,1,0,NA,NA,NA
+2,4.5,SR Watson,A Nehra,NA,AM Rahane,4,0,4,0,NA,NA,NA
+2,4.6,SR Watson,A Nehra,NA,AM Rahane,1,0,1,0,NA,NA,NA
+2,5.1,SR Watson,MM Sharma,NA,AM Rahane,3,0,3,0,NA,NA,NA
+2,5.2,AM Rahane,MM Sharma,NA,SR Watson,2,0,2,0,NA,NA,NA
+2,5.3,AM Rahane,MM Sharma,NA,SR Watson,0,0,0,1,DJ Bravo,caught,AM Rahane
+2,5.4,SR Watson,MM Sharma,NA,SPD Smith,2,0,2,0,NA,NA,NA
+2,5.5,SR Watson,MM Sharma,NA,SPD Smith,1,0,1,0,NA,NA,NA
+2,5.6,SPD Smith,MM Sharma,NA,SR Watson,0,0,0,0,NA,NA,NA
+2,6.1,SR Watson,P Negi,NA,SPD Smith,1,0,1,0,NA,NA,NA
+2,6.2,SPD Smith,P Negi,NA,SR Watson,2,0,2,0,NA,NA,NA
+2,6.3,SPD Smith,P Negi,NA,SR Watson,1,0,1,0,NA,NA,NA
+2,6.4,SR Watson,P Negi,NA,SPD Smith,1,0,1,0,NA,NA,NA
+2,6.5,SPD Smith,P Negi,NA,SR Watson,1,0,1,0,NA,NA,NA
+2,6.6,SR Watson,P Negi,NA,SPD Smith,1,0,1,0,NA,NA,NA
+2,7.1,SR Watson,RA Jadeja,NA,SPD Smith,0,0,0,0,NA,NA,NA
+2,7.2,SR Watson,RA Jadeja,NA,SPD Smith,1,0,1,0,NA,NA,NA
+2,7.3,SPD Smith,RA Jadeja,NA,SR Watson,0,0,0,0,NA,NA,NA
+2,7.4,SPD Smith,RA Jadeja,NA,SR Watson,0,0,0,1,NA,bowled,SPD Smith
+2,7.5,KK Nair,RA Jadeja,NA,SR Watson,0,0,0,0,NA,NA,NA
+2,7.6,KK Nair,RA Jadeja,NA,SR Watson,1,0,1,0,NA,NA,NA
+2,8.1,KK Nair,P Negi,NA,SR Watson,0,0,0,0,NA,NA,NA
+2,8.2,KK Nair,P Negi,NA,SR Watson,4,0,4,0,NA,NA,NA
+2,8.3,KK Nair,P Negi,NA,SR Watson,1,0,1,0,NA,NA,NA
+2,8.4,SR Watson,P Negi,NA,KK Nair,0,0,0,0,NA,NA,NA
+2,8.5,SR Watson,P Negi,NA,KK Nair,4,0,4,0,NA,NA,NA
+2,8.6,SR Watson,P Negi,NA,KK Nair,1,0,1,0,NA,NA,NA
+2,9.1,SR Watson,RA Jadeja,NA,KK Nair,1,0,1,0,NA,NA,NA
+2,9.2,KK Nair,RA Jadeja,NA,SR Watson,1,0,1,0,NA,NA,NA
+2,9.3,SR Watson,RA Jadeja,NA,KK Nair,0,0,0,0,NA,NA,NA
+2,9.4,SR Watson,RA Jadeja,NA,KK Nair,1,0,1,0,NA,NA,NA
+2,9.5,KK Nair,RA Jadeja,NA,SR Watson,1,0,1,0,NA,NA,NA
+2,9.6,SR Watson,RA Jadeja,NA,KK Nair,0,0,0,1,DJ Bravo,caught,SR Watson
+2,10.1,DJ Hooda,P Negi,NA,KK Nair,2,0,2,0,NA,NA,NA
+2,10.2,DJ Hooda,P Negi,NA,KK Nair,1,0,1,0,NA,NA,NA
+2,10.3,KK Nair,P Negi,NA,DJ Hooda,0,0,0,0,NA,NA,NA
+2,10.4,KK Nair,P Negi,NA,DJ Hooda,1,0,1,0,NA,NA,NA
+2,10.5,DJ Hooda,P Negi,NA,KK Nair,0,0,0,0,NA,NA,NA
+2,10.6,DJ Hooda,P Negi,NA,KK Nair,4,0,4,0,NA,NA,NA
+2,11.1,KK Nair,RA Jadeja,NA,DJ Hooda,1,0,1,0,NA,NA,NA
+2,11.2,DJ Hooda,RA Jadeja,1legbyes,KK Nair,0,1,1,0,NA,NA,NA
+2,11.3,KK Nair,RA Jadeja,1legbyes,DJ Hooda,0,1,1,0,NA,NA,NA
+2,11.4,DJ Hooda,RA Jadeja,NA,KK Nair,1,0,1,0,NA,NA,NA
+2,11.5,KK Nair,RA Jadeja,NA,DJ Hooda,0,0,0,1,R Ashwin,caught,KK Nair
+2,11.6,SV Samson,RA Jadeja,NA,DJ Hooda,0,0,0,0,NA,NA,NA
+2,12.1,DJ Hooda,P Negi,NA,SV Samson,2,0,2,0,NA,NA,NA
+2,12.2,DJ Hooda,P Negi,NA,SV Samson,1,0,1,0,NA,NA,NA
+2,12.3,SV Samson,P Negi,NA,DJ Hooda,0,0,0,0,NA,NA,NA
+2,12.4,SV Samson,P Negi,NA,DJ Hooda,4,0,4,0,NA,NA,NA
+2,12.5,SV Samson,P Negi,1wides,DJ Hooda,0,1,1,0,NA,NA,NA
+2,12.6,SV Samson,P Negi,NA,DJ Hooda,1,0,1,0,NA,NA,NA
+2,12.7,DJ Hooda,P Negi,NA,SV Samson,1,0,1,0,NA,NA,NA
+2,13.1,DJ Hooda,DJ Bravo,NA,SV Samson,1,0,1,0,NA,NA,NA
+2,13.2,SV Samson,DJ Bravo,NA,DJ Hooda,1,0,1,0,NA,NA,NA
+2,13.3,DJ Hooda,DJ Bravo,NA,SV Samson,1,0,1,0,NA,NA,NA
+2,13.4,SV Samson,DJ Bravo,NA,DJ Hooda,1,0,1,0,NA,NA,NA
+2,13.5,DJ Hooda,DJ Bravo,NA,SV Samson,0,0,0,0,NA,NA,NA
+2,13.6,DJ Hooda,DJ Bravo,NA,SV Samson,1,0,1,0,NA,NA,NA
+2,14.1,DJ Hooda,RA Jadeja,NA,SV Samson,0,0,0,1,SK Raina,caught,DJ Hooda
+2,14.2,SV Samson,RA Jadeja,NA,JP Faulkner,1,0,1,0,NA,NA,NA
+2,14.3,JP Faulkner,RA Jadeja,NA,SV Samson,0,0,0,0,NA,NA,NA
+2,14.4,JP Faulkner,RA Jadeja,NA,SV Samson,1,0,1,0,NA,NA,NA
+2,14.5,SV Samson,RA Jadeja,NA,JP Faulkner,0,0,0,0,NA,NA,NA
+2,14.6,SV Samson,RA Jadeja,NA,JP Faulkner,1,0,1,0,NA,NA,NA
+2,15.1,SV Samson,DJ Bravo,NA,JP Faulkner,1,0,1,0,NA,NA,NA
+2,15.2,JP Faulkner,DJ Bravo,NA,SV Samson,1,0,1,0,NA,NA,NA
+2,15.3,SV Samson,DJ Bravo,NA,JP Faulkner,6,0,6,0,NA,NA,NA
+2,15.4,SV Samson,DJ Bravo,NA,JP Faulkner,1,0,1,0,NA,NA,NA
+2,15.5,JP Faulkner,DJ Bravo,NA,SV Samson,4,0,4,0,NA,NA,NA
+2,15.6,JP Faulkner,DJ Bravo,NA,SV Samson,1,0,1,0,NA,NA,NA
+2,16.1,JP Faulkner,A Nehra,NA,SV Samson,0,0,0,0,NA,NA,NA
+2,16.2,JP Faulkner,A Nehra,NA,SV Samson,4,0,4,0,NA,NA,NA
+2,16.3,JP Faulkner,A Nehra,NA,SV Samson,1,0,1,0,NA,NA,NA
+2,16.4,SV Samson,A Nehra,NA,JP Faulkner,1,0,1,0,NA,NA,NA
+2,16.5,JP Faulkner,A Nehra,NA,SV Samson,1,0,1,0,NA,NA,NA
+2,16.6,SV Samson,A Nehra,NA,JP Faulkner,1,0,1,0,NA,NA,NA
+2,17.1,SV Samson,DJ Bravo,NA,JP Faulkner,1,0,1,0,NA,NA,NA
+2,17.2,JP Faulkner,DJ Bravo,NA,SV Samson,1,0,1,0,NA,NA,NA
+2,17.3,SV Samson,DJ Bravo,NA,JP Faulkner,6,0,6,0,NA,NA,NA
+2,17.4,SV Samson,DJ Bravo,NA,JP Faulkner,0,0,0,1,DR Smith,caught,SV Samson
+2,17.5,JP Faulkner,DJ Bravo,NA,CH Morris,1,0,1,0,NA,NA,NA
+2,17.6,CH Morris,DJ Bravo,NA,JP Faulkner,1,0,1,0,NA,NA,NA
+2,18.1,CH Morris,MM Sharma,1wides,JP Faulkner,0,1,1,0,NA,NA,NA
+2,18.2,CH Morris,MM Sharma,NA,JP Faulkner,1,0,1,0,NA,NA,NA
+2,18.3,JP Faulkner,MM Sharma,1noballs,CH Morris,1,1,2,0,NA,NA,NA
+2,18.4,CH Morris,MM Sharma,NA,JP Faulkner,1,0,1,0,NA,NA,NA
+2,18.5,JP Faulkner,MM Sharma,NA,CH Morris,0,0,0,1,DJ Bravo,caught,JP Faulkner
+2,18.6,R Bhatia,MM Sharma,NA,CH Morris,0,0,0,1,F du Plessis,caught,R Bhatia
+2,18.7,CH Morris,MM Sharma,NA,Ankit Sharma,0,0,0,0,NA,NA,NA
+2,18.8,CH Morris,MM Sharma,NA,Ankit Sharma,1,0,1,0,NA,NA,NA
+2,19.1,CH Morris,DJ Bravo,1noballs,Ankit Sharma,6,1,7,0,NA,NA,NA
+2,19.2,CH Morris,DJ Bravo,NA,Ankit Sharma,2,0,2,0,NA,NA,NA
+2,19.3,CH Morris,DJ Bravo,NA,Ankit Sharma,2,0,2,0,NA,NA,NA
+2,19.4,CH Morris,DJ Bravo,NA,Ankit Sharma,1,0,1,0,NA,NA,NA
+2,19.5,Ankit Sharma,DJ Bravo,NA,CH Morris,0,0,0,1,A Nehra,caught,Ankit Sharma
+2,19.6,PV Tambe,DJ Bravo,NA,CH Morris,1,0,1,0,NA,NA,NA
+2,19.7,CH Morris,DJ Bravo,NA,PV Tambe,1,0,1,0,NA,NA,NA

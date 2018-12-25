@@ -1,0 +1,245 @@
+innings,ball,batsman,bowler,extras,non_striker,batsman_run,extras_run,total_run,wicket,fielders,wicket_kind,player_out
+1,0.1,RV Uthappa,L Balaji,NA,AJ Finch,0,0,0,0,NA,NA,NA
+1,0.2,RV Uthappa,L Balaji,NA,AJ Finch,0,0,0,0,NA,NA,NA
+1,0.3,RV Uthappa,L Balaji,NA,AJ Finch,4,0,4,0,NA,NA,NA
+1,0.4,RV Uthappa,L Balaji,NA,AJ Finch,0,0,0,0,NA,NA,NA
+1,0.5,RV Uthappa,L Balaji,NA,AJ Finch,2,0,2,0,NA,NA,NA
+1,0.6,RV Uthappa,L Balaji,NA,AJ Finch,0,0,0,0,NA,NA,NA
+1,1.1,AJ Finch,SMSM Senanayake,NA,RV Uthappa,1,0,1,0,NA,NA,NA
+1,1.2,RV Uthappa,SMSM Senanayake,NA,AJ Finch,1,0,1,0,NA,NA,NA
+1,1.3,AJ Finch,SMSM Senanayake,NA,RV Uthappa,4,0,4,0,NA,NA,NA
+1,1.4,AJ Finch,SMSM Senanayake,NA,RV Uthappa,0,0,0,0,NA,NA,NA
+1,1.5,AJ Finch,SMSM Senanayake,NA,RV Uthappa,3,0,3,0,NA,NA,NA
+1,1.6,RV Uthappa,SMSM Senanayake,NA,AJ Finch,1,0,1,0,NA,NA,NA
+1,2.1,RV Uthappa,L Balaji,NA,AJ Finch,0,0,0,0,NA,NA,NA
+1,2.2,RV Uthappa,L Balaji,NA,AJ Finch,6,0,6,0,NA,NA,NA
+1,2.3,RV Uthappa,L Balaji,NA,AJ Finch,1,0,1,0,NA,NA,NA
+1,2.4,AJ Finch,L Balaji,NA,RV Uthappa,0,0,0,0,NA,NA,NA
+1,2.5,AJ Finch,L Balaji,NA,RV Uthappa,1,0,1,0,NA,NA,NA
+1,2.6,RV Uthappa,L Balaji,NA,AJ Finch,6,0,6,0,NA,NA,NA
+1,3.1,AJ Finch,SMSM Senanayake,NA,RV Uthappa,0,0,0,0,NA,NA,NA
+1,3.2,AJ Finch,SMSM Senanayake,NA,RV Uthappa,1,0,1,0,NA,NA,NA
+1,3.3,RV Uthappa,SMSM Senanayake,NA,AJ Finch,1,0,1,0,NA,NA,NA
+1,3.4,AJ Finch,SMSM Senanayake,NA,RV Uthappa,0,0,0,0,NA,NA,NA
+1,3.5,AJ Finch,SMSM Senanayake,NA,RV Uthappa,1,0,1,0,NA,NA,NA
+1,3.6,RV Uthappa,SMSM Senanayake,NA,AJ Finch,1,0,1,0,NA,NA,NA
+1,4.1,RV Uthappa,SP Narine,NA,AJ Finch,0,0,0,0,NA,NA,NA
+1,4.2,RV Uthappa,SP Narine,NA,AJ Finch,0,0,0,0,NA,NA,NA
+1,4.3,RV Uthappa,SP Narine,NA,AJ Finch,0,0,0,0,NA,NA,NA
+1,4.4,RV Uthappa,SP Narine,NA,AJ Finch,0,0,0,0,NA,NA,NA
+1,4.5,RV Uthappa,SP Narine,NA,AJ Finch,1,0,1,0,NA,NA,NA
+1,4.6,AJ Finch,SP Narine,NA,RV Uthappa,4,0,4,0,NA,NA,NA
+1,5.1,RV Uthappa,SMSM Senanayake,NA,AJ Finch,1,0,1,0,NA,NA,NA
+1,5.2,AJ Finch,SMSM Senanayake,NA,RV Uthappa,0,0,0,0,NA,NA,NA
+1,5.3,AJ Finch,SMSM Senanayake,NA,RV Uthappa,1,0,1,0,NA,NA,NA
+1,5.4,RV Uthappa,SMSM Senanayake,NA,AJ Finch,0,0,0,1,NA,bowled,RV Uthappa
+1,5.5,MK Pandey,SMSM Senanayake,NA,AJ Finch,0,0,0,0,NA,NA,NA
+1,5.6,MK Pandey,SMSM Senanayake,NA,AJ Finch,1,0,1,0,NA,NA,NA
+1,6.1,MK Pandey,JH Kallis,NA,AJ Finch,0,0,0,0,NA,NA,NA
+1,6.2,MK Pandey,JH Kallis,NA,AJ Finch,1,0,1,0,NA,NA,NA
+1,6.3,AJ Finch,JH Kallis,NA,MK Pandey,1,0,1,0,NA,NA,NA
+1,6.4,MK Pandey,JH Kallis,NA,AJ Finch,0,0,0,0,NA,NA,NA
+1,6.5,MK Pandey,JH Kallis,NA,AJ Finch,0,0,0,0,NA,NA,NA
+1,6.6,MK Pandey,JH Kallis,NA,AJ Finch,1,0,1,0,NA,NA,NA
+1,7.1,MK Pandey,R Bhatia,NA,AJ Finch,0,0,0,0,NA,NA,NA
+1,7.2,MK Pandey,R Bhatia,NA,AJ Finch,1,0,1,0,NA,NA,NA
+1,7.3,AJ Finch,R Bhatia,NA,MK Pandey,2,0,2,0,NA,NA,NA
+1,7.4,AJ Finch,R Bhatia,NA,MK Pandey,0,0,0,0,NA,NA,NA
+1,7.5,AJ Finch,R Bhatia,NA,MK Pandey,0,0,0,0,NA,NA,NA
+1,7.6,AJ Finch,R Bhatia,NA,MK Pandey,2,0,2,0,NA,NA,NA
+1,8.1,MK Pandey,RN ten Doeschate,NA,AJ Finch,1,0,1,0,NA,NA,NA
+1,8.2,AJ Finch,RN ten Doeschate,NA,MK Pandey,1,0,1,0,NA,NA,NA
+1,8.3,MK Pandey,RN ten Doeschate,NA,AJ Finch,1,0,1,0,NA,NA,NA
+1,8.4,AJ Finch,RN ten Doeschate,NA,MK Pandey,1,0,1,0,NA,NA,NA
+1,8.5,MK Pandey,RN ten Doeschate,NA,AJ Finch,2,0,2,0,NA,NA,NA
+1,8.6,MK Pandey,RN ten Doeschate,NA,AJ Finch,1,0,1,0,NA,NA,NA
+1,9.1,MK Pandey,JH Kallis,NA,AJ Finch,1,0,1,0,NA,NA,NA
+1,9.2,AJ Finch,JH Kallis,NA,MK Pandey,0,0,0,0,NA,NA,NA
+1,9.3,AJ Finch,JH Kallis,NA,MK Pandey,1,0,1,0,NA,NA,NA
+1,9.4,MK Pandey,JH Kallis,NA,AJ Finch,1,0,1,0,NA,NA,NA
+1,9.5,AJ Finch,JH Kallis,NA,MK Pandey,6,0,6,0,NA,NA,NA
+1,9.6,AJ Finch,JH Kallis,NA,MK Pandey,6,0,6,0,NA,NA,NA
+1,10.1,MK Pandey,R Bhatia,NA,AJ Finch,1,0,1,0,NA,NA,NA
+1,10.2,AJ Finch,R Bhatia,NA,MK Pandey,2,0,2,0,NA,NA,NA
+1,10.3,AJ Finch,R Bhatia,NA,MK Pandey,6,0,6,0,NA,NA,NA
+1,10.4,AJ Finch,R Bhatia,NA,MK Pandey,1,0,1,0,NA,NA,NA
+1,10.5,MK Pandey,R Bhatia,NA,AJ Finch,6,0,6,0,NA,NA,NA
+1,10.6,MK Pandey,R Bhatia,NA,AJ Finch,1,0,1,0,NA,NA,NA
+1,11.1,MK Pandey,SMSM Senanayake,NA,AJ Finch,1,0,1,0,NA,NA,NA
+1,11.2,AJ Finch,SMSM Senanayake,NA,MK Pandey,1,0,1,0,NA,NA,NA
+1,11.3,MK Pandey,SMSM Senanayake,NA,AJ Finch,1,0,1,0,NA,NA,NA
+1,11.4,AJ Finch,SMSM Senanayake,NA,MK Pandey,1,0,1,0,NA,NA,NA
+1,11.5,MK Pandey,SMSM Senanayake,NA,AJ Finch,1,0,1,0,NA,NA,NA
+1,11.6,AJ Finch,SMSM Senanayake,NA,MK Pandey,0,0,0,0,NA,NA,NA
+1,12.1,MK Pandey,L Balaji,NA,AJ Finch,0,0,0,0,NA,NA,NA
+1,12.2,MK Pandey,L Balaji,NA,AJ Finch,1,0,1,0,NA,NA,NA
+1,12.3,AJ Finch,L Balaji,NA,MK Pandey,1,0,1,0,NA,NA,NA
+1,12.4,MK Pandey,L Balaji,NA,AJ Finch,1,0,1,0,NA,NA,NA
+1,12.5,AJ Finch,L Balaji,NA,MK Pandey,0,0,0,1,NA,bowled,AJ Finch
+1,12.6,Yuvraj Singh,L Balaji,NA,MK Pandey,0,0,0,0,NA,NA,NA
+1,13.1,MK Pandey,SP Narine,NA,Yuvraj Singh,0,0,0,0,NA,NA,NA
+1,13.2,MK Pandey,SP Narine,NA,Yuvraj Singh,1,0,1,0,NA,NA,NA
+1,13.3,Yuvraj Singh,SP Narine,NA,MK Pandey,0,0,0,0,NA,NA,NA
+1,13.4,Yuvraj Singh,SP Narine,NA,MK Pandey,0,0,0,0,NA,NA,NA
+1,13.5,Yuvraj Singh,SP Narine,NA,MK Pandey,0,0,0,0,NA,NA,NA
+1,13.6,Yuvraj Singh,SP Narine,NA,MK Pandey,0,0,0,0,NA,NA,NA
+1,14.1,MK Pandey,JH Kallis,NA,Yuvraj Singh,0,0,0,0,NA,NA,NA
+1,14.2,MK Pandey,JH Kallis,1wides,Yuvraj Singh,0,1,1,0,NA,NA,NA
+1,14.3,MK Pandey,JH Kallis,NA,Yuvraj Singh,0,0,0,0,NA,NA,NA
+1,14.4,MK Pandey,JH Kallis,NA,Yuvraj Singh,4,0,4,0,NA,NA,NA
+1,14.5,MK Pandey,JH Kallis,NA,Yuvraj Singh,4,0,4,0,NA,NA,NA
+1,14.6,MK Pandey,JH Kallis,NA,Yuvraj Singh,4,0,4,0,NA,NA,NA
+1,14.7,MK Pandey,JH Kallis,NA,Yuvraj Singh,1,0,1,0,NA,NA,NA
+1,15.1,MK Pandey,R Bhatia,NA,Yuvraj Singh,1,0,1,0,NA,NA,NA
+1,15.2,Yuvraj Singh,R Bhatia,NA,MK Pandey,1,0,1,0,NA,NA,NA
+1,15.3,MK Pandey,R Bhatia,NA,Yuvraj Singh,0,0,0,0,NA,NA,NA
+1,15.4,MK Pandey,R Bhatia,NA,Yuvraj Singh,1,0,1,0,NA,NA,NA
+1,15.5,Yuvraj Singh,R Bhatia,NA,MK Pandey,1,0,1,0,NA,NA,NA
+1,15.6,MK Pandey,R Bhatia,NA,Yuvraj Singh,0,0,0,0,NA,NA,NA
+1,16.1,Yuvraj Singh,SP Narine,NA,MK Pandey,0,0,0,0,NA,NA,NA
+1,16.2,Yuvraj Singh,SP Narine,NA,MK Pandey,1,0,1,0,NA,NA,NA
+1,16.3,MK Pandey,SP Narine,NA,Yuvraj Singh,1,0,1,0,NA,NA,NA
+1,16.4,Yuvraj Singh,SP Narine,NA,MK Pandey,6,0,6,0,NA,NA,NA
+1,16.5,Yuvraj Singh,SP Narine,NA,MK Pandey,0,0,0,0,NA,NA,NA
+1,16.6,Yuvraj Singh,SP Narine,NA,MK Pandey,1,0,1,0,NA,NA,NA
+1,17.1,Yuvraj Singh,L Balaji,NA,MK Pandey,1,0,1,0,NA,NA,NA
+1,17.2,MK Pandey,L Balaji,NA,Yuvraj Singh,4,0,4,0,NA,NA,NA
+1,17.3,MK Pandey,L Balaji,NA,Yuvraj Singh,2,0,2,0,NA,NA,NA
+1,17.4,MK Pandey,L Balaji,NA,Yuvraj Singh,4,0,4,0,NA,NA,NA
+1,17.5,MK Pandey,L Balaji,NA,Yuvraj Singh,1,0,1,0,NA,NA,NA
+1,17.6,Yuvraj Singh,L Balaji,NA,MK Pandey,6,0,6,0,NA,NA,NA
+1,18.1,MK Pandey,SP Narine,NA,Yuvraj Singh,4,0,4,0,NA,NA,NA
+1,18.2,MK Pandey,SP Narine,NA,Yuvraj Singh,1,0,1,0,NA,NA,NA
+1,18.3,Yuvraj Singh,SP Narine,NA,MK Pandey,2,0,2,0,NA,NA,NA
+1,18.4,Yuvraj Singh,SP Narine,NA,MK Pandey,1,0,1,0,NA,NA,NA
+1,18.5,MK Pandey,SP Narine,NA,Yuvraj Singh,1,0,1,0,NA,NA,NA
+1,18.6,Yuvraj Singh,SP Narine,NA,MK Pandey,2,0,2,0,NA,NA,NA
+1,19.1,MK Pandey,JH Kallis,NA,Yuvraj Singh,4,0,4,0,NA,NA,NA
+1,19.2,MK Pandey,JH Kallis,NA,Yuvraj Singh,4,0,4,0,NA,NA,NA
+1,19.3,MK Pandey,JH Kallis,NA,Yuvraj Singh,0,0,0,1,MS Bisla,run out,MK Pandey
+1,19.4,Yuvraj Singh,JH Kallis,NA,LJ Wright,6,0,6,0,NA,NA,NA
+1,19.5,Yuvraj Singh,JH Kallis,NA,LJ Wright,2,0,2,0,NA,NA,NA
+1,19.6,Yuvraj Singh,JH Kallis,NA,LJ Wright,0,0,0,1,RN ten Doeschate,caught,Yuvraj Singh
+2,0.1,G Gambhir,B Kumar,1legbyes,MS Bisla,0,1,1,0,NA,NA,NA
+2,0.2,MS Bisla,B Kumar,NA,G Gambhir,1,0,1,0,NA,NA,NA
+2,0.3,G Gambhir,B Kumar,NA,MS Bisla,0,0,0,0,NA,NA,NA
+2,0.4,G Gambhir,B Kumar,5wides,MS Bisla,0,5,5,0,NA,NA,NA
+2,0.5,G Gambhir,B Kumar,NA,MS Bisla,0,0,0,0,NA,NA,NA
+2,0.6,G Gambhir,B Kumar,NA,MS Bisla,3,0,3,0,NA,NA,NA
+2,0.7,MS Bisla,B Kumar,NA,G Gambhir,0,0,0,0,NA,NA,NA
+2,1.1,G Gambhir,WD Parnell,NA,MS Bisla,0,0,0,0,NA,NA,NA
+2,1.2,G Gambhir,WD Parnell,NA,MS Bisla,1,0,1,0,NA,NA,NA
+2,1.3,MS Bisla,WD Parnell,5wides,G Gambhir,0,5,5,0,NA,NA,NA
+2,1.4,MS Bisla,WD Parnell,NA,G Gambhir,0,0,0,0,NA,NA,NA
+2,1.5,MS Bisla,WD Parnell,1wides,G Gambhir,0,1,1,0,NA,NA,NA
+2,1.6,MS Bisla,WD Parnell,NA,G Gambhir,0,0,0,1,NA,lbw,MS Bisla
+2,1.7,JH Kallis,WD Parnell,NA,G Gambhir,1,0,1,0,NA,NA,NA
+2,1.8,G Gambhir,WD Parnell,NA,JH Kallis,1,0,1,0,NA,NA,NA
+2,2.1,G Gambhir,B Kumar,NA,JH Kallis,0,0,0,0,NA,NA,NA
+2,2.2,G Gambhir,B Kumar,NA,JH Kallis,1,0,1,0,NA,NA,NA
+2,2.3,JH Kallis,B Kumar,NA,G Gambhir,0,0,0,0,NA,NA,NA
+2,2.4,JH Kallis,B Kumar,NA,G Gambhir,0,0,0,0,NA,NA,NA
+2,2.5,JH Kallis,B Kumar,3legbyes,G Gambhir,0,3,3,0,NA,NA,NA
+2,2.6,G Gambhir,B Kumar,NA,JH Kallis,1,0,1,0,NA,NA,NA
+2,3.1,G Gambhir,WD Parnell,NA,JH Kallis,0,0,0,0,NA,NA,NA
+2,3.2,G Gambhir,WD Parnell,NA,JH Kallis,0,0,0,0,NA,NA,NA
+2,3.3,G Gambhir,WD Parnell,NA,JH Kallis,1,0,1,0,NA,NA,NA
+2,3.4,JH Kallis,WD Parnell,NA,G Gambhir,0,0,0,0,NA,NA,NA
+2,3.5,JH Kallis,WD Parnell,NA,G Gambhir,0,0,0,0,NA,NA,NA
+2,3.6,JH Kallis,WD Parnell,NA,G Gambhir,0,0,0,1,NA,bowled,JH Kallis
+2,4.1,G Gambhir,IC Pandey,NA,YK Pathan,4,0,4,0,NA,NA,NA
+2,4.2,G Gambhir,IC Pandey,NA,YK Pathan,0,0,0,0,NA,NA,NA
+2,4.3,G Gambhir,IC Pandey,NA,YK Pathan,0,0,0,0,NA,NA,NA
+2,4.4,G Gambhir,IC Pandey,NA,YK Pathan,0,0,0,1,Yuvraj Singh,caught,G Gambhir
+2,4.5,YK Pathan,IC Pandey,NA,RN ten Doeschate,1,0,1,0,NA,NA,NA
+2,4.6,RN ten Doeschate,IC Pandey,NA,YK Pathan,0,0,0,0,NA,NA,NA
+2,5.1,YK Pathan,AD Mathews,NA,RN ten Doeschate,0,0,0,0,NA,NA,NA
+2,5.2,YK Pathan,AD Mathews,NA,RN ten Doeschate,1,0,1,0,NA,NA,NA
+2,5.3,RN ten Doeschate,AD Mathews,NA,YK Pathan,0,0,0,0,NA,NA,NA
+2,5.4,RN ten Doeschate,AD Mathews,NA,YK Pathan,0,0,0,0,NA,NA,NA
+2,5.5,RN ten Doeschate,AD Mathews,NA,YK Pathan,1,0,1,0,NA,NA,NA
+2,5.6,YK Pathan,AD Mathews,NA,RN ten Doeschate,1,0,1,0,NA,NA,NA
+2,6.1,YK Pathan,IC Pandey,NA,RN ten Doeschate,4,0,4,0,NA,NA,NA
+2,6.2,YK Pathan,IC Pandey,NA,RN ten Doeschate,1,0,1,0,NA,NA,NA
+2,6.3,RN ten Doeschate,IC Pandey,NA,YK Pathan,1,0,1,0,NA,NA,NA
+2,6.4,YK Pathan,IC Pandey,NA,RN ten Doeschate,4,0,4,0,NA,NA,NA
+2,6.5,YK Pathan,IC Pandey,NA,RN ten Doeschate,2,0,2,0,NA,NA,NA
+2,6.6,YK Pathan,IC Pandey,NA,RN ten Doeschate,0,0,0,0,NA,NA,NA
+2,7.1,RN ten Doeschate,AG Murtaza,NA,YK Pathan,4,0,4,0,NA,NA,NA
+2,7.2,RN ten Doeschate,AG Murtaza,NA,YK Pathan,1,0,1,0,NA,NA,NA
+2,7.3,YK Pathan,AG Murtaza,NA,RN ten Doeschate,1,0,1,0,NA,NA,NA
+2,7.4,RN ten Doeschate,AG Murtaza,NA,YK Pathan,1,0,1,0,NA,NA,NA
+2,7.5,YK Pathan,AG Murtaza,NA,RN ten Doeschate,1,0,1,0,NA,NA,NA
+2,7.6,RN ten Doeschate,AG Murtaza,NA,YK Pathan,1,0,1,0,NA,NA,NA
+2,8.1,RN ten Doeschate,AD Mathews,NA,YK Pathan,1,0,1,0,NA,NA,NA
+2,8.2,YK Pathan,AD Mathews,NA,RN ten Doeschate,1,0,1,0,NA,NA,NA
+2,8.3,RN ten Doeschate,AD Mathews,NA,YK Pathan,1,0,1,0,NA,NA,NA
+2,8.4,YK Pathan,AD Mathews,NA,RN ten Doeschate,4,0,4,0,NA,NA,NA
+2,8.5,YK Pathan,AD Mathews,NA,RN ten Doeschate,1,0,1,0,NA,NA,NA
+2,8.6,RN ten Doeschate,AD Mathews,NA,YK Pathan,4,0,4,0,NA,NA,NA
+2,9.1,YK Pathan,AG Murtaza,NA,RN ten Doeschate,1,0,1,0,NA,NA,NA
+2,9.2,RN ten Doeschate,AG Murtaza,NA,YK Pathan,0,0,0,0,NA,NA,NA
+2,9.3,RN ten Doeschate,AG Murtaza,NA,YK Pathan,6,0,6,0,NA,NA,NA
+2,9.4,RN ten Doeschate,AG Murtaza,NA,YK Pathan,1,0,1,0,NA,NA,NA
+2,9.5,YK Pathan,AG Murtaza,NA,RN ten Doeschate,0,0,0,0,NA,NA,NA
+2,9.6,YK Pathan,AG Murtaza,NA,RN ten Doeschate,0,0,0,0,NA,NA,NA
+2,10.1,RN ten Doeschate,Yuvraj Singh,NA,YK Pathan,1,0,1,0,NA,NA,NA
+2,10.2,YK Pathan,Yuvraj Singh,NA,RN ten Doeschate,2,0,2,0,NA,NA,NA
+2,10.3,YK Pathan,Yuvraj Singh,NA,RN ten Doeschate,6,0,6,0,NA,NA,NA
+2,10.4,YK Pathan,Yuvraj Singh,NA,RN ten Doeschate,1,0,1,0,NA,NA,NA
+2,10.5,RN ten Doeschate,Yuvraj Singh,NA,YK Pathan,1,0,1,0,NA,NA,NA
+2,10.6,YK Pathan,Yuvraj Singh,NA,RN ten Doeschate,0,0,0,0,NA,NA,NA
+2,11.1,RN ten Doeschate,LJ Wright,NA,YK Pathan,1,0,1,0,NA,NA,NA
+2,11.2,YK Pathan,LJ Wright,NA,RN ten Doeschate,1,0,1,0,NA,NA,NA
+2,11.3,RN ten Doeschate,LJ Wright,NA,YK Pathan,2,0,2,0,NA,NA,NA
+2,11.4,RN ten Doeschate,LJ Wright,NA,YK Pathan,1,0,1,0,NA,NA,NA
+2,11.5,YK Pathan,LJ Wright,NA,RN ten Doeschate,0,0,0,0,NA,NA,NA
+2,11.6,YK Pathan,LJ Wright,NA,RN ten Doeschate,6,0,6,0,NA,NA,NA
+2,12.1,RN ten Doeschate,AG Murtaza,NA,YK Pathan,4,0,4,0,NA,NA,NA
+2,12.2,RN ten Doeschate,AG Murtaza,NA,YK Pathan,1,0,1,0,NA,NA,NA
+2,12.3,YK Pathan,AG Murtaza,NA,RN ten Doeschate,1,0,1,0,NA,NA,NA
+2,12.4,RN ten Doeschate,AG Murtaza,NA,YK Pathan,1,0,1,0,NA,NA,NA
+2,12.5,YK Pathan,AG Murtaza,NA,RN ten Doeschate,1,0,1,0,NA,NA,NA
+2,12.6,RN ten Doeschate,AG Murtaza,NA,YK Pathan,1,0,1,0,NA,NA,NA
+2,13.1,RN ten Doeschate,WD Parnell,NA,YK Pathan,1,0,1,0,NA,NA,NA
+2,13.2,YK Pathan,WD Parnell,NA,RN ten Doeschate,0,0,0,0,NA,NA,NA
+2,13.3,YK Pathan,WD Parnell,NA,RN ten Doeschate,4,0,4,0,NA,NA,NA
+2,13.4,YK Pathan,WD Parnell,NA,RN ten Doeschate,4,0,4,0,NA,NA,NA
+2,13.5,YK Pathan,WD Parnell,NA,RN ten Doeschate,0,0,0,0,NA,NA,NA
+2,13.6,YK Pathan,WD Parnell,NA,RN ten Doeschate,0,0,0,0,NA,NA,NA
+2,14.1,RN ten Doeschate,AG Murtaza,NA,YK Pathan,1,0,1,0,NA,NA,NA
+2,14.2,YK Pathan,AG Murtaza,NA,RN ten Doeschate,1,0,1,0,NA,NA,NA
+2,14.3,RN ten Doeschate,AG Murtaza,NA,YK Pathan,0,0,0,0,NA,NA,NA
+2,14.4,RN ten Doeschate,AG Murtaza,NA,YK Pathan,1,0,1,0,NA,NA,NA
+2,14.5,YK Pathan,AG Murtaza,NA,RN ten Doeschate,1,0,1,0,NA,NA,NA
+2,14.6,RN ten Doeschate,AG Murtaza,NA,YK Pathan,4,0,4,0,NA,NA,NA
+2,15.1,YK Pathan,RV Gomez,NA,RN ten Doeschate,0,0,0,0,NA,NA,NA
+2,15.2,YK Pathan,RV Gomez,NA,RN ten Doeschate,0,0,0,0,NA,NA,NA
+2,15.3,YK Pathan,RV Gomez,NA,RN ten Doeschate,4,0,4,0,NA,NA,NA
+2,15.4,YK Pathan,RV Gomez,NA,RN ten Doeschate,1,0,1,0,NA,NA,NA
+2,15.5,RN ten Doeschate,RV Gomez,NA,YK Pathan,0,0,0,1,AG Murtaza,run out,RN ten Doeschate
+2,15.6,MK Tiwary,RV Gomez,NA,YK Pathan,0,0,0,0,NA,NA,NA
+2,16.1,YK Pathan,B Kumar,NA,MK Tiwary,1,0,1,0,NA,NA,NA
+2,16.2,MK Tiwary,B Kumar,NA,YK Pathan,0,0,0,1,MK Pandey,caught,MK Tiwary
+2,16.3,DB Das,B Kumar,NA,YK Pathan,4,0,4,0,NA,NA,NA
+2,16.4,DB Das,B Kumar,NA,YK Pathan,0,0,0,0,NA,NA,NA
+2,16.5,DB Das,B Kumar,NA,YK Pathan,1,0,1,0,NA,NA,NA
+2,16.6,YK Pathan,B Kumar,NA,DB Das,1,0,1,0,NA,NA,NA
+2,17.1,YK Pathan,WD Parnell,NA,DB Das,4,0,4,0,NA,NA,NA
+2,17.2,YK Pathan,WD Parnell,NA,DB Das,6,0,6,0,NA,NA,NA
+2,17.3,YK Pathan,WD Parnell,NA,DB Das,4,0,4,0,NA,NA,NA
+2,17.4,YK Pathan,WD Parnell,NA,DB Das,0,0,0,0,NA,NA,NA
+2,17.5,YK Pathan,WD Parnell,NA,DB Das,0,0,0,1,NA,obstructing the field,YK Pathan
+2,17.6,DB Das,WD Parnell,NA,R Bhatia,1,0,1,0,NA,NA,NA
+2,18.1,DB Das,B Kumar,NA,R Bhatia,1,0,1,0,NA,NA,NA
+2,18.2,R Bhatia,B Kumar,NA,DB Das,0,0,0,0,NA,NA,NA
+2,18.3,R Bhatia,B Kumar,NA,DB Das,0,0,0,0,NA,NA,NA
+2,18.4,R Bhatia,B Kumar,NA,DB Das,0,0,0,0,NA,NA,NA
+2,18.5,R Bhatia,B Kumar,NA,DB Das,2,0,2,0,NA,NA,NA
+2,18.6,R Bhatia,B Kumar,NA,DB Das,1,0,1,0,NA,NA,NA
+2,19.1,R Bhatia,AD Mathews,NA,DB Das,0,0,0,0,NA,NA,NA
+2,19.2,R Bhatia,AD Mathews,NA,DB Das,2,0,2,0,NA,NA,NA
+2,19.3,R Bhatia,AD Mathews,NA,DB Das,4,0,4,0,NA,NA,NA
+2,19.4,R Bhatia,AD Mathews,NA,DB Das,1,0,1,1,LJ Wright,run out,R Bhatia
+2,19.5,DB Das,AD Mathews,NA,SMSM Senanayake,1,0,1,0,NA,NA,NA
+2,19.6,SMSM Senanayake,AD Mathews,NA,DB Das,2,0,2,0,NA,NA,NA

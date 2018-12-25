@@ -1,0 +1,249 @@
+innings,ball,batsman,bowler,extras,non_striker,batsman_run,extras_run,total_run,wicket,fielders,wicket_kind,player_out
+1,0.1,PA Patel,FH Edwards,NA,ML Hayden,0,0,0,0,NA,NA,NA
+1,0.2,PA Patel,FH Edwards,NA,ML Hayden,0,0,0,1,AC Gilchrist,caught,PA Patel
+1,0.3,SK Raina,FH Edwards,NA,ML Hayden,2,0,2,0,NA,NA,NA
+1,0.4,SK Raina,FH Edwards,NA,ML Hayden,0,0,0,0,NA,NA,NA
+1,0.5,SK Raina,FH Edwards,NA,ML Hayden,0,0,0,0,NA,NA,NA
+1,0.6,SK Raina,FH Edwards,NA,ML Hayden,0,0,0,0,NA,NA,NA
+1,1.1,ML Hayden,RP Singh,NA,SK Raina,0,0,0,0,NA,NA,NA
+1,1.2,ML Hayden,RP Singh,NA,SK Raina,4,0,4,0,NA,NA,NA
+1,1.3,ML Hayden,RP Singh,NA,SK Raina,4,0,4,0,NA,NA,NA
+1,1.4,ML Hayden,RP Singh,NA,SK Raina,1,0,1,0,NA,NA,NA
+1,1.5,SK Raina,RP Singh,NA,ML Hayden,0,0,0,0,NA,NA,NA
+1,1.6,SK Raina,RP Singh,1wides,ML Hayden,0,1,1,0,NA,NA,NA
+1,1.7,SK Raina,RP Singh,NA,ML Hayden,6,0,6,0,NA,NA,NA
+1,2.1,ML Hayden,FH Edwards,NA,SK Raina,0,0,0,0,NA,NA,NA
+1,2.2,ML Hayden,FH Edwards,NA,SK Raina,4,0,4,0,NA,NA,NA
+1,2.3,ML Hayden,FH Edwards,NA,SK Raina,0,0,0,0,NA,NA,NA
+1,2.4,ML Hayden,FH Edwards,NA,SK Raina,4,0,4,0,NA,NA,NA
+1,2.5,ML Hayden,FH Edwards,NA,SK Raina,2,0,2,0,NA,NA,NA
+1,2.6,ML Hayden,FH Edwards,NA,SK Raina,0,0,0,0,NA,NA,NA
+1,3.1,SK Raina,RP Singh,NA,ML Hayden,0,0,0,0,NA,NA,NA
+1,3.2,SK Raina,RP Singh,NA,ML Hayden,1,0,1,0,NA,NA,NA
+1,3.3,ML Hayden,RP Singh,NA,SK Raina,0,0,0,0,NA,NA,NA
+1,3.4,ML Hayden,RP Singh,1noballs,SK Raina,0,1,1,0,NA,NA,NA
+1,3.5,ML Hayden,RP Singh,1wides,SK Raina,0,1,1,0,NA,NA,NA
+1,3.6,ML Hayden,RP Singh,1noballs,SK Raina,1,1,2,0,NA,NA,NA
+1,3.7,SK Raina,RP Singh,NA,ML Hayden,1,0,1,0,NA,NA,NA
+1,3.8,ML Hayden,RP Singh,NA,SK Raina,4,0,4,0,NA,NA,NA
+1,3.9,ML Hayden,RP Singh,NA,SK Raina,0,0,0,0,NA,NA,NA
+1,4.1,SK Raina,DR Smith,NA,ML Hayden,6,0,6,0,NA,NA,NA
+1,4.2,SK Raina,DR Smith,NA,ML Hayden,1,0,1,0,NA,NA,NA
+1,4.3,ML Hayden,DR Smith,NA,SK Raina,4,0,4,0,NA,NA,NA
+1,4.4,ML Hayden,DR Smith,NA,SK Raina,1,0,1,0,NA,NA,NA
+1,4.5,SK Raina,DR Smith,NA,ML Hayden,1,0,1,0,NA,NA,NA
+1,4.6,ML Hayden,DR Smith,NA,SK Raina,4,0,4,0,NA,NA,NA
+1,5.1,SK Raina,Y Venugopal Rao,NA,ML Hayden,4,0,4,0,NA,NA,NA
+1,5.2,SK Raina,Y Venugopal Rao,NA,ML Hayden,1,0,1,0,NA,NA,NA
+1,5.3,ML Hayden,Y Venugopal Rao,NA,SK Raina,0,0,0,0,NA,NA,NA
+1,5.4,ML Hayden,Y Venugopal Rao,NA,SK Raina,1,0,1,0,NA,NA,NA
+1,5.5,SK Raina,Y Venugopal Rao,NA,ML Hayden,1,0,1,0,NA,NA,NA
+1,5.6,ML Hayden,Y Venugopal Rao,NA,SK Raina,0,0,0,0,NA,NA,NA
+1,6.1,SK Raina,RG Sharma,NA,ML Hayden,0,0,0,0,NA,NA,NA
+1,6.2,SK Raina,RG Sharma,NA,ML Hayden,1,0,1,0,NA,NA,NA
+1,6.3,ML Hayden,RG Sharma,NA,SK Raina,1,0,1,0,NA,NA,NA
+1,6.4,SK Raina,RG Sharma,NA,ML Hayden,0,0,0,0,NA,NA,NA
+1,6.5,SK Raina,RG Sharma,NA,ML Hayden,0,0,0,1,NA,caught and bowled,SK Raina
+1,6.6,MS Dhoni,RG Sharma,NA,ML Hayden,1,0,1,0,NA,NA,NA
+1,7.1,MS Dhoni,Y Venugopal Rao,NA,ML Hayden,0,0,0,0,NA,NA,NA
+1,7.2,MS Dhoni,Y Venugopal Rao,NA,ML Hayden,1,0,1,0,NA,NA,NA
+1,7.3,ML Hayden,Y Venugopal Rao,NA,MS Dhoni,1,0,1,0,NA,NA,NA
+1,7.4,MS Dhoni,Y Venugopal Rao,NA,ML Hayden,1,0,1,0,NA,NA,NA
+1,7.5,ML Hayden,Y Venugopal Rao,NA,MS Dhoni,1,0,1,0,NA,NA,NA
+1,7.6,MS Dhoni,Y Venugopal Rao,NA,ML Hayden,0,0,0,0,NA,NA,NA
+1,8.1,ML Hayden,RG Sharma,NA,MS Dhoni,1,0,1,0,NA,NA,NA
+1,8.2,MS Dhoni,RG Sharma,NA,ML Hayden,1,0,1,0,NA,NA,NA
+1,8.3,ML Hayden,RG Sharma,NA,MS Dhoni,4,0,4,0,NA,NA,NA
+1,8.4,ML Hayden,RG Sharma,NA,MS Dhoni,1,0,1,0,NA,NA,NA
+1,8.5,MS Dhoni,RG Sharma,NA,ML Hayden,1,0,1,0,NA,NA,NA
+1,8.6,ML Hayden,RG Sharma,NA,MS Dhoni,0,0,0,0,NA,NA,NA
+1,9.1,MS Dhoni,Y Venugopal Rao,NA,ML Hayden,1,0,1,0,NA,NA,NA
+1,9.2,ML Hayden,Y Venugopal Rao,NA,MS Dhoni,1,0,1,0,NA,NA,NA
+1,9.3,MS Dhoni,Y Venugopal Rao,1wides,ML Hayden,0,1,1,0,NA,NA,NA
+1,9.4,MS Dhoni,Y Venugopal Rao,NA,ML Hayden,6,0,6,0,NA,NA,NA
+1,9.5,MS Dhoni,Y Venugopal Rao,NA,ML Hayden,0,0,0,0,NA,NA,NA
+1,9.6,MS Dhoni,Y Venugopal Rao,NA,ML Hayden,1,0,1,0,NA,NA,NA
+1,9.7,ML Hayden,Y Venugopal Rao,NA,MS Dhoni,1,0,1,0,NA,NA,NA
+1,10.1,ML Hayden,PP Ojha,NA,MS Dhoni,1,0,1,0,NA,NA,NA
+1,10.2,MS Dhoni,PP Ojha,NA,ML Hayden,1,0,1,0,NA,NA,NA
+1,10.3,ML Hayden,PP Ojha,NA,MS Dhoni,1,0,1,0,NA,NA,NA
+1,10.4,MS Dhoni,PP Ojha,NA,ML Hayden,0,0,0,0,NA,NA,NA
+1,10.5,MS Dhoni,PP Ojha,NA,ML Hayden,4,0,4,0,NA,NA,NA
+1,10.6,MS Dhoni,PP Ojha,NA,ML Hayden,1,0,1,0,NA,NA,NA
+1,11.1,MS Dhoni,Shoaib Ahmed,1wides,ML Hayden,0,1,1,0,NA,NA,NA
+1,11.2,MS Dhoni,Shoaib Ahmed,NA,ML Hayden,0,0,0,0,NA,NA,NA
+1,11.3,MS Dhoni,Shoaib Ahmed,NA,ML Hayden,1,0,1,0,NA,NA,NA
+1,11.4,ML Hayden,Shoaib Ahmed,NA,MS Dhoni,1,0,1,0,NA,NA,NA
+1,11.5,MS Dhoni,Shoaib Ahmed,NA,ML Hayden,0,0,0,0,NA,NA,NA
+1,11.6,MS Dhoni,Shoaib Ahmed,NA,ML Hayden,0,0,0,0,NA,NA,NA
+1,11.7,MS Dhoni,Shoaib Ahmed,NA,ML Hayden,1,0,1,0,NA,NA,NA
+1,12.1,MS Dhoni,PP Ojha,NA,ML Hayden,1,0,1,0,NA,NA,NA
+1,12.2,ML Hayden,PP Ojha,NA,MS Dhoni,1,0,1,0,NA,NA,NA
+1,12.3,MS Dhoni,PP Ojha,NA,ML Hayden,0,0,0,1,Shoaib Ahmed,caught,MS Dhoni
+1,12.4,JDP Oram,PP Ojha,NA,ML Hayden,0,0,0,0,NA,NA,NA
+1,12.5,JDP Oram,PP Ojha,NA,ML Hayden,1,0,1,0,NA,NA,NA
+1,12.6,ML Hayden,PP Ojha,NA,JDP Oram,0,0,0,1,RG Sharma,caught,ML Hayden
+1,13.1,JDP Oram,FH Edwards,NA,JA Morkel,0,0,0,0,NA,NA,NA
+1,13.2,JDP Oram,FH Edwards,NA,JA Morkel,0,0,0,0,NA,NA,NA
+1,13.3,JDP Oram,FH Edwards,NA,JA Morkel,2,0,2,0,NA,NA,NA
+1,13.4,JDP Oram,FH Edwards,NA,JA Morkel,0,0,0,0,NA,NA,NA
+1,13.5,JDP Oram,FH Edwards,NA,JA Morkel,1,0,1,0,NA,NA,NA
+1,13.6,JA Morkel,FH Edwards,NA,JDP Oram,0,0,0,0,NA,NA,NA
+1,14.1,JDP Oram,RG Sharma,NA,JA Morkel,1,0,1,0,NA,NA,NA
+1,14.2,JA Morkel,RG Sharma,NA,JDP Oram,1,0,1,0,NA,NA,NA
+1,14.3,JDP Oram,RG Sharma,NA,JA Morkel,4,0,4,0,NA,NA,NA
+1,14.4,JDP Oram,RG Sharma,NA,JA Morkel,0,0,0,0,NA,NA,NA
+1,14.5,JDP Oram,RG Sharma,NA,JA Morkel,0,0,0,0,NA,NA,NA
+1,14.6,JDP Oram,RG Sharma,NA,JA Morkel,1,0,1,0,NA,NA,NA
+1,15.1,JDP Oram,Shoaib Ahmed,NA,JA Morkel,1,0,1,0,NA,NA,NA
+1,15.2,JA Morkel,Shoaib Ahmed,NA,JDP Oram,1,0,1,0,NA,NA,NA
+1,15.3,JDP Oram,Shoaib Ahmed,NA,JA Morkel,0,0,0,0,NA,NA,NA
+1,15.4,JDP Oram,Shoaib Ahmed,NA,JA Morkel,0,0,0,0,NA,NA,NA
+1,15.5,JDP Oram,Shoaib Ahmed,NA,JA Morkel,1,0,1,0,NA,NA,NA
+1,15.6,JA Morkel,Shoaib Ahmed,NA,JDP Oram,4,0,4,0,NA,NA,NA
+1,16.1,JDP Oram,Y Venugopal Rao,NA,JA Morkel,1,0,1,0,NA,NA,NA
+1,16.2,JA Morkel,Y Venugopal Rao,NA,JDP Oram,1,0,1,0,NA,NA,NA
+1,16.3,JDP Oram,Y Venugopal Rao,NA,JA Morkel,1,0,1,0,NA,NA,NA
+1,16.4,JA Morkel,Y Venugopal Rao,NA,JDP Oram,6,0,6,0,NA,NA,NA
+1,16.5,JA Morkel,Y Venugopal Rao,NA,JDP Oram,0,0,0,1,RP Singh,caught,JA Morkel
+1,16.6,S Badrinath,Y Venugopal Rao,NA,JDP Oram,4,0,4,0,NA,NA,NA
+1,17.1,JDP Oram,Shoaib Ahmed,NA,S Badrinath,4,0,4,0,NA,NA,NA
+1,17.2,JDP Oram,Shoaib Ahmed,NA,S Badrinath,6,0,6,0,NA,NA,NA
+1,17.3,JDP Oram,Shoaib Ahmed,NA,S Badrinath,6,0,6,0,NA,NA,NA
+1,17.4,JDP Oram,Shoaib Ahmed,NA,S Badrinath,1,0,1,0,NA,NA,NA
+1,17.5,S Badrinath,Shoaib Ahmed,NA,JDP Oram,2,0,2,0,NA,NA,NA
+1,17.6,S Badrinath,Shoaib Ahmed,NA,JDP Oram,1,0,1,0,NA,NA,NA
+1,18.1,S Badrinath,FH Edwards,NA,JDP Oram,0,0,0,0,NA,NA,NA
+1,18.2,S Badrinath,FH Edwards,NA,JDP Oram,0,0,0,0,NA,NA,NA
+1,18.3,S Badrinath,FH Edwards,NA,JDP Oram,1,0,1,0,NA,NA,NA
+1,18.4,JDP Oram,FH Edwards,NA,S Badrinath,4,0,4,0,NA,NA,NA
+1,18.5,JDP Oram,FH Edwards,NA,S Badrinath,1,0,1,0,NA,NA,NA
+1,18.6,S Badrinath,FH Edwards,NA,JDP Oram,0,0,0,0,NA,NA,NA
+1,19.1,JDP Oram,RP Singh,NA,S Badrinath,4,0,4,0,NA,NA,NA
+1,19.2,JDP Oram,RP Singh,NA,S Badrinath,0,0,0,0,NA,NA,NA
+1,19.3,JDP Oram,RP Singh,1noballs,S Badrinath,0,1,1,0,NA,NA,NA
+1,19.4,JDP Oram,RP Singh,NA,S Badrinath,1,0,1,0,NA,NA,NA
+1,19.5,S Badrinath,RP Singh,NA,JDP Oram,0,0,0,0,NA,NA,NA
+1,19.6,S Badrinath,RP Singh,NA,JDP Oram,0,0,0,1,NA,caught and bowled,S Badrinath
+1,19.7,JDP Oram,RP Singh,NA,MS Gony,0,0,0,0,NA,NA,NA
+2,0.1,AC Gilchrist,L Balaji,NA,HH Gibbs,0,0,0,0,NA,NA,NA
+2,0.2,AC Gilchrist,L Balaji,NA,HH Gibbs,2,0,2,0,NA,NA,NA
+2,0.3,AC Gilchrist,L Balaji,NA,HH Gibbs,4,0,4,0,NA,NA,NA
+2,0.4,AC Gilchrist,L Balaji,NA,HH Gibbs,4,0,4,0,NA,NA,NA
+2,0.5,AC Gilchrist,L Balaji,NA,HH Gibbs,1,0,1,0,NA,NA,NA
+2,0.6,HH Gibbs,L Balaji,NA,AC Gilchrist,0,0,0,0,NA,NA,NA
+2,1.1,AC Gilchrist,MS Gony,NA,HH Gibbs,1,0,1,0,NA,NA,NA
+2,1.2,HH Gibbs,MS Gony,NA,AC Gilchrist,4,0,4,0,NA,NA,NA
+2,1.3,HH Gibbs,MS Gony,NA,AC Gilchrist,0,0,0,0,NA,NA,NA
+2,1.4,HH Gibbs,MS Gony,1wides,AC Gilchrist,0,1,1,0,NA,NA,NA
+2,1.5,HH Gibbs,MS Gony,NA,AC Gilchrist,6,0,6,0,NA,NA,NA
+2,1.6,HH Gibbs,MS Gony,NA,AC Gilchrist,4,0,4,0,NA,NA,NA
+2,1.7,HH Gibbs,MS Gony,NA,AC Gilchrist,4,0,4,0,NA,NA,NA
+2,2.1,AC Gilchrist,L Balaji,NA,HH Gibbs,0,0,0,0,NA,NA,NA
+2,2.2,AC Gilchrist,L Balaji,1wides,HH Gibbs,0,1,1,0,NA,NA,NA
+2,2.3,AC Gilchrist,L Balaji,NA,HH Gibbs,6,0,6,0,NA,NA,NA
+2,2.4,AC Gilchrist,L Balaji,NA,HH Gibbs,4,0,4,0,NA,NA,NA
+2,2.5,AC Gilchrist,L Balaji,NA,HH Gibbs,0,0,0,0,NA,NA,NA
+2,2.6,AC Gilchrist,L Balaji,NA,HH Gibbs,6,0,6,0,NA,NA,NA
+2,2.7,AC Gilchrist,L Balaji,NA,HH Gibbs,0,0,0,0,NA,NA,NA
+2,3.1,HH Gibbs,JA Morkel,NA,AC Gilchrist,0,0,0,0,NA,NA,NA
+2,3.2,HH Gibbs,JA Morkel,NA,AC Gilchrist,1,0,1,0,NA,NA,NA
+2,3.3,AC Gilchrist,JA Morkel,NA,HH Gibbs,4,0,4,0,NA,NA,NA
+2,3.4,AC Gilchrist,JA Morkel,NA,HH Gibbs,6,0,6,0,NA,NA,NA
+2,3.5,AC Gilchrist,JA Morkel,NA,HH Gibbs,1,0,1,0,NA,NA,NA
+2,3.6,HH Gibbs,JA Morkel,NA,AC Gilchrist,0,0,0,0,NA,NA,NA
+2,4.1,AC Gilchrist,M Muralitharan,NA,HH Gibbs,1,0,1,0,NA,NA,NA
+2,4.2,HH Gibbs,M Muralitharan,NA,AC Gilchrist,0,0,0,0,NA,NA,NA
+2,4.3,HH Gibbs,M Muralitharan,NA,AC Gilchrist,0,0,0,0,NA,NA,NA
+2,4.4,HH Gibbs,M Muralitharan,NA,AC Gilchrist,1,0,1,0,NA,NA,NA
+2,4.5,AC Gilchrist,M Muralitharan,NA,HH Gibbs,0,0,0,0,NA,NA,NA
+2,4.6,AC Gilchrist,M Muralitharan,NA,HH Gibbs,4,0,4,0,NA,NA,NA
+2,5.1,HH Gibbs,SK Raina,NA,AC Gilchrist,0,0,0,0,NA,NA,NA
+2,5.2,HH Gibbs,SK Raina,NA,AC Gilchrist,0,0,0,0,NA,NA,NA
+2,5.3,HH Gibbs,SK Raina,NA,AC Gilchrist,1,0,1,0,NA,NA,NA
+2,5.4,AC Gilchrist,SK Raina,NA,HH Gibbs,0,0,0,1,M Muralitharan,caught,AC Gilchrist
+2,5.5,VVS Laxman,SK Raina,NA,HH Gibbs,1,0,1,0,NA,NA,NA
+2,5.6,HH Gibbs,SK Raina,NA,VVS Laxman,1,0,1,0,NA,NA,NA
+2,6.1,HH Gibbs,M Muralitharan,NA,VVS Laxman,1,0,1,0,NA,NA,NA
+2,6.2,VVS Laxman,M Muralitharan,NA,HH Gibbs,1,0,1,0,NA,NA,NA
+2,6.3,HH Gibbs,M Muralitharan,NA,VVS Laxman,1,0,1,0,NA,NA,NA
+2,6.4,VVS Laxman,M Muralitharan,NA,HH Gibbs,1,0,1,0,NA,NA,NA
+2,6.5,HH Gibbs,M Muralitharan,NA,VVS Laxman,0,0,0,0,NA,NA,NA
+2,6.6,HH Gibbs,M Muralitharan,NA,VVS Laxman,0,0,0,0,NA,NA,NA
+2,7.1,VVS Laxman,SK Raina,NA,HH Gibbs,1,0,1,0,NA,NA,NA
+2,7.2,HH Gibbs,SK Raina,NA,VVS Laxman,1,0,1,0,NA,NA,NA
+2,7.3,VVS Laxman,SK Raina,NA,HH Gibbs,0,0,0,1,JDP Oram,caught,VVS Laxman
+2,7.4,RG Sharma,SK Raina,NA,HH Gibbs,0,0,0,0,NA,NA,NA
+2,7.5,RG Sharma,SK Raina,NA,HH Gibbs,0,0,0,0,NA,NA,NA
+2,7.6,RG Sharma,SK Raina,NA,HH Gibbs,0,0,0,0,NA,NA,NA
+2,8.1,HH Gibbs,M Muralitharan,NA,RG Sharma,1,0,1,0,NA,NA,NA
+2,8.2,RG Sharma,M Muralitharan,1wides,HH Gibbs,0,1,1,0,NA,NA,NA
+2,8.3,RG Sharma,M Muralitharan,NA,HH Gibbs,1,0,1,0,NA,NA,NA
+2,8.4,HH Gibbs,M Muralitharan,NA,RG Sharma,0,0,0,0,NA,NA,NA
+2,8.5,HH Gibbs,M Muralitharan,NA,RG Sharma,1,0,1,0,NA,NA,NA
+2,8.6,RG Sharma,M Muralitharan,NA,HH Gibbs,1,0,1,0,NA,NA,NA
+2,8.7,HH Gibbs,M Muralitharan,NA,RG Sharma,0,0,0,0,NA,NA,NA
+2,9.1,RG Sharma,SK Raina,NA,HH Gibbs,1,0,1,0,NA,NA,NA
+2,9.2,HH Gibbs,SK Raina,NA,RG Sharma,2,0,2,0,NA,NA,NA
+2,9.3,HH Gibbs,SK Raina,NA,RG Sharma,0,0,0,0,NA,NA,NA
+2,9.4,HH Gibbs,SK Raina,NA,RG Sharma,1,0,1,0,NA,NA,NA
+2,9.5,RG Sharma,SK Raina,NA,HH Gibbs,0,0,0,0,NA,NA,NA
+2,9.6,RG Sharma,SK Raina,NA,HH Gibbs,1,0,1,0,NA,NA,NA
+2,10.1,RG Sharma,Joginder Sharma,NA,HH Gibbs,1,0,1,0,NA,NA,NA
+2,10.2,HH Gibbs,Joginder Sharma,NA,RG Sharma,4,0,4,0,NA,NA,NA
+2,10.3,HH Gibbs,Joginder Sharma,NA,RG Sharma,1,0,1,0,NA,NA,NA
+2,10.4,RG Sharma,Joginder Sharma,NA,HH Gibbs,6,0,6,0,NA,NA,NA
+2,10.5,RG Sharma,Joginder Sharma,NA,HH Gibbs,1,0,1,0,NA,NA,NA
+2,10.6,HH Gibbs,Joginder Sharma,NA,RG Sharma,1,0,1,0,NA,NA,NA
+2,11.1,HH Gibbs,SK Raina,NA,RG Sharma,0,0,0,0,NA,NA,NA
+2,11.2,HH Gibbs,SK Raina,NA,RG Sharma,1,0,1,0,NA,NA,NA
+2,11.3,RG Sharma,SK Raina,NA,HH Gibbs,1,0,1,0,NA,NA,NA
+2,11.4,HH Gibbs,SK Raina,NA,RG Sharma,4,0,4,0,NA,NA,NA
+2,11.5,HH Gibbs,SK Raina,NA,RG Sharma,1,0,1,0,NA,NA,NA
+2,11.6,RG Sharma,SK Raina,NA,HH Gibbs,1,0,1,0,NA,NA,NA
+2,12.1,RG Sharma,JDP Oram,NA,HH Gibbs,1,0,1,0,NA,NA,NA
+2,12.2,HH Gibbs,JDP Oram,NA,RG Sharma,0,0,0,0,NA,NA,NA
+2,12.3,HH Gibbs,JDP Oram,NA,RG Sharma,1,0,1,0,NA,NA,NA
+2,12.4,RG Sharma,JDP Oram,NA,HH Gibbs,1,0,1,0,NA,NA,NA
+2,12.5,HH Gibbs,JDP Oram,NA,RG Sharma,1,0,1,0,NA,NA,NA
+2,12.6,RG Sharma,JDP Oram,NA,HH Gibbs,2,0,2,0,NA,NA,NA
+2,13.1,HH Gibbs,L Balaji,NA,RG Sharma,1,0,1,0,NA,NA,NA
+2,13.2,RG Sharma,L Balaji,NA,HH Gibbs,0,0,0,0,NA,NA,NA
+2,13.3,RG Sharma,L Balaji,NA,HH Gibbs,0,0,0,0,NA,NA,NA
+2,13.4,RG Sharma,L Balaji,NA,HH Gibbs,0,0,0,1,MS Dhoni,caught,RG Sharma
+2,13.5,DR Smith,L Balaji,NA,HH Gibbs,1,0,1,0,NA,NA,NA
+2,13.6,HH Gibbs,L Balaji,NA,DR Smith,0,0,0,0,NA,NA,NA
+2,14.1,DR Smith,JDP Oram,NA,HH Gibbs,4,0,4,0,NA,NA,NA
+2,14.2,DR Smith,JDP Oram,NA,HH Gibbs,1,0,1,0,NA,NA,NA
+2,14.3,HH Gibbs,JDP Oram,NA,DR Smith,2,0,2,0,NA,NA,NA
+2,14.4,HH Gibbs,JDP Oram,NA,DR Smith,0,0,0,0,NA,NA,NA
+2,14.5,HH Gibbs,JDP Oram,NA,DR Smith,1,0,1,0,NA,NA,NA
+2,14.6,DR Smith,JDP Oram,NA,HH Gibbs,6,0,6,0,NA,NA,NA
+2,15.1,HH Gibbs,M Muralitharan,NA,DR Smith,1,0,1,0,NA,NA,NA
+2,15.2,DR Smith,M Muralitharan,NA,HH Gibbs,0,0,0,1,NA,lbw,DR Smith
+2,15.3,AA Bilakhia,M Muralitharan,NA,HH Gibbs,0,0,0,0,NA,NA,NA
+2,15.4,AA Bilakhia,M Muralitharan,NA,HH Gibbs,0,0,0,0,NA,NA,NA
+2,15.5,AA Bilakhia,M Muralitharan,NA,HH Gibbs,0,0,0,0,NA,NA,NA
+2,15.6,AA Bilakhia,M Muralitharan,NA,HH Gibbs,1,0,1,0,NA,NA,NA
+2,16.1,AA Bilakhia,JA Morkel,NA,HH Gibbs,1,0,1,0,NA,NA,NA
+2,16.2,HH Gibbs,JA Morkel,5noballs,AA Bilakhia,0,5,5,0,NA,NA,NA
+2,16.3,HH Gibbs,JA Morkel,NA,AA Bilakhia,1,0,1,0,NA,NA,NA
+2,16.4,AA Bilakhia,JA Morkel,NA,HH Gibbs,1,0,1,0,NA,NA,NA
+2,16.5,HH Gibbs,JA Morkel,NA,AA Bilakhia,1,0,1,0,NA,NA,NA
+2,16.6,AA Bilakhia,JA Morkel,NA,HH Gibbs,0,0,0,0,NA,NA,NA
+2,16.7,AA Bilakhia,JA Morkel,NA,HH Gibbs,1,0,1,0,NA,NA,NA
+2,17.1,AA Bilakhia,JDP Oram,NA,HH Gibbs,1,0,1,0,NA,NA,NA
+2,17.2,HH Gibbs,JDP Oram,NA,AA Bilakhia,4,0,4,0,NA,NA,NA
+2,17.3,HH Gibbs,JDP Oram,NA,AA Bilakhia,0,0,0,0,NA,NA,NA
+2,17.4,HH Gibbs,JDP Oram,NA,AA Bilakhia,2,0,2,0,NA,NA,NA
+2,17.5,HH Gibbs,JDP Oram,NA,AA Bilakhia,1,0,1,0,NA,NA,NA
+2,17.6,AA Bilakhia,JDP Oram,1legbyes,HH Gibbs,0,1,1,0,NA,NA,NA
+2,18.1,AA Bilakhia,JA Morkel,NA,HH Gibbs,2,0,2,0,NA,NA,NA
+2,18.2,AA Bilakhia,JA Morkel,NA,HH Gibbs,1,0,1,0,NA,NA,NA
+2,18.3,HH Gibbs,JA Morkel,NA,AA Bilakhia,2,0,2,0,NA,NA,NA
+2,18.4,HH Gibbs,JA Morkel,NA,AA Bilakhia,1,0,1,0,NA,NA,NA
+2,18.5,AA Bilakhia,JA Morkel,1legbyes,HH Gibbs,0,1,1,0,NA,NA,NA
+2,18.6,HH Gibbs,JA Morkel,NA,AA Bilakhia,1,0,1,0,NA,NA,NA
+2,19.1,HH Gibbs,L Balaji,NA,AA Bilakhia,6,0,6,0,NA,NA,NA
+2,19.2,HH Gibbs,L Balaji,NA,AA Bilakhia,1,0,1,0,NA,NA,NA
+2,19.3,AA Bilakhia,L Balaji,NA,HH Gibbs,4,0,4,0,NA,NA,NA

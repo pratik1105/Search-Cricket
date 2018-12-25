@@ -1,0 +1,64 @@
+innings,ball,batsman,bowler,extras,non_striker,batsman_run,extras_run,total_run,wicket,fielders,wicket_kind,player_out
+1,0.1,NV Ojha,AC Thomas,NA,DA Warner,1,0,1,0,NA,NA,NA
+1,0.2,DA Warner,AC Thomas,1legbyes,NV Ojha,0,1,1,0,NA,NA,NA
+1,0.3,NV Ojha,AC Thomas,NA,DA Warner,0,0,0,0,NA,NA,NA
+1,0.4,NV Ojha,AC Thomas,NA,DA Warner,0,0,0,0,NA,NA,NA
+1,0.5,NV Ojha,AC Thomas,NA,DA Warner,0,0,0,0,NA,NA,NA
+1,0.6,NV Ojha,AC Thomas,NA,DA Warner,0,0,0,0,NA,NA,NA
+1,1.1,DA Warner,JP Faulkner,1legbyes,NV Ojha,0,1,1,0,NA,NA,NA
+1,1.2,NV Ojha,JP Faulkner,NA,DA Warner,0,0,0,0,NA,NA,NA
+1,1.3,NV Ojha,JP Faulkner,NA,DA Warner,0,0,0,0,NA,NA,NA
+1,1.4,NV Ojha,JP Faulkner,NA,DA Warner,0,0,0,0,NA,NA,NA
+1,1.5,NV Ojha,JP Faulkner,NA,DA Warner,0,0,0,0,NA,NA,NA
+1,1.6,NV Ojha,JP Faulkner,NA,DA Warner,0,0,0,0,NA,NA,NA
+1,2.1,DA Warner,AC Thomas,NA,NV Ojha,0,0,0,0,NA,NA,NA
+1,2.2,DA Warner,AC Thomas,NA,NV Ojha,4,0,4,0,NA,NA,NA
+1,2.3,DA Warner,AC Thomas,NA,NV Ojha,6,0,6,0,NA,NA,NA
+1,2.4,DA Warner,AC Thomas,NA,NV Ojha,1,0,1,0,NA,NA,NA
+1,2.5,NV Ojha,AC Thomas,NA,DA Warner,1,0,1,0,NA,NA,NA
+1,2.6,DA Warner,AC Thomas,NA,NV Ojha,1,0,1,0,NA,NA,NA
+1,3.1,DA Warner,JP Faulkner,NA,NV Ojha,6,0,6,0,NA,NA,NA
+1,3.2,DA Warner,JP Faulkner,NA,NV Ojha,1,0,1,0,NA,NA,NA
+1,3.3,NV Ojha,JP Faulkner,NA,DA Warner,1,0,1,0,NA,NA,NA
+1,3.4,DA Warner,JP Faulkner,NA,NV Ojha,0,0,0,1,NA,bowled,DA Warner
+1,3.5,MS Wade,JP Faulkner,NA,NV Ojha,0,0,0,0,NA,NA,NA
+1,3.6,MS Wade,JP Faulkner,NA,NV Ojha,1,0,1,0,NA,NA,NA
+1,4.1,MS Wade,AC Thomas,1legbyes,NV Ojha,0,1,1,0,NA,NA,NA
+1,4.2,NV Ojha,AC Thomas,NA,MS Wade,0,0,0,0,NA,NA,NA
+1,4.3,NV Ojha,AC Thomas,NA,MS Wade,1,0,1,0,NA,NA,NA
+1,4.4,MS Wade,AC Thomas,NA,NV Ojha,0,0,0,0,NA,NA,NA
+1,4.5,MS Wade,AC Thomas,NA,NV Ojha,0,0,0,0,NA,NA,NA
+1,4.6,MS Wade,AC Thomas,NA,NV Ojha,0,0,0,0,NA,NA,NA
+1,5.1,NV Ojha,SS Mundhe,NA,MS Wade,0,0,0,0,NA,NA,NA
+1,5.2,NV Ojha,SS Mundhe,NA,MS Wade,0,0,0,0,NA,NA,NA
+1,5.3,NV Ojha,SS Mundhe,1wides,MS Wade,0,1,1,0,NA,NA,NA
+1,5.4,NV Ojha,SS Mundhe,NA,MS Wade,0,0,0,0,NA,NA,NA
+1,5.5,NV Ojha,SS Mundhe,NA,MS Wade,4,0,4,0,NA,NA,NA
+1,5.6,NV Ojha,SS Mundhe,NA,MS Wade,0,0,0,1,R Sharma,caught,NV Ojha
+1,5.7,MS Wade,SS Mundhe,NA,CA Ingram,1,0,1,0,NA,NA,NA
+1,6.1,MS Wade,MR Marsh,NA,CA Ingram,1,0,1,0,NA,NA,NA
+1,6.2,CA Ingram,MR Marsh,NA,MS Wade,1,0,1,0,NA,NA,NA
+1,6.3,MS Wade,MR Marsh,NA,CA Ingram,1,0,1,0,NA,NA,NA
+1,6.4,CA Ingram,MR Marsh,NA,MS Wade,1,0,1,0,NA,NA,NA
+1,6.5,MS Wade,MR Marsh,NA,CA Ingram,0,0,0,0,NA,NA,NA
+1,6.6,MS Wade,MR Marsh,NA,CA Ingram,1,0,1,0,NA,NA,NA
+1,7.1,MS Wade,R Sharma,NA,CA Ingram,0,0,0,0,NA,NA,NA
+1,7.2,MS Wade,R Sharma,NA,CA Ingram,0,0,0,0,NA,NA,NA
+1,7.3,MS Wade,R Sharma,NA,CA Ingram,2,0,2,0,NA,NA,NA
+1,7.4,MS Wade,R Sharma,NA,CA Ingram,1,0,1,0,NA,NA,NA
+1,7.5,CA Ingram,R Sharma,NA,MS Wade,1,0,1,0,NA,NA,NA
+1,7.6,MS Wade,R Sharma,NA,CA Ingram,0,0,0,0,NA,NA,NA
+1,8.1,CA Ingram,MR Marsh,NA,MS Wade,1,0,1,0,NA,NA,NA
+1,8.2,MS Wade,MR Marsh,NA,CA Ingram,0,0,0,0,NA,NA,NA
+1,8.3,MS Wade,MR Marsh,NA,CA Ingram,2,0,2,0,NA,NA,NA
+1,8.4,MS Wade,MR Marsh,NA,CA Ingram,1,0,1,0,NA,NA,NA
+1,8.5,CA Ingram,MR Marsh,NA,MS Wade,1,0,1,0,NA,NA,NA
+1,8.6,MS Wade,MR Marsh,NA,CA Ingram,0,0,0,1,NA,bowled,MS Wade
+1,9.1,CA Ingram,Yuvraj Singh,NA,Y Venugopal Rao,0,0,0,0,NA,NA,NA
+1,9.2,CA Ingram,Yuvraj Singh,NA,Y Venugopal Rao,2,0,2,0,NA,NA,NA
+1,9.3,CA Ingram,Yuvraj Singh,NA,Y Venugopal Rao,0,0,0,0,NA,NA,NA
+1,9.4,CA Ingram,Yuvraj Singh,1noballs,Y Venugopal Rao,0,1,1,0,NA,NA,NA
+1,9.5,CA Ingram,Yuvraj Singh,NA,Y Venugopal Rao,4,0,4,0,NA,NA,NA
+1,9.6,CA Ingram,Yuvraj Singh,NA,Y Venugopal Rao,1,0,1,0,NA,NA,NA
+1,9.7,Y Venugopal Rao,Yuvraj Singh,NA,CA Ingram,0,0,0,0,NA,NA,NA
+1,10.1,CA Ingram,MR Marsh,NA,Y Venugopal Rao,1,0,1,0,NA,NA,NA
