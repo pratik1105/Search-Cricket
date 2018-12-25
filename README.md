@@ -4,7 +4,7 @@ The Cricket data is taken from <b>cricsheet.org</b>
 
 # Using the Yaml to Csv converter to convert all files in a directory
 Usage:\
-cd &lt;cloned-github-repo&gt; /Code/\
+cd &lt;cloned-github-repo&gt;/Code/\
 python3 ./AllYamlToCsvData.py <absolute-path-to-base-address-storing-all-yaml-files> <absolute-path-to-output-directory>
 
 # Using the Yaml to Csv converted to convert a particular file
